@@ -1,31 +1,7 @@
-# CI setup for Feed me up, Scotty!
+# 재테크
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+## 콘텐츠
+개미는 뚠뚠5: https://lifecord.github.io/money/kakaotv_ttunttun5.xml  
 
-# Automatically generate feeds
-
-## On GitHub
-
-To automatically generate feeds twice a day on GitHub:
-
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+## 금융뉴스
+디지털데일리 박현영 기자: https://lifecord.github.io/money/hyunddaily.xml  
