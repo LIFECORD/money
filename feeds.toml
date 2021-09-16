@@ -7,3 +7,13 @@ linkSelector = "a.link_contents"
 contentSelector = "span.mark_play"
 imageSelector = "span.thumb_box img.thumb_img"
 waitUntil = "networkidle"
+
+[kakaotv_ttunttun4]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터4"
+url = "https://tv.kakao.com/channel/3815196/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
