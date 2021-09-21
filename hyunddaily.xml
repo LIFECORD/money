@@ -4,9 +4,17 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Sep 2021 23:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 00:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원화마켓 중단 거래소 다수…내 코인 어떻게 처리할까]]></title>
+            <link>https://n.news.naver.com/article/138/0002110590</link>
+            <guid>https://n.news.naver.com/article/138/0002110590</guid>
+            <pubDate>Tue, 21 Sep 2021 00:52:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>24분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/21/2110590.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고팍스 “실명계좌 가능할 것으로 판단”…‘5대 거래소’ 될까]]></title>
             <link>https://n.news.naver.com/article/138/0002110540</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 16 Sep 2021 21:34:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110378.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인 거래소 폐업 공지기한 D-2…테더마켓 등 코인 전용 마켓 신설 ‘속도’]]></title>
-            <link>https://n.news.naver.com/article/138/0002110333</link>
-            <guid>https://n.news.naver.com/article/138/0002110333</guid>
-            <pubDate>Sun, 19 Sep 2021 14:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
