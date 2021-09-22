@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Sep 2021 23:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 00:54:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 SEC위원장 "가상자산 거래소·대출 플랫폼 문제 생길 것" 경고]]></title>
+            <link>https://n.news.naver.com/article/138/0002110602</link>
+            <guid>https://n.news.naver.com/article/138/0002110602</guid>
+            <pubDate>Wed, 22 Sep 2021 00:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>30분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/22/2110602.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원화마켓 중단 거래소 다수…내 코인 어떻게 처리할까]]></title>
             <link>https://n.news.naver.com/article/138/0002110590</link>
             <guid>https://n.news.naver.com/article/138/0002110590</guid>
             <pubDate>Tue, 21 Sep 2021 00:52:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/21/2110590.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 16 Sep 2021 21:34:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110387.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 기반 포인트 통합 플랫폼 밀크, CU 편의점과 제휴]]></title>
-            <link>https://n.news.naver.com/article/138/0002110378</link>
-            <guid>https://n.news.naver.com/article/138/0002110378</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
