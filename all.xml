@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 19:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 20:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/138/0002110602</link>
             <guid>https://n.news.naver.com/article/138/0002110602</guid>
             <pubDate>Wed, 22 Sep 2021 00:54:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/22/2110602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -160,20 +160,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라 리가 '팬 토큰' 나온다…칠리즈, 스페인 1부리그 '라 리가'와 제휴 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110422</link>
-            <guid>https://n.news.naver.com/article/138/0002110422</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110422.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[노웅래 "가상자산 과세 유예, 기재부 허락받을 필요 없어…국회서 처리할 것" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110423</link>
             <guid>https://n.news.naver.com/article/138/0002110423</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110423.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라 리가 '팬 토큰' 나온다…칠리즈, 스페인 1부리그 '라 리가'와 제휴 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110422</link>
+            <guid>https://n.news.naver.com/article/138/0002110422</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오톡 디지털자산 지갑 ‘클립’서 NFT 작품 판매…‘클립드롭스’ 2차전 열린다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
