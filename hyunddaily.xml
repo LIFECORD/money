@@ -4,15 +4,31 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 04:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 05:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특금법 신고 마감날 태도 바꾼 전북은행…‘실명계좌 유력’ 고팍스도 결국 발급 실패]]></title>
+            <link>https://n.news.naver.com/article/138/0002110692</link>
+            <guid>https://n.news.naver.com/article/138/0002110692</guid>
+            <pubDate>Fri, 24 Sep 2021 05:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>29분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110692.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘코인마켓 전용’ 거래소 영업신고 러시…코어닥스‧포블게이트 등 신고 완료]]></title>
+            <link>https://n.news.naver.com/article/138/0002110686</link>
+            <guid>https://n.news.naver.com/article/138/0002110686</guid>
+            <pubDate>Fri, 24 Sep 2021 05:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110686.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘(24일) 가상자산사업자 신고 마감…지닥 등 5개 거래소 추가로 신고 완료]]></title>
             <link>https://n.news.naver.com/article/138/0002110671</link>
             <guid>https://n.news.naver.com/article/138/0002110671</guid>
             <pubDate>Fri, 24 Sep 2021 02:00:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110671.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002110666</link>
             <guid>https://n.news.naver.com/article/138/0002110666</guid>
             <pubDate>Thu, 23 Sep 2021 10:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/23/2110666.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002110650</link>
             <guid>https://n.news.naver.com/article/138/0002110650</guid>
             <pubDate>Thu, 23 Sep 2021 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/23/2110650.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002110647</link>
             <guid>https://n.news.naver.com/article/138/0002110647</guid>
             <pubDate>Thu, 23 Sep 2021 06:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/23/2110647.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/138/0002110644</link>
             <guid>https://n.news.naver.com/article/138/0002110644</guid>
             <pubDate>Thu, 23 Sep 2021 06:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/23/2110644.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 17 Sep 2021 02:06:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110497.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오픈 테크넷 2021] 네이버클라우드 “오픈소스 생태계 선순환에 총력”]]></title>
-            <link>https://n.news.naver.com/article/138/0002110482</link>
-            <guid>https://n.news.naver.com/article/138/0002110482</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110482.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재수첩] 거래소 영업신고, 우려는 현실이 됐다]]></title>
-            <link>https://n.news.naver.com/article/138/0002110462</link>
-            <guid>https://n.news.naver.com/article/138/0002110462</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
