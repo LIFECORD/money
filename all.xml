@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 22:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 23:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,19 +80,11 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[결국 ‘4대 거래소’ 확정…코인시장 규모 커졌지만 플레이어는 확 줄었다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110703</link>
-            <guid>https://n.news.naver.com/article/138/0002110703</guid>
-            <pubDate>Fri, 24 Sep 2021 07:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110703.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우리은행, '우리 WON' 뱅킹 앱에 '우리페이' 도입 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110702</link>
             <guid>https://n.news.naver.com/article/138/0002110702</guid>
             <pubDate>Fri, 24 Sep 2021 07:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110702.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002110701</link>
             <guid>https://n.news.naver.com/article/138/0002110701</guid>
             <pubDate>Fri, 24 Sep 2021 07:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002110692</link>
             <guid>https://n.news.naver.com/article/138/0002110692</guid>
             <pubDate>Fri, 24 Sep 2021 05:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110692.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +108,7 @@
             <link>https://n.news.naver.com/article/138/0002110686</link>
             <guid>https://n.news.naver.com/article/138/0002110686</guid>
             <pubDate>Fri, 24 Sep 2021 05:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110686.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +116,7 @@
             <link>https://n.news.naver.com/article/138/0002110671</link>
             <guid>https://n.news.naver.com/article/138/0002110671</guid>
             <pubDate>Fri, 24 Sep 2021 02:00:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110671.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,6 +150,14 @@
             <pubDate>Thu, 23 Sep 2021 06:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/23/2110644.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 SEC위원장 "가상자산 거래소·대출 플랫폼 문제 생길 것" 경고 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110602</link>
+            <guid>https://n.news.naver.com/article/138/0002110602</guid>
+            <pubDate>Fri, 24 Sep 2021 23:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/22/2110602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원화마켓 중단 거래소 다수…내 코인 어떻게 처리할까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
