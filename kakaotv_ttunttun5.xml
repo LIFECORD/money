@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 07:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 08:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/422455210?act=clip</guid>
             <pubDate>Tue, 21 Sep 2021 08:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:13]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdf3192b86449914b32479157d784720059713478" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdf3192b86449914b32479157d784720059713478" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[멘토들 & MZ 1등까지 입모아 추천! 친환경 산업에 투자하세요]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/422455317?act=clip</guid>
             <pubDate>Tue, 21 Sep 2021 08:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fac98415a3c7e20fc200854ca335a060cf3256822" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fac98415a3c7e20fc200854ca335a060cf3256822" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[2회. MZ인턴 개미’s 첫 출근로그]]></title>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/422471193?act=clip</guid>
             <pubDate>Tue, 21 Sep 2021 08:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>45:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcbe73e4fed97c160fe01b2cec6949532a9bad75e" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcbe73e4fed97c160fe01b2cec6949532a9bad75e" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[진짜가 나타났다! 8주만에 172% 수익률 낸 투자천재 대학생의 등장★]]></title>
