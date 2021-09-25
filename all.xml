@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 10:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 11:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[강경해진 中 "모든 가상자산 거래는 불법"…시장 충격 확산되나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110717</link>
-            <guid>https://n.news.naver.com/article/138/0002110717</guid>
-            <pubDate>Sat, 25 Sep 2021 00:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/25/2110717.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가상자산사업자 42개 최종 영업신고…거래소 29개 살아남았다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110714</link>
             <guid>https://n.news.naver.com/article/138/0002110714</guid>
             <pubDate>Sat, 25 Sep 2021 00:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/25/2110714.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[결국 ‘4대 거래소’ 확정…코인시장 규모 커졌지만 플레이어는 확 줄었다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110703</link>
+            <guid>https://n.news.naver.com/article/138/0002110703</guid>
+            <pubDate>Sat, 25 Sep 2021 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110703.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리은행, '우리 WON' 뱅킹 앱에 '우리페이' 도입 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
