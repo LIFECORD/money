@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 23:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 00:53:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,11 +80,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[주간 블록체인] 코인시장에 영향 준 '헝다'…비트코인 가격, 앞으로도 증시 따라갈까? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110720</link>
+            <guid>https://n.news.naver.com/article/138/0002110720</guid>
+            <pubDate>Sun, 26 Sep 2021 00:53:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/26/2110720.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가상자산사업자 42개 최종 영업신고…거래소 29개 살아남았다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110714</link>
             <guid>https://n.news.naver.com/article/138/0002110714</guid>
             <pubDate>Sat, 25 Sep 2021 00:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/25/2110714.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +132,7 @@
             <link>https://n.news.naver.com/article/138/0002110671</link>
             <guid>https://n.news.naver.com/article/138/0002110671</guid>
             <pubDate>Fri, 24 Sep 2021 02:00:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110671.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +172,7 @@
             <link>https://n.news.naver.com/article/138/0002110602</link>
             <guid>https://n.news.naver.com/article/138/0002110602</guid>
             <pubDate>Fri, 24 Sep 2021 23:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/22/2110602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +180,7 @@
             <link>https://n.news.naver.com/article/138/0002110590</link>
             <guid>https://n.news.naver.com/article/138/0002110590</guid>
             <pubDate>Tue, 21 Sep 2021 00:52:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/21/2110590.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +188,7 @@
             <link>https://n.news.naver.com/article/138/0002110570</link>
             <guid>https://n.news.naver.com/article/138/0002110570</guid>
             <pubDate>Sat, 25 Sep 2021 15:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/19/2110570.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Sep 2021 15:16:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110557.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고팍스 “실명계좌 가능할 것으로 판단”…‘5대 거래소’ 될까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110540</link>
-            <guid>https://n.news.naver.com/article/138/0002110540</guid>
-            <pubDate>Fri, 17 Sep 2021 06:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110540.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
