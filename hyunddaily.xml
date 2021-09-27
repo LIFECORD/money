@@ -4,15 +4,31 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 03:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 04:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상반기 증권사 신규계좌 10건 중 9건은 '비대면']]></title>
+            <link>https://n.news.naver.com/article/138/0002110776</link>
+            <guid>https://n.news.naver.com/article/138/0002110776</guid>
+            <pubDate>Mon, 27 Sep 2021 04:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110776.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK증권 “코인시장 중국발 악재, 시장 영향력 적어”]]></title>
+            <link>https://n.news.naver.com/article/138/0002110773</link>
+            <guid>https://n.news.naver.com/article/138/0002110773</guid>
+            <pubDate>Mon, 27 Sep 2021 04:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110773.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특금법 영업신고 마감…해외 거래소에서 국내로 코인 보낼 수 있나요?]]></title>
             <link>https://n.news.naver.com/article/138/0002110768</link>
             <guid>https://n.news.naver.com/article/138/0002110768</guid>
             <pubDate>Mon, 27 Sep 2021 03:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>52분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110768.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,20 +56,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110703.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리은행, '우리 WON' 뱅킹 앱에 '우리페이' 도입]]></title>
-            <link>https://n.news.naver.com/article/138/0002110702</link>
-            <guid>https://n.news.naver.com/article/138/0002110702</guid>
-            <pubDate>Fri, 24 Sep 2021 07:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110702.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KB금융,  'KB스타터스' 로 혁신 스타트업 16개 선정]]></title>
             <link>https://n.news.naver.com/article/138/0002110701</link>
             <guid>https://n.news.naver.com/article/138/0002110701</guid>
             <pubDate>Fri, 24 Sep 2021 07:15:52 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110701.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리은행, '우리 WON' 뱅킹 앱에 '우리페이' 도입]]></title>
+            <link>https://n.news.naver.com/article/138/0002110702</link>
+            <guid>https://n.news.naver.com/article/138/0002110702</guid>
+            <pubDate>Fri, 24 Sep 2021 07:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110702.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특금법 신고 마감날 태도 바꾼 전북은행…‘실명계좌 유력’ 고팍스도 결국 발급 실패]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 23 Sep 2021 06:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/23/2110644.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 SEC위원장 "가상자산 거래소·대출 플랫폼 문제 생길 것" 경고]]></title>
-            <link>https://n.news.naver.com/article/138/0002110602</link>
-            <guid>https://n.news.naver.com/article/138/0002110602</guid>
-            <pubDate>Fri, 24 Sep 2021 23:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/22/2110602.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원화마켓 중단 거래소 다수…내 코인 어떻게 처리할까]]></title>
-            <link>https://n.news.naver.com/article/138/0002110590</link>
-            <guid>https://n.news.naver.com/article/138/0002110590</guid>
-            <pubDate>Tue, 21 Sep 2021 00:52:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/21/2110590.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
