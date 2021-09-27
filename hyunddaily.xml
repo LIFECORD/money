@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 03:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 03:53:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특금법 영업신고 마감…해외 거래소에서 국내로 코인 보낼 수 있나요?]]></title>
+            <link>https://n.news.naver.com/article/138/0002110768</link>
+            <guid>https://n.news.naver.com/article/138/0002110768</guid>
+            <pubDate>Mon, 27 Sep 2021 03:53:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>52분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110768.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하나카드, '마이데이터 기능 적합성 심사' 통과]]></title>
             <link>https://n.news.naver.com/article/138/0002110749</link>
             <guid>https://n.news.naver.com/article/138/0002110749</guid>
             <pubDate>Mon, 27 Sep 2021 00:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 21 Sep 2021 00:52:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/21/2110590.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] 잘 나가던 솔라나에 제동 건 ‘네트워크 마비’…탈중앙화 논의 재부상]]></title>
-            <link>https://n.news.naver.com/article/138/0002110570</link>
-            <guid>https://n.news.naver.com/article/138/0002110570</guid>
-            <pubDate>Sat, 25 Sep 2021 15:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/19/2110570.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
