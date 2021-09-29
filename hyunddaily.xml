@@ -4,9 +4,17 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 23:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 00:50:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ올리브네트웍스, 티켓 솔루션에 NFT 적용…블로코와 협업]]></title>
+            <link>https://n.news.naver.com/article/138/0002110878</link>
+            <guid>https://n.news.naver.com/article/138/0002110878</guid>
+            <pubDate>Wed, 29 Sep 2021 00:50:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>16분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/29/2110878.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상반기 증권사 신규계좌 10건 중 9건은 '비대면']]></title>
             <link>https://n.news.naver.com/article/138/0002110776</link>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002110749</link>
             <guid>https://n.news.naver.com/article/138/0002110749</guid>
             <pubDate>Mon, 27 Sep 2021 00:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002110714</link>
             <guid>https://n.news.naver.com/article/138/0002110714</guid>
             <pubDate>Sat, 25 Sep 2021 00:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/25/2110714.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002110671</link>
             <guid>https://n.news.naver.com/article/138/0002110671</guid>
             <pubDate>Fri, 24 Sep 2021 02:00:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110671.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 23 Sep 2021 06:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/23/2110647.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘디파이’가 전부는 아냐…안전성 내세운 ‘크립토 금융’이 필요한 이유]]></title>
-            <link>https://n.news.naver.com/article/138/0002110644</link>
-            <guid>https://n.news.naver.com/article/138/0002110644</guid>
-            <pubDate>Thu, 23 Sep 2021 06:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/23/2110644.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
