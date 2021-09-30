@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 05:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 06:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 유명 래퍼 '스눕 독' NFT 나온다…더 샌드박스와 협업]]></title>
+            <link>https://n.news.naver.com/article/138/0002111001</link>
+            <guid>https://n.news.naver.com/article/138/0002111001</guid>
+            <pubDate>Thu, 30 Sep 2021 06:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/30/2111001.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘포스트 특금법’은 이제 시작…과제쌓인 코인 거래소들]]></title>
             <link>https://n.news.naver.com/article/138/0002110989</link>
             <guid>https://n.news.naver.com/article/138/0002110989</guid>
             <pubDate>Thu, 30 Sep 2021 05:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>47분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/30/2110989.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002110963</link>
             <guid>https://n.news.naver.com/article/138/0002110963</guid>
             <pubDate>Thu, 30 Sep 2021 02:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/30/2110963.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002110923</link>
             <guid>https://n.news.naver.com/article/138/0002110923</guid>
             <pubDate>Wed, 29 Sep 2021 07:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/29/2110923.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002110910</link>
             <guid>https://n.news.naver.com/article/138/0002110910</guid>
             <pubDate>Wed, 29 Sep 2021 07:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/29/2110910.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 24 Sep 2021 05:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110692.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘코인마켓 전용’ 거래소 영업신고 러시…코어닥스‧포블게이트 등 신고 완료]]></title>
-            <link>https://n.news.naver.com/article/138/0002110686</link>
-            <guid>https://n.news.naver.com/article/138/0002110686</guid>
-            <pubDate>Fri, 24 Sep 2021 05:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110686.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
