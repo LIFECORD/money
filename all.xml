@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 21:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 22:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,7 +116,7 @@
             <link>https://n.news.naver.com/article/138/0002111078</link>
             <guid>https://n.news.naver.com/article/138/0002111078</guid>
             <pubDate>Fri, 01 Oct 2021 08:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111078.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +124,7 @@
             <link>https://n.news.naver.com/article/138/0002111073</link>
             <guid>https://n.news.naver.com/article/138/0002111073</guid>
             <pubDate>Fri, 01 Oct 2021 08:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://n.news.naver.com/article/138/0002111065</link>
             <guid>https://n.news.naver.com/article/138/0002111065</guid>
             <pubDate>Fri, 01 Oct 2021 08:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,23 +140,15 @@
             <link>https://n.news.naver.com/article/138/0002111057</link>
             <guid>https://n.news.naver.com/article/138/0002111057</guid>
             <pubDate>Fri, 01 Oct 2021 07:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111057.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 “가상자산 과세 유예없다” 입장에…정치권서 비난 쇄도 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111041</link>
-            <guid>https://n.news.naver.com/article/138/0002111041</guid>
-            <pubDate>Fri, 01 Oct 2021 04:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111041.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빗썸·코인원·코빗 합작법인 코드, 포스텍과 손잡고 트래블룰 솔루션 구축 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111027</link>
             <guid>https://n.news.naver.com/article/138/0002111027</guid>
             <pubDate>Fri, 01 Oct 2021 00:55:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,6 +214,14 @@
             <pubDate>Mon, 27 Sep 2021 04:20:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110776.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK증권 “코인시장 중국발 악재, 시장 영향력 적어” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110773</link>
+            <guid>https://n.news.naver.com/article/138/0002110773</guid>
+            <pubDate>Fri, 01 Oct 2021 22:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110773.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특금법 영업신고 마감…해외 거래소에서 국내로 코인 보낼 수 있나요? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
