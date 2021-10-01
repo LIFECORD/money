@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 07:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 08:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,11 +112,35 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[‘거래소마다 제각각’ 상장기준…블록체인협회, 상장 가이드라인 만든다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111078</link>
+            <guid>https://n.news.naver.com/article/138/0002111078</guid>
+            <pubDate>Fri, 01 Oct 2021 08:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>14분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111078.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해시드·디스프레드, '코리아 NFT 로드쇼 2021' 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111073</link>
+            <guid>https://n.news.naver.com/article/138/0002111073</guid>
+            <pubDate>Fri, 01 Oct 2021 08:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>43분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111073.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리플도 NFT에 눈독…2900억원 규모 크리에이터 기금 조성 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111065</link>
+            <guid>https://n.news.naver.com/article/138/0002111065</guid>
+            <pubDate>Fri, 01 Oct 2021 08:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111065.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘신고 거래소’ 중에서도 ‘거래량 0’ 있다…FIU, 코인 거래소에 또 단체메일 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111057</link>
             <guid>https://n.news.naver.com/article/138/0002111057</guid>
             <pubDate>Fri, 01 Oct 2021 07:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>51분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111057.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +148,7 @@
             <link>https://n.news.naver.com/article/138/0002111041</link>
             <guid>https://n.news.naver.com/article/138/0002111041</guid>
             <pubDate>Fri, 01 Oct 2021 04:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111041.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +156,7 @@
             <link>https://n.news.naver.com/article/138/0002111027</link>
             <guid>https://n.news.naver.com/article/138/0002111027</guid>
             <pubDate>Fri, 01 Oct 2021 00:55:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +164,7 @@
             <link>https://n.news.naver.com/article/138/0002111017</link>
             <guid>https://n.news.naver.com/article/138/0002111017</guid>
             <pubDate>Thu, 30 Sep 2021 10:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/30/2111017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -206,30 +230,6 @@
             <pubDate>Mon, 27 Sep 2021 04:20:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110773.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특금법 영업신고 마감…해외 거래소에서 국내로 코인 보낼 수 있나요? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110768</link>
-            <guid>https://n.news.naver.com/article/138/0002110768</guid>
-            <pubDate>Mon, 27 Sep 2021 03:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110768.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하나카드, '마이데이터 기능 적합성 심사' 통과 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110749</link>
-            <guid>https://n.news.naver.com/article/138/0002110749</guid>
-            <pubDate>Mon, 27 Sep 2021 00:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110749.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산사업자 42개 최종 영업신고…거래소 29개 살아남았다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110714</link>
-            <guid>https://n.news.naver.com/article/138/0002110714</guid>
-            <pubDate>Sat, 25 Sep 2021 00:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/25/2110714.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
