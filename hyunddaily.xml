@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 07:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘신고 거래소’ 중에서도 ‘거래량 0’ 있다…FIU, 코인 거래소에 또 단체메일]]></title>
+            <link>https://n.news.naver.com/article/138/0002111057</link>
+            <guid>https://n.news.naver.com/article/138/0002111057</guid>
+            <pubDate>Fri, 01 Oct 2021 07:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>51분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111057.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정부 “가상자산 과세 유예없다” 입장에…정치권서 비난 쇄도]]></title>
             <link>https://n.news.naver.com/article/138/0002111041</link>
             <guid>https://n.news.naver.com/article/138/0002111041</guid>
             <pubDate>Fri, 01 Oct 2021 04:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111041.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002111027</link>
             <guid>https://n.news.naver.com/article/138/0002111027</guid>
             <pubDate>Fri, 01 Oct 2021 00:55:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111017</link>
             <guid>https://n.news.naver.com/article/138/0002111017</guid>
             <pubDate>Thu, 30 Sep 2021 10:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/30/2111017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/138/0002110923</link>
             <guid>https://n.news.naver.com/article/138/0002110923</guid>
             <pubDate>Wed, 29 Sep 2021 07:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/29/2110923.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 25 Sep 2021 00:51:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/25/2110714.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결국 ‘4대 거래소’ 확정…코인시장 규모 커졌지만 플레이어는 확 줄었다]]></title>
-            <link>https://n.news.naver.com/article/138/0002110703</link>
-            <guid>https://n.news.naver.com/article/138/0002110703</guid>
-            <pubDate>Sun, 26 Sep 2021 06:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/24/2110703.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
