@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 15:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 16:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리플도 NFT에 눈독…2900억원 규모 크리에이터 기금 조성 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111065</link>
-            <guid>https://n.news.naver.com/article/138/0002111065</guid>
-            <pubDate>Fri, 01 Oct 2021 08:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111065.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘신고 거래소’ 중에서도 ‘거래량 0’ 있다…FIU, 코인 거래소에 또 단체메일 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111057</link>
             <guid>https://n.news.naver.com/article/138/0002111057</guid>
@@ -230,6 +222,14 @@
             <pubDate>Fri, 01 Oct 2021 15:16:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110768.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하나카드, '마이데이터 기능 적합성 심사' 통과 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110749</link>
+            <guid>https://n.news.naver.com/article/138/0002110749</guid>
+            <pubDate>Sat, 02 Oct 2021 16:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
