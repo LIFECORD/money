@@ -4,17 +4,9 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 05:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 06:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[주간 블록체인] 가상자산 업계 ‘탈 중국’ 가속화…중국이 빠진 시장의 미래는?]]></title>
-            <link>https://n.news.naver.com/article/138/0002111096</link>
-            <guid>https://n.news.naver.com/article/138/0002111096</guid>
-            <pubDate>Sun, 03 Oct 2021 00:57:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/03/2111096.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[‘거래소마다 제각각’ 상장기준…블록체인협회, 상장 가이드라인 만든다]]></title>
             <link>https://n.news.naver.com/article/138/0002111078</link>
@@ -30,6 +22,14 @@
             <pubDate>Fri, 01 Oct 2021 08:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111073.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리플도 NFT에 눈독…2900억원 규모 크리에이터 기금 조성]]></title>
+            <link>https://n.news.naver.com/article/138/0002111065</link>
+            <guid>https://n.news.naver.com/article/138/0002111065</guid>
+            <pubDate>Sun, 03 Oct 2021 06:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘신고 거래소’ 중에서도 ‘거래량 0’ 있다…FIU, 코인 거래소에 또 단체메일]]></title>
@@ -60,7 +60,7 @@
             <link>https://n.news.naver.com/article/138/0002111001</link>
             <guid>https://n.news.naver.com/article/138/0002111001</guid>
             <pubDate>Thu, 30 Sep 2021 06:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/30/2111001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002110910</link>
             <guid>https://n.news.naver.com/article/138/0002110910</guid>
             <pubDate>Wed, 29 Sep 2021 07:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/29/2110910.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
