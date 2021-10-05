@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 00:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 02:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,22 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[람다256, 트래블룰 솔루션 '베리파이바스프' 국내 공개…업비트·한빗코 참여 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111134</link>
+            <guid>https://n.news.naver.com/article/138/0002111134</guid>
+            <pubDate>Tue, 05 Oct 2021 02:00:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>49분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111134.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼송빵집 ‘마약옥수수빵’, 블록체인 기반으로 원산지 관리한다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111131</link>
+            <guid>https://n.news.naver.com/article/138/0002111131</guid>
+            <pubDate>Tue, 05 Oct 2021 02:00:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>51분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111131.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘거래소마다 제각각’ 상장기준…블록체인협회, 상장 가이드라인 만든다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111078</link>
             <guid>https://n.news.naver.com/article/138/0002111078</guid>
@@ -148,7 +164,7 @@
             <link>https://n.news.naver.com/article/138/0002111027</link>
             <guid>https://n.news.naver.com/article/138/0002111027</guid>
             <pubDate>Fri, 01 Oct 2021 00:55:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +196,7 @@
             <link>https://n.news.naver.com/article/138/0002110963</link>
             <guid>https://n.news.naver.com/article/138/0002110963</guid>
             <pubDate>Thu, 30 Sep 2021 02:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/30/2110963.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -204,7 +220,7 @@
             <link>https://n.news.naver.com/article/138/0002110878</link>
             <guid>https://n.news.naver.com/article/138/0002110878</guid>
             <pubDate>Wed, 29 Sep 2021 00:50:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/29/2110878.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,22 +230,6 @@
             <pubDate>Mon, 27 Sep 2021 04:20:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110776.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK증권 “코인시장 중국발 악재, 시장 영향력 적어” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110773</link>
-            <guid>https://n.news.naver.com/article/138/0002110773</guid>
-            <pubDate>Fri, 01 Oct 2021 22:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110773.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특금법 영업신고 마감…해외 거래소에서 국내로 코인 보낼 수 있나요? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110768</link>
-            <guid>https://n.news.naver.com/article/138/0002110768</guid>
-            <pubDate>Fri, 01 Oct 2021 15:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110768.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
