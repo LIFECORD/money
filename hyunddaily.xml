@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 03:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 04:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['공식 출범' 토스뱅크, "가상자산 거래소와 제휴 계획은 없어"]]></title>
+            <link>https://n.news.naver.com/article/138/0002111150</link>
+            <guid>https://n.news.naver.com/article/138/0002111150</guid>
+            <pubDate>Tue, 05 Oct 2021 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111150.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[람다256, 트래블룰 솔루션 '베리파이바스프' 국내 공개…업비트·한빗코 참여]]></title>
             <link>https://n.news.naver.com/article/138/0002111134</link>
             <guid>https://n.news.naver.com/article/138/0002111134</guid>
             <pubDate>Tue, 05 Oct 2021 02:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111134.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002111131</link>
             <guid>https://n.news.naver.com/article/138/0002111131</guid>
             <pubDate>Tue, 05 Oct 2021 02:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111131.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 29 Sep 2021 00:50:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/29/2110878.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 증권사 신규계좌 10건 중 9건은 '비대면']]></title>
-            <link>https://n.news.naver.com/article/138/0002110776</link>
-            <guid>https://n.news.naver.com/article/138/0002110776</guid>
-            <pubDate>Mon, 27 Sep 2021 04:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/27/2110776.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
