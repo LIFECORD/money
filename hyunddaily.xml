@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 06:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 07:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국감2021] 업비트 ‘잡코인 상장’에 쏠린 눈…독점 원인 지목, 타당할까]]></title>
+            <link>https://n.news.naver.com/article/138/0002111255</link>
+            <guid>https://n.news.naver.com/article/138/0002111255</guid>
+            <pubDate>Wed, 06 Oct 2021 07:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>32분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111255.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국감2021] “인터넷전문은행, 정말 혁신이냐”…토스뱅크 출범과 동시에 제기된 비판]]></title>
             <link>https://n.news.naver.com/article/138/0002111243</link>
             <guid>https://n.news.naver.com/article/138/0002111243</guid>
             <pubDate>Wed, 06 Oct 2021 06:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>46분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111243.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002111235</link>
             <guid>https://n.news.naver.com/article/138/0002111235</guid>
             <pubDate>Wed, 06 Oct 2021 03:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111235.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111224</link>
             <guid>https://n.news.naver.com/article/138/0002111224</guid>
             <pubDate>Wed, 06 Oct 2021 03:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111224.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002111213</link>
             <guid>https://n.news.naver.com/article/138/0002111213</guid>
             <pubDate>Wed, 06 Oct 2021 02:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111213.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002111204</link>
             <guid>https://n.news.naver.com/article/138/0002111204</guid>
             <pubDate>Tue, 05 Oct 2021 11:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/138/0002111184</link>
             <guid>https://n.news.naver.com/article/138/0002111184</guid>
             <pubDate>Tue, 05 Oct 2021 08:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111184.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 03 Oct 2021 06:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111065.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘신고 거래소’ 중에서도 ‘거래량 0’ 있다…FIU, 코인 거래소에 또 단체메일]]></title>
-            <link>https://n.news.naver.com/article/138/0002111057</link>
-            <guid>https://n.news.naver.com/article/138/0002111057</guid>
-            <pubDate>Fri, 01 Oct 2021 07:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111057.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
