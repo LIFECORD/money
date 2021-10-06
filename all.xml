@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 02:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 03:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,11 +144,27 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[국감2021] ‘가상자산 과세’ 앞에 타협 없는 홍남기…“무조건 원래대로” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111235</link>
+            <guid>https://n.news.naver.com/article/138/0002111235</guid>
+            <pubDate>Wed, 06 Oct 2021 03:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>51분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111235.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘(6일)부터 ‘신분증 인증’해야 업비트 쓴다…투자자 폭주에 한때 접속장애 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111224</link>
+            <guid>https://n.news.naver.com/article/138/0002111224</guid>
+            <pubDate>Wed, 06 Oct 2021 03:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111224.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코오롱베니트, '솔루션 데이 2021' 컨퍼런스 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111213</link>
             <guid>https://n.news.naver.com/article/138/0002111213</guid>
             <pubDate>Wed, 06 Oct 2021 02:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>39분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111213.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +172,7 @@
             <link>https://n.news.naver.com/article/138/0002111204</link>
             <guid>https://n.news.naver.com/article/138/0002111204</guid>
             <pubDate>Tue, 05 Oct 2021 11:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +180,7 @@
             <link>https://n.news.naver.com/article/138/0002111184</link>
             <guid>https://n.news.naver.com/article/138/0002111184</guid>
             <pubDate>Tue, 05 Oct 2021 08:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111184.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +188,7 @@
             <link>https://n.news.naver.com/article/138/0002111179</link>
             <guid>https://n.news.naver.com/article/138/0002111179</guid>
             <pubDate>Tue, 05 Oct 2021 08:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111179.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +196,7 @@
             <link>https://n.news.naver.com/article/138/0002111167</link>
             <guid>https://n.news.naver.com/article/138/0002111167</guid>
             <pubDate>Tue, 05 Oct 2021 06:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111167.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +204,7 @@
             <link>https://n.news.naver.com/article/138/0002111150</link>
             <guid>https://n.news.naver.com/article/138/0002111150</guid>
             <pubDate>Tue, 05 Oct 2021 04:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111150.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,22 +262,6 @@
             <pubDate>Fri, 01 Oct 2021 00:55:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/01/2111027.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이월드 속 간편결제 서비스 '싸이페이' 생긴다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111017</link>
-            <guid>https://n.news.naver.com/article/138/0002111017</guid>
-            <pubDate>Thu, 30 Sep 2021 10:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/30/2111017.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 유명 래퍼 '스눕 독' NFT 나온다…더 샌드박스와 협업 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111001</link>
-            <guid>https://n.news.naver.com/article/138/0002111001</guid>
-            <pubDate>Thu, 30 Sep 2021 06:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/30/2111001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
