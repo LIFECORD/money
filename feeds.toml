@@ -1,3 +1,47 @@
+[kakaotv_ttunttun]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠"
+url = "https://tv.kakao.com/channel/3647847/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[kakaotv_ttunttun2]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2"
+url = "https://tv.kakao.com/channel/3717609/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[kakaotv_ttunttun3]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터3"
+url = "https://tv.kakao.com/channel/3765289/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[kakaotv_ttunttun4]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터4"
+url = "https://tv.kakao.com/channel/3815196/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [kakaotv_ttunttun5]
 title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5"
 url = "https://tv.kakao.com/channel/3875615/video"
@@ -7,6 +51,29 @@ linkSelector = "a.link_contents"
 contentSelector = "span.mark_play"
 imageSelector = "span.thumb_box img.thumb_img"
 waitUntil = "networkidle"
+onFail = "stale"
+
+[kakaotv_ttunttun5]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5"
+url = "https://tv.kakao.com/channel/3875615/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[kakaotv_ttunttun5]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5"
+url = "https://tv.kakao.com/channel/3875615/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
 
 [hyunddaily]
 title = "디지털데일리 박현영 기자 ─ 네이버 뉴스"
