@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 00:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 02:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1368,11 +1368,27 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[한국판 크립토펑크 ‘탈’ 등장…엔젤리그, NFT 시장 진출 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111365</link>
+            <guid>https://n.news.naver.com/article/138/0002111365</guid>
+            <pubDate>Fri, 08 Oct 2021 02:06:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>49분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111365.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈중앙화자율조직(DAO), 조직의 미래가 될까?…헥슬란트, DAO 보고서 발간 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111361</link>
+            <guid>https://n.news.naver.com/article/138/0002111361</guid>
+            <pubDate>Fri, 08 Oct 2021 02:06:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>54분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111361.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[국감2021] 국감 이슈 된 NFT…금감원장 “규제방안 논의 중” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111345</link>
             <guid>https://n.news.naver.com/article/138/0002111345</guid>
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111345.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1380,7 +1396,7 @@
             <link>https://n.news.naver.com/article/138/0002111335</link>
             <guid>https://n.news.naver.com/article/138/0002111335</guid>
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111335.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1388,7 +1404,7 @@
             <link>https://n.news.naver.com/article/138/0002111334</link>
             <guid>https://n.news.naver.com/article/138/0002111334</guid>
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1396,7 +1412,7 @@
             <link>https://n.news.naver.com/article/138/0002111301</link>
             <guid>https://n.news.naver.com/article/138/0002111301</guid>
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111301.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1404,7 +1420,7 @@
             <link>https://n.news.naver.com/article/138/0002111298</link>
             <guid>https://n.news.naver.com/article/138/0002111298</guid>
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111298.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1412,7 +1428,7 @@
             <link>https://n.news.naver.com/article/138/0002111289</link>
             <guid>https://n.news.naver.com/article/138/0002111289</guid>
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111289.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1452,7 +1468,7 @@
             <link>https://n.news.naver.com/article/138/0002111224</link>
             <guid>https://n.news.naver.com/article/138/0002111224</guid>
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111224.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1470,22 +1486,6 @@
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111204.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핑거, 금융 메타버스 플랫폼 '독도버스' 구축 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111184</link>
-            <guid>https://n.news.naver.com/article/138/0002111184</guid>
-            <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111184.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 거래소 독과점은 ‘상장 심사’ 때문? 과연 그럴까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111179</link>
-            <guid>https://n.news.naver.com/article/138/0002111179</guid>
-            <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/05/2111179.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
