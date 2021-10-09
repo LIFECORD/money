@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 23:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 00:51:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PLAY IT] 카드에 카드번호가 없다고?…‘힙한 은행’ 토스뱅크 써보니]]></title>
+            <link>https://n.news.naver.com/article/138/0002111405</link>
+            <guid>https://n.news.naver.com/article/138/0002111405</guid>
+            <pubDate>Sat, 09 Oct 2021 00:51:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/09/2111405.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국감2021] 양기대 의원, 블록체인 기반 온라인 투표 시스템 제안]]></title>
             <link>https://n.news.naver.com/article/138/0002111401</link>
             <guid>https://n.news.naver.com/article/138/0002111401</guid>
             <pubDate>Fri, 08 Oct 2021 10:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111401.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002111389</link>
             <guid>https://n.news.naver.com/article/138/0002111389</guid>
             <pubDate>Fri, 08 Oct 2021 07:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111389.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111373</link>
             <guid>https://n.news.naver.com/article/138/0002111373</guid>
             <pubDate>Fri, 08 Oct 2021 03:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111373.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002111365</link>
             <guid>https://n.news.naver.com/article/138/0002111365</guid>
             <pubDate>Fri, 08 Oct 2021 02:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111365.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002111361</link>
             <guid>https://n.news.naver.com/article/138/0002111361</guid>
             <pubDate>Fri, 08 Oct 2021 02:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 07 Oct 2021 04:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111243.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감2021] ‘가상자산 과세’ 앞에 타협 없는 홍남기…“무조건 원래대로”]]></title>
-            <link>https://n.news.naver.com/article/138/0002111235</link>
-            <guid>https://n.news.naver.com/article/138/0002111235</guid>
-            <pubDate>Thu, 07 Oct 2021 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111235.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
