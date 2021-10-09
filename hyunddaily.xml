@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 15:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 16:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111266.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[국감2021] 업비트 ‘잡코인 상장’에 쏠린 눈…독점 원인 지목, 타당할까]]></title>
-            <link>https://n.news.naver.com/article/138/0002111255</link>
-            <guid>https://n.news.naver.com/article/138/0002111255</guid>
-            <pubDate>Sat, 09 Oct 2021 14:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111255.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[국감2021] “인터넷전문은행, 정말 혁신이냐”…토스뱅크 출범과 동시에 제기된 비판]]></title>
             <link>https://n.news.naver.com/article/138/0002111243</link>
             <guid>https://n.news.naver.com/article/138/0002111243</guid>
             <pubDate>Thu, 07 Oct 2021 04:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111243.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국감2021] ‘가상자산 과세’ 앞에 타협 없는 홍남기…“무조건 원래대로”]]></title>
+            <link>https://n.news.naver.com/article/138/0002111235</link>
+            <guid>https://n.news.naver.com/article/138/0002111235</guid>
+            <pubDate>Sat, 09 Oct 2021 16:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111235.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
