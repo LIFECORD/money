@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 05:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 06:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1368,11 +1368,27 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[가상자산 '과세 유예' 움직임 활발…조명희 의원, 세법 개정안 발의 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111497</link>
+            <guid>https://n.news.naver.com/article/138/0002111497</guid>
+            <pubDate>Tue, 12 Oct 2021 06:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111497.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코인원, 의심거래 감독하는 자금세탁방지(AML) 센터 신설 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111489</link>
+            <guid>https://n.news.naver.com/article/138/0002111489</guid>
+            <pubDate>Tue, 12 Oct 2021 06:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>45분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111489.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빗썸, 강남에 대형 고객지원센터 오픈…온‧오프라인 센터 통합 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111462</link>
             <guid>https://n.news.naver.com/article/138/0002111462</guid>
             <pubDate>Tue, 12 Oct 2021 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1380,7 +1396,7 @@
             <link>https://n.news.naver.com/article/138/0002111461</link>
             <guid>https://n.news.naver.com/article/138/0002111461</guid>
             <pubDate>Tue, 12 Oct 2021 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1470,22 +1486,6 @@
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111298.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KB페이로 교통카드 찍는다…KB국민카드, 생활 편의 서비스 강화 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111289</link>
-            <guid>https://n.news.naver.com/article/138/0002111289</guid>
-            <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111289.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 증권가도 'Play to Earn' 열풍 주목…관련 상장사는? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111271</link>
-            <guid>https://n.news.naver.com/article/138/0002111271</guid>
-            <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/06/2111271.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
