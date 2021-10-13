@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 00:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 02:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1400,11 +1400,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[업비트 자료 제출 요구에 ‘코인 정리’ 공포 확산…업비트 “정기 점검일뿐" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111530</link>
+            <guid>https://n.news.naver.com/article/138/0002111530</guid>
+            <pubDate>Wed, 13 Oct 2021 02:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>49분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111530.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[법인의 가상자산 투자, 특금법 영업신고 이후 더 어려워졌다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111501</link>
             <guid>https://n.news.naver.com/article/138/0002111501</guid>
             <pubDate>Tue, 12 Oct 2021 08:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1412,7 +1420,7 @@
             <link>https://n.news.naver.com/article/138/0002111497</link>
             <guid>https://n.news.naver.com/article/138/0002111497</guid>
             <pubDate>Tue, 12 Oct 2021 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111497.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1420,7 +1428,7 @@
             <link>https://n.news.naver.com/article/138/0002111489</link>
             <guid>https://n.news.naver.com/article/138/0002111489</guid>
             <pubDate>Tue, 12 Oct 2021 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111489.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1428,7 +1436,7 @@
             <link>https://n.news.naver.com/article/138/0002111462</link>
             <guid>https://n.news.naver.com/article/138/0002111462</guid>
             <pubDate>Tue, 12 Oct 2021 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1436,7 +1444,7 @@
             <link>https://n.news.naver.com/article/138/0002111461</link>
             <guid>https://n.news.naver.com/article/138/0002111461</guid>
             <pubDate>Tue, 12 Oct 2021 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1468,7 +1476,7 @@
             <link>https://n.news.naver.com/article/138/0002111365</link>
             <guid>https://n.news.naver.com/article/138/0002111365</guid>
             <pubDate>Fri, 08 Oct 2021 02:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111365.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1476,7 +1484,7 @@
             <link>https://n.news.naver.com/article/138/0002111361</link>
             <guid>https://n.news.naver.com/article/138/0002111361</guid>
             <pubDate>Fri, 08 Oct 2021 02:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1510,14 +1518,6 @@
             <pubDate>Thu, 07 Oct 2021 16:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111301.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재수첩] 국감서 다룬 코인 거래소 ‘깜깜이 상장’, 그런데 뭔가 이상하다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111298</link>
-            <guid>https://n.news.naver.com/article/138/0002111298</guid>
-            <pubDate>Tue, 12 Oct 2021 16:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111298.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
