@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 10:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 11:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1412,7 +1412,7 @@
             <link>https://n.news.naver.com/article/138/0002111567</link>
             <guid>https://n.news.naver.com/article/138/0002111567</guid>
             <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111567.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1420,7 +1420,7 @@
             <link>https://n.news.naver.com/article/138/0002111565</link>
             <guid>https://n.news.naver.com/article/138/0002111565</guid>
             <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111565.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1428,16 +1428,8 @@
             <link>https://n.news.naver.com/article/138/0002111557</link>
             <guid>https://n.news.naver.com/article/138/0002111557</guid>
             <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111557.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트 자료 제출 요구에 ‘코인 정리’ 공포 확산…업비트 “정기 점검일뿐" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111530</link>
-            <guid>https://n.news.naver.com/article/138/0002111530</guid>
-            <pubDate>Wed, 13 Oct 2021 02:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111530.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법인의 가상자산 투자, 특금법 영업신고 이후 더 어려워졌다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1478,6 +1470,14 @@
             <pubDate>Tue, 12 Oct 2021 03:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111461.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] 과세부터 거래소 독점, NFT까지…국감 속 '가상자산' 총정리 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111409</link>
+            <guid>https://n.news.naver.com/article/138/0002111409</guid>
+            <pubDate>Wed, 13 Oct 2021 11:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/10/2111409.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[국감2021] 양기대 의원, 블록체인 기반 온라인 투표 시스템 제안 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
