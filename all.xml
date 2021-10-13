@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 09:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 10:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1237,7 +1237,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423022428?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 08:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F747f51aeb48b68785b5e41dcdb16da96a7daa382" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F747f51aeb48b68785b5e41dcdb16da96a7daa382" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[펀드 전문가 슈카의 어렵고 긴 펀드 이름 읽기 특강 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -1245,7 +1245,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423022316?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 08:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6b1d62c0b5290eb2d32c30f662ef67b0f0e63a67" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6b1d62c0b5290eb2d32c30f662ef67b0f0e63a67" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[결국 섹터를 선택한 건 바로 나! 펀드 매니저만을 탓할 수 없는 이유 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -1253,7 +1253,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423022185?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 08:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:26]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdb65f3c07d0c54918e189549dfbcf61f225faff6" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdb65f3c07d0c54918e189549dfbcf61f225faff6" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5회. 불지옥에서 돌아온 단타야수의 귀환 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -1404,7 +1404,7 @@
             <link>https://n.news.naver.com/article/138/0002111579</link>
             <guid>https://n.news.naver.com/article/138/0002111579</guid>
             <pubDate>Wed, 13 Oct 2021 09:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>57분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111579.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1412,7 +1412,7 @@
             <link>https://n.news.naver.com/article/138/0002111567</link>
             <guid>https://n.news.naver.com/article/138/0002111567</guid>
             <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111567.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1420,7 +1420,7 @@
             <link>https://n.news.naver.com/article/138/0002111565</link>
             <guid>https://n.news.naver.com/article/138/0002111565</guid>
             <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111565.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1428,7 +1428,7 @@
             <link>https://n.news.naver.com/article/138/0002111557</link>
             <guid>https://n.news.naver.com/article/138/0002111557</guid>
             <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111557.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1436,7 +1436,7 @@
             <link>https://n.news.naver.com/article/138/0002111530</link>
             <guid>https://n.news.naver.com/article/138/0002111530</guid>
             <pubDate>Wed, 13 Oct 2021 02:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111530.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
