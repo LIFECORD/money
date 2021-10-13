@@ -4,15 +4,39 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 06:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 07:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블록체인 DID에 힘 쏟는 신한은행…삼성SDS·SKT와 협업]]></title>
+            <link>https://n.news.naver.com/article/138/0002111567</link>
+            <guid>https://n.news.naver.com/article/138/0002111567</guid>
+            <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111567.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DD’s톡] NFT 플랫폼 덕에 주가 급등한 갤럭시아머니트리, 추가 상승 여력은?]]></title>
+            <link>https://n.news.naver.com/article/138/0002111565</link>
+            <guid>https://n.news.naver.com/article/138/0002111565</guid>
+            <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>13분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111565.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오토데스크 "제조업 혁신 위한 디지털 트윈 가속화 지원"]]></title>
+            <link>https://n.news.naver.com/article/138/0002111557</link>
+            <guid>https://n.news.naver.com/article/138/0002111557</guid>
+            <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111557.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업비트 자료 제출 요구에 ‘코인 정리’ 공포 확산…업비트 “정기 점검일뿐"]]></title>
             <link>https://n.news.naver.com/article/138/0002111530</link>
             <guid>https://n.news.naver.com/article/138/0002111530</guid>
             <pubDate>Wed, 13 Oct 2021 02:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111530.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002111501</link>
             <guid>https://n.news.naver.com/article/138/0002111501</guid>
             <pubDate>Tue, 12 Oct 2021 08:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002111497</link>
             <guid>https://n.news.naver.com/article/138/0002111497</guid>
             <pubDate>Tue, 12 Oct 2021 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111497.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/138/0002111489</link>
             <guid>https://n.news.naver.com/article/138/0002111489</guid>
             <pubDate>Tue, 12 Oct 2021 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111489.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002111389</link>
             <guid>https://n.news.naver.com/article/138/0002111389</guid>
             <pubDate>Fri, 08 Oct 2021 07:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111389.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -102,30 +126,6 @@
             <pubDate>Thu, 07 Oct 2021 11:14:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111345.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NH농협은행, 마이데이터 서비스 기능 적합성심사 통과]]></title>
-            <link>https://n.news.naver.com/article/138/0002111335</link>
-            <guid>https://n.news.naver.com/article/138/0002111335</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111335.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNK금융그룹, MZ세대 직원 모아 '미래혁신유닛' 발족]]></title>
-            <link>https://n.news.naver.com/article/138/0002111334</link>
-            <guid>https://n.news.naver.com/article/138/0002111334</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111334.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대출 비교 플랫폼 '핀다', 앱 다운로드 수 100만 돌파]]></title>
-            <link>https://n.news.naver.com/article/138/0002111301</link>
-            <guid>https://n.news.naver.com/article/138/0002111301</guid>
-            <pubDate>Thu, 07 Oct 2021 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/07/2111301.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
