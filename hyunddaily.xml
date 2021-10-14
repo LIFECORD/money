@@ -4,15 +4,31 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 09:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 10:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네돌 맞는 고팍스 “회원수 80만명, 누적거래액 36조원 달성”]]></title>
+            <link>https://n.news.naver.com/article/138/0002111674</link>
+            <guid>https://n.news.naver.com/article/138/0002111674</guid>
+            <pubDate>Thu, 14 Oct 2021 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>49분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111674.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["비트코인 채굴시장 주도권, 미국으로 넘어갔다"]]></title>
+            <link>https://n.news.naver.com/article/138/0002111666</link>
+            <guid>https://n.news.naver.com/article/138/0002111666</guid>
+            <pubDate>Thu, 14 Oct 2021 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111666.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘센터 설립’으로 이미지 쇄신 나선 가상자산 거래소들]]></title>
             <link>https://n.news.naver.com/article/138/0002111647</link>
             <guid>https://n.news.naver.com/article/138/0002111647</guid>
             <pubDate>Thu, 14 Oct 2021 07:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111647.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111613</link>
             <guid>https://n.news.naver.com/article/138/0002111613</guid>
             <pubDate>Thu, 14 Oct 2021 04:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002111605</link>
             <guid>https://n.news.naver.com/article/138/0002111605</guid>
             <pubDate>Thu, 14 Oct 2021 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111605.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002111600</link>
             <guid>https://n.news.naver.com/article/138/0002111600</guid>
             <pubDate>Thu, 14 Oct 2021 02:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111600.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 12 Oct 2021 03:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111461.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] 과세부터 거래소 독점, NFT까지…국감 속 '가상자산' 총정리]]></title>
-            <link>https://n.news.naver.com/article/138/0002111409</link>
-            <guid>https://n.news.naver.com/article/138/0002111409</guid>
-            <pubDate>Wed, 13 Oct 2021 11:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/10/2111409.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국감2021] 양기대 의원, 블록체인 기반 온라인 투표 시스템 제안]]></title>
-            <link>https://n.news.naver.com/article/138/0002111401</link>
-            <guid>https://n.news.naver.com/article/138/0002111401</guid>
-            <pubDate>Fri, 08 Oct 2021 10:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/08/2111401.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
