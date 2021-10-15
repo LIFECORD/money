@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 14:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 15:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002111717</link>
             <guid>https://n.news.naver.com/article/138/0002111717</guid>
             <pubDate>Fri, 15 Oct 2021 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/15/2111717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002111710</link>
             <guid>https://n.news.naver.com/article/138/0002111710</guid>
             <pubDate>Fri, 15 Oct 2021 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/15/2111710.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002111691</link>
             <guid>https://n.news.naver.com/article/138/0002111691</guid>
             <pubDate>Fri, 15 Oct 2021 02:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/15/2111691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111690</link>
             <guid>https://n.news.naver.com/article/138/0002111690</guid>
             <pubDate>Fri, 15 Oct 2021 02:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/15/2111690.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -160,12 +160,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 블록체인] 과세부터 거래소 독점, NFT까지…국감 속 '가상자산' 총정리]]></title>
-            <link>https://n.news.naver.com/article/138/0002111409</link>
-            <guid>https://n.news.naver.com/article/138/0002111409</guid>
-            <pubDate>Fri, 15 Oct 2021 03:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/10/2111409.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[[PLAY IT] 카드에 카드번호가 없다고?…‘힙한 은행’ 토스뱅크 써보니]]></title>
+            <link>https://n.news.naver.com/article/138/0002111405</link>
+            <guid>https://n.news.naver.com/article/138/0002111405</guid>
+            <pubDate>Fri, 15 Oct 2021 15:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/09/2111405.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
