@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 13:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 14:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1400,14 +1400,6 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[[주간 블록체인] 비트코인 선물 ETF부터 채굴, NFT까지…미국이 접수한 시장 주도권 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111753</link>
-            <guid>https://n.news.naver.com/article/138/0002111753</guid>
-            <pubDate>Sun, 17 Oct 2021 02:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/17/2111753.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[게임×클라우드] 국내선 안된다는데…게임 아이템, NFT화하면 뭐가 좋을까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111717</link>
             <guid>https://n.news.naver.com/article/138/0002111717</guid>
@@ -1446,6 +1438,14 @@
             <pubDate>Thu, 14 Oct 2021 10:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111674.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["비트코인 채굴시장 주도권, 미국으로 넘어갔다" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111666</link>
+            <guid>https://n.news.naver.com/article/138/0002111666</guid>
+            <pubDate>Sun, 17 Oct 2021 14:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111666.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘센터 설립’으로 이미지 쇄신 나선 가상자산 거래소들 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
