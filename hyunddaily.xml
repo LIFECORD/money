@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 09:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 10:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002111899</link>
             <guid>https://n.news.naver.com/article/138/0002111899</guid>
             <pubDate>Tue, 19 Oct 2021 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002111890</link>
             <guid>https://n.news.naver.com/article/138/0002111890</guid>
             <pubDate>Tue, 19 Oct 2021 07:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111890.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002111871</link>
             <guid>https://n.news.naver.com/article/138/0002111871</guid>
             <pubDate>Tue, 19 Oct 2021 03:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111871.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111869</link>
             <guid>https://n.news.naver.com/article/138/0002111869</guid>
             <pubDate>Tue, 19 Oct 2021 03:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002111674</link>
             <guid>https://n.news.naver.com/article/138/0002111674</guid>
             <pubDate>Thu, 14 Oct 2021 10:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111674.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,46 +126,6 @@
             <pubDate>Thu, 14 Oct 2021 04:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111613.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['핀트' 운영사 디셈버앤컴퍼니, 마이데이터 본허가 획득]]></title>
-            <link>https://n.news.naver.com/article/138/0002111605</link>
-            <guid>https://n.news.naver.com/article/138/0002111605</guid>
-            <pubDate>Thu, 14 Oct 2021 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111605.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘메타버스 마케팅’ 공들이는 하나카드…제페토 내 ‘하나카드 월드’ 개편]]></title>
-            <link>https://n.news.naver.com/article/138/0002111600</link>
-            <guid>https://n.news.naver.com/article/138/0002111600</guid>
-            <pubDate>Thu, 14 Oct 2021 02:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111600.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DGB대구은행, 전자거래에 얼굴인증 도입]]></title>
-            <link>https://n.news.naver.com/article/138/0002111579</link>
-            <guid>https://n.news.naver.com/article/138/0002111579</guid>
-            <pubDate>Wed, 13 Oct 2021 09:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111579.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 DID에 힘 쏟는 신한은행…삼성SDS·SKT와 협업]]></title>
-            <link>https://n.news.naver.com/article/138/0002111567</link>
-            <guid>https://n.news.naver.com/article/138/0002111567</guid>
-            <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111567.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[DD’s톡] NFT 플랫폼 덕에 주가 급등한 갤럭시아머니트리, 추가 상승 여력은?]]></title>
-            <link>https://n.news.naver.com/article/138/0002111565</link>
-            <guid>https://n.news.naver.com/article/138/0002111565</guid>
-            <pubDate>Wed, 13 Oct 2021 07:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/13/2111565.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
