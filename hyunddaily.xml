@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 15:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 16:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002111871</link>
             <guid>https://n.news.naver.com/article/138/0002111871</guid>
             <pubDate>Tue, 19 Oct 2021 03:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111871.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111869</link>
             <guid>https://n.news.naver.com/article/138/0002111869</guid>
             <pubDate>Tue, 19 Oct 2021 03:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Mon, 18 Oct 2021 08:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/18/2111831.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['선물 ETF'에 비트코인 상승 랠리 지속…돌아온 김치프리미엄]]></title>
-            <link>https://n.news.naver.com/article/138/0002111794</link>
-            <guid>https://n.news.naver.com/article/138/0002111794</guid>
-            <pubDate>Mon, 18 Oct 2021 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/18/2111794.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임×클라우드] 국내선 안된다는데…게임 아이템, NFT화하면 뭐가 좋을까]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Thu, 14 Oct 2021 04:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111613.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['핀트' 운영사 디셈버앤컴퍼니, 마이데이터 본허가 획득]]></title>
+            <link>https://n.news.naver.com/article/138/0002111605</link>
+            <guid>https://n.news.naver.com/article/138/0002111605</guid>
+            <pubDate>Tue, 19 Oct 2021 16:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111605.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
