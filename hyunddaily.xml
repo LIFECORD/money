@@ -4,15 +4,31 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 02:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 03:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 최초 '비트코인 선물 ETF' 첫발…시장에 어떤 영향?]]></title>
+            <link>https://n.news.naver.com/article/138/0002111871</link>
+            <guid>https://n.news.naver.com/article/138/0002111871</guid>
+            <pubDate>Tue, 19 Oct 2021 03:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>31분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111871.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고위드, 스타트업 맞춤형 IT기기 구독 서비스 출시]]></title>
+            <link>https://n.news.naver.com/article/138/0002111869</link>
+            <guid>https://n.news.naver.com/article/138/0002111869</guid>
+            <pubDate>Tue, 19 Oct 2021 03:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>38분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111869.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰청 심포지엄에 등장한 가상자산…“특화된 수사도구 필요”]]></title>
             <link>https://n.news.naver.com/article/138/0002111832</link>
             <guid>https://n.news.naver.com/article/138/0002111832</guid>
             <pubDate>Mon, 18 Oct 2021 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/18/2111832.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111831</link>
             <guid>https://n.news.naver.com/article/138/0002111831</guid>
             <pubDate>Mon, 18 Oct 2021 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/18/2111831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002111794</link>
             <guid>https://n.news.naver.com/article/138/0002111794</guid>
             <pubDate>Mon, 18 Oct 2021 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/18/2111794.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +108,7 @@
             <link>https://n.news.naver.com/article/138/0002111613</link>
             <guid>https://n.news.naver.com/article/138/0002111613</guid>
             <pubDate>Thu, 14 Oct 2021 04:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 12 Oct 2021 08:19:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111501.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 '과세 유예' 움직임 활발…조명희 의원, 세법 개정안 발의]]></title>
-            <link>https://n.news.naver.com/article/138/0002111497</link>
-            <guid>https://n.news.naver.com/article/138/0002111497</guid>
-            <pubDate>Tue, 12 Oct 2021 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111497.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인원, 의심거래 감독하는 자금세탁방지(AML) 센터 신설]]></title>
-            <link>https://n.news.naver.com/article/138/0002111489</link>
-            <guid>https://n.news.naver.com/article/138/0002111489</guid>
-            <pubDate>Tue, 12 Oct 2021 06:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/12/2111489.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
