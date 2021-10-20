@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 02:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 03:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코오롱베니트, 숭실대 학사 시스템 ‘SAP S/4HANA’로 업그레이드]]></title>
+            <link>https://n.news.naver.com/article/138/0002111939</link>
+            <guid>https://n.news.naver.com/article/138/0002111939</guid>
+            <pubDate>Wed, 20 Oct 2021 03:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111939.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 밀크(MLK), 인터파크 포인트로 쓴다]]></title>
             <link>https://n.news.naver.com/article/138/0002111922</link>
             <guid>https://n.news.naver.com/article/138/0002111922</guid>
             <pubDate>Wed, 20 Oct 2021 02:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111922.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002111899</link>
             <guid>https://n.news.naver.com/article/138/0002111899</guid>
             <pubDate>Tue, 19 Oct 2021 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111890</link>
             <guid>https://n.news.naver.com/article/138/0002111890</guid>
             <pubDate>Tue, 19 Oct 2021 07:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111890.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002111871</link>
             <guid>https://n.news.naver.com/article/138/0002111871</guid>
             <pubDate>Tue, 19 Oct 2021 03:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111871.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 14 Oct 2021 07:17:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111647.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산블록체인산업협회, 출범 후 첫 행보로 NFT 컨퍼런스 개최]]></title>
-            <link>https://n.news.naver.com/article/138/0002111613</link>
-            <guid>https://n.news.naver.com/article/138/0002111613</guid>
-            <pubDate>Thu, 14 Oct 2021 04:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/14/2111613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
