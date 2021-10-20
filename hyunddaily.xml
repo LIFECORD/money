@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 11:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 12:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002111982</link>
             <guid>https://n.news.naver.com/article/138/0002111982</guid>
             <pubDate>Wed, 20 Oct 2021 08:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111982.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002111954</link>
             <guid>https://n.news.naver.com/article/138/0002111954</guid>
             <pubDate>Wed, 20 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002111949</link>
             <guid>https://n.news.naver.com/article/138/0002111949</guid>
             <pubDate>Wed, 20 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111949.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002111947</link>
             <guid>https://n.news.naver.com/article/138/0002111947</guid>
             <pubDate>Wed, 20 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111947.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,16 +44,8 @@
             <link>https://n.news.naver.com/article/138/0002111939</link>
             <guid>https://n.news.naver.com/article/138/0002111939</guid>
             <pubDate>Wed, 20 Oct 2021 03:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111939.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 밀크(MLK), 인터파크 포인트로 쓴다]]></title>
-            <link>https://n.news.naver.com/article/138/0002111922</link>
-            <guid>https://n.news.naver.com/article/138/0002111922</guid>
-            <pubDate>Wed, 20 Oct 2021 02:05:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111922.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['디파이' 이자수익에 과세 계획 세운 기재부…"25% 원천징수"]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 18 Oct 2021 08:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/18/2111831.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['선물 ETF'에 비트코인 상승 랠리 지속…돌아온 김치프리미엄]]></title>
+            <link>https://n.news.naver.com/article/138/0002111794</link>
+            <guid>https://n.news.naver.com/article/138/0002111794</guid>
+            <pubDate>Wed, 20 Oct 2021 12:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/18/2111794.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임×클라우드] 국내선 안된다는데…게임 아이템, NFT화하면 뭐가 좋을까]]></title>
