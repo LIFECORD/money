@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 08:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 09:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1436,23 +1436,15 @@
             <link>https://n.news.naver.com/article/138/0002112052</link>
             <guid>https://n.news.naver.com/article/138/0002112052</guid>
             <pubDate>Thu, 21 Oct 2021 07:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/21/2112052.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 비트코인 선물 ETF 또 승인…비트코인 8000만원 시대 열렸다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002112013</link>
-            <guid>https://n.news.naver.com/article/138/0002112013</guid>
-            <pubDate>Thu, 21 Oct 2021 00:59:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/21/2112013.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“위드 코로나, 해외 출장 재개될 것…직원 안전 대책 재정비해야” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002111982</link>
             <guid>https://n.news.naver.com/article/138/0002111982</guid>
             <pubDate>Wed, 20 Oct 2021 08:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111982.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1542,6 +1534,14 @@
             <pubDate>Wed, 20 Oct 2021 12:26:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/18/2111794.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] 비트코인 선물 ETF부터 채굴, NFT까지…미국이 접수한 시장 주도권 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002111753</link>
+            <guid>https://n.news.naver.com/article/138/0002111753</guid>
+            <pubDate>Thu, 21 Oct 2021 09:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/17/2111753.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임×클라우드] 국내선 안된다는데…게임 아이템, NFT화하면 뭐가 좋을까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
