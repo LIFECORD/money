@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 06:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 07:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1432,11 +1432,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[블록체인 클라우드 기업 커먼컴퓨터, 120억 규모 시리즈B 투자 유치 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112052</link>
+            <guid>https://n.news.naver.com/article/138/0002112052</guid>
+            <pubDate>Thu, 21 Oct 2021 07:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/21/2112052.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[美 비트코인 선물 ETF 또 승인…비트코인 8000만원 시대 열렸다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112013</link>
             <guid>https://n.news.naver.com/article/138/0002112013</guid>
             <pubDate>Thu, 21 Oct 2021 00:59:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/21/2112013.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1444,7 +1452,7 @@
             <link>https://n.news.naver.com/article/138/0002111982</link>
             <guid>https://n.news.naver.com/article/138/0002111982</guid>
             <pubDate>Wed, 20 Oct 2021 08:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111982.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1492,7 +1500,7 @@
             <link>https://n.news.naver.com/article/138/0002111890</link>
             <guid>https://n.news.naver.com/article/138/0002111890</guid>
             <pubDate>Tue, 19 Oct 2021 07:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111890.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1542,14 +1550,6 @@
             <pubDate>Fri, 15 Oct 2021 06:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/15/2111717.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ETF 기대감에 ‘비트코인 관련 코인’도 상승…“공식 승인 기다려야” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111710</link>
-            <guid>https://n.news.naver.com/article/138/0002111710</guid>
-            <pubDate>Fri, 15 Oct 2021 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/15/2111710.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
