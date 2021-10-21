@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 09:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 10:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1432,11 +1432,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[부산서 열리는 NFT 행사, 연사 공개…오픈씨·국내 금융권 참여 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112082</link>
+            <guid>https://n.news.naver.com/article/138/0002112082</guid>
+            <pubDate>Thu, 21 Oct 2021 10:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/21/2112082.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블록체인 클라우드 기업 커먼컴퓨터, 120억 규모 시리즈B 투자 유치 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112052</link>
             <guid>https://n.news.naver.com/article/138/0002112052</guid>
             <pubDate>Thu, 21 Oct 2021 07:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/21/2112052.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1542,14 +1550,6 @@
             <pubDate>Thu, 21 Oct 2021 09:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/17/2111753.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임×클라우드] 국내선 안된다는데…게임 아이템, NFT화하면 뭐가 좋을까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111717</link>
-            <guid>https://n.news.naver.com/article/138/0002111717</guid>
-            <pubDate>Fri, 15 Oct 2021 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/15/2111717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
