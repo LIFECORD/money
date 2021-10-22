@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 13:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 14:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1436,7 +1436,7 @@
             <link>https://n.news.naver.com/article/138/0002112145</link>
             <guid>https://n.news.naver.com/article/138/0002112145</guid>
             <pubDate>Fri, 22 Oct 2021 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112145.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1452,7 +1452,7 @@
             <link>https://n.news.naver.com/article/138/0002112129</link>
             <guid>https://n.news.naver.com/article/138/0002112129</guid>
             <pubDate>Fri, 22 Oct 2021 06:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112129.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1460,7 +1460,7 @@
             <link>https://n.news.naver.com/article/138/0002112112</link>
             <guid>https://n.news.naver.com/article/138/0002112112</guid>
             <pubDate>Fri, 22 Oct 2021 02:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112112.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
