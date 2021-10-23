@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 04:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 05:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1436,7 +1436,7 @@
             <link>https://n.news.naver.com/article/138/0002112145</link>
             <guid>https://n.news.naver.com/article/138/0002112145</guid>
             <pubDate>Fri, 22 Oct 2021 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112145.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1452,7 +1452,7 @@
             <link>https://n.news.naver.com/article/138/0002112129</link>
             <guid>https://n.news.naver.com/article/138/0002112129</guid>
             <pubDate>Fri, 22 Oct 2021 06:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112129.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1492,7 +1492,7 @@
             <link>https://n.news.naver.com/article/138/0002111954</link>
             <guid>https://n.news.naver.com/article/138/0002111954</guid>
             <pubDate>Wed, 20 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1500,7 +1500,7 @@
             <link>https://n.news.naver.com/article/138/0002111949</link>
             <guid>https://n.news.naver.com/article/138/0002111949</guid>
             <pubDate>Wed, 20 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111949.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1508,7 +1508,7 @@
             <link>https://n.news.naver.com/article/138/0002111947</link>
             <guid>https://n.news.naver.com/article/138/0002111947</guid>
             <pubDate>Wed, 20 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111947.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
