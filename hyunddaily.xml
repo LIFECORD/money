@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 00:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 02:02:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002112166</link>
             <guid>https://n.news.naver.com/article/138/0002112166</guid>
             <pubDate>Sun, 24 Oct 2021 00:54:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/24/2112166.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002112112</link>
             <guid>https://n.news.naver.com/article/138/0002112112</guid>
             <pubDate>Fri, 22 Oct 2021 02:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112112.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002111939</link>
             <guid>https://n.news.naver.com/article/138/0002111939</guid>
             <pubDate>Wed, 20 Oct 2021 03:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
