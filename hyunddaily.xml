@@ -4,9 +4,25 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김연경 선수 등번호 NFT,  신세계 '쓱라이브'에서 판매된다]]></title>
+            <link>https://n.news.naver.com/article/138/0002112262</link>
+            <guid>https://n.news.naver.com/article/138/0002112262</guid>
+            <pubDate>Mon, 25 Oct 2021 09:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112262.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록체인 기업 키인사이드, NFT아트 공동체 '아트네틱'에 아티스트 5인 영입]]></title>
+            <link>https://n.news.naver.com/article/138/0002112258</link>
+            <guid>https://n.news.naver.com/article/138/0002112258</guid>
+            <pubDate>Mon, 25 Oct 2021 09:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>39분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112258.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김계란 캐릭터가 고흐 자화상에…'김계란 NFT' 나온다]]></title>
             <link>https://n.news.naver.com/article/138/0002112219</link>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002112210</link>
             <guid>https://n.news.naver.com/article/138/0002112210</guid>
             <pubDate>Mon, 25 Oct 2021 05:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112210.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002112082</link>
             <guid>https://n.news.naver.com/article/138/0002112082</guid>
             <pubDate>Thu, 21 Oct 2021 10:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/21/2112082.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 20 Oct 2021 06:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111954.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시아머니트리, '편의점 결제' 해외송금 제휴처 확대]]></title>
-            <link>https://n.news.naver.com/article/138/0002111949</link>
-            <guid>https://n.news.naver.com/article/138/0002111949</guid>
-            <pubDate>Wed, 20 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111949.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 최초 비트코인 선물 ETF, 거래량 10억달러 넘기며 '핫 데뷔']]></title>
-            <link>https://n.news.naver.com/article/138/0002111947</link>
-            <guid>https://n.news.naver.com/article/138/0002111947</guid>
-            <pubDate>Wed, 20 Oct 2021 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/20/2111947.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
