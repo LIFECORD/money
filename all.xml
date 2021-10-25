@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 02:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 03:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1432,6 +1432,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[美 ETF 소식에…국내 상장사들도 ‘비트코인 활용’ 금융서비스 개발 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112201</link>
+            <guid>https://n.news.naver.com/article/138/0002112201</guid>
+            <pubDate>Mon, 25 Oct 2021 03:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>54분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112201.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 블록체인] 신고가 찍고 내려온 비트코인, 함께 오른 이더리움…향후 전망은? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112166</link>
             <guid>https://n.news.naver.com/article/138/0002112166</guid>
@@ -1542,14 +1550,6 @@
             <pubDate>Tue, 19 Oct 2021 07:16:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111890.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 최초 '비트코인 선물 ETF' 첫발…시장에 어떤 영향? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002111871</link>
-            <guid>https://n.news.naver.com/article/138/0002111871</guid>
-            <pubDate>Tue, 19 Oct 2021 03:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/19/2111871.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
