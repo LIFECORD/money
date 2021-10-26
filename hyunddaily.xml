@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 07:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 08:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[취재수첩] NFT에 왜 ‘제 2의 비트코인’ 수식어를 붙이나]]></title>
+            <link>https://n.news.naver.com/article/138/0002112319</link>
+            <guid>https://n.news.naver.com/article/138/0002112319</guid>
+            <pubDate>Tue, 26 Oct 2021 08:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112319.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아로와나토큰 비자금 의혹 해명불구…빗썸 유의 종목지정·가격급락]]></title>
             <link>https://n.news.naver.com/article/138/0002112304</link>
             <guid>https://n.news.naver.com/article/138/0002112304</guid>
             <pubDate>Tue, 26 Oct 2021 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>44분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112304.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002112296</link>
             <guid>https://n.news.naver.com/article/138/0002112296</guid>
             <pubDate>Tue, 26 Oct 2021 02:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112296.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002112276</link>
             <guid>https://n.news.naver.com/article/138/0002112276</guid>
             <pubDate>Tue, 26 Oct 2021 00:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002112262</link>
             <guid>https://n.news.naver.com/article/138/0002112262</guid>
             <pubDate>Mon, 25 Oct 2021 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002112258</link>
             <guid>https://n.news.naver.com/article/138/0002112258</guid>
             <pubDate>Mon, 25 Oct 2021 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002112145</link>
             <guid>https://n.news.naver.com/article/138/0002112145</guid>
             <pubDate>Fri, 22 Oct 2021 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112145.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Oct 2021 02:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112112.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산서 열리는 NFT 행사, 연사 공개…오픈씨·국내 금융권 참여]]></title>
-            <link>https://n.news.naver.com/article/138/0002112082</link>
-            <guid>https://n.news.naver.com/article/138/0002112082</guid>
-            <pubDate>Thu, 21 Oct 2021 10:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/21/2112082.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
