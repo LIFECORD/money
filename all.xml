@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 03:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 04:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1432,11 +1432,11 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[코인은 돈이 된다…위메이드가 블록체인 게임사업을 ‘직접’ 하게 된 이유 [IT 클로즈업] (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <title><![CDATA[코인은 돈이 된다…위메이드가 블록체인 게임사업을 ‘직접’ 하게 된 이유 [IT클로즈업] (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112296</link>
             <guid>https://n.news.naver.com/article/138/0002112296</guid>
             <pubDate>Tue, 26 Oct 2021 02:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112296.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1444,7 +1444,7 @@
             <link>https://n.news.naver.com/article/138/0002112276</link>
             <guid>https://n.news.naver.com/article/138/0002112276</guid>
             <pubDate>Tue, 26 Oct 2021 00:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1452,7 +1452,7 @@
             <link>https://n.news.naver.com/article/138/0002112262</link>
             <guid>https://n.news.naver.com/article/138/0002112262</guid>
             <pubDate>Mon, 25 Oct 2021 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1460,7 +1460,7 @@
             <link>https://n.news.naver.com/article/138/0002112258</link>
             <guid>https://n.news.naver.com/article/138/0002112258</guid>
             <pubDate>Mon, 25 Oct 2021 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1468,7 +1468,7 @@
             <link>https://n.news.naver.com/article/138/0002112219</link>
             <guid>https://n.news.naver.com/article/138/0002112219</guid>
             <pubDate>Mon, 25 Oct 2021 05:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112219.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1476,7 +1476,7 @@
             <link>https://n.news.naver.com/article/138/0002112210</link>
             <guid>https://n.news.naver.com/article/138/0002112210</guid>
             <pubDate>Mon, 25 Oct 2021 05:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112210.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1484,7 +1484,7 @@
             <link>https://n.news.naver.com/article/138/0002112209</link>
             <guid>https://n.news.naver.com/article/138/0002112209</guid>
             <pubDate>Mon, 25 Oct 2021 05:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112209.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
