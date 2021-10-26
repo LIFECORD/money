@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 14:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 15:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002112319</link>
             <guid>https://n.news.naver.com/article/138/0002112319</guid>
             <pubDate>Tue, 26 Oct 2021 08:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112319.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,23 +20,15 @@
             <link>https://n.news.naver.com/article/138/0002112304</link>
             <guid>https://n.news.naver.com/article/138/0002112304</guid>
             <pubDate>Tue, 26 Oct 2021 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112304.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인은 돈이 된다…위메이드가 블록체인 게임사업을 ‘직접’ 하게 된 이유 [IT클로즈업]]]></title>
-            <link>https://n.news.naver.com/article/138/0002112296</link>
-            <guid>https://n.news.naver.com/article/138/0002112296</guid>
-            <pubDate>Tue, 26 Oct 2021 02:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112296.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드, 블록체인 게임 사업 전면 나선다…위메이드트리와 합병]]></title>
             <link>https://n.news.naver.com/article/138/0002112276</link>
             <guid>https://n.news.naver.com/article/138/0002112276</guid>
             <pubDate>Tue, 26 Oct 2021 00:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 22 Oct 2021 02:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112112.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산서 열리는 NFT 행사, 연사 공개…오픈씨·국내 금융권 참여]]></title>
+            <link>https://n.news.naver.com/article/138/0002112082</link>
+            <guid>https://n.news.naver.com/article/138/0002112082</guid>
+            <pubDate>Tue, 26 Oct 2021 15:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/21/2112082.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
