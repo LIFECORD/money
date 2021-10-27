@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 09:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 10:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1464,6 +1464,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[업비트 코인 신규상장에 케이뱅크 앱 '먹통' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112415</link>
+            <guid>https://n.news.naver.com/article/138/0002112415</guid>
+            <pubDate>Wed, 27 Oct 2021 10:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112415.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코인플러그표 가상자산 금융서비스 '업파이', 누적 예치액 1억달러 돌파 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112361</link>
             <guid>https://n.news.naver.com/article/138/0002112361</guid>
@@ -1574,14 +1582,6 @@
             <pubDate>Fri, 22 Oct 2021 07:16:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112133.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설립 4주년 맞은 업비트, 국회 ‘미운털’ 뽑고 M&A 진출 가능할까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002112129</link>
-            <guid>https://n.news.naver.com/article/138/0002112129</guid>
-            <pubDate>Fri, 22 Oct 2021 06:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112129.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
