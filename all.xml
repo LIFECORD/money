@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 05:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 06:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1464,11 +1464,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[정부, 가상자산 과세 ‘밀어붙이기’…조세 저항 심화 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112472</link>
+            <guid>https://n.news.naver.com/article/138/0002112472</guid>
+            <pubDate>Thu, 28 Oct 2021 06:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112472.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[핀다, BC카드와 손잡고 자영업자 대상 대출 지원 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112449</link>
             <guid>https://n.news.naver.com/article/138/0002112449</guid>
             <pubDate>Thu, 28 Oct 2021 02:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112449.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1476,7 +1484,7 @@
             <link>https://n.news.naver.com/article/138/0002112447</link>
             <guid>https://n.news.naver.com/article/138/0002112447</guid>
             <pubDate>Thu, 28 Oct 2021 02:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112447.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1508,7 +1516,7 @@
             <link>https://n.news.naver.com/article/138/0002112304</link>
             <guid>https://n.news.naver.com/article/138/0002112304</guid>
             <pubDate>Tue, 26 Oct 2021 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112304.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1574,14 +1582,6 @@
             <pubDate>Thu, 28 Oct 2021 01:59:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/24/2112166.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BC카드, KT·빅데이터 혁신 공유대학사업단과 신기술 인재 양성 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002112145</link>
-            <guid>https://n.news.naver.com/article/138/0002112145</guid>
-            <pubDate>Fri, 22 Oct 2021 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/22/2112145.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
