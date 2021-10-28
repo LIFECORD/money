@@ -4,23 +4,15 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 00:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[업비트 코인 신규상장에 케이뱅크 앱 '먹통']]></title>
-            <link>https://n.news.naver.com/article/138/0002112415</link>
-            <guid>https://n.news.naver.com/article/138/0002112415</guid>
-            <pubDate>Wed, 27 Oct 2021 10:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112415.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[코인플러그표 가상자산 금융서비스 '업파이', 누적 예치액 1억달러 돌파]]></title>
             <link>https://n.news.naver.com/article/138/0002112361</link>
             <guid>https://n.news.naver.com/article/138/0002112361</guid>
             <pubDate>Wed, 27 Oct 2021 02:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002112356</link>
             <guid>https://n.news.naver.com/article/138/0002112356</guid>
             <pubDate>Wed, 27 Oct 2021 02:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112356.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 25 Oct 2021 03:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112201.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] 신고가 찍고 내려온 비트코인, 함께 오른 이더리움…향후 전망은?]]></title>
+            <link>https://n.news.naver.com/article/138/0002112166</link>
+            <guid>https://n.news.naver.com/article/138/0002112166</guid>
+            <pubDate>Thu, 28 Oct 2021 01:59:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/24/2112166.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BC카드, KT·빅데이터 혁신 공유대학사업단과 신기술 인재 양성]]></title>
