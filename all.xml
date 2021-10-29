@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 07:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 08:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1464,11 +1464,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA["NFT 통한 자금세탁, 일반 가상자산보다 쉬워…리스크 관리 필요" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112588</link>
+            <guid>https://n.news.naver.com/article/138/0002112588</guid>
+            <pubDate>Fri, 29 Oct 2021 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112588.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[K리그, 블록체인 기반 메타버스서 본다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112561</link>
             <guid>https://n.news.naver.com/article/138/0002112561</guid>
             <pubDate>Fri, 29 Oct 2021 04:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1476,7 +1484,7 @@
             <link>https://n.news.naver.com/article/138/0002112558</link>
             <guid>https://n.news.naver.com/article/138/0002112558</guid>
             <pubDate>Fri, 29 Oct 2021 03:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1484,7 +1492,7 @@
             <link>https://n.news.naver.com/article/138/0002112501</link>
             <guid>https://n.news.naver.com/article/138/0002112501</guid>
             <pubDate>Thu, 28 Oct 2021 09:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1540,7 +1548,7 @@
             <link>https://n.news.naver.com/article/138/0002112319</link>
             <guid>https://n.news.naver.com/article/138/0002112319</guid>
             <pubDate>Tue, 26 Oct 2021 08:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112319.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,16 +1580,8 @@
             <link>https://n.news.naver.com/article/138/0002112258</link>
             <guid>https://n.news.naver.com/article/138/0002112258</guid>
             <pubDate>Mon, 25 Oct 2021 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112258.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김계란 캐릭터가 고흐 자화상에…'김계란 NFT' 나온다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002112219</link>
-            <guid>https://n.news.naver.com/article/138/0002112219</guid>
-            <pubDate>Mon, 25 Oct 2021 05:15:21 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112219.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밀레니얼 세대의 스타벅스, 더치 브로스에 대한 짐 크레이머 (Jim Cramer) 생각 읽기 (스넥)]]></title>
