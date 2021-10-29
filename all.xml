@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 21:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 22:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1468,7 +1468,7 @@
             <link>https://n.news.naver.com/article/138/0002112588</link>
             <guid>https://n.news.naver.com/article/138/0002112588</guid>
             <pubDate>Fri, 29 Oct 2021 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112588.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1476,7 +1476,7 @@
             <link>https://n.news.naver.com/article/138/0002112561</link>
             <guid>https://n.news.naver.com/article/138/0002112561</guid>
             <pubDate>Fri, 29 Oct 2021 04:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1484,7 +1484,7 @@
             <link>https://n.news.naver.com/article/138/0002112558</link>
             <guid>https://n.news.naver.com/article/138/0002112558</guid>
             <pubDate>Fri, 29 Oct 2021 03:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
