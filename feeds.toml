@@ -62,3 +62,13 @@ linkSelector = "a.press_edit_news_link"
 contentSelector = "span.r_ico_b.r_modify"
 imageSelector = "span.press_edit_news_thumb img"
 waitUntil = "networkidle"
+
+[snek]
+title = "스넥"
+url = "https://www.snek.ai/alpha/all"
+entrySelector = "article.ai-article-item"
+titleSelector = "div.ai-article-title h3 a"
+linkSelector = "div.ai-article-title h3 a"
+contentSelector = "div.ai-article-desc a.a-link-style-none.s-font-caption-small"
+imageSelector = "div.ai-article-img-wrap a img"
+waitUntil = "networkidle"
