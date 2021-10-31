@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 00:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 02:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1464,6 +1464,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[주간 블록체인] 국내서도 NFT 시장 확장…무엇이 판을 키웠나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112620</link>
+            <guid>https://n.news.naver.com/article/138/0002112620</guid>
+            <pubDate>Sun, 31 Oct 2021 02:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>48분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/31/2112620.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["NFT 통한 자금세탁, 일반 가상자산보다 쉬워…리스크 관리 필요" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112588</link>
             <guid>https://n.news.naver.com/article/138/0002112588</guid>
@@ -1508,7 +1516,7 @@
             <link>https://n.news.naver.com/article/138/0002112449</link>
             <guid>https://n.news.naver.com/article/138/0002112449</guid>
             <pubDate>Thu, 28 Oct 2021 02:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112449.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1516,7 +1524,7 @@
             <link>https://n.news.naver.com/article/138/0002112447</link>
             <guid>https://n.news.naver.com/article/138/0002112447</guid>
             <pubDate>Thu, 28 Oct 2021 02:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112447.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1540,7 +1548,7 @@
             <link>https://n.news.naver.com/article/138/0002112356</link>
             <guid>https://n.news.naver.com/article/138/0002112356</guid>
             <pubDate>Wed, 27 Oct 2021 02:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112356.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1576,12 +1584,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블록체인 기업 키인사이드, NFT아트 공동체 '아트네틱'에 아티스트 5인 영입 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002112258</link>
-            <guid>https://n.news.naver.com/article/138/0002112258</guid>
-            <pubDate>Mon, 25 Oct 2021 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112258.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[국내 구리 대표주 투자전략 업데이트: 가장 주목해야 할 '가치주'임에 틀림없다! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117834</link>
+            <guid>https://www.snek.ai/alpha/opinion/117834</guid>
+            <pubDate>Sun, 31 Oct 2021 02:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장단기 금리차 축소 우려는 기우! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117837</link>
+            <guid>https://www.snek.ai/alpha/opinion/117837</guid>
+            <pubDate>Sun, 31 Oct 2021 02:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
         <item>
             <title><![CDATA[미국 성장주 투자 비중 여전히 높게 가져가기! (스넥)]]></title>
@@ -1646,22 +1662,6 @@
             <pubDate>Sat, 30 Oct 2021 07:16:47 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[보장된 호실적과 점차 현실화되는 신사업! - ISC (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117818</link>
-            <guid>https://www.snek.ai/alpha/opinion/117818</guid>
-            <pubDate>Sat, 30 Oct 2021 07:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자동차 부품주를 단 한가지만 살 수 있다면? 다이아씨! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117820</link>
-            <guid>https://www.snek.ai/alpha/opinion/117820</guid>
-            <pubDate>Sat, 30 Oct 2021 07:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이재희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

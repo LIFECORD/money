@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 00:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 02:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 구리 대표주 투자전략 업데이트: 가장 주목해야 할 '가치주'임에 틀림없다!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117834</link>
+            <guid>https://www.snek.ai/alpha/opinion/117834</guid>
+            <pubDate>Sun, 31 Oct 2021 02:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장단기 금리차 축소 우려는 기우!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117837</link>
+            <guid>https://www.snek.ai/alpha/opinion/117837</guid>
+            <pubDate>Sun, 31 Oct 2021 02:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
         <item>
             <title><![CDATA[미국 성장주 투자 비중 여전히 높게 가져가기!]]></title>
             <link>https://www.snek.ai/alpha/opinion/117838</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 30 Oct 2021 07:16:47 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[보장된 호실적과 점차 현실화되는 신사업! - ISC]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117818</link>
-            <guid>https://www.snek.ai/alpha/opinion/117818</guid>
-            <pubDate>Sat, 30 Oct 2021 07:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자동차 부품주를 단 한가지만 살 수 있다면? 다이아씨!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117820</link>
-            <guid>https://www.snek.ai/alpha/opinion/117820</guid>
-            <pubDate>Sat, 30 Oct 2021 07:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이재희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
