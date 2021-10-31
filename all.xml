@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 23:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 00:55:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002112276</link>
             <guid>https://n.news.naver.com/article/138/0002112276</guid>
             <pubDate>Tue, 26 Oct 2021 00:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1582,6 +1582,14 @@
             <pubDate>Mon, 25 Oct 2021 09:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/25/2112258.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 성장주 투자 비중 여전히 높게 가져가기! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117838</link>
+            <guid>https://www.snek.ai/alpha/opinion/117838</guid>
+            <pubDate>Sun, 31 Oct 2021 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
         <item>
             <title><![CDATA[밀레니얼 세대의 스타벅스, 더치 브로스에 대한 짐 크레이머 (Jim Cramer) 생각 읽기 (스넥)]]></title>
@@ -1654,14 +1662,6 @@
             <pubDate>Sat, 30 Oct 2021 07:16:47 GMT</pubDate>
             <content:encoded><![CDATA[이재희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말을 앞둔 리츠(REITs) 투자전략: '저변동성'과 '고배당'에 초점을 맞추다! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117819</link>
-            <guid>https://www.snek.ai/alpha/opinion/117819</guid>
-            <pubDate>Sat, 30 Oct 2021 07:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
