@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 13:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 14:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ETF와 Sector 대형주를 활용한 USA Monthly Market Update_2021.10]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117842</link>
+            <guid>https://www.snek.ai/alpha/opinion/117842</guid>
+            <pubDate>Mon, 01 Nov 2021 14:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 구리 대표주 투자전략 업데이트: 가장 주목해야 할 '가치주'임에 틀림없다!]]></title>
             <link>https://www.snek.ai/alpha/opinion/117834</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[유동성 장세에서 실적장세로!]]></title>
             <link>https://www.snek.ai/alpha/opinion/117823</link>
             <guid>https://www.snek.ai/alpha/opinion/117823</guid>
-            <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 투자 매력도 높음: 글로벌 투자 업종 선택에 노력을!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117824</link>
-            <guid>https://www.snek.ai/alpha/opinion/117824</guid>
             <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
