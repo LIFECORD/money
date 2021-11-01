@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 22:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 23:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1468,7 +1468,7 @@
             <link>https://n.news.naver.com/article/138/0002112664</link>
             <guid>https://n.news.naver.com/article/138/0002112664</guid>
             <pubDate>Mon, 01 Nov 2021 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/01/2112664.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1584,6 +1584,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최근 요동치는 미국 증시를 바라본 개미 투자자의 소견 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117843</link>
+            <guid>https://www.snek.ai/alpha/opinion/117843</guid>
+            <pubDate>Mon, 01 Nov 2021 23:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ETF와 Sector 대형주를 활용한 USA Monthly Market Update_2021.10 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117842</link>
             <guid>https://www.snek.ai/alpha/opinion/117842</guid>
@@ -1654,14 +1662,6 @@
             <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유동성 장세에서 실적장세로! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117823</link>
-            <guid>https://www.snek.ai/alpha/opinion/117823</guid>
-            <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
