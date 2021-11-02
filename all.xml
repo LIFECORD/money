@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 04:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 05:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1464,11 +1464,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[NFT NYC] ‘플레이 투 언’ 열풍 이끈 엑시인피니티, 그 배경엔 ‘장학금’이 있다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112784</link>
+            <guid>https://n.news.naver.com/article/138/0002112784</guid>
+            <pubDate>Tue, 02 Nov 2021 05:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112784.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[르포] 타임스퀘어를 꽉 채운 NFT 광고들…NFT가 집어삼킨 뉴욕 [NFT NYC] (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112768</link>
             <guid>https://n.news.naver.com/article/138/0002112768</guid>
             <pubDate>Tue, 02 Nov 2021 03:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112768.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1574,14 +1582,6 @@
             <pubDate>Tue, 26 Oct 2021 06:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112304.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인은 돈이 된다…위메이드가 블록체인 게임사업을 ‘직접’ 하게 된 이유 [IT클로즈업] (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002112296</link>
-            <guid>https://n.news.naver.com/article/138/0002112296</guid>
-            <pubDate>Mon, 01 Nov 2021 15:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112296.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그린 메일 (Green Mail) 반전 드라마: 마이클 델 vs. 칼 아이칸 (스넥)]]></title>
