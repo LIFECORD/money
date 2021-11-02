@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 06:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1468,7 +1468,7 @@
             <link>https://n.news.naver.com/article/138/0002112784</link>
             <guid>https://n.news.naver.com/article/138/0002112784</guid>
             <pubDate>Tue, 02 Nov 2021 05:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112784.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1476,7 +1476,7 @@
             <link>https://n.news.naver.com/article/138/0002112768</link>
             <guid>https://n.news.naver.com/article/138/0002112768</guid>
             <pubDate>Tue, 02 Nov 2021 03:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112768.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1584,6 +1584,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112304.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알파벳으로 살펴본 아마존 (A – Z: Amazon) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117846</link>
+            <guid>https://www.snek.ai/alpha/opinion/117846</guid>
+            <pubDate>Tue, 02 Nov 2021 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그린 메일 (Green Mail) 반전 드라마: 마이클 델 vs. 칼 아이칸 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117845</link>
             <guid>https://www.snek.ai/alpha/opinion/117845</guid>
@@ -1654,14 +1662,6 @@
             <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투자의 승패를 좌우하는 것은 시간지평 (Time Horizon) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117827</link>
-            <guid>https://www.snek.ai/alpha/opinion/117827</guid>
-            <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[에릭헤오]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/8dfd9526cc074249b835f233114138ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

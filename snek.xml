@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 06:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알파벳으로 살펴본 아마존 (A – Z: Amazon)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117846</link>
+            <guid>https://www.snek.ai/alpha/opinion/117846</guid>
+            <pubDate>Tue, 02 Nov 2021 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그린 메일 (Green Mail) 반전 드라마: 마이클 델 vs. 칼 아이칸]]></title>
             <link>https://www.snek.ai/alpha/opinion/117845</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투자의 승패를 좌우하는 것은 시간지평 (Time Horizon)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117827</link>
-            <guid>https://www.snek.ai/alpha/opinion/117827</guid>
-            <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[에릭헤오]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/8dfd9526cc074249b835f233114138ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
