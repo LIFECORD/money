@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 15:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 16:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1500,7 +1500,7 @@
             <link>https://n.news.naver.com/article/138/0002112784</link>
             <guid>https://n.news.naver.com/article/138/0002112784</guid>
             <pubDate>Tue, 02 Nov 2021 05:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112784.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1508,16 +1508,8 @@
             <link>https://n.news.naver.com/article/138/0002112768</link>
             <guid>https://n.news.naver.com/article/138/0002112768</guid>
             <pubDate>Tue, 02 Nov 2021 03:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112768.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NFT NYC] NFT 시장 급성장…세계 최대 NFT 컨퍼런스, 오프라인 개막 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002112664</link>
-            <guid>https://n.news.naver.com/article/138/0002112664</guid>
-            <pubDate>Mon, 01 Nov 2021 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/01/2112664.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] 국내서도 NFT 시장 확장…무엇이 판을 키웠나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1582,6 +1574,14 @@
             <pubDate>Thu, 28 Oct 2021 02:32:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112447.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업비트 코인 신규상장에 케이뱅크 앱 '먹통' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112415</link>
+            <guid>https://n.news.naver.com/article/138/0002112415</guid>
+            <pubDate>Tue, 02 Nov 2021 16:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112415.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인플러그표 가상자산 금융서비스 '업파이', 누적 예치액 1억달러 돌파 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
