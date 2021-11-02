@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 22:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 23:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,16 +12,16 @@
             <link>https://n.news.naver.com/article/138/0002112784</link>
             <guid>https://n.news.naver.com/article/138/0002112784</guid>
             <pubDate>Tue, 02 Nov 2021 05:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112784.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[르포] 타임스퀘어를 꽉 채운 NFT 광고들…NFT가 집어삼킨 뉴욕 [NFT NYC]]]></title>
-            <link>https://n.news.naver.com/article/138/0002112768</link>
-            <guid>https://n.news.naver.com/article/138/0002112768</guid>
-            <pubDate>Tue, 02 Nov 2021 03:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112768.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[[NFT NYC] NFT 시장 급성장…세계 최대 NFT 컨퍼런스, 오프라인 개막]]></title>
+            <link>https://n.news.naver.com/article/138/0002112664</link>
+            <guid>https://n.news.naver.com/article/138/0002112664</guid>
+            <pubDate>Tue, 02 Nov 2021 23:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/01/2112664.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] 국내서도 NFT 시장 확장…무엇이 판을 키웠나]]></title>
