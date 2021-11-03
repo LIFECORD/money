@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 09:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 10:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1237,7 +1237,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423579141?act=clip</guid>
             <pubDate>Tue, 02 Nov 2021 08:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8cefaa6f414d6c2d61d91da4e63d6dae6f16e226" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8cefaa6f414d6c2d61d91da4e63d6dae6f16e226" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[코인의 가치를 인정하는 김프로가 실제로 투자를 하지는 않는 이유 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -1245,7 +1245,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423578962?act=clip</guid>
             <pubDate>Tue, 02 Nov 2021 08:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F031a506a2f6a69c222630e16ff74edc8750209c5" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F031a506a2f6a69c222630e16ff74edc8750209c5" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이제 2030년까지 버티면 결과는 둘 중 하나! 50억 또는 0원 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -1253,7 +1253,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423578788?act=clip</guid>
             <pubDate>Tue, 02 Nov 2021 08:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F19f4530aaefc0f52cbdb82a7947b80203a2f2177" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F19f4530aaefc0f52cbdb82a7947b80203a2f2177" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[8회. 뚠뚠 깐부들의 극비 투자 모임 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -1496,11 +1496,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[NFT NYC] '베스트 NFT 플랫폼' 선정된 오리진 프로토콜, “NFT를 주류로 만들 것” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112902</link>
+            <guid>https://n.news.naver.com/article/138/0002112902</guid>
+            <pubDate>Wed, 03 Nov 2021 10:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>53분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/03/2112902.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NFT NYC] 깜짝 등장한 쿠엔틴 타란티노 감독…'펄프픽션' 손글씨 대본 NFT로 경매 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112815</link>
             <guid>https://n.news.naver.com/article/138/0002112815</guid>
             <pubDate>Wed, 03 Nov 2021 00:52:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/03/2112815.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002112415</link>
             <guid>https://n.news.naver.com/article/138/0002112415</guid>
             <pubDate>Tue, 02 Nov 2021 16:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112415.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1606,14 +1614,6 @@
             <pubDate>Wed, 27 Oct 2021 02:30:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112356.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재수첩] NFT에 왜 ‘제 2의 비트코인’ 수식어를 붙이나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002112319</link>
-            <guid>https://n.news.naver.com/article/138/0002112319</guid>
-            <pubDate>Tue, 26 Oct 2021 08:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112319.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이스북 -> 메타 플랫폼스 (Facebook, FB US -> Meta, MVRS US), 지금 공룡의 변화를 함께할 때 (스넥)]]></title>
