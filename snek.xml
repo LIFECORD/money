@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 23:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 00:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북 -> 메타 플랫폼스 (Facebook, FB US -> Meta, MVRS US), 지금 공룡의 변화를 함께할 때]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117854</link>
+            <guid>https://www.snek.ai/alpha/opinion/117854</guid>
+            <pubDate>Wed, 03 Nov 2021 00:52:44 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알파벳으로 살펴본 아마존 (A – Z: Amazon)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117846</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[밀레니얼 세대의 스타벅스, 더치 브로스에 대한 짐 크레이머 (Jim Cramer) 생각 읽기]]></title>
             <link>https://www.snek.ai/alpha/opinion/117832</link>
             <guid>https://www.snek.ai/alpha/opinion/117832</guid>
-            <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 3Q 투자 서한- 서드 포인트 (Third Point)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117831</link>
-            <guid>https://www.snek.ai/alpha/opinion/117831</guid>
             <pubDate>Sun, 31 Oct 2021 06:20:11 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>

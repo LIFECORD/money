@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 23:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 00:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NFT NYC] 깜짝 등장한 쿠엔틴 타란티노 감독…'펄프픽션' 손글씨 대본 NFT로 경매]]></title>
+            <link>https://n.news.naver.com/article/138/0002112815</link>
+            <guid>https://n.news.naver.com/article/138/0002112815</guid>
+            <pubDate>Wed, 03 Nov 2021 00:52:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/03/2112815.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NFT NYC] ‘플레이 투 언’ 열풍 이끈 엑시인피니티, 그 배경엔 ‘장학금’이 있다]]></title>
             <link>https://n.news.naver.com/article/138/0002112784</link>
             <guid>https://n.news.naver.com/article/138/0002112784</guid>
             <pubDate>Tue, 02 Nov 2021 05:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112784.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 26 Oct 2021 08:20:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112319.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아로와나토큰 비자금 의혹 해명불구…빗썸 유의 종목지정·가격급락]]></title>
-            <link>https://n.news.naver.com/article/138/0002112304</link>
-            <guid>https://n.news.naver.com/article/138/0002112304</guid>
-            <pubDate>Tue, 26 Oct 2021 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/26/2112304.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
