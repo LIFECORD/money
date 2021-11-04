@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 00:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 02:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 이스포츠 구단 나스닥 상장 1호 기업, 페이즈 클랜 (FaZe Clan)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117873</link>
+            <guid>https://www.snek.ai/alpha/opinion/117873</guid>
+            <pubDate>Thu, 04 Nov 2021 02:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스캇 갤러웨이 교수의 리테일 IPO 주식들에 대한 투자 예언록]]></title>
             <link>https://www.snek.ai/alpha/opinion/117872</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Nov 2021 23:18:02 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ETF와 Sector 대형주를 활용한 USA Monthly Market Update_2021.10]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117842</link>
-            <guid>https://www.snek.ai/alpha/opinion/117842</guid>
-            <pubDate>Mon, 01 Nov 2021 14:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[파이스트]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

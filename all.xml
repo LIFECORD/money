@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 00:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 02:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1496,11 +1496,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[BTS NFT 나온다…하이브, NFT 사업 진출 공식화한 배경은? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002112916</link>
+            <guid>https://n.news.naver.com/article/138/0002112916</guid>
+            <pubDate>Thu, 04 Nov 2021 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>42분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/04/2112916.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NFT NYC] '베스트 NFT 플랫폼' 선정된 오리진 프로토콜, “NFT를 주류로 만들 것” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002112902</link>
             <guid>https://n.news.naver.com/article/138/0002112902</guid>
             <pubDate>Wed, 03 Nov 2021 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/03/2112902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1532,7 +1540,7 @@
             <link>https://n.news.naver.com/article/138/0002112620</link>
             <guid>https://n.news.naver.com/article/138/0002112620</guid>
             <pubDate>Sun, 31 Oct 2021 02:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/31/2112620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1608,12 +1616,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11월 예정된 비트코인 업그레이드 ‘탭루트’, 가격에 선반영됐나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002112356</link>
-            <guid>https://n.news.naver.com/article/138/0002112356</guid>
-            <pubDate>Wed, 27 Oct 2021 02:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112356.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[미국 이스포츠 구단 나스닥 상장 1호 기업, 페이즈 클랜 (FaZe Clan) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117873</link>
+            <guid>https://www.snek.ai/alpha/opinion/117873</guid>
+            <pubDate>Thu, 04 Nov 2021 02:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스캇 갤러웨이 교수의 리테일 IPO 주식들에 대한 투자 예언록 (스넥)]]></title>
@@ -1686,14 +1694,6 @@
             <pubDate>Mon, 01 Nov 2021 23:18:02 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ETF와 Sector 대형주를 활용한 USA Monthly Market Update_2021.10 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117842</link>
-            <guid>https://www.snek.ai/alpha/opinion/117842</guid>
-            <pubDate>Mon, 01 Nov 2021 14:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[파이스트]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
