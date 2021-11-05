@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 00:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 02:00:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021년 하반기 밈 주식 군단 선봉에 선 트럼프 스팩 DWAC]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117877</link>
+            <guid>https://www.snek.ai/alpha/opinion/117877</guid>
+            <pubDate>Fri, 05 Nov 2021 02:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅테크 기업 3분기 실적 정리(구글, 마이크로소프트, 애플, 아마존)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117870</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[그린 메일 (Green Mail) 반전 드라마: 마이클 델 vs. 칼 아이칸]]></title>
             <link>https://www.snek.ai/alpha/opinion/117845</link>
             <guid>https://www.snek.ai/alpha/opinion/117845</guid>
-            <pubDate>Fri, 05 Nov 2021 00:52:42 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브 스루 & 테이크아웃 커피 브랜드, 더치 브로스 (Dutch Bros: BROS)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117844</link>
-            <guid>https://www.snek.ai/alpha/opinion/117844</guid>
             <pubDate>Fri, 05 Nov 2021 00:52:42 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>

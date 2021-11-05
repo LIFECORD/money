@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 00:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 02:00:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1500,7 +1500,7 @@
             <link>https://n.news.naver.com/article/138/0002112930</link>
             <guid>https://n.news.naver.com/article/138/0002112930</guid>
             <pubDate>Thu, 04 Nov 2021 03:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/04/2112930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1508,7 +1508,7 @@
             <link>https://n.news.naver.com/article/138/0002112916</link>
             <guid>https://n.news.naver.com/article/138/0002112916</guid>
             <pubDate>Thu, 04 Nov 2021 02:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/04/2112916.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1540,7 +1540,7 @@
             <link>https://n.news.naver.com/article/138/0002112620</link>
             <guid>https://n.news.naver.com/article/138/0002112620</guid>
             <pubDate>Sun, 31 Oct 2021 02:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/31/2112620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002112552</link>
             <guid>https://n.news.naver.com/article/138/0002112552</guid>
             <pubDate>Thu, 04 Nov 2021 16:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112552.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1614,6 +1614,14 @@
             <pubDate>Tue, 02 Nov 2021 16:25:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/27/2112415.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 하반기 밈 주식 군단 선봉에 선 트럼프 스팩 DWAC (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117877</link>
+            <guid>https://www.snek.ai/alpha/opinion/117877</guid>
+            <pubDate>Fri, 05 Nov 2021 02:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빅테크 기업 3분기 실적 정리(구글, 마이크로소프트, 애플, 아마존) (스넥)]]></title>
@@ -1683,14 +1691,6 @@
             <title><![CDATA[그린 메일 (Green Mail) 반전 드라마: 마이클 델 vs. 칼 아이칸 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117845</link>
             <guid>https://www.snek.ai/alpha/opinion/117845</guid>
-            <pubDate>Fri, 05 Nov 2021 00:52:42 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브 스루 & 테이크아웃 커피 브랜드, 더치 브로스 (Dutch Bros: BROS) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117844</link>
-            <guid>https://www.snek.ai/alpha/opinion/117844</guid>
             <pubDate>Fri, 05 Nov 2021 00:52:42 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
