@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2021-11-07T07:16:39.644Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 07 Nov 2021 08:19:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모든 걸 가져가게 될 생존자! - 디지털대성]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117886</link>
+            <guid>https://www.snek.ai/alpha/opinion/117886</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버블의 끝이 아닌 전반전!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117888</link>
+            <guid>https://www.snek.ai/alpha/opinion/117888</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[주가 대 폭락은 언제 일어날 것인가]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117885</link>
+            <guid>https://www.snek.ai/alpha/opinion/117885</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너무 오른 미국 주식... 아직 안 오른 종목은 없을까? 트윌리오(TWLO) 알아보기]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117880</link>
+            <guid>https://www.snek.ai/alpha/opinion/117880</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[오명근]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 하반기 밈 주식 군단 선봉에 선 트럼프 스팩 DWAC]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117877</link>
+            <guid>https://www.snek.ai/alpha/opinion/117877</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅테크 기업 3분기 실적 정리(구글, 마이크로소프트, 애플, 아마존)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117870</link>
+            <guid>https://www.snek.ai/alpha/opinion/117870</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[오명근]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 이스포츠 구단 나스닥 상장 1호 기업, 페이즈 클랜 (FaZe Clan)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117873</link>
+            <guid>https://www.snek.ai/alpha/opinion/117873</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스캇 갤러웨이 교수의 리테일 IPO 주식들에 대한 투자 예언록]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117872</link>
+            <guid>https://www.snek.ai/alpha/opinion/117872</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스칼렛 요한슨 법적 소송건으로 재조명받는 디즈니 기업 알람 신호]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117871</link>
+            <guid>https://www.snek.ai/alpha/opinion/117871</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNAP 폭락의 이유! 굉장히 중요함!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117869</link>
+            <guid>https://www.snek.ai/alpha/opinion/117869</guid>
+            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[오명근]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
