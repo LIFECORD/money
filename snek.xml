@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 22:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 23:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위드 코로나 국면: 이제 '럭셔리 투자 전략'에도 '리밸런싱'이 필요하다!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117890</link>
+            <guid>https://www.snek.ai/alpha/opinion/117890</guid>
+            <pubDate>Sun, 07 Nov 2021 23:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모든 걸 가져가게 될 생존자! - 디지털대성]]></title>
             <link>https://www.snek.ai/alpha/opinion/117886</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNAP 폭락의 이유! 굉장히 중요함!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117869</link>
-            <guid>https://www.snek.ai/alpha/opinion/117869</guid>
-            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[오명근]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
