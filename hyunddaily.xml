@@ -4,9 +4,17 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 01:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 02:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 블록체인] NFT가 미래일까?…세계 최대 NFT 컨퍼런스 ‘NFT NYC’ 총정리]]></title>
+            <link>https://n.news.naver.com/article/138/0002113135</link>
+            <guid>https://n.news.naver.com/article/138/0002113135</guid>
+            <pubDate>Mon, 08 Nov 2021 02:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113135.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 국내 대표 크립토펀드 ‘해시드’의 미국 투자는 이렇게 이루어진다 [NFT NYC]]]></title>
             <link>https://n.news.naver.com/article/138/0002113091</link>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/138/0002112664</link>
             <guid>https://n.news.naver.com/article/138/0002112664</guid>
             <pubDate>Sun, 07 Nov 2021 15:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/01/2112664.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 28 Oct 2021 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112501.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 가상자산 과세 ‘밀어붙이기’…조세 저항 심화]]></title>
-            <link>https://n.news.naver.com/article/138/0002112472</link>
-            <guid>https://n.news.naver.com/article/138/0002112472</guid>
-            <pubDate>Thu, 28 Oct 2021 06:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112472.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
