@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 03:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 04:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1026 가계부채 관리방안, 부동산/주식시장에 미치는 영향!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117892</link>
+            <guid>https://www.snek.ai/alpha/opinion/117892</guid>
+            <pubDate>Mon, 08 Nov 2021 04:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[치솟는 실적과 다가오는 삼성전자 투자! - GST]]></title>
             <link>https://www.snek.ai/alpha/opinion/117893</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅테크 기업 3분기 실적 정리(구글, 마이크로소프트, 애플, 아마존)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117870</link>
-            <guid>https://www.snek.ai/alpha/opinion/117870</guid>
-            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[오명근]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
