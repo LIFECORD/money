@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 06:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 07:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스타트업 만난 이재명⑤] 이재명 "가상자산 시장 활성화해야"]]></title>
+            <link>https://n.news.naver.com/article/138/0002113155</link>
+            <guid>https://n.news.naver.com/article/138/0002113155</guid>
+            <pubDate>Mon, 08 Nov 2021 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113155.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 블록체인] NFT가 미래일까?…세계 최대 NFT 컨퍼런스 ‘NFT NYC’ 총정리]]></title>
             <link>https://n.news.naver.com/article/138/0002113135</link>
             <guid>https://n.news.naver.com/article/138/0002113135</guid>
             <pubDate>Mon, 08 Nov 2021 02:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 04 Nov 2021 16:25:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112552.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["ICO도 제도권으로"…윤창현 의원, '가상자산산업기본법' 발의]]></title>
-            <link>https://n.news.naver.com/article/138/0002112501</link>
-            <guid>https://n.news.naver.com/article/138/0002112501</guid>
-            <pubDate>Thu, 28 Oct 2021 09:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/28/2112501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
