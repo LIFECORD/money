@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 14:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 15:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002113178</link>
             <guid>https://n.news.naver.com/article/138/0002113178</guid>
             <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002113177</link>
             <guid>https://n.news.naver.com/article/138/0002113177</guid>
             <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113177.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,16 +28,8 @@
             <link>https://n.news.naver.com/article/138/0002113155</link>
             <guid>https://n.news.naver.com/article/138/0002113155</guid>
             <pubDate>Mon, 08 Nov 2021 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113155.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] NFT가 미래일까?…세계 최대 NFT 컨퍼런스 ‘NFT NYC’ 총정리]]></title>
-            <link>https://n.news.naver.com/article/138/0002113135</link>
-            <guid>https://n.news.naver.com/article/138/0002113135</guid>
-            <pubDate>Mon, 08 Nov 2021 02:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 국내 대표 크립토펀드 ‘해시드’의 미국 투자는 이렇게 이루어진다 [NFT NYC]]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 02 Nov 2021 05:15:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112784.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[르포] 타임스퀘어를 꽉 채운 NFT 광고들…NFT가 집어삼킨 뉴욕 [NFT NYC]]]></title>
+            <link>https://n.news.naver.com/article/138/0002112768</link>
+            <guid>https://n.news.naver.com/article/138/0002112768</guid>
+            <pubDate>Mon, 08 Nov 2021 15:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/02/2112768.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NFT NYC] NFT 시장 급성장…세계 최대 NFT 컨퍼런스, 오프라인 개막]]></title>
