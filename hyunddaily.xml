@@ -4,23 +4,31 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 09:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 10:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[단독] SM엔터테인먼트, NFT 사업 진출…블록체인 플랫폼 ‘솔라나’ 활용 가능성]]></title>
-            <link>https://n.news.naver.com/article/138/0002113170</link>
-            <guid>https://n.news.naver.com/article/138/0002113170</guid>
-            <pubDate>Mon, 08 Nov 2021 08:20:57 GMT</pubDate>
+            <title><![CDATA[주택담보대출 비교 플랫폼 담비,온라인 대출판매대리∙중개 등록 완료]]></title>
+            <link>https://n.news.naver.com/article/138/0002113178</link>
+            <guid>https://n.news.naver.com/article/138/0002113178</guid>
+            <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113170.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113178.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안기업 에이넥스코리아, KT와 IDC 구축 위한 업무협약]]></title>
+            <link>https://n.news.naver.com/article/138/0002113177</link>
+            <guid>https://n.news.naver.com/article/138/0002113177</guid>
+            <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113177.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스타트업 만난 이재명⑤] 이재명 "가상자산 시장 활성화해야"]]></title>
             <link>https://n.news.naver.com/article/138/0002113155</link>
             <guid>https://n.news.naver.com/article/138/0002113155</guid>
             <pubDate>Mon, 08 Nov 2021 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113155.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002113135</link>
             <guid>https://n.news.naver.com/article/138/0002113135</guid>
             <pubDate>Mon, 08 Nov 2021 02:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -56,6 +64,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/05/2113036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NFT NYC] 뉴욕에 등장한 ‘컴투스 포트폴리오’…메타버스부터 스포츠 NFT까지]]></title>
+            <link>https://n.news.naver.com/article/138/0002112930</link>
+            <guid>https://n.news.naver.com/article/138/0002112930</guid>
+            <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/04/2112930.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS NFT 나온다…하이브, NFT 사업 진출 공식화한 배경은?]]></title>
             <link>https://n.news.naver.com/article/138/0002112916</link>
             <guid>https://n.news.naver.com/article/138/0002112916</guid>
@@ -68,7 +84,7 @@
             <link>https://n.news.naver.com/article/138/0002112902</link>
             <guid>https://n.news.naver.com/article/138/0002112902</guid>
             <pubDate>Wed, 03 Nov 2021 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/03/2112902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 29 Oct 2021 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112588.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K리그, 블록체인 기반 메타버스서 본다]]></title>
-            <link>https://n.news.naver.com/article/138/0002112561</link>
-            <guid>https://n.news.naver.com/article/138/0002112561</guid>
-            <pubDate>Fri, 29 Oct 2021 04:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112561.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘루프, 블록체인 기반 선박검사관리 플랫폼 구축]]></title>
-            <link>https://n.news.naver.com/article/138/0002112558</link>
-            <guid>https://n.news.naver.com/article/138/0002112558</guid>
-            <pubDate>Fri, 29 Oct 2021 03:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
