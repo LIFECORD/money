@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2021-11-09T08:20:53.856Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 09 Nov 2021 09:17:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유명 헤지펀드 스타보드 밸류 추천주 (윌리스 타워스 왓슨과 코르테바)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117897</link>
+            <guid>https://www.snek.ai/alpha/opinion/117897</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다모다란 교수님의 테슬라 기업 벨류에이션 업데이트]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117896</link>
+            <guid>https://www.snek.ai/alpha/opinion/117896</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1026 가계부채 관리방안, 부동산/주식시장에 미치는 영향!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117892</link>
+            <guid>https://www.snek.ai/alpha/opinion/117892</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치솟는 실적과 다가오는 삼성전자 투자! - GST]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117893</link>
+            <guid>https://www.snek.ai/alpha/opinion/117893</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이스북이 제공할 VR의 세계]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117884</link>
+            <guid>https://www.snek.ai/alpha/opinion/117884</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금리인상 시기 아직 우려 하지 않아도 되는 시기!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117889</link>
+            <guid>https://www.snek.ai/alpha/opinion/117889</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[위드 코로나 국면: 이제 '럭셔리 투자 전략'에도 '리밸런싱'이 필요하다!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117890</link>
+            <guid>https://www.snek.ai/alpha/opinion/117890</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모든 걸 가져가게 될 생존자! - 디지털대성]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117886</link>
+            <guid>https://www.snek.ai/alpha/opinion/117886</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버블의 끝이 아닌 전반전!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117888</link>
+            <guid>https://www.snek.ai/alpha/opinion/117888</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[주가 대 폭락은 언제 일어날 것인가]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117885</link>
+            <guid>https://www.snek.ai/alpha/opinion/117885</guid>
+            <pubDate>Tue, 09 Nov 2021 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
