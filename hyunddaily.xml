@@ -4,9 +4,17 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 01:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 02:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컨콜] NHN페이코 "대학 기반 오프라인 결제 확대 추진"]]></title>
+            <link>https://n.news.naver.com/article/138/0002113203</link>
+            <guid>https://n.news.naver.com/article/138/0002113203</guid>
+            <pubDate>Tue, 09 Nov 2021 02:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>18분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113203.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주택담보대출 비교 플랫폼 담비,온라인 대출판매대리∙중개 등록 완료]]></title>
             <link>https://n.news.naver.com/article/138/0002113178</link>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002113155</link>
             <guid>https://n.news.naver.com/article/138/0002113155</guid>
             <pubDate>Mon, 08 Nov 2021 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113155.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 31 Oct 2021 02:02:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/31/2112620.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["NFT 통한 자금세탁, 일반 가상자산보다 쉬워…리스크 관리 필요"]]></title>
-            <link>https://n.news.naver.com/article/138/0002112588</link>
-            <guid>https://n.news.naver.com/article/138/0002112588</guid>
-            <pubDate>Fri, 29 Oct 2021 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112588.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
