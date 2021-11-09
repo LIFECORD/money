@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 00:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 01:59:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1500,7 +1500,7 @@
             <link>https://n.news.naver.com/article/138/0002113178</link>
             <guid>https://n.news.naver.com/article/138/0002113178</guid>
             <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1508,7 +1508,7 @@
             <link>https://n.news.naver.com/article/138/0002113177</link>
             <guid>https://n.news.naver.com/article/138/0002113177</guid>
             <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113177.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1516,7 +1516,7 @@
             <link>https://n.news.naver.com/article/138/0002113155</link>
             <guid>https://n.news.naver.com/article/138/0002113155</guid>
             <pubDate>Mon, 08 Nov 2021 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113155.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1524,7 +1524,7 @@
             <link>https://n.news.naver.com/article/138/0002113091</link>
             <guid>https://n.news.naver.com/article/138/0002113091</guid>
             <pubDate>Sun, 07 Nov 2021 02:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/07/2113091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002112916</link>
             <guid>https://n.news.naver.com/article/138/0002112916</guid>
             <pubDate>Thu, 04 Nov 2021 02:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/04/2112916.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1614,6 +1614,14 @@
             <pubDate>Fri, 29 Oct 2021 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/10/29/2112588.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다모다란 교수님의 테슬라 기업 벨류에이션 업데이트 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117896</link>
+            <guid>https://www.snek.ai/alpha/opinion/117896</guid>
+            <pubDate>Tue, 09 Nov 2021 01:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1026 가계부채 관리방안, 부동산/주식시장에 미치는 영향! (스넥)]]></title>
@@ -1686,14 +1694,6 @@
             <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
             <content:encoded><![CDATA[오명근]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 하반기 밈 주식 군단 선봉에 선 트럼프 스팩 DWAC (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117877</link>
-            <guid>https://www.snek.ai/alpha/opinion/117877</guid>
-            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

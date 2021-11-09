@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 00:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 01:59:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다모다란 교수님의 테슬라 기업 벨류에이션 업데이트]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117896</link>
+            <guid>https://www.snek.ai/alpha/opinion/117896</guid>
+            <pubDate>Tue, 09 Nov 2021 01:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1026 가계부채 관리방안, 부동산/주식시장에 미치는 영향!]]></title>
             <link>https://www.snek.ai/alpha/opinion/117892</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
             <content:encoded><![CDATA[오명근]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 하반기 밈 주식 군단 선봉에 선 트럼프 스팩 DWAC]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117877</link>
-            <guid>https://www.snek.ai/alpha/opinion/117877</guid>
-            <pubDate>Sun, 07 Nov 2021 08:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
