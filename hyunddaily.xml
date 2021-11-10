@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 09:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 10:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해시드표 NFT 프로젝트 '다바프로젝트' 출범…옷·헬멧으로 아바타 조합]]></title>
+            <link>https://n.news.naver.com/article/138/0002113342</link>
+            <guid>https://n.news.naver.com/article/138/0002113342</guid>
+            <pubDate>Wed, 10 Nov 2021 10:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113342.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 활용한 스마트팩토리, 제조산업 트렌드 됐다…오라클, 웨비나 개최]]></title>
             <link>https://n.news.naver.com/article/138/0002113334</link>
             <guid>https://n.news.naver.com/article/138/0002113334</guid>
             <pubDate>Wed, 10 Nov 2021 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002113328</link>
             <guid>https://n.news.naver.com/article/138/0002113328</guid>
             <pubDate>Wed, 10 Nov 2021 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>50분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002113312</link>
             <guid>https://n.news.naver.com/article/138/0002113312</guid>
             <pubDate>Wed, 10 Nov 2021 07:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002113263</link>
             <guid>https://n.news.naver.com/article/138/0002113263</guid>
             <pubDate>Tue, 09 Nov 2021 11:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113263.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002113178</link>
             <guid>https://n.news.naver.com/article/138/0002113178</guid>
             <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002113177</link>
             <guid>https://n.news.naver.com/article/138/0002113177</guid>
             <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113177.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,16 +124,8 @@
             <link>https://n.news.naver.com/article/138/0002113072</link>
             <guid>https://n.news.naver.com/article/138/0002113072</guid>
             <pubDate>Fri, 05 Nov 2021 09:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/05/2113072.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 플레이댑은 왜 부산행이 아닌 ‘뉴욕행’을 택했을까 [NFT NYC]]]></title>
-            <link>https://n.news.naver.com/article/138/0002113036</link>
-            <guid>https://n.news.naver.com/article/138/0002113036</guid>
-            <pubDate>Fri, 05 Nov 2021 05:15:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/05/2113036.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/05/2113072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
