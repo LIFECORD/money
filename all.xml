@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 12:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 13:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1532,7 +1532,7 @@
             <link>https://n.news.naver.com/article/138/0002113438</link>
             <guid>https://n.news.naver.com/article/138/0002113438</guid>
             <pubDate>Thu, 11 Nov 2021 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113438.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1540,7 +1540,7 @@
             <link>https://n.news.naver.com/article/138/0002113397</link>
             <guid>https://n.news.naver.com/article/138/0002113397</guid>
             <pubDate>Thu, 11 Nov 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113397.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1646,6 +1646,86 @@
             <pubDate>Mon, 08 Nov 2021 07:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113155.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 최대 백화점 기업, 메이시스 (Macy’s) 를 둘러싼 흥미로운 시장 이벤트 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117908</link>
+            <guid>https://www.snek.ai/alpha/opinion/117908</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흥미로운 일론 머스크 통계 수치들 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117907</link>
+            <guid>https://www.snek.ai/alpha/opinion/117907</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[느끼는 카메라 ㈜나무가 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117906</link>
+            <guid>https://www.snek.ai/alpha/opinion/117906</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야누스의 얼굴을 지닌 자사주매입 (Stock Buyback) 정책 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117904</link>
+            <guid>https://www.snek.ai/alpha/opinion/117904</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 헤지펀드가 가장 선호하는 15가지 주식 필터링 접근법 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117902</link>
+            <guid>https://www.snek.ai/alpha/opinion/117902</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 헤지펀드 스타보드 밸류 추천주 (윌리스 타워스 왓슨과 코르테바) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117897</link>
+            <guid>https://www.snek.ai/alpha/opinion/117897</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다모다란 교수님의 테슬라 기업 벨류에이션 업데이트 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117896</link>
+            <guid>https://www.snek.ai/alpha/opinion/117896</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1026 가계부채 관리방안, 부동산/주식시장에 미치는 영향! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117892</link>
+            <guid>https://www.snek.ai/alpha/opinion/117892</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치솟는 실적과 다가오는 삼성전자 투자! - GST (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117893</link>
+            <guid>https://www.snek.ai/alpha/opinion/117893</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이스북이 제공할 VR의 세계 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117884</link>
+            <guid>https://www.snek.ai/alpha/opinion/117884</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
