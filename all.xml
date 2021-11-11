@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 02:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 02:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1532,7 +1532,7 @@
             <link>https://n.news.naver.com/article/138/0002113342</link>
             <guid>https://n.news.naver.com/article/138/0002113342</guid>
             <pubDate>Wed, 10 Nov 2021 10:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113342.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1540,7 +1540,7 @@
             <link>https://n.news.naver.com/article/138/0002113334</link>
             <guid>https://n.news.naver.com/article/138/0002113334</guid>
             <pubDate>Wed, 10 Nov 2021 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1548,7 +1548,7 @@
             <link>https://n.news.naver.com/article/138/0002113328</link>
             <guid>https://n.news.naver.com/article/138/0002113328</guid>
             <pubDate>Wed, 10 Nov 2021 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002113312</link>
             <guid>https://n.news.naver.com/article/138/0002113312</guid>
             <pubDate>Wed, 10 Nov 2021 07:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1604,7 @@
             <link>https://n.news.naver.com/article/138/0002113203</link>
             <guid>https://n.news.naver.com/article/138/0002113203</guid>
             <pubDate>Tue, 09 Nov 2021 02:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113203.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,7 +1636,7 @@
             <link>https://n.news.naver.com/article/138/0002113091</link>
             <guid>https://n.news.naver.com/article/138/0002113091</guid>
             <pubDate>Sun, 07 Nov 2021 02:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/07/2113091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1646,6 +1646,22 @@
             <pubDate>Fri, 05 Nov 2021 09:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/05/2113072.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 최대 백화점 기업, 메이시스 (Macy’s) 를 둘러싼 흥미로운 시장 이벤트 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117908</link>
+            <guid>https://www.snek.ai/alpha/opinion/117908</guid>
+            <pubDate>Thu, 11 Nov 2021 02:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흥미로운 일론 머스크 통계 수치들 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117907</link>
+            <guid>https://www.snek.ai/alpha/opinion/117907</guid>
+            <pubDate>Thu, 11 Nov 2021 02:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[느끼는 카메라 ㈜나무가 (스넥)]]></title>
@@ -1710,22 +1726,6 @@
             <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
             <content:encoded><![CDATA[김 재환]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금리인상 시기 아직 우려 하지 않아도 되는 시기! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117889</link>
-            <guid>https://www.snek.ai/alpha/opinion/117889</guid>
-            <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[위드 코로나 국면: 이제 '럭셔리 투자 전략'에도 '리밸런싱'이 필요하다! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117890</link>
-            <guid>https://www.snek.ai/alpha/opinion/117890</guid>
-            <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

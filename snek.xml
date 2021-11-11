@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 02:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 02:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 최대 백화점 기업, 메이시스 (Macy’s) 를 둘러싼 흥미로운 시장 이벤트]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117908</link>
+            <guid>https://www.snek.ai/alpha/opinion/117908</guid>
+            <pubDate>Thu, 11 Nov 2021 02:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흥미로운 일론 머스크 통계 수치들]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117907</link>
+            <guid>https://www.snek.ai/alpha/opinion/117907</guid>
+            <pubDate>Thu, 11 Nov 2021 02:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[느끼는 카메라 ㈜나무가]]></title>
             <link>https://www.snek.ai/alpha/opinion/117906</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
             <content:encoded><![CDATA[김 재환]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금리인상 시기 아직 우려 하지 않아도 되는 시기!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117889</link>
-            <guid>https://www.snek.ai/alpha/opinion/117889</guid>
-            <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[위드 코로나 국면: 이제 '럭셔리 투자 전략'에도 '리밸런싱'이 필요하다!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117890</link>
-            <guid>https://www.snek.ai/alpha/opinion/117890</guid>
-            <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
