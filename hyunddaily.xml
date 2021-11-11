@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 02:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 03:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국내 게임사×NFT③] 컴투스의 ‘블록체인 메타버스’는 어떤 모습일까]]></title>
+            <link>https://n.news.naver.com/article/138/0002113397</link>
+            <guid>https://n.news.naver.com/article/138/0002113397</guid>
+            <pubDate>Thu, 11 Nov 2021 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>52분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113397.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해시드표 NFT 프로젝트 '다바프로젝트' 출범…옷·헬멧으로 아바타 조합]]></title>
             <link>https://n.news.naver.com/article/138/0002113342</link>
             <guid>https://n.news.naver.com/article/138/0002113342</guid>
             <pubDate>Wed, 10 Nov 2021 10:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113342.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002113334</link>
             <guid>https://n.news.naver.com/article/138/0002113334</guid>
             <pubDate>Wed, 10 Nov 2021 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002113328</link>
             <guid>https://n.news.naver.com/article/138/0002113328</guid>
             <pubDate>Wed, 10 Nov 2021 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002113312</link>
             <guid>https://n.news.naver.com/article/138/0002113312</guid>
             <pubDate>Wed, 10 Nov 2021 07:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 07 Nov 2021 02:02:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/07/2113091.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NFT NYC] ‘플레이 투 언’ 시초 엑시인피니티, 컨퍼런스서 환영받은 이유는]]></title>
-            <link>https://n.news.naver.com/article/138/0002113072</link>
-            <guid>https://n.news.naver.com/article/138/0002113072</guid>
-            <pubDate>Fri, 05 Nov 2021 09:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/05/2113072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
