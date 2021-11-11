@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 23:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 00:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[느끼는 카메라 ㈜나무가]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117906</link>
+            <guid>https://www.snek.ai/alpha/opinion/117906</guid>
+            <pubDate>Thu, 11 Nov 2021 00:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야누스의 얼굴을 지닌 자사주매입 (Stock Buyback) 정책]]></title>
             <link>https://www.snek.ai/alpha/opinion/117904</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
             <content:encoded><![CDATA[한대희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 걸 가져가게 될 생존자! - 디지털대성]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117886</link>
-            <guid>https://www.snek.ai/alpha/opinion/117886</guid>
-            <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

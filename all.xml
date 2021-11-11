@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 23:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 00:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1532,7 +1532,7 @@
             <link>https://n.news.naver.com/article/138/0002113342</link>
             <guid>https://n.news.naver.com/article/138/0002113342</guid>
             <pubDate>Wed, 10 Nov 2021 10:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113342.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1540,7 +1540,7 @@
             <link>https://n.news.naver.com/article/138/0002113334</link>
             <guid>https://n.news.naver.com/article/138/0002113334</guid>
             <pubDate>Wed, 10 Nov 2021 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1548,7 +1548,7 @@
             <link>https://n.news.naver.com/article/138/0002113328</link>
             <guid>https://n.news.naver.com/article/138/0002113328</guid>
             <pubDate>Wed, 10 Nov 2021 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002113312</link>
             <guid>https://n.news.naver.com/article/138/0002113312</guid>
             <pubDate>Wed, 10 Nov 2021 07:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1648,6 +1648,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/05/2113072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[느끼는 카메라 ㈜나무가 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117906</link>
+            <guid>https://www.snek.ai/alpha/opinion/117906</guid>
+            <pubDate>Thu, 11 Nov 2021 00:54:25 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[야누스의 얼굴을 지닌 자사주매입 (Stock Buyback) 정책 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117904</link>
             <guid>https://www.snek.ai/alpha/opinion/117904</guid>
@@ -1718,14 +1726,6 @@
             <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
             <content:encoded><![CDATA[한대희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 걸 가져가게 될 생존자! - 디지털대성 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117886</link>
-            <guid>https://www.snek.ai/alpha/opinion/117886</guid>
-            <pubDate>Tue, 09 Nov 2021 13:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
