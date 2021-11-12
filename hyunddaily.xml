@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 06:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 07:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['3호 거래소' 된 코인원…같은 은행 쓰는 빗썸은 '보류']]></title>
+            <link>https://n.news.naver.com/article/138/0002113481</link>
+            <guid>https://n.news.naver.com/article/138/0002113481</guid>
+            <pubDate>Fri, 12 Nov 2021 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>20분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113481.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IP 확보 집중‧플랫폼부터 마련…비슷한듯 다른 거래소 별 NFT 사업전략]]></title>
             <link>https://n.news.naver.com/article/138/0002113467</link>
             <guid>https://n.news.naver.com/article/138/0002113467</guid>
             <pubDate>Fri, 12 Nov 2021 03:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113467.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 09 Nov 2021 02:34:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113203.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주택담보대출 비교 플랫폼 담비,온라인 대출판매대리∙중개 등록 완료]]></title>
-            <link>https://n.news.naver.com/article/138/0002113178</link>
-            <guid>https://n.news.naver.com/article/138/0002113178</guid>
-            <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
