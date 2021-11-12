@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 02:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 03:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IP 확보 집중‧플랫폼부터 마련…비슷한듯 다른 거래소 별 NFT 사업전략]]></title>
+            <link>https://n.news.naver.com/article/138/0002113467</link>
+            <guid>https://n.news.naver.com/article/138/0002113467</guid>
+            <pubDate>Fri, 12 Nov 2021 03:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>35분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113467.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오라클 "머신러닝으로 제조업 디지털전환·스마트팩토리 지원"]]></title>
             <link>https://n.news.naver.com/article/138/0002113453</link>
             <guid>https://n.news.naver.com/article/138/0002113453</guid>
             <pubDate>Fri, 12 Nov 2021 00:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113453.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002113438</link>
             <guid>https://n.news.naver.com/article/138/0002113438</guid>
             <pubDate>Thu, 11 Nov 2021 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113438.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113178.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보안기업 에이넥스코리아, KT와 IDC 구축 위한 업무협약]]></title>
-            <link>https://n.news.naver.com/article/138/0002113177</link>
-            <guid>https://n.news.naver.com/article/138/0002113177</guid>
-            <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113177.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
