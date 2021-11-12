@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 07:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 08:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["일본 17만 이용자에 라인프렌즈 NFT"…라인, 데브데이 개최]]></title>
+            <link>https://n.news.naver.com/article/138/0002113487</link>
+            <guid>https://n.news.naver.com/article/138/0002113487</guid>
+            <pubDate>Fri, 12 Nov 2021 08:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>35분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113487.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['3호 거래소' 된 코인원…같은 은행 쓰는 빗썸은 '보류']]></title>
             <link>https://n.news.naver.com/article/138/0002113481</link>
             <guid>https://n.news.naver.com/article/138/0002113481</guid>
             <pubDate>Fri, 12 Nov 2021 07:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002113467</link>
             <guid>https://n.news.naver.com/article/138/0002113467</guid>
             <pubDate>Fri, 12 Nov 2021 03:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113467.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002113453</link>
             <guid>https://n.news.naver.com/article/138/0002113453</guid>
             <pubDate>Fri, 12 Nov 2021 00:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113453.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002113438</link>
             <guid>https://n.news.naver.com/article/138/0002113438</guid>
             <pubDate>Thu, 11 Nov 2021 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113438.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/138/0002113334</link>
             <guid>https://n.news.naver.com/article/138/0002113334</guid>
             <pubDate>Wed, 10 Nov 2021 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/138/0002113328</link>
             <guid>https://n.news.naver.com/article/138/0002113328</guid>
             <pubDate>Wed, 10 Nov 2021 08:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002113245</link>
             <guid>https://n.news.naver.com/article/138/0002113245</guid>
             <pubDate>Tue, 09 Nov 2021 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113245.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/138/0002113239</link>
             <guid>https://n.news.naver.com/article/138/0002113239</guid>
             <pubDate>Tue, 09 Nov 2021 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 09 Nov 2021 06:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113223.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] NHN페이코 "대학 기반 오프라인 결제 확대 추진"]]></title>
-            <link>https://n.news.naver.com/article/138/0002113203</link>
-            <guid>https://n.news.naver.com/article/138/0002113203</guid>
-            <pubDate>Tue, 09 Nov 2021 02:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113203.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
