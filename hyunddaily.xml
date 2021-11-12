@@ -4,23 +4,31 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 23:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 00:55:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오라클 "머신러닝으로 제조업 디지털전환·스마트팩토리 지원"]]></title>
+            <link>https://n.news.naver.com/article/138/0002113453</link>
+            <guid>https://n.news.naver.com/article/138/0002113453</guid>
+            <pubDate>Fri, 12 Nov 2021 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113453.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재명 "가상자산 과세 1년 유예·공제한도 상향" 공약…청년 표심 공략]]></title>
             <link>https://n.news.naver.com/article/138/0002113438</link>
             <guid>https://n.news.naver.com/article/138/0002113438</guid>
             <pubDate>Thu, 11 Nov 2021 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113438.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[국내 게임사×NFT③] 컴투스의 ‘블록체인 메타버스’는 어떤 모습일까]]></title>
+            <title><![CDATA[[NFT×국내 게임사③] 컴투스의 ‘블록체인 메타버스’는 어떤 모습일까]]></title>
             <link>https://n.news.naver.com/article/138/0002113397</link>
             <guid>https://n.news.naver.com/article/138/0002113397</guid>
             <pubDate>Thu, 11 Nov 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113397.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 Nov 2021 10:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113177.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타트업 만난 이재명⑤] 이재명 "가상자산 시장 활성화해야"]]></title>
-            <link>https://n.news.naver.com/article/138/0002113155</link>
-            <guid>https://n.news.naver.com/article/138/0002113155</guid>
-            <pubDate>Mon, 08 Nov 2021 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/08/2113155.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
