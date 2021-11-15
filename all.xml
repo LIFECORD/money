@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1528,11 +1528,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[비트코인 4년만의 업그레이드 '탭루트' 활성화…어떤 영향 미칠까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002113566</link>
+            <guid>https://n.news.naver.com/article/138/0002113566</guid>
+            <pubDate>Mon, 15 Nov 2021 07:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113566.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NH투자증권, 마이데이터 본허가 획득…통합자산조회 서비스 제공 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002113549</link>
             <guid>https://n.news.naver.com/article/138/0002113549</guid>
             <pubDate>Mon, 15 Nov 2021 02:35:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1556,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002113481</link>
             <guid>https://n.news.naver.com/article/138/0002113481</guid>
             <pubDate>Fri, 12 Nov 2021 07:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1628,7 +1636,7 @@
             <link>https://n.news.naver.com/article/138/0002113245</link>
             <guid>https://n.news.naver.com/article/138/0002113245</guid>
             <pubDate>Tue, 09 Nov 2021 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113245.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,16 +1644,16 @@
             <link>https://n.news.naver.com/article/138/0002113239</link>
             <guid>https://n.news.naver.com/article/138/0002113239</guid>
             <pubDate>Tue, 09 Nov 2021 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[NFT×국내 게임사①] 메타버스에 ‘플레이 투 언’까지…필수가 된 NFT (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002113227</link>
-            <guid>https://n.news.naver.com/article/138/0002113227</guid>
-            <pubDate>Sun, 14 Nov 2021 15:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113227.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[요즘 뜨는 달러 투자, 주식보다 안전한가요? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117924</link>
+            <guid>https://www.snek.ai/alpha/opinion/117924</guid>
+            <pubDate>Mon, 15 Nov 2021 07:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닷컴 버블의 재연, 또는, 산업재 버블의 재연 이라면?! (스넥)]]></title>
@@ -1718,14 +1726,6 @@
             <pubDate>Mon, 15 Nov 2021 00:53:16 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느끼는 카메라 ㈜나무가 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117906</link>
-            <guid>https://www.snek.ai/alpha/opinion/117906</guid>
-            <pubDate>Mon, 15 Nov 2021 00:53:16 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

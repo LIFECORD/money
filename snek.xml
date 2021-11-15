@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 뜨는 달러 투자, 주식보다 안전한가요?]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117924</link>
+            <guid>https://www.snek.ai/alpha/opinion/117924</guid>
+            <pubDate>Mon, 15 Nov 2021 07:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닷컴 버블의 재연, 또는, 산업재 버블의 재연 이라면?!]]></title>
             <link>https://www.snek.ai/alpha/opinion/117918</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 Nov 2021 00:53:16 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느끼는 카메라 ㈜나무가]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117906</link>
-            <guid>https://www.snek.ai/alpha/opinion/117906</guid>
-            <pubDate>Mon, 15 Nov 2021 00:53:16 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
