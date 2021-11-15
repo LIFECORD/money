@@ -4,17 +4,9 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 23:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 00:53:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[주간 블록체인] ‘너도 나도’ NFT 열풍, 단순 ‘주가 상승 재료’로 전락하지 않으려면]]></title>
-            <link>https://n.news.naver.com/article/138/0002113513</link>
-            <guid>https://n.news.naver.com/article/138/0002113513</guid>
-            <pubDate>Sun, 14 Nov 2021 02:01:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/14/2113513.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[3분기 연속 ‘페이코인 효과’…다날, 코인 거래차익 덕에 최대 실적]]></title>
             <link>https://n.news.naver.com/article/138/0002113494</link>
@@ -52,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002113453</link>
             <guid>https://n.news.naver.com/article/138/0002113453</guid>
             <pubDate>Fri, 12 Nov 2021 00:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113453.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -94,6 +86,14 @@
             <pubDate>Wed, 10 Nov 2021 08:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113328.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM엔터, 자체 메타버스 플랫폼에 NFT 접목…“미래 엔터테인먼트 승부”]]></title>
+            <link>https://n.news.naver.com/article/138/0002113263</link>
+            <guid>https://n.news.naver.com/article/138/0002113263</guid>
+            <pubDate>Mon, 15 Nov 2021 00:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113263.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국공간데이터, 20억 규모 프리 시리즈A 투자 유치]]></title>
