@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 02:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 03:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NFT 감별사] ‘에스파’로 성공한 SM의 메타버스 실험, NFT로 이어질까?]]></title>
+            <link>https://n.news.naver.com/article/138/0002113627</link>
+            <guid>https://n.news.naver.com/article/138/0002113627</guid>
+            <pubDate>Tue, 16 Nov 2021 03:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>43분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/16/2113627.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라온시큐어, 영업손실 7억…적자 지속]]></title>
             <link>https://n.news.naver.com/article/138/0002113581</link>
             <guid>https://n.news.naver.com/article/138/0002113581</guid>
             <pubDate>Mon, 15 Nov 2021 08:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113581.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002113566</link>
             <guid>https://n.news.naver.com/article/138/0002113566</guid>
             <pubDate>Mon, 15 Nov 2021 07:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113566.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/138/0002113467</link>
             <guid>https://n.news.naver.com/article/138/0002113467</guid>
             <pubDate>Fri, 12 Nov 2021 03:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113467.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002113397</link>
             <guid>https://n.news.naver.com/article/138/0002113397</guid>
             <pubDate>Thu, 11 Nov 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113397.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 15 Nov 2021 00:53:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113263.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국공간데이터, 20억 규모 프리 시리즈A 투자 유치]]></title>
-            <link>https://n.news.naver.com/article/138/0002113245</link>
-            <guid>https://n.news.naver.com/article/138/0002113245</guid>
-            <pubDate>Tue, 09 Nov 2021 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/09/2113245.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
