@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 00:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 01:59:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ올리브네트웍스, 예술작품에 인공지능 접목해 NFT 발행]]></title>
+            <link>https://n.news.naver.com/article/138/0002113679</link>
+            <guid>https://n.news.naver.com/article/138/0002113679</guid>
+            <pubDate>Wed, 17 Nov 2021 01:59:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>34분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113679.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘셧다운’ 클레이튼, 2.0으로 부활할까…그라운드X, 글로벌 진출 본격화]]></title>
             <link>https://n.news.naver.com/article/138/0002113651</link>
             <guid>https://n.news.naver.com/article/138/0002113651</guid>
             <pubDate>Tue, 16 Nov 2021 06:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/16/2113651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 10 Nov 2021 08:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113328.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NFT×국내 게임사②] 위메이드, 국내에 ‘플레이 투 언’ 열풍을 몰고 오기까지]]></title>
-            <link>https://n.news.naver.com/article/138/0002113312</link>
-            <guid>https://n.news.naver.com/article/138/0002113312</guid>
-            <pubDate>Tue, 16 Nov 2021 16:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/10/2113312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
