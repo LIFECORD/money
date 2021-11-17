@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 22:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 23:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002113732</link>
             <guid>https://n.news.naver.com/article/138/0002113732</guid>
             <pubDate>Wed, 17 Nov 2021 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113732.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002113719</link>
             <guid>https://n.news.naver.com/article/138/0002113719</guid>
             <pubDate>Wed, 17 Nov 2021 07:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113719.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002113689</link>
             <guid>https://n.news.naver.com/article/138/0002113689</guid>
             <pubDate>Wed, 17 Nov 2021 02:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113689.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002113679</link>
             <guid>https://n.news.naver.com/article/138/0002113679</guid>
             <pubDate>Wed, 17 Nov 2021 01:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1672,6 +1672,30 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113397.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[핀터레스트 3분기 실적 분석. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117934</link>
+            <guid>https://www.snek.ai/alpha/opinion/117934</guid>
+            <pubDate>Wed, 17 Nov 2021 23:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[오명근]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유가는 앞으로도 상승할 것이다? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117932</link>
+            <guid>https://www.snek.ai/alpha/opinion/117932</guid>
+            <pubDate>Wed, 17 Nov 2021 23:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 르네상스 테크놀로지스 (Renaissance Technologies) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117936</link>
+            <guid>https://www.snek.ai/alpha/opinion/117936</guid>
+            <pubDate>Wed, 17 Nov 2021 23:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[21년 3분기, 버크셔 해서웨이 (Berkshire Hathaway) 투자 현황 분석 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117928</link>
             <guid>https://www.snek.ai/alpha/opinion/117928</guid>
@@ -1726,30 +1750,6 @@
             <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
             <content:encoded><![CDATA[한대희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상 생활 습관이 선사한 주식 투자 교훈: 코스코 (Costco) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117915</link>
-            <guid>https://www.snek.ai/alpha/opinion/117915</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌 게이츠 vs. 스티브 잡스 앙숙 관계의 시발점: 제록스 (Xerox) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117914</link>
-            <guid>https://www.snek.ai/alpha/opinion/117914</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직은 성장주 위주 투자 유효, 하지만, 인프라 관련 주에도 관심 필요! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117919</link>
-            <guid>https://www.snek.ai/alpha/opinion/117919</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
