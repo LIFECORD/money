@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 15:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002113732</link>
             <guid>https://n.news.naver.com/article/138/0002113732</guid>
             <pubDate>Wed, 17 Nov 2021 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113732.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002113719</link>
             <guid>https://n.news.naver.com/article/138/0002113719</guid>
             <pubDate>Wed, 17 Nov 2021 07:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113719.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002113689</link>
             <guid>https://n.news.naver.com/article/138/0002113689</guid>
             <pubDate>Wed, 17 Nov 2021 02:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113689.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002113679</link>
             <guid>https://n.news.naver.com/article/138/0002113679</guid>
             <pubDate>Wed, 17 Nov 2021 01:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1624,14 +1624,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3분기 연속 ‘페이코인 효과’…다날, 코인 거래차익 덕에 최대 실적 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002113494</link>
-            <guid>https://n.news.naver.com/article/138/0002113494</guid>
-            <pubDate>Fri, 12 Nov 2021 09:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113494.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["일본 17만 이용자에 라인프렌즈 NFT"…라인, 데브데이 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002113487</link>
             <guid>https://n.news.naver.com/article/138/0002113487</guid>
@@ -1670,6 +1662,14 @@
             <pubDate>Thu, 11 Nov 2021 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113438.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NFT×국내 게임사③] 컴투스의 ‘블록체인 메타버스’는 어떤 모습일까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002113397</link>
+            <guid>https://n.news.naver.com/article/138/0002113397</guid>
+            <pubDate>Wed, 17 Nov 2021 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/11/2113397.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[21년 3분기, 버크셔 해서웨이 (Berkshire Hathaway) 투자 현황 분석 (스넥)]]></title>
