@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002113809</link>
             <guid>https://n.news.naver.com/article/138/0002113809</guid>
             <pubDate>Thu, 18 Nov 2021 07:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113809.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002113772</link>
             <guid>https://n.news.naver.com/article/138/0002113772</guid>
             <pubDate>Thu, 18 Nov 2021 03:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002113758</link>
             <guid>https://n.news.naver.com/article/138/0002113758</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002113755</link>
             <guid>https://n.news.naver.com/article/138/0002113755</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113755.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002113750</link>
             <guid>https://n.news.naver.com/article/138/0002113750</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113750.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/16/2113651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[NFT 감별사] ‘에스파’로 성공한 SM의 메타버스 실험, NFT로 이어질까?]]></title>
-            <link>https://n.news.naver.com/article/138/0002113627</link>
-            <guid>https://n.news.naver.com/article/138/0002113627</guid>
-            <pubDate>Tue, 16 Nov 2021 03:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/16/2113627.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[라온시큐어, 영업손실 7억…적자 지속]]></title>
             <link>https://n.news.naver.com/article/138/0002113581</link>
             <guid>https://n.news.naver.com/article/138/0002113581</guid>
@@ -118,6 +110,14 @@
             <pubDate>Mon, 15 Nov 2021 02:35:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113549.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3분기 연속 ‘페이코인 효과’…다날, 코인 거래차익 덕에 최대 실적]]></title>
+            <link>https://n.news.naver.com/article/138/0002113494</link>
+            <guid>https://n.news.naver.com/article/138/0002113494</guid>
+            <pubDate>Thu, 18 Nov 2021 15:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113494.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["일본 17만 이용자에 라인프렌즈 NFT"…라인, 데브데이 개최]]></title>
