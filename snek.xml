@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 22:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 23:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21년 3분기, 사이언 에셋 매니지먼트 (Scion Asset Management) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117929</link>
+            <guid>https://www.snek.ai/alpha/opinion/117929</guid>
+            <pubDate>Thu, 18 Nov 2021 23:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핀터레스트 3분기 실적 분석.]]></title>
             <link>https://www.snek.ai/alpha/opinion/117934</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진양홀딩스(100250): 지금은 연6%의 '고배당'이 더 소중한 시점]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117916</link>
-            <guid>https://www.snek.ai/alpha/opinion/117916</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
