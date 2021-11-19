@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 23:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 00:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe308751f8c1465409a49ed67fdb4923d3d2e37b6" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[NFT 감별사] 잠재고객마저 반발한 하이브의 NFT, ‘BTS 효과’ 성공하려면 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002113840</link>
+            <guid>https://n.news.naver.com/article/138/0002113840</guid>
+            <pubDate>Fri, 19 Nov 2021 00:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>46분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113840.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[클라우드 전환, 데이터 어떻게 백업할까?…MS·메가존클라우드·빔, 웨비나 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002113809</link>
             <guid>https://n.news.naver.com/article/138/0002113809</guid>
             <pubDate>Thu, 18 Nov 2021 07:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113809.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002113772</link>
             <guid>https://n.news.naver.com/article/138/0002113772</guid>
             <pubDate>Thu, 18 Nov 2021 03:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002113758</link>
             <guid>https://n.news.naver.com/article/138/0002113758</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002113755</link>
             <guid>https://n.news.naver.com/article/138/0002113755</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113755.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002113750</link>
             <guid>https://n.news.naver.com/article/138/0002113750</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113750.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1620,7 +1628,7 @@
             <link>https://n.news.naver.com/article/138/0002113679</link>
             <guid>https://n.news.naver.com/article/138/0002113679</guid>
             <pubDate>Wed, 17 Nov 2021 01:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1664,12 +1672,36 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113494.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["일본 17만 이용자에 라인프렌즈 NFT"…라인, 데브데이 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002113487</link>
-            <guid>https://n.news.naver.com/article/138/0002113487</guid>
-            <pubDate>Fri, 12 Nov 2021 08:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/12/2113487.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[21년 3분기, 서드 포인트 (Third Point) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117941</link>
+            <guid>https://www.snek.ai/alpha/opinion/117941</guid>
+            <pubDate>Fri, 19 Nov 2021 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 비스타 에퀴티 파트너스 (Vista Equity Partners) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117940</link>
+            <guid>https://www.snek.ai/alpha/opinion/117940</guid>
+            <pubDate>Fri, 19 Nov 2021 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, D.E. 쇼 앤 컴퍼니 (D.E. Shaw & Company) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117937</link>
+            <guid>https://www.snek.ai/alpha/opinion/117937</guid>
+            <pubDate>Fri, 19 Nov 2021 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 아팔루사 매니지먼트 (Appaloosa Management) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117935</link>
+            <guid>https://www.snek.ai/alpha/opinion/117935</guid>
+            <pubDate>Fri, 19 Nov 2021 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[21년 3분기, 사이언 에셋 매니지먼트 (Scion Asset Management) 투자 현황 분석 (스넥)]]></title>
@@ -1718,38 +1750,6 @@
             <pubDate>Wed, 17 Nov 2021 00:53:59 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로블록스 (Roblox, RBLX US), 드디어 시장 눈높이를 맞추기 시작한 메타버스 대장 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117926</link>
-            <guid>https://www.snek.ai/alpha/opinion/117926</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[파이스트]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜨는 달러 투자, 주식보다 안전한가요? (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117924</link>
-            <guid>https://www.snek.ai/alpha/opinion/117924</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닷컴 버블의 재연, 또는, 산업재 버블의 재연 이라면?! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117918</link>
-            <guid>https://www.snek.ai/alpha/opinion/117918</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[이미 전년 EPS의 5배를 넘어선 실적! - 유진테크 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117917</link>
-            <guid>https://www.snek.ai/alpha/opinion/117917</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

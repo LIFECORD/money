@@ -4,9 +4,41 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 23:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 00:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21년 3분기, 서드 포인트 (Third Point) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117941</link>
+            <guid>https://www.snek.ai/alpha/opinion/117941</guid>
+            <pubDate>Fri, 19 Nov 2021 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 비스타 에퀴티 파트너스 (Vista Equity Partners) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117940</link>
+            <guid>https://www.snek.ai/alpha/opinion/117940</guid>
+            <pubDate>Fri, 19 Nov 2021 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, D.E. 쇼 앤 컴퍼니 (D.E. Shaw & Company) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117937</link>
+            <guid>https://www.snek.ai/alpha/opinion/117937</guid>
+            <pubDate>Fri, 19 Nov 2021 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 아팔루사 매니지먼트 (Appaloosa Management) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117935</link>
+            <guid>https://www.snek.ai/alpha/opinion/117935</guid>
+            <pubDate>Fri, 19 Nov 2021 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21년 3분기, 사이언 에셋 매니지먼트 (Scion Asset Management) 투자 현황 분석]]></title>
             <link>https://www.snek.ai/alpha/opinion/117929</link>
@@ -54,38 +86,6 @@
             <pubDate>Wed, 17 Nov 2021 00:53:59 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로블록스 (Roblox, RBLX US), 드디어 시장 눈높이를 맞추기 시작한 메타버스 대장]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117926</link>
-            <guid>https://www.snek.ai/alpha/opinion/117926</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[파이스트]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜨는 달러 투자, 주식보다 안전한가요?]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117924</link>
-            <guid>https://www.snek.ai/alpha/opinion/117924</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닷컴 버블의 재연, 또는, 산업재 버블의 재연 이라면?!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117918</link>
-            <guid>https://www.snek.ai/alpha/opinion/117918</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[이미 전년 EPS의 5배를 넘어선 실적! - 유진테크]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117917</link>
-            <guid>https://www.snek.ai/alpha/opinion/117917</guid>
-            <pubDate>Tue, 16 Nov 2021 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
