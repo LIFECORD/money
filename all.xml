@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 04:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 05:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002113902</link>
             <guid>https://n.news.naver.com/article/138/0002113902</guid>
             <pubDate>Fri, 19 Nov 2021 11:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1670,6 +1670,86 @@
             <pubDate>Mon, 15 Nov 2021 07:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113566.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불타오르는 OTT 시장, 제작사들을 주목하라! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117943</link>
+            <guid>https://www.snek.ai/alpha/opinion/117943</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 서드 포인트 (Third Point) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117941</link>
+            <guid>https://www.snek.ai/alpha/opinion/117941</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 비스타 에퀴티 파트너스 (Vista Equity Partners) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117940</link>
+            <guid>https://www.snek.ai/alpha/opinion/117940</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, D.E. 쇼 앤 컴퍼니 (D.E. Shaw & Company) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117937</link>
+            <guid>https://www.snek.ai/alpha/opinion/117937</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 아팔루사 매니지먼트 (Appaloosa Management) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117935</link>
+            <guid>https://www.snek.ai/alpha/opinion/117935</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 사이언 에셋 매니지먼트 (Scion Asset Management) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117929</link>
+            <guid>https://www.snek.ai/alpha/opinion/117929</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핀터레스트 3분기 실적 분석. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117934</link>
+            <guid>https://www.snek.ai/alpha/opinion/117934</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[오명근]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유가는 앞으로도 상승할 것이다? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117932</link>
+            <guid>https://www.snek.ai/alpha/opinion/117932</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 르네상스 테크놀로지스 (Renaissance Technologies) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117936</link>
+            <guid>https://www.snek.ai/alpha/opinion/117936</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 버크셔 해서웨이 (Berkshire Hathaway) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117928</link>
+            <guid>https://www.snek.ai/alpha/opinion/117928</guid>
+            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
