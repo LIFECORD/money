@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 14:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 15:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 19 Nov 2021 11:15:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113902.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NFT 감별사] 잠재고객마저 반발한 하이브의 NFT, ‘BTS 효과’ 성공하려면]]></title>
-            <link>https://n.news.naver.com/article/138/0002113840</link>
-            <guid>https://n.news.naver.com/article/138/0002113840</guid>
-            <pubDate>Fri, 19 Nov 2021 00:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클라우드 전환, 데이터 어떻게 백업할까?…MS·메가존클라우드·빔, 웨비나 개최]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Mon, 15 Nov 2021 07:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113566.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NH투자증권, 마이데이터 본허가 획득…통합자산조회 서비스 제공]]></title>
+            <link>https://n.news.naver.com/article/138/0002113549</link>
+            <guid>https://n.news.naver.com/article/138/0002113549</guid>
+            <pubDate>Sat, 20 Nov 2021 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
