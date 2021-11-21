@@ -4,9 +4,25 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 00:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 02:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어윤석 빔 이사 "클라우드 전환, 데이터 보호하는 백업 중요"]]></title>
+            <link>https://n.news.naver.com/article/138/0002113915</link>
+            <guid>https://n.news.naver.com/article/138/0002113915</guid>
+            <pubDate>Sun, 21 Nov 2021 02:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] 비트코인-NFT 관련 코인 간 '온도차'…향후 전망은?]]></title>
+            <link>https://n.news.naver.com/article/138/0002113914</link>
+            <guid>https://n.news.naver.com/article/138/0002113914</guid>
+            <pubDate>Sun, 21 Nov 2021 02:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113914.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 거래소 빗썸•플라이빗, 정식 가상자산사업자 됐다]]></title>
             <link>https://n.news.naver.com/article/138/0002113902</link>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002113772</link>
             <guid>https://n.news.naver.com/article/138/0002113772</guid>
             <pubDate>Thu, 18 Nov 2021 03:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002113689</link>
             <guid>https://n.news.naver.com/article/138/0002113689</guid>
             <pubDate>Wed, 17 Nov 2021 02:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113689.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 15 Nov 2021 08:21:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113581.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인 4년만의 업그레이드 '탭루트' 활성화…어떤 영향 미칠까]]></title>
-            <link>https://n.news.naver.com/article/138/0002113566</link>
-            <guid>https://n.news.naver.com/article/138/0002113566</guid>
-            <pubDate>Mon, 15 Nov 2021 07:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113566.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NH투자증권, 마이데이터 본허가 획득…통합자산조회 서비스 제공]]></title>
-            <link>https://n.news.naver.com/article/138/0002113549</link>
-            <guid>https://n.news.naver.com/article/138/0002113549</guid>
-            <pubDate>Sat, 20 Nov 2021 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
