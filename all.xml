@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 13:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 14:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,16 +1556,8 @@
             <link>https://n.news.naver.com/article/138/0002113915</link>
             <guid>https://n.news.naver.com/article/138/0002113915</guid>
             <pubDate>Sun, 21 Nov 2021 02:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113915.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] 비트코인-NFT 관련 코인 간 '온도차'…향후 전망은? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002113914</link>
-            <guid>https://n.news.naver.com/article/138/0002113914</guid>
-            <pubDate>Sun, 21 Nov 2021 02:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113914.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가상자산 거래소 빗썸•플라이빗, 정식 가상자산사업자 됐다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1574,6 +1566,14 @@
             <pubDate>Fri, 19 Nov 2021 11:15:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113902.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NFT 감별사] 잠재고객마저 반발한 하이브의 NFT, ‘BTS 효과’ 성공하려면 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002113840</link>
+            <guid>https://n.news.naver.com/article/138/0002113840</guid>
+            <pubDate>Sun, 21 Nov 2021 14:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클라우드 전환, 데이터 어떻게 백업할까?…MS·메가존클라우드·빔, 웨비나 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
