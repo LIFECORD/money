@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 05:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 06:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002113957</link>
             <guid>https://n.news.naver.com/article/138/0002113957</guid>
             <pubDate>Mon, 22 Nov 2021 02:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1670,6 +1670,86 @@
             <pubDate>Wed, 17 Nov 2021 01:59:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113679.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 브릿지워터 (Bridgewater Associates) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117945</link>
+            <guid>https://www.snek.ai/alpha/opinion/117945</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직도 이 주식 모르시는 분?  Still very embryonic stage, Inmode(INMD) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117962</link>
+            <guid>https://www.snek.ai/alpha/opinion/117962</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[이재희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NPC, Get ready for the next battle (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117957</link>
+            <guid>https://www.snek.ai/alpha/opinion/117957</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[이재희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경제지표 추이, 성장주 위주 투자 유효함을 지원 중! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117956</link>
+            <guid>https://www.snek.ai/alpha/opinion/117956</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[닷컴 버블 재연 가능성 확대 중! – 메타/전기차 버블 시대?! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117955</link>
+            <guid>https://www.snek.ai/alpha/opinion/117955</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 선두주자 유니티(U) 3분기 심층 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117952</link>
+            <guid>https://www.snek.ai/alpha/opinion/117952</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[오명근]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3분기 실적 발표 후 대폭락을 맞이한 질로우(Z)- 폭락 이유와 향후 대처방안 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117950</link>
+            <guid>https://www.snek.ai/alpha/opinion/117950</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[오명근]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원익QnC 비메모리 증설에 성공적으로 안착! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117938</link>
+            <guid>https://www.snek.ai/alpha/opinion/117938</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[이재욱]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/612476624cbd40638890b5601d5388bf.jpg?versionId=7AWugDTehhkSaTe5eR4t.ZaDm6BDbnoi" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우주일렉트로(065680): '커넥터 고부가가치화'에 집중하는 투자자라면 주목할 만 한 '가치주'가 있다! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117954</link>
+            <guid>https://www.snek.ai/alpha/opinion/117954</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상장 준비를 다시 시작한 LG에너지솔루션! 최고의 주식이 될 수 있을까? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117942</link>
+            <guid>https://www.snek.ai/alpha/opinion/117942</guid>
+            <pubDate>Mon, 22 Nov 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[이정표]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/9789d7b8687845e1955b29d84806141d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
