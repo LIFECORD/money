@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 23:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 00:54:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002113915</link>
             <guid>https://n.news.naver.com/article/138/0002113915</guid>
             <pubDate>Sun, 21 Nov 2021 02:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002113840</link>
             <guid>https://n.news.naver.com/article/138/0002113840</guid>
             <pubDate>Sun, 21 Nov 2021 14:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1596,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002113758</link>
             <guid>https://n.news.naver.com/article/138/0002113758</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1604,7 @@
             <link>https://n.news.naver.com/article/138/0002113755</link>
             <guid>https://n.news.naver.com/article/138/0002113755</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113755.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1612,7 +1612,7 @@
             <link>https://n.news.naver.com/article/138/0002113750</link>
             <guid>https://n.news.naver.com/article/138/0002113750</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113750.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1644,7 +1644,7 @@
             <link>https://n.news.naver.com/article/138/0002113679</link>
             <guid>https://n.news.naver.com/article/138/0002113679</guid>
             <pubDate>Wed, 17 Nov 2021 01:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1670,6 +1670,22 @@
             <pubDate>Mon, 15 Nov 2021 08:21:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/15/2113581.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경제지표 추이, 성장주 위주 투자 유효함을 지원 중! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117956</link>
+            <guid>https://www.snek.ai/alpha/opinion/117956</guid>
+            <pubDate>Mon, 22 Nov 2021 00:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[닷컴 버블 재연 가능성 확대 중! – 메타/전기차 버블 시대?! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117955</link>
+            <guid>https://www.snek.ai/alpha/opinion/117955</guid>
+            <pubDate>Mon, 22 Nov 2021 00:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
         <item>
             <title><![CDATA[메타버스 선두주자 유니티(U) 3분기 심층 분석 (스넥)]]></title>
@@ -1731,22 +1747,6 @@
             <title><![CDATA[21년 3분기, 서드 포인트 (Third Point) 투자 현황 분석 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117941</link>
             <guid>https://www.snek.ai/alpha/opinion/117941</guid>
-            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 비스타 에퀴티 파트너스 (Vista Equity Partners) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117940</link>
-            <guid>https://www.snek.ai/alpha/opinion/117940</guid>
-            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, D.E. 쇼 앤 컴퍼니 (D.E. Shaw & Company) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117937</link>
-            <guid>https://www.snek.ai/alpha/opinion/117937</guid>
             <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
