@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 08:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 09:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe308751f8c1465409a49ed67fdb4923d3d2e37b6" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA['업비트' 운영사 두나무, 우리금융 주주 됐다…은행 관련 사업 수월해지나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114006</link>
+            <guid>https://n.news.naver.com/article/138/0002114006</guid>
+            <pubDate>Mon, 22 Nov 2021 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>35분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2114006.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[플레이댑, 메타버스 기업 이브이알스튜디오와 업무협약 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002113973</link>
             <guid>https://n.news.naver.com/article/138/0002113973</guid>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002113957</link>
             <guid>https://n.news.naver.com/article/138/0002113957</guid>
             <pubDate>Mon, 22 Nov 2021 02:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1644,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002113732</link>
             <guid>https://n.news.naver.com/article/138/0002113732</guid>
             <pubDate>Wed, 17 Nov 2021 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113732.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1662,14 +1670,6 @@
             <pubDate>Wed, 17 Nov 2021 02:35:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113689.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스, 예술작품에 인공지능 접목해 NFT 발행 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002113679</link>
-            <guid>https://n.news.naver.com/article/138/0002113679</guid>
-            <pubDate>Wed, 17 Nov 2021 01:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[21년 3분기, 브릿지워터 (Bridgewater Associates) 투자 현황 분석 (스넥)]]></title>
