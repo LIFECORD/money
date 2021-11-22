@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 00:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 02:00:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21년 3분기, 브릿지워터 (Bridgewater Associates) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117945</link>
+            <guid>https://www.snek.ai/alpha/opinion/117945</guid>
+            <pubDate>Mon, 22 Nov 2021 02:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직도 이 주식 모르시는 분?  Still very embryonic stage, Inmode(INMD)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117962</link>
+            <guid>https://www.snek.ai/alpha/opinion/117962</guid>
+            <pubDate>Mon, 22 Nov 2021 02:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[이재희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NPC, Get ready for the next battle]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117957</link>
+            <guid>https://www.snek.ai/alpha/opinion/117957</guid>
+            <pubDate>Mon, 22 Nov 2021 02:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[이재희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경제지표 추이, 성장주 위주 투자 유효함을 지원 중!]]></title>
             <link>https://www.snek.ai/alpha/opinion/117956</link>
@@ -62,30 +86,6 @@
             <pubDate>Sun, 21 Nov 2021 11:14:31 GMT</pubDate>
             <content:encoded><![CDATA[이정표]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/9789d7b8687845e1955b29d84806141d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 바우포스트 그룹 (Baupost Group) 투자 현황 분석]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117944</link>
-            <guid>https://www.snek.ai/alpha/opinion/117944</guid>
-            <pubDate>Sun, 21 Nov 2021 11:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불타오르는 OTT 시장, 제작사들을 주목하라!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117943</link>
-            <guid>https://www.snek.ai/alpha/opinion/117943</guid>
-            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 서드 포인트 (Third Point) 투자 현황 분석]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117941</link>
-            <guid>https://www.snek.ai/alpha/opinion/117941</guid>
-            <pubDate>Sat, 20 Nov 2021 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
