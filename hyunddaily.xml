@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 04:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플레이댑, 메타버스 기업 이브이알스튜디오와 업무협약]]></title>
+            <link>https://n.news.naver.com/article/138/0002113973</link>
+            <guid>https://n.news.naver.com/article/138/0002113973</guid>
+            <pubDate>Mon, 22 Nov 2021 05:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113973.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들‧비투비 IP도 NFT로…큐브엔터, NFT‧메타버스 사업 진출]]></title>
             <link>https://n.news.naver.com/article/138/0002113957</link>
             <guid>https://n.news.naver.com/article/138/0002113957</guid>
             <pubDate>Mon, 22 Nov 2021 02:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002113951</link>
             <guid>https://n.news.naver.com/article/138/0002113951</guid>
             <pubDate>Mon, 22 Nov 2021 02:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113951.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 17 Nov 2021 01:59:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113679.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘셧다운’ 클레이튼, 2.0으로 부활할까…그라운드X, 글로벌 진출 본격화]]></title>
-            <link>https://n.news.naver.com/article/138/0002113651</link>
-            <guid>https://n.news.naver.com/article/138/0002113651</guid>
-            <pubDate>Tue, 16 Nov 2021 06:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/16/2113651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
