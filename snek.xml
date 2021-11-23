@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 04:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 05:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21년 3분기, 1세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117963</link>
+            <guid>https://www.snek.ai/alpha/opinion/117963</guid>
+            <pubDate>Tue, 23 Nov 2021 05:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21년 3분기, 브릿지워터 (Bridgewater Associates) 투자 현황 분석]]></title>
             <link>https://www.snek.ai/alpha/opinion/117945</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
             <content:encoded><![CDATA[한대희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상장 준비를 다시 시작한 LG에너지솔루션! 최고의 주식이 될 수 있을까?]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117942</link>
-            <guid>https://www.snek.ai/alpha/opinion/117942</guid>
-            <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[이정표]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/9789d7b8687845e1955b29d84806141d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
