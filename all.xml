@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 22:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 23:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113755.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[21년 3분기, 에리엘 인베스트먼트 (Ariel Investment) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117969</link>
+            <guid>https://www.snek.ai/alpha/opinion/117969</guid>
+            <pubDate>Tue, 23 Nov 2021 23:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[21년 3분기, 2세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117964</link>
             <guid>https://www.snek.ai/alpha/opinion/117964</guid>
@@ -1739,14 +1747,6 @@
             <title><![CDATA[메타버스 선두주자 유니티(U) 3분기 심층 분석 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117952</link>
             <guid>https://www.snek.ai/alpha/opinion/117952</guid>
-            <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[오명근]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3분기 실적 발표 후 대폭락을 맞이한 질로우(Z)- 폭락 이유와 향후 대처방안 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117950</link>
-            <guid>https://www.snek.ai/alpha/opinion/117950</guid>
             <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
             <content:encoded><![CDATA[오명근]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
