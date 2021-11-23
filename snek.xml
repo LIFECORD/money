@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 07:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 08:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21년 3분기, 2세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117964</link>
+            <guid>https://www.snek.ai/alpha/opinion/117964</guid>
+            <pubDate>Tue, 23 Nov 2021 08:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스라 불리는 (주)자이언트스텝]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117967</link>
+            <guid>https://www.snek.ai/alpha/opinion/117967</guid>
+            <pubDate>Tue, 23 Nov 2021 08:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21년 3분기, 1세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석]]></title>
             <link>https://www.snek.ai/alpha/opinion/117963</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
             <content:encoded><![CDATA[오명근]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원익QnC 비메모리 증설에 성공적으로 안착!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117938</link>
-            <guid>https://www.snek.ai/alpha/opinion/117938</guid>
-            <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[이재욱]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/612476624cbd40638890b5601d5388bf.jpg?versionId=7AWugDTehhkSaTe5eR4t.ZaDm6BDbnoi" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주일렉트로(065680): '커넥터 고부가가치화'에 집중하는 투자자라면 주목할 만 한 '가치주'가 있다!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117954</link>
-            <guid>https://www.snek.ai/alpha/opinion/117954</guid>
-            <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

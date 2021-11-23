@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 07:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 08:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘업비트 표’ NFT 거래 플랫폼 출시…다른 플랫폼과 뭐가 다를까?]]></title>
+            <link>https://n.news.naver.com/article/138/0002114065</link>
+            <guid>https://n.news.naver.com/article/138/0002114065</guid>
+            <pubDate>Tue, 23 Nov 2021 08:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114065.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["내년 3월 시행 대비"…블록체인협회, 트래블룰 표준화 연구보고서 발표]]></title>
             <link>https://n.news.naver.com/article/138/0002114026</link>
             <guid>https://n.news.naver.com/article/138/0002114026</guid>
             <pubDate>Tue, 23 Nov 2021 01:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002114014</link>
             <guid>https://n.news.naver.com/article/138/0002114014</guid>
             <pubDate>Tue, 23 Nov 2021 00:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114014.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002114006</link>
             <guid>https://n.news.naver.com/article/138/0002114006</guid>
             <pubDate>Mon, 22 Nov 2021 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2114006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002113809</link>
             <guid>https://n.news.naver.com/article/138/0002113809</guid>
             <pubDate>Thu, 18 Nov 2021 07:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113809.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113750.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스마트엔터프라이즈2021] 한국IBM "RPA 고도화로 '하이퍼오토메이션' 실현"]]></title>
-            <link>https://n.news.naver.com/article/138/0002113732</link>
-            <guid>https://n.news.naver.com/article/138/0002113732</guid>
-            <pubDate>Wed, 17 Nov 2021 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/17/2113732.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
