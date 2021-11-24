@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2021-11-24T09:17:48.690Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 24 Nov 2021 10:19:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앞으로도 지속될 미국발 인플레이션]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117965</link>
+            <guid>https://www.snek.ai/alpha/opinion/117965</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 듀케인 패밀리 오피스 (Duquesne Family Office) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117971</link>
+            <guid>https://www.snek.ai/alpha/opinion/117971</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 밀러 밸류 파트너스 (Miller Value Partners) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117970</link>
+            <guid>https://www.snek.ai/alpha/opinion/117970</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 에리엘 인베스트먼트 (Ariel Investment) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117969</link>
+            <guid>https://www.snek.ai/alpha/opinion/117969</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 2세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117964</link>
+            <guid>https://www.snek.ai/alpha/opinion/117964</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스라 불리는 (주)자이언트스텝]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117967</link>
+            <guid>https://www.snek.ai/alpha/opinion/117967</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 1세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117963</link>
+            <guid>https://www.snek.ai/alpha/opinion/117963</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 브릿지워터 (Bridgewater Associates) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117945</link>
+            <guid>https://www.snek.ai/alpha/opinion/117945</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직도 이 주식 모르시는 분?  Still very embryonic stage, Inmode(INMD)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117962</link>
+            <guid>https://www.snek.ai/alpha/opinion/117962</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이재희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NPC, Get ready for the next battle]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117957</link>
+            <guid>https://www.snek.ai/alpha/opinion/117957</guid>
+            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[이재희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
