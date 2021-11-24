@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 00:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 01:59:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fab0cae2f6910c3180db4c3c79fb7d54232095969" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[11월 25일부터 '신분증 인증'해야 코인원서 거래 가능 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114091</link>
+            <guid>https://n.news.naver.com/article/138/0002114091</guid>
+            <pubDate>Wed, 24 Nov 2021 01:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114091.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NFT 감별사] 트와이스부터 (여자)아이들까지…‘IP 강자’ JYP‧큐브엔터, NFT 선전할까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114080</link>
             <guid>https://n.news.naver.com/article/138/0002114080</guid>
             <pubDate>Wed, 24 Nov 2021 00:53:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114076</link>
             <guid>https://n.news.naver.com/article/138/0002114076</guid>
             <pubDate>Tue, 23 Nov 2021 10:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114065</link>
             <guid>https://n.news.naver.com/article/138/0002114065</guid>
             <pubDate>Tue, 23 Nov 2021 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1612,7 @@
             <link>https://n.news.naver.com/article/138/0002113957</link>
             <guid>https://n.news.naver.com/article/138/0002113957</guid>
             <pubDate>Mon, 22 Nov 2021 02:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1612,7 +1620,7 @@
             <link>https://n.news.naver.com/article/138/0002113951</link>
             <guid>https://n.news.naver.com/article/138/0002113951</guid>
             <pubDate>Mon, 22 Nov 2021 02:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113951.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1660,16 +1668,8 @@
             <link>https://n.news.naver.com/article/138/0002113772</link>
             <guid>https://n.news.naver.com/article/138/0002113772</guid>
             <pubDate>Thu, 18 Nov 2021 03:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113772.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼캣의 히트게임 '그래니의 저택', 블록체인 기반 게임으로 나온다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002113758</link>
-            <guid>https://n.news.naver.com/article/138/0002113758</guid>
-            <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113758.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앞으로도 지속될 미국발 인플레이션 (스넥)]]></title>
