@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 08:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 09:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002114131</link>
             <guid>https://n.news.naver.com/article/138/0002114131</guid>
             <pubDate>Wed, 24 Nov 2021 08:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114131.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002114091</link>
             <guid>https://n.news.naver.com/article/138/0002114091</guid>
             <pubDate>Wed, 24 Nov 2021 01:59:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114080</link>
             <guid>https://n.news.naver.com/article/138/0002114080</guid>
             <pubDate>Wed, 24 Nov 2021 00:53:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114076</link>
             <guid>https://n.news.naver.com/article/138/0002114076</guid>
             <pubDate>Tue, 23 Nov 2021 10:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1604,7 @@
             <link>https://n.news.naver.com/article/138/0002114006</link>
             <guid>https://n.news.naver.com/article/138/0002114006</guid>
             <pubDate>Mon, 22 Nov 2021 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2114006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1670,86 +1670,6 @@
             <pubDate>Thu, 18 Nov 2021 07:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113809.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앞으로도 지속될 미국발 인플레이션 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117965</link>
-            <guid>https://www.snek.ai/alpha/opinion/117965</guid>
-            <pubDate>Wed, 24 Nov 2021 00:53:36 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 듀케인 패밀리 오피스 (Duquesne Family Office) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117971</link>
-            <guid>https://www.snek.ai/alpha/opinion/117971</guid>
-            <pubDate>Wed, 24 Nov 2021 00:53:36 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 밀러 밸류 파트너스 (Miller Value Partners) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117970</link>
-            <guid>https://www.snek.ai/alpha/opinion/117970</guid>
-            <pubDate>Wed, 24 Nov 2021 00:53:36 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 에리엘 인베스트먼트 (Ariel Investment) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117969</link>
-            <guid>https://www.snek.ai/alpha/opinion/117969</guid>
-            <pubDate>Tue, 23 Nov 2021 23:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 2세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117964</link>
-            <guid>https://www.snek.ai/alpha/opinion/117964</guid>
-            <pubDate>Tue, 23 Nov 2021 08:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스라 불리는 (주)자이언트스텝 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117967</link>
-            <guid>https://www.snek.ai/alpha/opinion/117967</guid>
-            <pubDate>Tue, 23 Nov 2021 08:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 1세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117963</link>
-            <guid>https://www.snek.ai/alpha/opinion/117963</guid>
-            <pubDate>Tue, 23 Nov 2021 05:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 브릿지워터 (Bridgewater Associates) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117945</link>
-            <guid>https://www.snek.ai/alpha/opinion/117945</guid>
-            <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 이 주식 모르시는 분?  Still very embryonic stage, Inmode(INMD) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117962</link>
-            <guid>https://www.snek.ai/alpha/opinion/117962</guid>
-            <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[이재희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NPC, Get ready for the next battle (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117957</link>
-            <guid>https://www.snek.ai/alpha/opinion/117957</guid>
-            <pubDate>Tue, 23 Nov 2021 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[이재희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
