@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 23:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 00:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NFT 감별사] 트와이스부터 (여자)아이들까지…‘IP 강자’ JYP‧큐브엔터, NFT 선전할까]]></title>
+            <link>https://n.news.naver.com/article/138/0002114080</link>
+            <guid>https://n.news.naver.com/article/138/0002114080</guid>
+            <pubDate>Wed, 24 Nov 2021 00:53:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114080.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최신 애플리케이션, 쿠버네티스 활용하려면? AWS·빔, 웨비나 개최]]></title>
             <link>https://n.news.naver.com/article/138/0002114076</link>
             <guid>https://n.news.naver.com/article/138/0002114076</guid>
             <pubDate>Tue, 23 Nov 2021 10:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002114065</link>
             <guid>https://n.news.naver.com/article/138/0002114065</guid>
             <pubDate>Tue, 23 Nov 2021 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,16 +36,8 @@
             <link>https://n.news.naver.com/article/138/0002114026</link>
             <guid>https://n.news.naver.com/article/138/0002114026</guid>
             <pubDate>Tue, 23 Nov 2021 01:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘위믹스’ 블록체인에 게임 100개 올린다는 위메이드, 클레이튼 생태계 넓히는 이유는?]]></title>
-            <link>https://n.news.naver.com/article/138/0002114014</link>
-            <guid>https://n.news.naver.com/article/138/0002114014</guid>
-            <pubDate>Tue, 23 Nov 2021 00:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114014.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['업비트' 운영사 두나무, 우리금융 주주 됐다…은행 관련 사업 수월해지나]]></title>
@@ -76,8 +76,16 @@
             <link>https://n.news.naver.com/article/138/0002113915</link>
             <guid>https://n.news.naver.com/article/138/0002113915</guid>
             <pubDate>Sun, 21 Nov 2021 02:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] 비트코인-NFT 관련 코인 간 '온도차'…향후 전망은?]]></title>
+            <link>https://n.news.naver.com/article/138/0002113914</link>
+            <guid>https://n.news.naver.com/article/138/0002113914</guid>
+            <pubDate>Wed, 24 Nov 2021 00:53:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113914.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가상자산 거래소 빗썸•플라이빗, 정식 가상자산사업자 됐다]]></title>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002113840</link>
             <guid>https://n.news.naver.com/article/138/0002113840</guid>
             <pubDate>Sun, 21 Nov 2021 14:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,16 +124,8 @@
             <link>https://n.news.naver.com/article/138/0002113758</link>
             <guid>https://n.news.naver.com/article/138/0002113758</guid>
             <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113758.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정식 가상자산사업자 된 코인원, 몸집 키운다…전직군 100여명 채용]]></title>
-            <link>https://n.news.naver.com/article/138/0002113755</link>
-            <guid>https://n.news.naver.com/article/138/0002113755</guid>
-            <pubDate>Thu, 18 Nov 2021 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/18/2113755.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
