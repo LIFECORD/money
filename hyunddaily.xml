@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 07:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 08:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이콘루프, 농림부 주관 사업 위한 '스마트팜 빅데이터 플랫폼' 출시]]></title>
+            <link>https://n.news.naver.com/article/138/0002114216</link>
+            <guid>https://n.news.naver.com/article/138/0002114216</guid>
+            <pubDate>Thu, 25 Nov 2021 08:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114216.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스 출신들은 ‘테라’에 모인다…테라 기반 블록체인 게임 본격화]]></title>
             <link>https://n.news.naver.com/article/138/0002114194</link>
             <guid>https://n.news.naver.com/article/138/0002114194</guid>
             <pubDate>Thu, 25 Nov 2021 06:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002114158</link>
             <guid>https://n.news.naver.com/article/138/0002114158</guid>
             <pubDate>Wed, 24 Nov 2021 11:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114158.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002114131</link>
             <guid>https://n.news.naver.com/article/138/0002114131</guid>
             <pubDate>Wed, 24 Nov 2021 08:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114131.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 24 Nov 2021 00:53:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113914.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 거래소 빗썸•플라이빗, 정식 가상자산사업자 됐다]]></title>
-            <link>https://n.news.naver.com/article/138/0002113902</link>
-            <guid>https://n.news.naver.com/article/138/0002113902</guid>
-            <pubDate>Fri, 19 Nov 2021 11:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
