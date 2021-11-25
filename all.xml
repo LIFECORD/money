@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002114216</link>
             <guid>https://n.news.naver.com/article/138/0002114216</guid>
             <pubDate>Thu, 25 Nov 2021 08:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114216.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002114194</link>
             <guid>https://n.news.naver.com/article/138/0002114194</guid>
             <pubDate>Thu, 25 Nov 2021 06:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1616,14 +1616,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘위믹스’ 블록체인에 게임 100개 올린다는 위메이드, 클레이튼 생태계 넓히는 이유는? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114014</link>
-            <guid>https://n.news.naver.com/article/138/0002114014</guid>
-            <pubDate>Thu, 25 Nov 2021 10:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114014.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['업비트' 운영사 두나무, 우리금융 주주 됐다…은행 관련 사업 수월해지나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114006</link>
             <guid>https://n.news.naver.com/article/138/0002114006</guid>
@@ -1662,6 +1654,14 @@
             <pubDate>Sun, 21 Nov 2021 02:02:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] 비트코인-NFT 관련 코인 간 '온도차'…향후 전망은? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002113914</link>
+            <guid>https://n.news.naver.com/article/138/0002113914</guid>
+            <pubDate>Thu, 25 Nov 2021 15:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113914.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라 대항마 기업, 리비안 (Rivian: RIVN) (스넥)]]></title>
