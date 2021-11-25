@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 23:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 00:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002114158</link>
             <guid>https://n.news.naver.com/article/138/0002114158</guid>
             <pubDate>Wed, 24 Nov 2021 11:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114158.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002114131</link>
             <guid>https://n.news.naver.com/article/138/0002114131</guid>
             <pubDate>Wed, 24 Nov 2021 08:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114131.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114091</link>
             <guid>https://n.news.naver.com/article/138/0002114091</guid>
             <pubDate>Wed, 24 Nov 2021 01:59:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1668,8 +1668,16 @@
             <link>https://n.news.naver.com/article/138/0002113840</link>
             <guid>https://n.news.naver.com/article/138/0002113840</guid>
             <pubDate>Sun, 21 Nov 2021 14:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/19/2113840.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라 대항마 기업, 리비안 (Rivian: RIVN) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117972</link>
+            <guid>https://www.snek.ai/alpha/opinion/117972</guid>
+            <pubDate>Thu, 25 Nov 2021 00:54:56 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앞으로도 지속될 미국발 인플레이션 (스넥)]]></title>
@@ -1739,14 +1747,6 @@
             <title><![CDATA[아직도 이 주식 모르시는 분?  Still very embryonic stage, Inmode(INMD) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117962</link>
             <guid>https://www.snek.ai/alpha/opinion/117962</guid>
-            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[이재희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NPC, Get ready for the next battle (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117957</link>
-            <guid>https://www.snek.ai/alpha/opinion/117957</guid>
             <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
             <content:encoded><![CDATA[이재희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>

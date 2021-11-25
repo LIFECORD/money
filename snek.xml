@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 23:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 00:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라 대항마 기업, 리비안 (Rivian: RIVN)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117972</link>
+            <guid>https://www.snek.ai/alpha/opinion/117972</guid>
+            <pubDate>Thu, 25 Nov 2021 00:54:56 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앞으로도 지속될 미국발 인플레이션]]></title>
             <link>https://www.snek.ai/alpha/opinion/117965</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[아직도 이 주식 모르시는 분?  Still very embryonic stage, Inmode(INMD)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117962</link>
             <guid>https://www.snek.ai/alpha/opinion/117962</guid>
-            <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[이재희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NPC, Get ready for the next battle]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117957</link>
-            <guid>https://www.snek.ai/alpha/opinion/117957</guid>
             <pubDate>Wed, 24 Nov 2021 10:19:37 GMT</pubDate>
             <content:encoded><![CDATA[이재희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/14ff28d249144ba6baef549e87d602b8.jpg" length="0" type="image/jpg"/>
