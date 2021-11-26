@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 11:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 12:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002114330</link>
             <guid>https://n.news.naver.com/article/138/0002114330</guid>
             <pubDate>Fri, 26 Nov 2021 11:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114330.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002114294</link>
             <guid>https://n.news.naver.com/article/138/0002114294</guid>
             <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002114293</link>
             <guid>https://n.news.naver.com/article/138/0002114293</guid>
             <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002114290</link>
             <guid>https://n.news.naver.com/article/138/0002114290</guid>
             <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114290.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002114276</link>
             <guid>https://n.news.naver.com/article/138/0002114276</guid>
             <pubDate>Fri, 26 Nov 2021 01:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Tue, 23 Nov 2021 01:59:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['업비트' 운영사 두나무, 우리금융 주주 됐다…은행 관련 사업 수월해지나]]></title>
-            <link>https://n.news.naver.com/article/138/0002114006</link>
-            <guid>https://n.news.naver.com/article/138/0002114006</guid>
-            <pubDate>Mon, 22 Nov 2021 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2114006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
