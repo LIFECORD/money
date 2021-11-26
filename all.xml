@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:58:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fab0cae2f6910c3180db4c3c79fb7d54232095969" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA['제페토' NFT, 라인 블록체인 기반으로 발행된다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114276</link>
+            <guid>https://n.news.naver.com/article/138/0002114276</guid>
+            <pubDate>Fri, 26 Nov 2021 01:58:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>30분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114276.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이콘루프, 농림부 주관 사업 위한 '스마트팜 빅데이터 플랫폼' 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114216</link>
             <guid>https://n.news.naver.com/article/138/0002114216</guid>
             <pubDate>Thu, 25 Nov 2021 08:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114216.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114194</link>
             <guid>https://n.news.naver.com/article/138/0002114194</guid>
             <pubDate>Thu, 25 Nov 2021 06:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,7 +1644,7 @@
             <link>https://n.news.naver.com/article/138/0002113957</link>
             <guid>https://n.news.naver.com/article/138/0002113957</guid>
             <pubDate>Mon, 22 Nov 2021 02:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1644,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002113951</link>
             <guid>https://n.news.naver.com/article/138/0002113951</guid>
             <pubDate>Mon, 22 Nov 2021 02:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113951.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1652,16 +1660,8 @@
             <link>https://n.news.naver.com/article/138/0002113915</link>
             <guid>https://n.news.naver.com/article/138/0002113915</guid>
             <pubDate>Sun, 21 Nov 2021 02:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113915.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] 비트코인-NFT 관련 코인 간 '온도차'…향후 전망은? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002113914</link>
-            <guid>https://n.news.naver.com/article/138/0002113914</guid>
-            <pubDate>Thu, 25 Nov 2021 15:18:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113914.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/21/2113915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라 대항마 기업, 리비안 (Rivian: RIVN) (스넥)]]></title>
