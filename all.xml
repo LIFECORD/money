@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 10:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 11:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fab0cae2f6910c3180db4c3c79fb7d54232095969" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[‘디카르고 유통량’ 두고 노웅래 vs 업비트 갑론을박…업비트 “적절한 조치 취했다” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114330</link>
+            <guid>https://n.news.naver.com/article/138/0002114330</guid>
+            <pubDate>Fri, 26 Nov 2021 11:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114330.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[펜타시스템, 세종시 자율주행 빅데이터 관제센터 구축 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114294</link>
             <guid>https://n.news.naver.com/article/138/0002114294</guid>
             <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114293</link>
             <guid>https://n.news.naver.com/article/138/0002114293</guid>
             <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114290</link>
             <guid>https://n.news.naver.com/article/138/0002114290</guid>
             <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114290.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002114276</link>
             <guid>https://n.news.naver.com/article/138/0002114276</guid>
             <pubDate>Fri, 26 Nov 2021 01:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1612,7 @@
             <link>https://n.news.naver.com/article/138/0002114158</link>
             <guid>https://n.news.naver.com/article/138/0002114158</guid>
             <pubDate>Wed, 24 Nov 2021 11:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114158.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1654,14 +1662,6 @@
             <pubDate>Mon, 22 Nov 2021 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2114006.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이댑, 메타버스 기업 이브이알스튜디오와 업무협약 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002113973</link>
-            <guid>https://n.news.naver.com/article/138/0002113973</guid>
-            <pubDate>Mon, 22 Nov 2021 05:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/22/2113973.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라 대항마 기업, 리비안 (Rivian: RIVN) (스넥)]]></title>
