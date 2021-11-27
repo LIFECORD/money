@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 14:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 15:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1654,6 +1654,86 @@
             <pubDate>Tue, 23 Nov 2021 01:59:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (2) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117984</link>
+            <guid>https://www.snek.ai/alpha/opinion/117984</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (1) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117982</link>
+            <guid>https://www.snek.ai/alpha/opinion/117982</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SiC 전력반도체의 시대가 온다, 예스티! (2) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117978</link>
+            <guid>https://www.snek.ai/alpha/opinion/117978</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SiC 전력반도체의 시대가 온다, 예스티! (1) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117975</link>
+            <guid>https://www.snek.ai/alpha/opinion/117975</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연말까지 상승세를 보일 주가, 그리고 내년의 폭락을 불러올 요소들 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117985</link>
+            <guid>https://www.snek.ai/alpha/opinion/117985</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라 대항마 기업, 리비안 (Rivian: RIVN) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117972</link>
+            <guid>https://www.snek.ai/alpha/opinion/117972</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앞으로도 지속될 미국발 인플레이션 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117965</link>
+            <guid>https://www.snek.ai/alpha/opinion/117965</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 듀케인 패밀리 오피스 (Duquesne Family Office) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117971</link>
+            <guid>https://www.snek.ai/alpha/opinion/117971</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 밀러 밸류 파트너스 (Miller Value Partners) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117970</link>
+            <guid>https://www.snek.ai/alpha/opinion/117970</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 3분기, 에리엘 인베스트먼트 (Ariel Investment) 투자 현황 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117969</link>
+            <guid>https://www.snek.ai/alpha/opinion/117969</guid>
+            <pubDate>Sat, 27 Nov 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
