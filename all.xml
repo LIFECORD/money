@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 04:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 05:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002114330</link>
             <guid>https://n.news.naver.com/article/138/0002114330</guid>
             <pubDate>Fri, 26 Nov 2021 11:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114330.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002114294</link>
             <guid>https://n.news.naver.com/article/138/0002114294</guid>
             <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1604,7 @@
             <link>https://n.news.naver.com/article/138/0002114194</link>
             <guid>https://n.news.naver.com/article/138/0002114194</guid>
             <pubDate>Thu, 25 Nov 2021 06:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1656,6 +1656,38 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (2) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117984</link>
+            <guid>https://www.snek.ai/alpha/opinion/117984</guid>
+            <pubDate>Sat, 27 Nov 2021 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (1) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117982</link>
+            <guid>https://www.snek.ai/alpha/opinion/117982</guid>
+            <pubDate>Sat, 27 Nov 2021 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SiC 전력반도체의 시대가 온다, 예스티! (2) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117978</link>
+            <guid>https://www.snek.ai/alpha/opinion/117978</guid>
+            <pubDate>Sat, 27 Nov 2021 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SiC 전력반도체의 시대가 온다, 예스티! (1) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117975</link>
+            <guid>https://www.snek.ai/alpha/opinion/117975</guid>
+            <pubDate>Sat, 27 Nov 2021 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연말까지 상승세를 보일 주가, 그리고 내년의 폭락을 불러올 요소들 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117985</link>
             <guid>https://www.snek.ai/alpha/opinion/117985</guid>
@@ -1699,38 +1731,6 @@
             <title><![CDATA[21년 3분기, 에리엘 인베스트먼트 (Ariel Investment) 투자 현황 분석 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117969</link>
             <guid>https://www.snek.ai/alpha/opinion/117969</guid>
-            <pubDate>Thu, 25 Nov 2021 05:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 2세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117964</link>
-            <guid>https://www.snek.ai/alpha/opinion/117964</guid>
-            <pubDate>Thu, 25 Nov 2021 05:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스라 불리는 (주)자이언트스텝 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117967</link>
-            <guid>https://www.snek.ai/alpha/opinion/117967</guid>
-            <pubDate>Thu, 25 Nov 2021 05:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 1세대 타이거 컵스 (Tiger Cubs) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117963</link>
-            <guid>https://www.snek.ai/alpha/opinion/117963</guid>
-            <pubDate>Thu, 25 Nov 2021 05:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 3분기, 브릿지워터 (Bridgewater Associates) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117945</link>
-            <guid>https://www.snek.ai/alpha/opinion/117945</guid>
             <pubDate>Thu, 25 Nov 2021 05:16:31 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
