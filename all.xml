@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 15:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 16:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1584,14 +1584,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가상 부동산 땅이 평당 1700만원…‘더 샌드박스’는 어떻게 커뮤니티를 키웠나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114290</link>
-            <guid>https://n.news.naver.com/article/138/0002114290</guid>
-            <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114290.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['제페토' NFT, 라인 블록체인 기반으로 발행된다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114276</link>
             <guid>https://n.news.naver.com/article/138/0002114276</guid>
@@ -1654,6 +1646,14 @@
             <pubDate>Tue, 23 Nov 2021 08:20:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114065.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["내년 3월 시행 대비"…블록체인협회, 트래블룰 표준화 연구보고서 발표 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114026</link>
+            <guid>https://n.news.naver.com/article/138/0002114026</guid>
+            <pubDate>Mon, 29 Nov 2021 16:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단 하나뿐인 디지털자산 NFT, 이해하고 투자하세요! (스넥)]]></title>
