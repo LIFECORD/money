@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2021-11-29T06:21:19.583Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 29 Nov 2021 07:18:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단 하나뿐인 디지털자산 NFT, 이해하고 투자하세요!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117997</link>
+            <guid>https://www.snek.ai/alpha/opinion/117997</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[적극적 자사주매입 수혜주 + 밈 주식 투기 전략주: 배드 배스 비욘드 (BBBY)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117995</link>
+            <guid>https://www.snek.ai/alpha/opinion/117995</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오미크론 공포, 엄청난 투자 기회!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117992</link>
+            <guid>https://www.snek.ai/alpha/opinion/117992</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[파마리서치(214450): VIP자산운용도 역발상 투자에 나선 에스테틱 관련주]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117994</link>
+            <guid>https://www.snek.ai/alpha/opinion/117994</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팔란티어(PLTR) 주가 하락 이유 분석 및 3분기 실적 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117987</link>
+            <guid>https://www.snek.ai/alpha/opinion/117987</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[오명근]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스와 전기차/자율주행의 시대!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117993</link>
+            <guid>https://www.snek.ai/alpha/opinion/117993</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (2)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117984</link>
+            <guid>https://www.snek.ai/alpha/opinion/117984</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (1)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117982</link>
+            <guid>https://www.snek.ai/alpha/opinion/117982</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SiC 전력반도체의 시대가 온다, 예스티! (2)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117978</link>
+            <guid>https://www.snek.ai/alpha/opinion/117978</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SiC 전력반도체의 시대가 온다, 예스티! (1)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117975</link>
+            <guid>https://www.snek.ai/alpha/opinion/117975</guid>
+            <pubDate>Mon, 29 Nov 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
