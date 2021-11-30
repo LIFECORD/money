@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 23:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 00:55:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1620,7 +1620,7 @@
             <link>https://n.news.naver.com/article/138/0002114091</link>
             <guid>https://n.news.naver.com/article/138/0002114091</guid>
             <pubDate>Wed, 24 Nov 2021 01:59:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1652,8 +1652,24 @@
             <link>https://n.news.naver.com/article/138/0002114026</link>
             <guid>https://n.news.naver.com/article/138/0002114026</guid>
             <pubDate>Mon, 29 Nov 2021 16:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥스트 명품 브랜드 M&A 타겟 기업: 버버리 (Burberry) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117998</link>
+            <guid>https://www.snek.ai/alpha/opinion/117998</guid>
+            <pubDate>Tue, 30 Nov 2021 00:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파월은 비둘기파에서 매파로 돌변할 지 모른다 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117996</link>
+            <guid>https://www.snek.ai/alpha/opinion/117996</guid>
+            <pubDate>Tue, 30 Nov 2021 00:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단 하나뿐인 디지털자산 NFT, 이해하고 투자하세요! (스넥)]]></title>
@@ -1715,22 +1731,6 @@
             <title><![CDATA[돈이 되는 돈(豚), 목원식품 (1) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117982</link>
             <guid>https://www.snek.ai/alpha/opinion/117982</guid>
-            <pubDate>Mon, 29 Nov 2021 14:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[박소현]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SiC 전력반도체의 시대가 온다, 예스티! (2) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117978</link>
-            <guid>https://www.snek.ai/alpha/opinion/117978</guid>
-            <pubDate>Mon, 29 Nov 2021 14:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[박소현]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SiC 전력반도체의 시대가 온다, 예스티! (1) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117975</link>
-            <guid>https://www.snek.ai/alpha/opinion/117975</guid>
             <pubDate>Mon, 29 Nov 2021 14:16:59 GMT</pubDate>
             <content:encoded><![CDATA[박소현]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
