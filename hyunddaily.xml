@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 14:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 15:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 25 Nov 2021 08:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114216.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴투스 출신들은 ‘테라’에 모인다…테라 기반 블록체인 게임 본격화]]></title>
+            <link>https://n.news.naver.com/article/138/0002114194</link>
+            <guid>https://n.news.naver.com/article/138/0002114194</guid>
+            <pubDate>Wed, 01 Dec 2021 15:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AWS "현대화된 앱의 필요조건 쿠버네티스…관리형 서비스도 필수"]]></title>
