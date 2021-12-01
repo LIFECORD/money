@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 00:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 02:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002114343</link>
             <guid>https://n.news.naver.com/article/138/0002114343</guid>
             <pubDate>Sun, 28 Nov 2021 02:32:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/28/2114343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002114276</link>
             <guid>https://n.news.naver.com/article/138/0002114276</guid>
             <pubDate>Fri, 26 Nov 2021 01:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1654,6 +1654,14 @@
             <pubDate>Mon, 29 Nov 2021 16:27:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기업 최대 위기에 봉착한 비디오 게임 메이커, 액티비전 블리자드 (ATVI) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117999</link>
+            <guid>https://www.snek.ai/alpha/opinion/117999</guid>
+            <pubDate>Wed, 01 Dec 2021 02:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥스트 명품 브랜드 M&A 타겟 기업: 버버리 (Burberry) (스넥)]]></title>
@@ -1723,14 +1731,6 @@
             <title><![CDATA[돈이 되는 돈(豚), 목원식품 (2) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117984</link>
             <guid>https://www.snek.ai/alpha/opinion/117984</guid>
-            <pubDate>Mon, 29 Nov 2021 14:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[박소현]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (1) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117982</link>
-            <guid>https://www.snek.ai/alpha/opinion/117982</guid>
             <pubDate>Mon, 29 Nov 2021 14:16:59 GMT</pubDate>
             <content:encoded><![CDATA[박소현]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>

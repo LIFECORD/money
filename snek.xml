@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 00:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 02:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업 최대 위기에 봉착한 비디오 게임 메이커, 액티비전 블리자드 (ATVI)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/117999</link>
+            <guid>https://www.snek.ai/alpha/opinion/117999</guid>
+            <pubDate>Wed, 01 Dec 2021 02:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥스트 명품 브랜드 M&A 타겟 기업: 버버리 (Burberry)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117998</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[돈이 되는 돈(豚), 목원식품 (2)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117984</link>
             <guid>https://www.snek.ai/alpha/opinion/117984</guid>
-            <pubDate>Mon, 29 Nov 2021 14:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[박소현]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (1)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117982</link>
-            <guid>https://www.snek.ai/alpha/opinion/117982</guid>
             <pubDate>Mon, 29 Nov 2021 14:16:59 GMT</pubDate>
             <content:encoded><![CDATA[박소현]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
