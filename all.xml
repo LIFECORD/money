@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 23:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 00:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbcbc00d084689919b578e10304a4365f54c5d1ac" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[전통 VC 제친 블록체인 투자사…해시드, 2400억 규모 VC 펀드 조성 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114576</link>
+            <guid>https://n.news.naver.com/article/138/0002114576</guid>
+            <pubDate>Thu, 02 Dec 2021 00:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 블록체인] 전 세계 NFT·메타버스 열풍 여전…국내는 과세 논란 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114343</link>
             <guid>https://n.news.naver.com/article/138/0002114343</guid>
@@ -1628,7 +1636,7 @@
             <link>https://n.news.naver.com/article/138/0002114091</link>
             <guid>https://n.news.naver.com/article/138/0002114091</guid>
             <pubDate>Wed, 24 Nov 2021 01:59:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1656,12 +1664,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["내년 3월 시행 대비"…블록체인협회, 트래블룰 표준화 연구보고서 발표 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114026</link>
-            <guid>https://n.news.naver.com/article/138/0002114026</guid>
-            <pubDate>Mon, 29 Nov 2021 16:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[2022년 포트폴리오에 반드시 담겨야 할 기업! - 지어소프트 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118000</link>
+            <guid>https://www.snek.ai/alpha/opinion/118000</guid>
+            <pubDate>Thu, 02 Dec 2021 00:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ETF와 Sector 대형주를 활용한 USA Monthly Market Update_11월 시장 Review (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118002</link>
+            <guid>https://www.snek.ai/alpha/opinion/118002</guid>
+            <pubDate>Thu, 02 Dec 2021 00:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기업 최대 위기에 봉착한 비디오 게임 메이커, 액티비전 블리자드 (ATVI) (스넥)]]></title>
@@ -1726,22 +1742,6 @@
             <pubDate>Wed, 01 Dec 2021 22:17:37 GMT</pubDate>
             <content:encoded><![CDATA[오명근]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스와 전기차/자율주행의 시대! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117993</link>
-            <guid>https://www.snek.ai/alpha/opinion/117993</guid>
-            <pubDate>Wed, 01 Dec 2021 22:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (2) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117984</link>
-            <guid>https://www.snek.ai/alpha/opinion/117984</guid>
-            <pubDate>Wed, 01 Dec 2021 22:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[박소현]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 23:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 00:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 포트폴리오에 반드시 담겨야 할 기업! - 지어소프트]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118000</link>
+            <guid>https://www.snek.ai/alpha/opinion/118000</guid>
+            <pubDate>Thu, 02 Dec 2021 00:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ETF와 Sector 대형주를 활용한 USA Monthly Market Update_11월 시장 Review]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118002</link>
+            <guid>https://www.snek.ai/alpha/opinion/118002</guid>
+            <pubDate>Thu, 02 Dec 2021 00:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기업 최대 위기에 봉착한 비디오 게임 메이커, 액티비전 블리자드 (ATVI)]]></title>
             <link>https://www.snek.ai/alpha/opinion/117999</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 01 Dec 2021 22:17:37 GMT</pubDate>
             <content:encoded><![CDATA[오명근]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/3175ae51764649c9b3d4db1dece651b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스와 전기차/자율주행의 시대!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117993</link>
-            <guid>https://www.snek.ai/alpha/opinion/117993</guid>
-            <pubDate>Wed, 01 Dec 2021 22:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[돈이 되는 돈(豚), 목원식품 (2)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117984</link>
-            <guid>https://www.snek.ai/alpha/opinion/117984</guid>
-            <pubDate>Wed, 01 Dec 2021 22:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[박소현]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/8287564571aa4660a910cf64bdbe9861.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 23:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 00:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전통 VC 제친 블록체인 투자사…해시드, 2400억 규모 VC 펀드 조성]]></title>
+            <link>https://n.news.naver.com/article/138/0002114576</link>
+            <guid>https://n.news.naver.com/article/138/0002114576</guid>
+            <pubDate>Thu, 02 Dec 2021 00:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 블록체인] 전 세계 NFT·메타버스 열풍 여전…국내는 과세 논란]]></title>
             <link>https://n.news.naver.com/article/138/0002114343</link>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/138/0002114091</link>
             <guid>https://n.news.naver.com/article/138/0002114091</guid>
             <pubDate>Wed, 24 Nov 2021 01:59:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 23 Nov 2021 08:20:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114065.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["내년 3월 시행 대비"…블록체인협회, 트래블룰 표준화 연구보고서 발표]]></title>
-            <link>https://n.news.naver.com/article/138/0002114026</link>
-            <guid>https://n.news.naver.com/article/138/0002114026</guid>
-            <pubDate>Mon, 29 Nov 2021 16:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114026.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
