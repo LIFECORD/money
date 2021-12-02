@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 00:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 02:01:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['전기차' 검색하면 '테슬라' 뜬다…토스증권, 해외주식 서비스 개시]]></title>
+            <link>https://n.news.naver.com/article/138/0002114582</link>
+            <guid>https://n.news.naver.com/article/138/0002114582</guid>
+            <pubDate>Thu, 02 Dec 2021 02:01:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114582.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전통 VC 제친 블록체인 투자사…해시드, 2400억 규모 VC 펀드 조성]]></title>
             <link>https://n.news.naver.com/article/138/0002114576</link>
             <guid>https://n.news.naver.com/article/138/0002114576</guid>
             <pubDate>Thu, 02 Dec 2021 00:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002114343</link>
             <guid>https://n.news.naver.com/article/138/0002114343</guid>
             <pubDate>Sun, 28 Nov 2021 02:32:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/28/2114343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/138/0002114276</link>
             <guid>https://n.news.naver.com/article/138/0002114276</guid>
             <pubDate>Fri, 26 Nov 2021 01:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 23 Nov 2021 10:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114076.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘업비트 표’ NFT 거래 플랫폼 출시…다른 플랫폼과 뭐가 다를까?]]></title>
-            <link>https://n.news.naver.com/article/138/0002114065</link>
-            <guid>https://n.news.naver.com/article/138/0002114065</guid>
-            <pubDate>Tue, 23 Nov 2021 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
