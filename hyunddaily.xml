@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 03:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 04:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘기업가치 20조’ 두나무에 덩달아 대박난 다날…지분 매각으로 500억 확보]]></title>
+            <link>https://n.news.naver.com/article/138/0002114591</link>
+            <guid>https://n.news.naver.com/article/138/0002114591</guid>
+            <pubDate>Thu, 02 Dec 2021 04:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114591.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전기차' 검색하면 '테슬라' 뜬다…토스증권, 해외주식 서비스 개시]]></title>
             <link>https://n.news.naver.com/article/138/0002114582</link>
             <guid>https://n.news.naver.com/article/138/0002114582</guid>
             <pubDate>Thu, 02 Dec 2021 02:01:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114582.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002114576</link>
             <guid>https://n.news.naver.com/article/138/0002114576</guid>
             <pubDate>Thu, 02 Dec 2021 00:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 24 Nov 2021 00:53:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114080.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최신 애플리케이션, 쿠버네티스 활용하려면? AWS·빔, 웨비나 개최]]></title>
-            <link>https://n.news.naver.com/article/138/0002114076</link>
-            <guid>https://n.news.naver.com/article/138/0002114076</guid>
-            <pubDate>Tue, 23 Nov 2021 10:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/23/2114076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
