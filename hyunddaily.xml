@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 09:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 10:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플레이댑, 블록체인 게임 개발용 SDK 출시]]></title>
+            <link>https://n.news.naver.com/article/138/0002114645</link>
+            <guid>https://n.news.naver.com/article/138/0002114645</guid>
+            <pubDate>Thu, 02 Dec 2021 10:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114645.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘기업가치 20조’ 두나무에 덩달아 대박난 다날…지분 매각으로 500억 확보]]></title>
             <link>https://n.news.naver.com/article/138/0002114591</link>
             <guid>https://n.news.naver.com/article/138/0002114591</guid>
             <pubDate>Thu, 02 Dec 2021 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002114582</link>
             <guid>https://n.news.naver.com/article/138/0002114582</guid>
             <pubDate>Thu, 02 Dec 2021 02:01:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114582.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002114576</link>
             <guid>https://n.news.naver.com/article/138/0002114576</guid>
             <pubDate>Thu, 02 Dec 2021 00:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002114330</link>
             <guid>https://n.news.naver.com/article/138/0002114330</guid>
             <pubDate>Fri, 26 Nov 2021 11:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114330.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002114158</link>
             <guid>https://n.news.naver.com/article/138/0002114158</guid>
             <pubDate>Wed, 24 Nov 2021 11:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114158.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 24 Nov 2021 01:59:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114091.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NFT 감별사] 트와이스부터 (여자)아이들까지…‘IP 강자’ JYP‧큐브엔터, NFT 선전할까]]></title>
-            <link>https://n.news.naver.com/article/138/0002114080</link>
-            <guid>https://n.news.naver.com/article/138/0002114080</guid>
-            <pubDate>Wed, 24 Nov 2021 00:53:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
