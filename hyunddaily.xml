@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 14:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 15:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,23 +12,15 @@
             <link>https://n.news.naver.com/article/138/0002114645</link>
             <guid>https://n.news.naver.com/article/138/0002114645</guid>
             <pubDate>Thu, 02 Dec 2021 10:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114645.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘기업가치 20조’ 두나무에 덩달아 대박난 다날…지분 매각으로 500억 확보]]></title>
-            <link>https://n.news.naver.com/article/138/0002114591</link>
-            <guid>https://n.news.naver.com/article/138/0002114591</guid>
-            <pubDate>Thu, 02 Dec 2021 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['전기차' 검색하면 '테슬라' 뜬다…토스증권, 해외주식 서비스 개시]]></title>
             <link>https://n.news.naver.com/article/138/0002114582</link>
             <guid>https://n.news.naver.com/article/138/0002114582</guid>
             <pubDate>Thu, 02 Dec 2021 02:01:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114582.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,16 +28,8 @@
             <link>https://n.news.naver.com/article/138/0002114576</link>
             <guid>https://n.news.naver.com/article/138/0002114576</guid>
             <pubDate>Thu, 02 Dec 2021 00:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] 전 세계 NFT·메타버스 열풍 여전…국내는 과세 논란]]></title>
-            <link>https://n.news.naver.com/article/138/0002114343</link>
-            <guid>https://n.news.naver.com/article/138/0002114343</guid>
-            <pubDate>Sun, 28 Nov 2021 02:32:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/28/2114343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘디카르고 유통량’ 두고 노웅래 vs 업비트 갑론을박…업비트 “적절한 조치 취했다”]]></title>
@@ -70,6 +54,14 @@
             <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114293.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가상 부동산 땅이 평당 1700만원…‘더 샌드박스’는 어떻게 커뮤니티를 키웠나]]></title>
+            <link>https://n.news.naver.com/article/138/0002114290</link>
+            <guid>https://n.news.naver.com/article/138/0002114290</guid>
+            <pubDate>Thu, 02 Dec 2021 15:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114290.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['제페토' NFT, 라인 블록체인 기반으로 발행된다]]></title>
