@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 23:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 00:54:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbcbc00d084689919b578e10304a4365f54c5d1ac" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[가상자산 과세 ‘1년 유예’ 소득세법, 본회의 통과…비과세 한도는 250만원 그대로 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114655</link>
+            <guid>https://n.news.naver.com/article/138/0002114655</guid>
+            <pubDate>Fri, 03 Dec 2021 00:54:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>43분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/03/2114655.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[플레이댑, 블록체인 게임 개발용 SDK 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114645</link>
             <guid>https://n.news.naver.com/article/138/0002114645</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114582</link>
             <guid>https://n.news.naver.com/article/138/0002114582</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114582.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114576</link>
             <guid>https://n.news.naver.com/article/138/0002114576</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1646,14 +1654,6 @@
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114131.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 25일부터 '신분증 인증'해야 코인원서 거래 가능 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114091</link>
-            <guid>https://n.news.naver.com/article/138/0002114091</guid>
-            <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/24/2114091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라네어 ($TSLA-naire) 끝판왕, 리오 코구안 (Leo KoGuan) (스넥)]]></title>
