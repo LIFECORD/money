@@ -4,17 +4,9 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 14:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 15:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가상자산 과세 ‘1년 유예’ 소득세법, 본회의 통과…비과세 한도는 250만원 그대로]]></title>
-            <link>https://n.news.naver.com/article/138/0002114655</link>
-            <guid>https://n.news.naver.com/article/138/0002114655</guid>
-            <pubDate>Fri, 03 Dec 2021 00:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/03/2114655.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[플레이댑, 블록체인 게임 개발용 SDK 출시]]></title>
             <link>https://n.news.naver.com/article/138/0002114645</link>
@@ -38,6 +30,14 @@
             <pubDate>Thu, 02 Dec 2021 00:55:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] 전 세계 NFT·메타버스 열풍 여전…국내는 과세 논란]]></title>
+            <link>https://n.news.naver.com/article/138/0002114343</link>
+            <guid>https://n.news.naver.com/article/138/0002114343</guid>
+            <pubDate>Sat, 04 Dec 2021 15:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/28/2114343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘디카르고 유통량’ 두고 노웅래 vs 업비트 갑론을박…업비트 “적절한 조치 취했다”]]></title>
