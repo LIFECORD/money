@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 08:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반복되는 변동성에 기회는 확대 중!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118006</link>
+            <guid>https://www.snek.ai/alpha/opinion/118006</guid>
+            <pubDate>Sun, 05 Dec 2021 08:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[엄청난 성장과 무르익는 CAPA 증설! - SK아이이테크놀로지]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118005</link>
+            <guid>https://www.snek.ai/alpha/opinion/118005</guid>
+            <pubDate>Sun, 05 Dec 2021 08:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시장은 공포에서 탐욕으로 전환할 가능성 확대 중!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118007</link>
+            <guid>https://www.snek.ai/alpha/opinion/118007</guid>
+            <pubDate>Sun, 05 Dec 2021 08:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
         <item>
             <title><![CDATA[테슬라네어 ($TSLA-naire) 끝판왕, 리오 코구안 (Leo KoGuan)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118003</link>
@@ -62,30 +86,6 @@
             <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[정소연]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[적극적 자사주매입 수혜주 + 밈 주식 투기 전략주: 배드 배스 비욘드 (BBBY)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117995</link>
-            <guid>https://www.snek.ai/alpha/opinion/117995</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 공포, 엄청난 투자 기회!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117992</link>
-            <guid>https://www.snek.ai/alpha/opinion/117992</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[파마리서치(214450): VIP자산운용도 역발상 투자에 나선 에스테틱 관련주]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117994</link>
-            <guid>https://www.snek.ai/alpha/opinion/117994</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
