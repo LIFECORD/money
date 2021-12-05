@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 05:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 06:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1037,7 +1037,7 @@
             <guid>https://tv.kakao.com/channel/3815196/cliplink/420953914?act=clip</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:26]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0aec9de39d291ab84897f469927a3e0b607abcbb" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[미국 직장인 중에서 주식계좌 없는 사람은 없을걸?! (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터4)]]></title>
@@ -1269,7 +1269,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/424326597?act=clip</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:52]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fed8db39f00c3838bca4da7aa1de7ed8556964898" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[12회. <챕터5> 뚠뚠 인베스트, 대장정의 마무리! (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
