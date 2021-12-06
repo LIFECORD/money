@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 00:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 02:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114576</link>
             <guid>https://n.news.naver.com/article/138/0002114576</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002114343</link>
             <guid>https://n.news.naver.com/article/138/0002114343</guid>
             <pubDate>Sat, 04 Dec 2021 15:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.11.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/28/2114343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1646,6 +1646,22 @@
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114194.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월트 디즈니 (Walt Disney, DIS US), 부자는 완전히 망하려면 오래 걸린다 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118011</link>
+            <guid>https://www.snek.ai/alpha/opinion/118011</guid>
+            <pubDate>Mon, 06 Dec 2021 02:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전기차 배터리 그리고 한국 배터리 3사 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118009</link>
+            <guid>https://www.snek.ai/alpha/opinion/118009</guid>
+            <pubDate>Mon, 06 Dec 2021 02:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[Y-why]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 유명 경제 전문지, 패스트 컴퍼니의 차세대 테크 트랜드 (Fast Company’s Next Big Things in Tech) (스넥)]]></title>
@@ -1710,22 +1726,6 @@
             <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥스트 명품 브랜드 M&A 타겟 기업: 버버리 (Burberry) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117998</link>
-            <guid>https://www.snek.ai/alpha/opinion/117998</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파월은 비둘기파에서 매파로 돌변할 지 모른다 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117996</link>
-            <guid>https://www.snek.ai/alpha/opinion/117996</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
