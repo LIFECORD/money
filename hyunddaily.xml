@@ -4,9 +4,17 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 06:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NFT 감별사] 바이낸스·FTX보다 늦었지만…업비트의 NFT, ‘국내 위주’ 전략 통할까]]></title>
+            <link>https://n.news.naver.com/article/138/0002114768</link>
+            <guid>https://n.news.naver.com/article/138/0002114768</guid>
+            <pubDate>Mon, 06 Dec 2021 06:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>41분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/06/2114768.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 과세 ‘1년 유예’ 소득세법, 본회의 통과…비과세 한도는 250만원 그대로]]></title>
             <link>https://n.news.naver.com/article/138/0002114655</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 Nov 2021 08:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114216.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스 출신들은 ‘테라’에 모인다…테라 기반 블록체인 게임 본격화]]></title>
-            <link>https://n.news.naver.com/article/138/0002114194</link>
-            <guid>https://n.news.naver.com/article/138/0002114194</guid>
-            <pubDate>Wed, 01 Dec 2021 15:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/25/2114194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
