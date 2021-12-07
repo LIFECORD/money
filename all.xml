@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,27 +1552,43 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9608abc3814aa587b3c35fbcec30a33b5f199c82" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[블록체인 미들웨어 플랫폼 바이프로스트, NFT 게임 사업 진출 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114847</link>
+            <guid>https://n.news.naver.com/article/138/0002114847</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114847.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터파크 아이포인트, 가상자산 '밀크'로 전환된다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114832</link>
+            <guid>https://n.news.naver.com/article/138/0002114832</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114832.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코빗, 美 가상자산 리서치 기업 메사리와 콘텐츠 제휴 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114814</link>
+            <guid>https://n.news.naver.com/article/138/0002114814</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114814.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2022금융IT혁신] 네이버클라우드가 제시하는 '검색어'로 기업 경쟁력 확보 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114792</link>
             <guid>https://n.news.naver.com/article/138/0002114792</guid>
             <pubDate>Mon, 06 Dec 2021 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/06/2114792.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NFT 감별사] 바이낸스·FTX보다 늦었지만…업비트의 NFT, ‘국내 위주’ 전략 통할까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114768</link>
-            <guid>https://n.news.naver.com/article/138/0002114768</guid>
-            <pubDate>Mon, 06 Dec 2021 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/06/2114768.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가상자산 과세 ‘1년 유예’ 소득세법, 본회의 통과…비과세 한도는 250만원 그대로 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114655</link>
             <guid>https://n.news.naver.com/article/138/0002114655</guid>
             <pubDate>Sun, 05 Dec 2021 02:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/03/2114655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1584,11 +1600,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘기업가치 20조’ 두나무에 덩달아 대박난 다날…지분 매각으로 500억 확보 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114591</link>
+            <guid>https://n.news.naver.com/article/138/0002114591</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114591.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['전기차' 검색하면 '테슬라' 뜬다…토스증권, 해외주식 서비스 개시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114582</link>
             <guid>https://n.news.naver.com/article/138/0002114582</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114582.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1596,7 +1620,7 @@
             <link>https://n.news.naver.com/article/138/0002114576</link>
             <guid>https://n.news.naver.com/article/138/0002114576</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1632,20 +1656,36 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가상 부동산 땅이 평당 1700만원…‘더 샌드박스’는 어떻게 커뮤니티를 키웠나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114290</link>
-            <guid>https://n.news.naver.com/article/138/0002114290</guid>
-            <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114290.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[10년만에 최고치 기록한 커피 시장, 메가커피 주목해볼까 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118015</link>
+            <guid>https://www.snek.ai/alpha/opinion/118015</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['제페토' NFT, 라인 블록체인 기반으로 발행된다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114276</link>
-            <guid>https://n.news.naver.com/article/138/0002114276</guid>
-            <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114276.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[[High Value Sector 2편] 반도체 - 그 중에서도 GPU (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118014</link>
+            <guid>https://www.snek.ai/alpha/opinion/118014</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[이정표]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/9789d7b8687845e1955b29d84806141d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫한 IPO (기업공개) 주식들에 대한 성급한 매수 전략을 피해야 하는 이유 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118013</link>
+            <guid>https://www.snek.ai/alpha/opinion/118013</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신흥 월가 핫 투자 키워드: 망가 (MANGA), 마그마 (MAGMA), 마마 (MAMAA), 맨 (MAAAN) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118012</link>
+            <guid>https://www.snek.ai/alpha/opinion/118012</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[월트 디즈니 (Walt Disney, DIS US), 부자는 완전히 망하려면 오래 걸린다 (스넥)]]></title>
@@ -1694,38 +1734,6 @@
             <pubDate>Sun, 05 Dec 2021 08:20:24 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라네어 ($TSLA-naire) 끝판왕, 리오 코구안 (Leo KoGuan) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118003</link>
-            <guid>https://www.snek.ai/alpha/opinion/118003</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 포트폴리오에 반드시 담겨야 할 기업! - 지어소프트 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118000</link>
-            <guid>https://www.snek.ai/alpha/opinion/118000</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ETF와 Sector 대형주를 활용한 USA Monthly Market Update_11월 시장 Review (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118002</link>
-            <guid>https://www.snek.ai/alpha/opinion/118002</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[파이스트]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기업 최대 위기에 봉착한 비디오 게임 메이커, 액티비전 블리자드 (ATVI) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117999</link>
-            <guid>https://www.snek.ai/alpha/opinion/117999</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

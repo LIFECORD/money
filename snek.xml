@@ -4,9 +4,41 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10년만에 최고치 기록한 커피 시장, 메가커피 주목해볼까]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118015</link>
+            <guid>https://www.snek.ai/alpha/opinion/118015</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[High Value Sector 2편] 반도체 - 그 중에서도 GPU]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118014</link>
+            <guid>https://www.snek.ai/alpha/opinion/118014</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[이정표]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/9789d7b8687845e1955b29d84806141d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫한 IPO (기업공개) 주식들에 대한 성급한 매수 전략을 피해야 하는 이유]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118013</link>
+            <guid>https://www.snek.ai/alpha/opinion/118013</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신흥 월가 핫 투자 키워드: 망가 (MANGA), 마그마 (MAGMA), 마마 (MAMAA), 맨 (MAAAN)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118012</link>
+            <guid>https://www.snek.ai/alpha/opinion/118012</guid>
+            <pubDate>Tue, 07 Dec 2021 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월트 디즈니 (Walt Disney, DIS US), 부자는 완전히 망하려면 오래 걸린다]]></title>
             <link>https://www.snek.ai/alpha/opinion/118011</link>
@@ -54,38 +86,6 @@
             <pubDate>Sun, 05 Dec 2021 08:20:24 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라네어 ($TSLA-naire) 끝판왕, 리오 코구안 (Leo KoGuan)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118003</link>
-            <guid>https://www.snek.ai/alpha/opinion/118003</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 포트폴리오에 반드시 담겨야 할 기업! - 지어소프트]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118000</link>
-            <guid>https://www.snek.ai/alpha/opinion/118000</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ETF와 Sector 대형주를 활용한 USA Monthly Market Update_11월 시장 Review]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118002</link>
-            <guid>https://www.snek.ai/alpha/opinion/118002</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[파이스트]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기업 최대 위기에 봉착한 비디오 게임 메이커, 액티비전 블리자드 (ATVI)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/117999</link>
-            <guid>https://www.snek.ai/alpha/opinion/117999</guid>
-            <pubDate>Sat, 04 Dec 2021 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
