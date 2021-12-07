@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 08:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 09:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드, 클레이튼 기반 디파이에 힘 쏟는다…'클레임스왑'에 투자]]></title>
+            <link>https://n.news.naver.com/article/138/0002114870</link>
+            <guid>https://n.news.naver.com/article/138/0002114870</guid>
+            <pubDate>Tue, 07 Dec 2021 09:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>25분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114870.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블록체인 미들웨어 플랫폼 바이프로스트, NFT 게임 사업 진출]]></title>
             <link>https://n.news.naver.com/article/138/0002114847</link>
             <guid>https://n.news.naver.com/article/138/0002114847</guid>
             <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114847.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002114814</link>
             <guid>https://n.news.naver.com/article/138/0002114814</guid>
             <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114814.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114294.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸‧플라이빗‧지닥도 ‘신분증 인증’해야 이용 가능]]></title>
-            <link>https://n.news.naver.com/article/138/0002114293</link>
-            <guid>https://n.news.naver.com/article/138/0002114293</guid>
-            <pubDate>Fri, 26 Nov 2021 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
