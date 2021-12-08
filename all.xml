@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 00:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 02:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,27 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9608abc3814aa587b3c35fbcec30a33b5f199c82" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[세계은행, 'KBW2021'서 블록체인의 소셜임팩트 논한다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114915</link>
+            <guid>https://n.news.naver.com/article/138/0002114915</guid>
+            <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>26분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['백신패스'도 블록체인 기반 DID로 발급받는다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114901</link>
+            <guid>https://n.news.naver.com/article/138/0002114901</guid>
+            <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114901.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2022금융IT혁신] IBM에서 분사한 킨드릴 "금융 클라우드 등 컨설팅부터 운영까지 토털 지원" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114882</link>
             <guid>https://n.news.naver.com/article/138/0002114882</guid>
             <pubDate>Tue, 07 Dec 2021 12:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114870</link>
             <guid>https://n.news.naver.com/article/138/0002114870</guid>
             <pubDate>Tue, 07 Dec 2021 09:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002114847</link>
             <guid>https://n.news.naver.com/article/138/0002114847</guid>
             <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114847.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002114832</link>
             <guid>https://n.news.naver.com/article/138/0002114832</guid>
             <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114832.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1628,7 +1644,7 @@
             <link>https://n.news.naver.com/article/138/0002114582</link>
             <guid>https://n.news.naver.com/article/138/0002114582</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114582.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002114576</link>
             <guid>https://n.news.naver.com/article/138/0002114576</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1646,14 +1662,6 @@
             <pubDate>Sat, 04 Dec 2021 15:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/28/2114343.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘디카르고 유통량’ 두고 노웅래 vs 업비트 갑론을박…업비트 “적절한 조치 취했다” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114330</link>
-            <guid>https://n.news.naver.com/article/138/0002114330</guid>
-            <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/11/26/2114330.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10년만에 최고치 기록한 커피 시장, 메가커피 주목해볼까 (스넥)]]></title>
