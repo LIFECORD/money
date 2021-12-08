@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 07:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 08:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002114930</link>
             <guid>https://n.news.naver.com/article/138/0002114930</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002114925</link>
             <guid>https://n.news.naver.com/article/138/0002114925</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114915</link>
             <guid>https://n.news.naver.com/article/138/0002114915</guid>
             <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114901</link>
             <guid>https://n.news.naver.com/article/138/0002114901</guid>
             <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114901.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002114882</link>
             <guid>https://n.news.naver.com/article/138/0002114882</guid>
             <pubDate>Tue, 07 Dec 2021 12:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1664,6 +1664,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114582.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유명 헤지펀드 타겟 기업: 미국 백화점 브랜드 콜스 (Kohl’s: KSS) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118018</link>
+            <guid>https://www.snek.ai/alpha/opinion/118018</guid>
+            <pubDate>Wed, 08 Dec 2021 08:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[두산그룹의 신성장 동력 두산퓨얼셀㈜ (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118017</link>
             <guid>https://www.snek.ai/alpha/opinion/118017</guid>
@@ -1734,14 +1742,6 @@
             <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[엄청난 성장과 무르익는 CAPA 증설! - SK아이이테크놀로지 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118005</link>
-            <guid>https://www.snek.ai/alpha/opinion/118005</guid>
-            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
