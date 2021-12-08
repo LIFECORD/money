@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 06:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002114930</link>
             <guid>https://n.news.naver.com/article/138/0002114930</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002114925</link>
             <guid>https://n.news.naver.com/article/138/0002114925</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114915</link>
             <guid>https://n.news.naver.com/article/138/0002114915</guid>
             <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114901</link>
             <guid>https://n.news.naver.com/article/138/0002114901</guid>
             <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114901.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002114882</link>
             <guid>https://n.news.naver.com/article/138/0002114882</guid>
             <pubDate>Tue, 07 Dec 2021 12:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1596,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002114870</link>
             <guid>https://n.news.naver.com/article/138/0002114870</guid>
             <pubDate>Tue, 07 Dec 2021 09:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1604,7 @@
             <link>https://n.news.naver.com/article/138/0002114847</link>
             <guid>https://n.news.naver.com/article/138/0002114847</guid>
             <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114847.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1662,6 +1662,86 @@
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114582.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10년만에 최고치 기록한 커피 시장, 메가커피 주목해볼까 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118015</link>
+            <guid>https://www.snek.ai/alpha/opinion/118015</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[High Value Sector 2편] 반도체 - 그 중에서도 GPU (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118014</link>
+            <guid>https://www.snek.ai/alpha/opinion/118014</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[이정표]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/9789d7b8687845e1955b29d84806141d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫한 IPO (기업공개) 주식들에 대한 성급한 매수 전략을 피해야 하는 이유 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118013</link>
+            <guid>https://www.snek.ai/alpha/opinion/118013</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신흥 월가 핫 투자 키워드: 망가 (MANGA), 마그마 (MAGMA), 마마 (MAMAA), 맨 (MAAAN) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118012</link>
+            <guid>https://www.snek.ai/alpha/opinion/118012</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월트 디즈니 (Walt Disney, DIS US), 부자는 완전히 망하려면 오래 걸린다 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118011</link>
+            <guid>https://www.snek.ai/alpha/opinion/118011</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전기차 배터리 그리고 한국 배터리 3사 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118009</link>
+            <guid>https://www.snek.ai/alpha/opinion/118009</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[Y-why]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 유명 경제 전문지, 패스트 컴퍼니의 차세대 테크 트랜드 (Fast Company’s Next Big Things in Tech) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118004</link>
+            <guid>https://www.snek.ai/alpha/opinion/118004</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반복되는 변동성에 기회는 확대 중! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118006</link>
+            <guid>https://www.snek.ai/alpha/opinion/118006</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[엄청난 성장과 무르익는 CAPA 증설! - SK아이이테크놀로지 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118005</link>
+            <guid>https://www.snek.ai/alpha/opinion/118005</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시장은 공포에서 탐욕으로 전환할 가능성 확대 중! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118007</link>
+            <guid>https://www.snek.ai/alpha/opinion/118007</guid>
+            <pubDate>Wed, 08 Dec 2021 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
