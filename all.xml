@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 09:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 10:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9608abc3814aa587b3c35fbcec30a33b5f199c82" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[후오비코리아·코어닥스·KODA·KDAC, 정식 가상자산사업자 됐다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114968</link>
+            <guid>https://n.news.naver.com/article/138/0002114968</guid>
+            <pubDate>Wed, 08 Dec 2021 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>46분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114968.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트래블룰 시행되면 개인지갑 송금은?…‘내 지갑주소 등록' 필수화하는 시스템 추진 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114963</link>
             <guid>https://n.news.naver.com/article/138/0002114963</guid>
             <pubDate>Wed, 08 Dec 2021 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114963.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114930</link>
             <guid>https://n.news.naver.com/article/138/0002114930</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114925</link>
             <guid>https://n.news.naver.com/article/138/0002114925</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002114915</link>
             <guid>https://n.news.naver.com/article/138/0002114915</guid>
             <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002114901</link>
             <guid>https://n.news.naver.com/article/138/0002114901</guid>
             <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114901.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1596,7 +1604,7 @@
             <link>https://n.news.naver.com/article/138/0002114882</link>
             <guid>https://n.news.naver.com/article/138/0002114882</guid>
             <pubDate>Tue, 07 Dec 2021 12:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,7 +1644,7 @@
             <link>https://n.news.naver.com/article/138/0002114792</link>
             <guid>https://n.news.naver.com/article/138/0002114792</guid>
             <pubDate>Mon, 06 Dec 2021 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/06/2114792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1652,16 +1660,8 @@
             <link>https://n.news.naver.com/article/138/0002114645</link>
             <guid>https://n.news.naver.com/article/138/0002114645</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114645.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘기업가치 20조’ 두나무에 덩달아 대박난 다날…지분 매각으로 500억 확보 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114591</link>
-            <guid>https://n.news.naver.com/article/138/0002114591</guid>
-            <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114591.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유명 헤지펀드 타겟 기업: 미국 백화점 브랜드 콜스 (Kohl’s: KSS) (스넥)]]></title>
