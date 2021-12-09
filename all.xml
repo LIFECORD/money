@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 13:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 14:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002115047</link>
             <guid>https://n.news.naver.com/article/138/0002115047</guid>
             <pubDate>Thu, 09 Dec 2021 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115047.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,23 +1564,15 @@
             <link>https://n.news.naver.com/article/138/0002115036</link>
             <guid>https://n.news.naver.com/article/138/0002115036</guid>
             <pubDate>Thu, 09 Dec 2021 06:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115036.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산/가상자산①] 일론 머스크부터 선물 ETF까지, 비트코인의 한 해 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002115021</link>
-            <guid>https://n.news.naver.com/article/138/0002115021</guid>
-            <pubDate>Thu, 09 Dec 2021 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115021.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프로비트, '신분증 인증' 포함한 KYC 시행 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114993</link>
             <guid>https://n.news.naver.com/article/138/0002114993</guid>
             <pubDate>Thu, 09 Dec 2021 02:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2114993.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1670,6 +1662,14 @@
             <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114814.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022금융IT혁신] 네이버클라우드가 제시하는 '검색어'로 기업 경쟁력 확보 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114792</link>
+            <guid>https://n.news.naver.com/article/138/0002114792</guid>
+            <pubDate>Thu, 09 Dec 2021 14:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/06/2114792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어제의 동지에서 오늘의 적으로 돌변한 흥미로운 시장 이벤트: 룰루레몬 vs 펠로톤 (스넥)]]></title>
