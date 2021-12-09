@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 06:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 07:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9608abc3814aa587b3c35fbcec30a33b5f199c82" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[글로벌 시총 순위 ‘탑 9’에 든 국내 코인…루나 ‘신고가 랠리’의 배경은? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115047</link>
+            <guid>https://n.news.naver.com/article/138/0002115047</guid>
+            <pubDate>Thu, 09 Dec 2021 07:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115047.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2021 결산/가상자산②] 전 세계 휩쓴 ‘대체불가능’의 매력, NFT 열풍과 내년 전망 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115036</link>
             <guid>https://n.news.naver.com/article/138/0002115036</guid>
             <pubDate>Thu, 09 Dec 2021 06:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>50분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002115021</link>
             <guid>https://n.news.naver.com/article/138/0002115021</guid>
             <pubDate>Thu, 09 Dec 2021 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115021.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114993</link>
             <guid>https://n.news.naver.com/article/138/0002114993</guid>
             <pubDate>Thu, 09 Dec 2021 02:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2114993.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002114968</link>
             <guid>https://n.news.naver.com/article/138/0002114968</guid>
             <pubDate>Wed, 08 Dec 2021 10:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114968.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1662,14 +1670,6 @@
             <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114814.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022금융IT혁신] 네이버클라우드가 제시하는 '검색어'로 기업 경쟁력 확보 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114792</link>
-            <guid>https://n.news.naver.com/article/138/0002114792</guid>
-            <pubDate>Mon, 06 Dec 2021 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/06/2114792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어제의 동지에서 오늘의 적으로 돌변한 흥미로운 시장 이벤트: 룰루레몬 vs 펠로톤 (스넥)]]></title>
