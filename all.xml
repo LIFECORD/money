@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 00:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9608abc3814aa587b3c35fbcec30a33b5f199c82" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[프로비트, '신분증 인증' 포함한 KYC 시행 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002114993</link>
+            <guid>https://n.news.naver.com/article/138/0002114993</guid>
+            <pubDate>Thu, 09 Dec 2021 02:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2114993.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후오비코리아·코어닥스·KODA·KDAC, 정식 가상자산사업자 됐다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002114968</link>
             <guid>https://n.news.naver.com/article/138/0002114968</guid>
             <pubDate>Wed, 08 Dec 2021 10:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114968.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114963</link>
             <guid>https://n.news.naver.com/article/138/0002114963</guid>
             <pubDate>Wed, 08 Dec 2021 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114963.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002114930</link>
             <guid>https://n.news.naver.com/article/138/0002114930</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002114925</link>
             <guid>https://n.news.naver.com/article/138/0002114925</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002114915</link>
             <guid>https://n.news.naver.com/article/138/0002114915</guid>
             <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1628,7 +1636,7 @@
             <link>https://n.news.naver.com/article/138/0002114832</link>
             <guid>https://n.news.naver.com/article/138/0002114832</guid>
             <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114832.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1654,14 +1662,6 @@
             <pubDate>Sun, 05 Dec 2021 02:09:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/03/2114655.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이댑, 블록체인 게임 개발용 SDK 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114645</link>
-            <guid>https://n.news.naver.com/article/138/0002114645</guid>
-            <pubDate>Thu, 02 Dec 2021 18:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/02/2114645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어제의 동지에서 오늘의 적으로 돌변한 흥미로운 시장 이벤트: 룰루레몬 vs 펠로톤 (스넥)]]></title>
