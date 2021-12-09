@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 15:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 16:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -109,7 +109,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423942337?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 08:20:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5799a3eca725981db8caecd3fe72ae98aaf0ba2f" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[10회. 기술적 매매 실전활용 편 (※황소 찾기!)]]></title>
