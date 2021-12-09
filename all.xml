@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 14:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 15:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1069,7 +1069,7 @@
             <guid>https://tv.kakao.com/channel/3815196/cliplink/420766317?act=clip</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:26]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffad0f5337e134684c51ecd0e41d45bdf35a1eaf8" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[루이비똥, 셀린느, 지방시도 우리 민족이었어..! (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터4)]]></title>
@@ -1333,7 +1333,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423942337?act=clip</guid>
             <pubDate>Thu, 02 Dec 2021 18:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5799a3eca725981db8caecd3fe72ae98aaf0ba2f" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[10회. 기술적 매매 실전활용 편 (※황소 찾기!) (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002115047</link>
             <guid>https://n.news.naver.com/article/138/0002115047</guid>
             <pubDate>Thu, 09 Dec 2021 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115047.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002115036</link>
             <guid>https://n.news.naver.com/article/138/0002115036</guid>
             <pubDate>Thu, 09 Dec 2021 06:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002114993</link>
             <guid>https://n.news.naver.com/article/138/0002114993</guid>
             <pubDate>Thu, 09 Dec 2021 02:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2114993.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
