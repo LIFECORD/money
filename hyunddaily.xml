@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 06:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 07:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['폴리곤 오입금' 논란 일었던 업비트, 오입금된 가상자산 전량 구제 완료]]></title>
+            <link>https://n.news.naver.com/article/138/0002115117</link>
+            <guid>https://n.news.naver.com/article/138/0002115117</guid>
+            <pubDate>Fri, 10 Dec 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>53분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115117.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이크로스트레티지, 또 '저점 매수'…970억원치 비트코인 추가 매입]]></title>
             <link>https://n.news.naver.com/article/138/0002115090</link>
             <guid>https://n.news.naver.com/article/138/0002115090</guid>
             <pubDate>Fri, 10 Dec 2021 01:59:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115090.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114832.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗, 美 가상자산 리서치 기업 메사리와 콘텐츠 제휴]]></title>
-            <link>https://n.news.naver.com/article/138/0002114814</link>
-            <guid>https://n.news.naver.com/article/138/0002114814</guid>
-            <pubDate>Tue, 07 Dec 2021 07:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114814.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
