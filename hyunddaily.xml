@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 15:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 16:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 09 Dec 2021 07:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115047.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산/가상자산②] 전 세계 휩쓴 ‘대체불가능’의 매력, NFT 열풍과 내년 전망]]></title>
-            <link>https://n.news.naver.com/article/138/0002115036</link>
-            <guid>https://n.news.naver.com/article/138/0002115036</guid>
-            <pubDate>Thu, 09 Dec 2021 06:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프로비트, '신분증 인증' 포함한 KYC 시행]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 07 Dec 2021 09:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114870.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록체인 미들웨어 플랫폼 바이프로스트, NFT 게임 사업 진출]]></title>
+            <link>https://n.news.naver.com/article/138/0002114847</link>
+            <guid>https://n.news.naver.com/article/138/0002114847</guid>
+            <pubDate>Sat, 11 Dec 2021 16:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114847.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
