@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 11:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 12:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,14 +1552,6 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F63753a549ebd180a1fc4dad28030b224ec1ddec6" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[[주간 블록체인] 코인 거래소는 ‘국내에서만’·블록체인 프로젝트는 ‘해외에서만’ (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002115157</link>
-            <guid>https://n.news.naver.com/article/138/0002115157</guid>
-            <pubDate>Sun, 12 Dec 2021 03:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/12/2115157.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[베일 벗은 '메타 표' 가상자산 지갑 노비…왓츠앱서 스테이블코인 송금 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115136</link>
             <guid>https://n.news.naver.com/article/138/0002115136</guid>
@@ -1598,6 +1590,14 @@
             <pubDate>Thu, 09 Dec 2021 07:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115047.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2021 결산/가상자산②] 전 세계 휩쓴 ‘대체불가능’의 매력, NFT 열풍과 내년 전망 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115036</link>
+            <guid>https://n.news.naver.com/article/138/0002115036</guid>
+            <pubDate>Sun, 12 Dec 2021 12:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프로비트, '신분증 인증' 포함한 KYC 시행 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
