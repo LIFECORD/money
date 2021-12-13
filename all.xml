@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 07:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 08:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,27 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F63753a549ebd180a1fc4dad28030b224ec1ddec6" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[가상자산 호황에…코인 거래소들, 잇따라 사옥 확장 움직임 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115249</link>
+            <guid>https://n.news.naver.com/article/138/0002115249</guid>
+            <pubDate>Mon, 13 Dec 2021 08:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>35분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115249.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["테슬라보다 먼저"…가상자산으로 BMW 구매한다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115241</link>
+            <guid>https://n.news.naver.com/article/138/0002115241</guid>
+            <pubDate>Mon, 13 Dec 2021 08:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115241.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대림·VTI파트너스도 블록체인에 베팅‥람다256, 700억 규모 시리즈B 투자 유치 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115207</link>
             <guid>https://n.news.naver.com/article/138/0002115207</guid>
             <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115207.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002115206</link>
             <guid>https://n.news.naver.com/article/138/0002115206</guid>
             <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002115136</link>
             <guid>https://n.news.naver.com/article/138/0002115136</guid>
             <pubDate>Fri, 10 Dec 2021 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115136.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002115131</link>
             <guid>https://n.news.naver.com/article/138/0002115131</guid>
             <pubDate>Fri, 10 Dec 2021 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115131.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1620,7 @@
             <link>https://n.news.naver.com/article/138/0002115047</link>
             <guid>https://n.news.naver.com/article/138/0002115047</guid>
             <pubDate>Thu, 09 Dec 2021 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2115047.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002114963</link>
             <guid>https://n.news.naver.com/article/138/0002114963</guid>
             <pubDate>Wed, 08 Dec 2021 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114963.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1684,7 +1700,7 @@
             <link>https://n.news.naver.com/article/138/0002114870</link>
             <guid>https://n.news.naver.com/article/138/0002114870</guid>
             <pubDate>Tue, 07 Dec 2021 09:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1694,22 +1710,6 @@
             <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114847.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인터파크 아이포인트, 가상자산 '밀크'로 전환된다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114832</link>
-            <guid>https://n.news.naver.com/article/138/0002114832</guid>
-            <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114832.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗, 美 가상자산 리서치 기업 메사리와 콘텐츠 제휴 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002114814</link>
-            <guid>https://n.news.naver.com/article/138/0002114814</guid>
-            <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114814.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업계 상위권의 이익률과 뛰어난 성장성. 조정 후 보유해야 할 코웰패션. (스넥)]]></title>
