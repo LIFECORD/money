@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 23:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 00:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1652,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002114901</link>
             <guid>https://n.news.naver.com/article/138/0002114901</guid>
             <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114901.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1672,6 +1672,70 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[업계 상위권의 이익률과 뛰어난 성장성. 조정 후 보유해야 할 코웰패션. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118025</link>
+            <guid>https://www.snek.ai/alpha/opinion/118025</guid>
+            <pubDate>Mon, 13 Dec 2021 00:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/49c69e6e6a5741f796e06e65b8830129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 경기 회복은 당연지사! 종목선별이 너무나 중요! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118033</link>
+            <guid>https://www.snek.ai/alpha/opinion/118033</guid>
+            <pubDate>Mon, 13 Dec 2021 00:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[사상 최대치인 라면 수출액이 가리키는 기업! - 율촌화학 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118031</link>
+            <guid>https://www.snek.ai/alpha/opinion/118031</guid>
+            <pubDate>Mon, 13 Dec 2021 00:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[sk스퀘어의 주가변동과 전망 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118035</link>
+            <guid>https://www.snek.ai/alpha/opinion/118035</guid>
+            <pubDate>Mon, 13 Dec 2021 00:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 파월은 인플레 잡기에 나설 것인가 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118036</link>
+            <guid>https://www.snek.ai/alpha/opinion/118036</guid>
+            <pubDate>Mon, 13 Dec 2021 00:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연어 생식액으로 실적은 고공행진! - 파마리서치 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118024</link>
+            <guid>https://www.snek.ai/alpha/opinion/118024</guid>
+            <pubDate>Mon, 13 Dec 2021 00:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국석유[004090]: '자산주'에서 '친환경 성장주'로 탈바꿈 할 수 있을까? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118029</link>
+            <guid>https://www.snek.ai/alpha/opinion/118029</guid>
+            <pubDate>Mon, 13 Dec 2021 00:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인플레이션 공포를 넘어! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118032</link>
+            <guid>https://www.snek.ai/alpha/opinion/118032</guid>
+            <pubDate>Mon, 13 Dec 2021 00:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
             <title><![CDATA[어제의 동지에서 오늘의 적으로 돌변한 흥미로운 시장 이벤트: 룰루레몬 vs 펠로톤 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118020</link>
             <guid>https://www.snek.ai/alpha/opinion/118020</guid>
@@ -1686,70 +1750,6 @@
             <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 헤지펀드 타겟 기업: 미국 백화점 브랜드 콜스 (Kohl’s: KSS) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118018</link>
-            <guid>https://www.snek.ai/alpha/opinion/118018</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두산그룹의 신성장 동력 두산퓨얼셀㈜ (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118017</link>
-            <guid>https://www.snek.ai/alpha/opinion/118017</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년만에 최고치 기록한 커피 시장, 메가커피 주목해볼까 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118015</link>
-            <guid>https://www.snek.ai/alpha/opinion/118015</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[High Value Sector 2편] 반도체 - 그 중에서도 GPU (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118014</link>
-            <guid>https://www.snek.ai/alpha/opinion/118014</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[이정표]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/9789d7b8687845e1955b29d84806141d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫한 IPO (기업공개) 주식들에 대한 성급한 매수 전략을 피해야 하는 이유 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118013</link>
-            <guid>https://www.snek.ai/alpha/opinion/118013</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신흥 월가 핫 투자 키워드: 망가 (MANGA), 마그마 (MAGMA), 마마 (MAMAA), 맨 (MAAAN) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118012</link>
-            <guid>https://www.snek.ai/alpha/opinion/118012</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월트 디즈니 (Walt Disney, DIS US), 부자는 완전히 망하려면 오래 걸린다 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118011</link>
-            <guid>https://www.snek.ai/alpha/opinion/118011</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[파이스트]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차 배터리 그리고 한국 배터리 3사 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118009</link>
-            <guid>https://www.snek.ai/alpha/opinion/118009</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[Y-why]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
