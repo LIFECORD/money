@@ -4,9 +4,25 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 02:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 03:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대림·VTI파트너스도 블록체인에 베팅‥람다256, 700억 규모 시리즈B 투자 유치]]></title>
+            <link>https://n.news.naver.com/article/138/0002115207</link>
+            <guid>https://n.news.naver.com/article/138/0002115207</guid>
+            <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>40분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115207.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022금융IT혁신] 하나금융티아이 "디지털전환 시작 RPA, 그룹사 전체로 확산 도입"]]></title>
+            <link>https://n.news.naver.com/article/138/0002115206</link>
+            <guid>https://n.news.naver.com/article/138/0002115206</guid>
+            <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>52분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115206.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베일 벗은 '메타 표' 가상자산 지갑 노비…왓츠앱서 스테이블코인 송금]]></title>
             <link>https://n.news.naver.com/article/138/0002115136</link>
@@ -84,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002114930</link>
             <guid>https://n.news.naver.com/article/138/0002114930</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +108,7 @@
             <link>https://n.news.naver.com/article/138/0002114925</link>
             <guid>https://n.news.naver.com/article/138/0002114925</guid>
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,6 +142,30 @@
             <pubDate>Tue, 07 Dec 2021 09:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114870.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록체인 미들웨어 플랫폼 바이프로스트, NFT 게임 사업 진출]]></title>
+            <link>https://n.news.naver.com/article/138/0002114847</link>
+            <guid>https://n.news.naver.com/article/138/0002114847</guid>
+            <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114847.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터파크 아이포인트, 가상자산 '밀크'로 전환된다]]></title>
+            <link>https://n.news.naver.com/article/138/0002114832</link>
+            <guid>https://n.news.naver.com/article/138/0002114832</guid>
+            <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114832.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코빗, 美 가상자산 리서치 기업 메사리와 콘텐츠 제휴]]></title>
+            <link>https://n.news.naver.com/article/138/0002114814</link>
+            <guid>https://n.news.naver.com/article/138/0002114814</guid>
+            <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114814.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
