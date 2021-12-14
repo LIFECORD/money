@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2021-12-14T09:17:57.485Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 14 Dec 2021 10:20:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유명 MBA 다모다란 교수님의 ‘기업수명주기 + 성공 CEO + 주가 흐름’ 연관관계 분석론]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118039</link>
+            <guid>https://www.snek.ai/alpha/opinion/118039</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 꿈틀대는 금값! 투자할까 말까?]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118038</link>
+            <guid>https://www.snek.ai/alpha/opinion/118038</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업계 상위권의 이익률과 뛰어난 성장성. 조정 후 보유해야 할 코웰패션.]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118025</link>
+            <guid>https://www.snek.ai/alpha/opinion/118025</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/49c69e6e6a5741f796e06e65b8830129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 경기 회복은 당연지사! 종목선별이 너무나 중요!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118033</link>
+            <guid>https://www.snek.ai/alpha/opinion/118033</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[사상 최대치인 라면 수출액이 가리키는 기업! - 율촌화학]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118031</link>
+            <guid>https://www.snek.ai/alpha/opinion/118031</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[sk스퀘어의 주가변동과 전망]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118035</link>
+            <guid>https://www.snek.ai/alpha/opinion/118035</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 파월은 인플레 잡기에 나설 것인가]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118036</link>
+            <guid>https://www.snek.ai/alpha/opinion/118036</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연어 생식액으로 실적은 고공행진! - 파마리서치]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118024</link>
+            <guid>https://www.snek.ai/alpha/opinion/118024</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국석유[004090]: '자산주'에서 '친환경 성장주'로 탈바꿈 할 수 있을까?]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118029</link>
+            <guid>https://www.snek.ai/alpha/opinion/118029</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인플레이션 공포를 넘어!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118032</link>
+            <guid>https://www.snek.ai/alpha/opinion/118032</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+    </channel>
+</rss>

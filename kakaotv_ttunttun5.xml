@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 09:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 10:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/424569675?act=clip</guid>
             <pubDate>Fri, 10 Dec 2021 03:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>17:57]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F448d16a924b2f2f014dd039e88fe469d665b67e6" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F448d16a924b2f2f014dd039e88fe469d665b67e6" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[단타꾼 장동민이 돌아왔다! 돈복사와 돈삭제를 오가는 화려한 실력 대방출]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/424569188?act=clip</guid>
             <pubDate>Fri, 10 Dec 2021 03:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:41]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8bce949256192a174a1c85e70e3f649c28637905" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8bce949256192a174a1c85e70e3f649c28637905" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[롤러코스터보다 아찔한 수익률 등락^^]]></title>
