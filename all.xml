@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 23:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 00:58:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002115249</link>
             <guid>https://n.news.naver.com/article/138/0002115249</guid>
             <pubDate>Mon, 13 Dec 2021 08:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002115241</link>
             <guid>https://n.news.naver.com/article/138/0002115241</guid>
             <pubDate>Mon, 13 Dec 2021 08:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115241.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002115207</link>
             <guid>https://n.news.naver.com/article/138/0002115207</guid>
             <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115207.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002115206</link>
             <guid>https://n.news.naver.com/article/138/0002115206</guid>
             <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1684,7 +1684,7 @@
             <link>https://n.news.naver.com/article/138/0002114901</link>
             <guid>https://n.news.naver.com/article/138/0002114901</guid>
             <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114901.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1710,6 +1710,22 @@
             <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/07/2114847.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 MBA 다모다란 교수님의 ‘기업수명주기 + 성공 CEO + 주가 흐름’ 연관관계 분석론 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118039</link>
+            <guid>https://www.snek.ai/alpha/opinion/118039</guid>
+            <pubDate>Tue, 14 Dec 2021 00:58:50 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 꿈틀대는 금값! 투자할까 말까? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118038</link>
+            <guid>https://www.snek.ai/alpha/opinion/118038</guid>
+            <pubDate>Tue, 14 Dec 2021 00:58:50 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업계 상위권의 이익률과 뛰어난 성장성. 조정 후 보유해야 할 코웰패션. (스넥)]]></title>
@@ -1774,22 +1790,6 @@
             <pubDate>Mon, 13 Dec 2021 00:55:57 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[어제의 동지에서 오늘의 적으로 돌변한 흥미로운 시장 이벤트: 룰루레몬 vs 펠로톤 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118020</link>
-            <guid>https://www.snek.ai/alpha/opinion/118020</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 사무실 공유경제 서비스 업계내 흥미로운 시장 이벤트: IWG vs. WeWork (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118019</link>
-            <guid>https://www.snek.ai/alpha/opinion/118019</guid>
-            <pubDate>Sun, 12 Dec 2021 20:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
