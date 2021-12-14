@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 04:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 05:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT도 잡겠다는 두나무…하이브와의 'BTS 효과'에 힘 준다]]></title>
+            <link>https://n.news.naver.com/article/138/0002115312</link>
+            <guid>https://n.news.naver.com/article/138/0002115312</guid>
+            <pubDate>Tue, 14 Dec 2021 05:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>15분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115312.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이석우 두나무 대표 “업비트 독점? 4대 거래소‧거래량만 가지고 따질 것 아냐”]]></title>
             <link>https://n.news.naver.com/article/138/0002115300</link>
             <guid>https://n.news.naver.com/article/138/0002115300</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115300.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002115291</link>
             <guid>https://n.news.naver.com/article/138/0002115291</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002115276</link>
             <guid>https://n.news.naver.com/article/138/0002115276</guid>
             <pubDate>Tue, 14 Dec 2021 02:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002115271</link>
             <guid>https://n.news.naver.com/article/138/0002115271</guid>
             <pubDate>Tue, 14 Dec 2021 02:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115271.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002115241</link>
             <guid>https://n.news.naver.com/article/138/0002115241</guid>
             <pubDate>Mon, 13 Dec 2021 08:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115241.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114925.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계은행, 'KBW2021'서 블록체인의 소셜임팩트 논한다]]></title>
-            <link>https://n.news.naver.com/article/138/0002114915</link>
-            <guid>https://n.news.naver.com/article/138/0002114915</guid>
-            <pubDate>Wed, 08 Dec 2021 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
