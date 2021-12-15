@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 23:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 00:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG화학의 적정 시가총액 계산과 전망]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118045</link>
+            <guid>https://www.snek.ai/alpha/opinion/118045</guid>
+            <pubDate>Wed, 15 Dec 2021 00:55:55 GMT</pubDate>
+            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
+        </item>
         <item>
             <title><![CDATA[유명 MBA 다모다란 교수님의 ‘기업수명주기 + 성공 CEO + 주가 흐름’ 연관관계 분석론]]></title>
             <link>https://www.snek.ai/alpha/opinion/118039</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
             <content:encoded><![CDATA[한대희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인플레이션 공포를 넘어!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118032</link>
-            <guid>https://www.snek.ai/alpha/opinion/118032</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
