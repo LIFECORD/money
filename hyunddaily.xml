@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 00:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 02:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카톡에서 NFT 사고 판다…'클립 드롭스' 정식 버전 출시]]></title>
+            <link>https://n.news.naver.com/article/138/0002115347</link>
+            <guid>https://n.news.naver.com/article/138/0002115347</guid>
+            <pubDate>Wed, 15 Dec 2021 02:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>55분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115347.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후오비코리아, 15일부터 오더북 공유 중단…“특금법 조건 준수”]]></title>
             <link>https://n.news.naver.com/article/138/0002115329</link>
             <guid>https://n.news.naver.com/article/138/0002115329</guid>
             <pubDate>Tue, 14 Dec 2021 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002115312</link>
             <guid>https://n.news.naver.com/article/138/0002115312</guid>
             <pubDate>Tue, 14 Dec 2021 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002115300</link>
             <guid>https://n.news.naver.com/article/138/0002115300</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115300.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002115291</link>
             <guid>https://n.news.naver.com/article/138/0002115291</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,15 +52,15 @@
             <link>https://n.news.naver.com/article/138/0002115276</link>
             <guid>https://n.news.naver.com/article/138/0002115276</guid>
             <pubDate>Tue, 14 Dec 2021 02:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115276.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘쇼미더머니 탑4’ 쿤타, NFT 티켓으로 입장하는 콘서트 연다]]></title>
             <link>https://n.news.naver.com/article/138/0002115271</link>
             <guid>https://n.news.naver.com/article/138/0002115271</guid>
             <pubDate>Tue, 14 Dec 2021 02:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115271.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["테슬라보다 먼저"…가상자산으로 BMW 구매한다]]></title>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002115131</guid>
             <pubDate>Fri, 10 Dec 2021 08:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115131.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['폴리곤 오입금' 논란 일었던 업비트, 오입금된 가상자산 전량 구제 완료]]></title>
@@ -100,13 +107,14 @@
             <guid>https://n.news.naver.com/article/138/0002115117</guid>
             <pubDate>Fri, 10 Dec 2021 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크로스트레티지, 또 '저점 매수'…970억원치 비트코인 추가 매입]]></title>
             <link>https://n.news.naver.com/article/138/0002115090</link>
             <guid>https://n.news.naver.com/article/138/0002115090</guid>
             <pubDate>Fri, 10 Dec 2021 01:59:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115090.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -138,7 +146,7 @@
             <link>https://n.news.naver.com/article/138/0002114993</link>
             <guid>https://n.news.naver.com/article/138/0002114993</guid>
             <pubDate>Thu, 09 Dec 2021 02:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/09/2114993.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,14 +180,6 @@
             <pubDate>Tue, 14 Dec 2021 11:15:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114925.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계은행, 'KBW2021'서 블록체인의 소셜임팩트 논한다]]></title>
-            <link>https://n.news.naver.com/article/138/0002114915</link>
-            <guid>https://n.news.naver.com/article/138/0002114915</guid>
-            <pubDate>Tue, 14 Dec 2021 11:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
