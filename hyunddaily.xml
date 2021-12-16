@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 03:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 04:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FOMC 결정에 비트코인도 반등했지만…단기 ‘베어마켓’ 전망 나온 이유]]></title>
+            <link>https://n.news.naver.com/article/138/0002115442</link>
+            <guid>https://n.news.naver.com/article/138/0002115442</guid>
+            <pubDate>Thu, 16 Dec 2021 04:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115442.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“가장 저렴한 토큰 스왑 보장”…체인파트너스가 2년 동안 ‘체인저’ 개발한 까닭]]></title>
             <link>https://n.news.naver.com/article/138/0002115391</link>
             <guid>https://n.news.naver.com/article/138/0002115391</guid>
             <pubDate>Wed, 15 Dec 2021 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002115300</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115300.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두나무, 올해 세금만 약 1조원 낸다]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002115291</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드, 블록체인에 '풀베팅'…블록체인 프롭테크 스타트업 '카사'에 투자]]></title>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002115206</guid>
             <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베일 벗은 '메타 표' 가상자산 지갑 노비…왓츠앱서 스테이블코인 송금]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002115136</guid>
             <pubDate>Fri, 10 Dec 2021 08:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115136.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022금융IT혁신] 뱅크웨어글로벌, '코어뱅킹 클라우드 전환'시 핵심 전략 제시]]></title>
@@ -172,14 +180,6 @@
             <pubDate>Wed, 08 Dec 2021 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114963.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["NFT, 일반 가상자산과 달리 '소매 거래' 중심"]]></title>
-            <link>https://n.news.naver.com/article/138/0002114930</link>
-            <guid>https://n.news.naver.com/article/138/0002114930</guid>
-            <pubDate>Wed, 08 Dec 2021 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/08/2114930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
