@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 00:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 02:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002115571</link>
             <guid>https://n.news.naver.com/article/138/0002115571</guid>
             <pubDate>Fri, 17 Dec 2021 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002115561</link>
             <guid>https://n.news.naver.com/article/138/0002115561</guid>
             <pubDate>Fri, 17 Dec 2021 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1627,7 +1627,7 @@
             <link>https://n.news.naver.com/article/138/0002115347</link>
             <guid>https://n.news.naver.com/article/138/0002115347</guid>
             <pubDate>Wed, 15 Dec 2021 02:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115347.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1658,7 +1658,7 @@
             <link>https://n.news.naver.com/article/138/0002115291</link>
             <guid>https://n.news.naver.com/article/138/0002115291</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1724,6 +1724,86 @@
             <pubDate>Fri, 10 Dec 2021 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115117.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일부 유명 밈 주식 사례로 살펴본 기업 임원 보상 정책의 허와실 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118056</link>
+            <guid>https://www.snek.ai/alpha/opinion/118056</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마켓 버블 시그널: 기업 내부자들의 적극적 자사주 매각 움직임 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118055</link>
+            <guid>https://www.snek.ai/alpha/opinion/118055</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 한번의 투자 심판대에 올라선 캐시 우드 (Cathie Wood, The Queen of the bull market) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118048</link>
+            <guid>https://www.snek.ai/alpha/opinion/118048</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼭 팔로우 해야 할 유명 투자 기관, 베일리 기포드 (Baillie Gifford) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118047</link>
+            <guid>https://www.snek.ai/alpha/opinion/118047</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탄소배출권 관련주(1) KC코트렐 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118052</link>
+            <guid>https://www.snek.ai/alpha/opinion/118052</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG화학의 적정 시가총액 계산과 전망 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118045</link>
+            <guid>https://www.snek.ai/alpha/opinion/118045</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 MBA 다모다란 교수님의 ‘기업수명주기 + 성공 CEO + 주가 흐름’ 연관관계 분석론 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118039</link>
+            <guid>https://www.snek.ai/alpha/opinion/118039</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 꿈틀대는 금값! 투자할까 말까? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118038</link>
+            <guid>https://www.snek.ai/alpha/opinion/118038</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업계 상위권의 이익률과 뛰어난 성장성. 조정 후 보유해야 할 코웰패션. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118025</link>
+            <guid>https://www.snek.ai/alpha/opinion/118025</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/49c69e6e6a5741f796e06e65b8830129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 경기 회복은 당연지사! 종목선별이 너무나 중요! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118033</link>
+            <guid>https://www.snek.ai/alpha/opinion/118033</guid>
+            <pubDate>Sat, 18 Dec 2021 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
