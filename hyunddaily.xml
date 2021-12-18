@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 06:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 07:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002115571</link>
             <guid>https://n.news.naver.com/article/138/0002115571</guid>
             <pubDate>Fri, 17 Dec 2021 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002115561</link>
             <guid>https://n.news.naver.com/article/138/0002115561</guid>
             <pubDate>Fri, 17 Dec 2021 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002115498</link>
             <guid>https://n.news.naver.com/article/138/0002115498</guid>
             <pubDate>Thu, 16 Dec 2021 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115498.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -75,7 +75,7 @@
             <link>https://n.news.naver.com/article/138/0002115391</link>
             <guid>https://n.news.naver.com/article/138/0002115391</guid>
             <pubDate>Wed, 15 Dec 2021 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -91,7 +91,7 @@
             <link>https://n.news.naver.com/article/138/0002115329</link>
             <guid>https://n.news.naver.com/article/138/0002115329</guid>
             <pubDate>Tue, 14 Dec 2021 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -138,7 +138,7 @@
             <link>https://n.news.naver.com/article/138/0002115241</link>
             <guid>https://n.news.naver.com/article/138/0002115241</guid>
             <pubDate>Mon, 13 Dec 2021 08:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115241.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
