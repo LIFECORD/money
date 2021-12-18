@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 05:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 06:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002115571</link>
             <guid>https://n.news.naver.com/article/138/0002115571</guid>
             <pubDate>Fri, 17 Dec 2021 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002115561</link>
             <guid>https://n.news.naver.com/article/138/0002115561</guid>
             <pubDate>Fri, 17 Dec 2021 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,14 +52,14 @@
             <link>https://n.news.naver.com/article/138/0002115455</link>
             <guid>https://n.news.naver.com/article/138/0002115455</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘카겜’ 자회사 프렌즈게임즈, NFT 서비스 출시…보라 토큰 가격 상승]]></title>
             <link>https://n.news.naver.com/article/138/0002115450</link>
             <guid>https://n.news.naver.com/article/138/0002115450</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -99,7 +99,7 @@
             <link>https://n.news.naver.com/article/138/0002115312</link>
             <guid>https://n.news.naver.com/article/138/0002115312</guid>
             <pubDate>Tue, 14 Dec 2021 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이석우 두나무 대표 “업비트 독점? 4대 거래소‧거래량만 가지고 따질 것 아냐”]]></title>
@@ -178,7 +178,7 @@
             <link>https://n.news.naver.com/article/138/0002115117</link>
             <guid>https://n.news.naver.com/article/138/0002115117</guid>
             <pubDate>Fri, 10 Dec 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.12.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
