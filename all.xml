@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 06:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 07:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[랜선인싸] 약국에서도 묻기 힘든 꿀팁, 1분 안에 알려주는 '신약사' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115602</link>
+            <guid>https://n.news.naver.com/article/138/0002115602</guid>
+            <pubDate>Sun, 19 Dec 2021 07:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>25분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115602.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 블록체인] 시들한 비트코인 뚫은 이더리움의 점유율…국내는 ‘한국형 메타버스’ 등장 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115594</link>
             <guid>https://n.news.naver.com/article/138/0002115594</guid>
             <pubDate>Sun, 19 Dec 2021 02:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115594.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,8 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002115498</link>
             <guid>https://n.news.naver.com/article/138/0002115498</guid>
             <pubDate>Thu, 16 Dec 2021 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115498.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2021 IT혁신상품] 업비트 '업비트 NFT 베타' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002115455</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115455.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘카겜’ 자회사 프렌즈게임즈, NFT 서비스 출시…보라 토큰 가격 상승 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1619,7 +1627,7 @@
             <link>https://n.news.naver.com/article/138/0002115391</link>
             <guid>https://n.news.naver.com/article/138/0002115391</guid>
             <pubDate>Wed, 15 Dec 2021 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1635,8 +1643,7 @@
             <link>https://n.news.naver.com/article/138/0002115329</link>
             <guid>https://n.news.naver.com/article/138/0002115329</guid>
             <pubDate>Tue, 14 Dec 2021 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115329.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NFT도 잡겠다는 두나무…하이브와의 'BTS 효과'에 힘 준다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,6 +1651,7 @@
             <guid>https://n.news.naver.com/article/138/0002115312</guid>
             <pubDate>Tue, 14 Dec 2021 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이석우 두나무 대표 “업비트 독점? 4대 거래소‧거래량만 가지고 따질 것 아냐” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1682,7 +1690,7 @@
             <link>https://n.news.naver.com/article/138/0002115241</link>
             <guid>https://n.news.naver.com/article/138/0002115241</guid>
             <pubDate>Mon, 13 Dec 2021 08:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115241.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1718,12 +1726,36 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115136.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[2022금융IT혁신] 뱅크웨어글로벌, '코어뱅킹 클라우드 전환'시 핵심 전략 제시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002115131</link>
-            <guid>https://n.news.naver.com/article/138/0002115131</guid>
-            <pubDate>Fri, 10 Dec 2021 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115131.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[지난 1주 미국ETF수익률로 알아보는 시장변화(바이오, 탄소배출권, 중국유틸리티) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118067</link>
+            <guid>https://www.snek.ai/alpha/opinion/118067</guid>
+            <pubDate>Sun, 19 Dec 2021 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/49c69e6e6a5741f796e06e65b8830129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성장주 투자 비중 70% 수준 유지! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118069</link>
+            <guid>https://www.snek.ai/alpha/opinion/118069</guid>
+            <pubDate>Sun, 19 Dec 2021 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 증시 현재 변동성은 투자 기회! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118068</link>
+            <guid>https://www.snek.ai/alpha/opinion/118068</guid>
+            <pubDate>Sun, 19 Dec 2021 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[실적이 의심될 때는 역대 최대치의 수주금액을 주목! - 피엔티 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118054</link>
+            <guid>https://www.snek.ai/alpha/opinion/118054</guid>
+            <pubDate>Sun, 19 Dec 2021 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[투자주의] 중국백신 관련 지나인제약㈜ (스넥)]]></title>
@@ -1769,38 +1801,6 @@
             <title><![CDATA[또 한번의 투자 심판대에 올라선 캐시 우드 (Cathie Wood, The Queen of the bull market) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118048</link>
             <guid>https://www.snek.ai/alpha/opinion/118048</guid>
-            <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼭 팔로우 해야 할 유명 투자 기관, 베일리 기포드 (Baillie Gifford) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118047</link>
-            <guid>https://www.snek.ai/alpha/opinion/118047</guid>
-            <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄소배출권 관련주(1) KC코트렐 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118052</link>
-            <guid>https://www.snek.ai/alpha/opinion/118052</guid>
-            <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG화학의 적정 시가총액 계산과 전망 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118045</link>
-            <guid>https://www.snek.ai/alpha/opinion/118045</guid>
-            <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 MBA 다모다란 교수님의 ‘기업수명주기 + 성공 CEO + 주가 흐름’ 연관관계 분석론 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118039</link>
-            <guid>https://www.snek.ai/alpha/opinion/118039</guid>
             <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
