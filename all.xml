@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 01:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 02:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[주간 블록체인] 시들한 비트코인 뚫은 이더리움의 점유율…국내는 ‘한국형 메타버스’ 등장 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115594</link>
+            <guid>https://n.news.naver.com/article/138/0002115594</guid>
+            <pubDate>Sun, 19 Dec 2021 02:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115594.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NFT 감별사] 내 미니미가 NFT로? 싸이월드, 연기된 일정도 NFT 사업도 ‘모호’ (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115571</link>
             <guid>https://n.news.naver.com/article/138/0002115571</guid>
@@ -1589,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002115455</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115455.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘카겜’ 자회사 프렌즈게임즈, NFT 서비스 출시…보라 토큰 가격 상승 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002115450</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FOMC 결정에 비트코인도 반등했지만…단기 ‘베어마켓’ 전망 나온 이유 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1619,7 +1627,7 @@
             <link>https://n.news.naver.com/article/138/0002115347</link>
             <guid>https://n.news.naver.com/article/138/0002115347</guid>
             <pubDate>Wed, 15 Dec 2021 02:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115347.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,7 +1644,6 @@
             <guid>https://n.news.naver.com/article/138/0002115312</guid>
             <pubDate>Tue, 14 Dec 2021 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이석우 두나무 대표 “업비트 독점? 4대 거래소‧거래량만 가지고 따질 것 아냐” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,13 +1651,14 @@
             <guid>https://n.news.naver.com/article/138/0002115300</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115300.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두나무, 올해 세금만 약 1조원 낸다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115291</link>
             <guid>https://n.news.naver.com/article/138/0002115291</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1658,7 +1666,7 @@
             <link>https://n.news.naver.com/article/138/0002115276</link>
             <guid>https://n.news.naver.com/article/138/0002115276</guid>
             <pubDate>Tue, 14 Dec 2021 02:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115276.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1698,7 +1706,7 @@
             <link>https://n.news.naver.com/article/138/0002115157</link>
             <guid>https://n.news.naver.com/article/138/0002115157</guid>
             <pubDate>Sat, 18 Dec 2021 16:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/12/2115157.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1716,14 +1724,6 @@
             <pubDate>Fri, 10 Dec 2021 08:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115131.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['폴리곤 오입금' 논란 일었던 업비트, 오입금된 가상자산 전량 구제 완료 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002115117</link>
-            <guid>https://n.news.naver.com/article/138/0002115117</guid>
-            <pubDate>Fri, 10 Dec 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일부 유명 밈 주식 사례로 살펴본 기업 임원 보상 정책의 허와실 (스넥)]]></title>
