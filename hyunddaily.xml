@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 05:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 06:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002115594</link>
             <guid>https://n.news.naver.com/article/138/0002115594</guid>
             <pubDate>Sun, 19 Dec 2021 02:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115594.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002115455</link>
             <guid>https://n.news.naver.com/article/138/0002115455</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘카겜’ 자회사 프렌즈게임즈, NFT 서비스 출시…보라 토큰 가격 상승]]></title>
