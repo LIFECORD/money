@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 13:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 14:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,16 +12,8 @@
             <link>https://n.news.naver.com/article/138/0002115602</link>
             <guid>https://n.news.naver.com/article/138/0002115602</guid>
             <pubDate>Sun, 19 Dec 2021 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115602.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] 시들한 비트코인 뚫은 이더리움의 점유율…국내는 ‘한국형 메타버스’ 등장]]></title>
-            <link>https://n.news.naver.com/article/138/0002115594</link>
-            <guid>https://n.news.naver.com/article/138/0002115594</guid>
-            <pubDate>Sun, 19 Dec 2021 02:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115594.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NFT 감별사] 내 미니미가 NFT로? 싸이월드, 연기된 일정도 NFT 사업도 ‘모호’]]></title>
@@ -53,6 +45,7 @@
             <guid>https://n.news.naver.com/article/138/0002115498</guid>
             <pubDate>Thu, 16 Dec 2021 08:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115498.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2021 IT혁신상품] 업비트 '업비트 NFT 베타']]></title>
@@ -60,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002115455</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115455.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘카겜’ 자회사 프렌즈게임즈, NFT 서비스 출시…보라 토큰 가격 상승]]></title>
@@ -100,6 +92,7 @@
             <guid>https://n.news.naver.com/article/138/0002115329</guid>
             <pubDate>Tue, 14 Dec 2021 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NFT도 잡겠다는 두나무…하이브와의 'BTS 효과'에 힘 준다]]></title>
@@ -107,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002115312</guid>
             <pubDate>Tue, 14 Dec 2021 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이석우 두나무 대표 “업비트 독점? 4대 거래소‧거래량만 가지고 따질 것 아냐”]]></title>
@@ -140,6 +132,14 @@
             <pubDate>Tue, 14 Dec 2021 02:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115271.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가상자산 호황에…코인 거래소들, 잇따라 사옥 확장 움직임]]></title>
+            <link>https://n.news.naver.com/article/138/0002115249</link>
+            <guid>https://n.news.naver.com/article/138/0002115249</guid>
+            <pubDate>Sun, 19 Dec 2021 14:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["테슬라보다 먼저"…가상자산으로 BMW 구매한다]]></title>
