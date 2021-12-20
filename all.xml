@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 03:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 04:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[‘위드 AI’ 시대, 어떻게 준비할까?…매스웍스 “매트랩으로 손쉽게 인공지능 모델 개발” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115638</link>
+            <guid>https://n.news.naver.com/article/138/0002115638</guid>
+            <pubDate>Mon, 20 Dec 2021 04:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115638.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[랜선인싸] 약국에서도 묻기 힘든 꿀팁, 1분 안에 알려주는 '신약사' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115602</link>
             <guid>https://n.news.naver.com/article/138/0002115602</guid>
             <pubDate>Sun, 19 Dec 2021 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1589,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002115498</guid>
             <pubDate>Thu, 16 Dec 2021 08:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115498.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2021 IT혁신상품] 업비트 '업비트 NFT 베타' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002115455</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115455.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘카겜’ 자회사 프렌즈게임즈, NFT 서비스 출시…보라 토큰 가격 상승 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1636,7 +1644,6 @@
             <guid>https://n.news.naver.com/article/138/0002115329</guid>
             <pubDate>Tue, 14 Dec 2021 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NFT도 잡겠다는 두나무…하이브와의 'BTS 효과'에 힘 준다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,6 +1651,7 @@
             <guid>https://n.news.naver.com/article/138/0002115312</guid>
             <pubDate>Tue, 14 Dec 2021 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이석우 두나무 대표 “업비트 독점? 4대 거래소‧거래량만 가지고 따질 것 아냐” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1718,12 +1726,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/12/2115157.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베일 벗은 '메타 표' 가상자산 지갑 노비…왓츠앱서 스테이블코인 송금 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002115136</link>
-            <guid>https://n.news.naver.com/article/138/0002115136</guid>
-            <pubDate>Fri, 10 Dec 2021 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/10/2115136.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[공동부유는 중국 경제를 자멸의 길로 이끌 것이다 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118070</link>
+            <guid>https://www.snek.ai/alpha/opinion/118070</guid>
+            <pubDate>Mon, 20 Dec 2021 04:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애널리스트들이 보는 LG화학을 살펴보자 (스넥)]]></title>
@@ -1793,14 +1801,6 @@
             <title><![CDATA[일부 유명 밈 주식 사례로 살펴본 기업 임원 보상 정책의 허와실 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118056</link>
             <guid>https://www.snek.ai/alpha/opinion/118056</guid>
-            <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마켓 버블 시그널: 기업 내부자들의 적극적 자사주 매각 움직임 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118055</link>
-            <guid>https://www.snek.ai/alpha/opinion/118055</guid>
             <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>

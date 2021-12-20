@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 03:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 04:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공동부유는 중국 경제를 자멸의 길로 이끌 것이다]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118070</link>
+            <guid>https://www.snek.ai/alpha/opinion/118070</guid>
+            <pubDate>Mon, 20 Dec 2021 04:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애널리스트들이 보는 LG화학을 살펴보자]]></title>
             <link>https://www.snek.ai/alpha/opinion/118059</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[일부 유명 밈 주식 사례로 살펴본 기업 임원 보상 정책의 허와실]]></title>
             <link>https://www.snek.ai/alpha/opinion/118056</link>
             <guid>https://www.snek.ai/alpha/opinion/118056</guid>
-            <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마켓 버블 시그널: 기업 내부자들의 적극적 자사주 매각 움직임]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118055</link>
-            <guid>https://www.snek.ai/alpha/opinion/118055</guid>
             <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
