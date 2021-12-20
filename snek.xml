@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 23:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 00:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애널리스트들이 보는 LG화학을 살펴보자]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118059</link>
+            <guid>https://www.snek.ai/alpha/opinion/118059</guid>
+            <pubDate>Mon, 20 Dec 2021 00:57:43 GMT</pubDate>
+            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
+        </item>
         <item>
             <title><![CDATA[지난 1주 미국ETF수익률로 알아보는 시장변화(바이오, 탄소배출권, 중국유틸리티)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118067</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[마켓 버블 시그널: 기업 내부자들의 적극적 자사주 매각 움직임]]></title>
             <link>https://www.snek.ai/alpha/opinion/118055</link>
             <guid>https://www.snek.ai/alpha/opinion/118055</guid>
-            <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 한번의 투자 심판대에 올라선 캐시 우드 (Cathie Wood, The Queen of the bull market)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118048</link>
-            <guid>https://www.snek.ai/alpha/opinion/118048</guid>
             <pubDate>Sat, 18 Dec 2021 16:26:00 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
