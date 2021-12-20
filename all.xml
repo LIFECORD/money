@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 06:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 07:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[국내 블록체인의 반전…테라 기반 디파이 예치금, '세계 2위' 된 배경은? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115663</link>
+            <guid>https://n.news.naver.com/article/138/0002115663</guid>
+            <pubDate>Mon, 20 Dec 2021 07:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>36분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115663.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내년 가상자산 시장 전망은? “웹 3.0 트렌드 강화…NFT, 디파이 지속 성장” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115655</link>
             <guid>https://n.news.naver.com/article/138/0002115655</guid>
             <pubDate>Mon, 20 Dec 2021 06:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>49분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002115638</link>
             <guid>https://n.news.naver.com/article/138/0002115638</guid>
             <pubDate>Mon, 20 Dec 2021 04:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115638.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002115602</link>
             <guid>https://n.news.naver.com/article/138/0002115602</guid>
             <pubDate>Sun, 19 Dec 2021 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1589,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002115516</guid>
             <pubDate>Thu, 16 Dec 2021 10:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115516.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[필수화된 인공지능…매스웍스코리아, '위드 AI 시대 준비하기' 웨비나 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,13 +1604,14 @@
             <guid>https://n.news.naver.com/article/138/0002115508</guid>
             <pubDate>Thu, 16 Dec 2021 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115508.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오의 싱가포르 블록체인 자회사 크러스트, 사업 본격화…"디파이 투자부터" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115498</link>
             <guid>https://n.news.naver.com/article/138/0002115498</guid>
             <pubDate>Thu, 16 Dec 2021 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115498.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1635,8 +1643,7 @@
             <link>https://n.news.naver.com/article/138/0002115391</link>
             <guid>https://n.news.naver.com/article/138/0002115391</guid>
             <pubDate>Wed, 15 Dec 2021 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115391.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카톡에서 NFT 사고 판다…'클립 드롭스' 정식 버전 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,13 +1651,14 @@
             <guid>https://n.news.naver.com/article/138/0002115347</guid>
             <pubDate>Wed, 15 Dec 2021 02:03:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115347.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후오비코리아, 15일부터 오더북 공유 중단…“특금법 조건 준수” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115329</link>
             <guid>https://n.news.naver.com/article/138/0002115329</guid>
             <pubDate>Tue, 14 Dec 2021 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1716,14 +1724,6 @@
             <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115207.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022금융IT혁신] 하나금융티아이 "디지털전환 시작 RPA, 그룹사 전체로 확산 도입" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002115206</link>
-            <guid>https://n.news.naver.com/article/138/0002115206</guid>
-            <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공동부유는 중국 경제를 자멸의 길로 이끌 것이다 (스넥)]]></title>
