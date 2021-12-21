@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 06:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 07:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FIU, 헥슬란트·오케이비트 등 가상자산사업자 6곳 신고 수리…현재까지 24곳]]></title>
+            <link>https://n.news.naver.com/article/138/0002115750</link>
+            <guid>https://n.news.naver.com/article/138/0002115750</guid>
+            <pubDate>Tue, 21 Dec 2021 07:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>26분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115750.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다…CEO "적극 검토 중"]]></title>
             <link>https://n.news.naver.com/article/138/0002115737</link>
             <guid>https://n.news.naver.com/article/138/0002115737</guid>
             <pubDate>Tue, 21 Dec 2021 06:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>59분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115737.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002115663</link>
             <guid>https://n.news.naver.com/article/138/0002115663</guid>
             <pubDate>Mon, 20 Dec 2021 07:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115663.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,14 +53,14 @@
             <guid>https://n.news.naver.com/article/138/0002115638</guid>
             <pubDate>Mon, 20 Dec 2021 04:23:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115638.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[랜선인싸] 약국에서도 묻기 힘든 꿀팁, 1분 안에 알려주는 '신약사']]></title>
             <link>https://n.news.naver.com/article/138/0002115602</link>
             <guid>https://n.news.naver.com/article/138/0002115602</guid>
             <pubDate>Sun, 19 Dec 2021 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NFT 감별사] 내 미니미가 NFT로? 싸이월드, 연기된 일정도 NFT 사업도 ‘모호’]]></title>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002115455</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115455.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘카겜’ 자회사 프렌즈게임즈, NFT 서비스 출시…보라 토큰 가격 상승]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002115450</guid>
             <pubDate>Thu, 16 Dec 2021 06:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FOMC 결정에 비트코인도 반등했지만…단기 ‘베어마켓’ 전망 나온 이유]]></title>
@@ -114,7 +122,7 @@
             <link>https://n.news.naver.com/article/138/0002115391</link>
             <guid>https://n.news.naver.com/article/138/0002115391</guid>
             <pubDate>Wed, 15 Dec 2021 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,14 +180,6 @@
             <pubDate>Tue, 14 Dec 2021 02:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115271.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 호황에…코인 거래소들, 잇따라 사옥 확장 움직임]]></title>
-            <link>https://n.news.naver.com/article/138/0002115249</link>
-            <guid>https://n.news.naver.com/article/138/0002115249</guid>
-            <pubDate>Sun, 19 Dec 2021 14:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
