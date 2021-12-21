@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 00:59:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 02:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대량 살상 ‘금융’ 무기 끝판왕 – 테슬라 ‘옵션’ 전략]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118078</link>
+            <guid>https://www.snek.ai/alpha/opinion/118078</guid>
+            <pubDate>Tue, 21 Dec 2021 02:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 팬더믹 위너 VS 루저 재방문]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118077</link>
+            <guid>https://www.snek.ai/alpha/opinion/118077</guid>
+            <pubDate>Tue, 21 Dec 2021 02:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탄소배출권 관련주(2) 휴켐스㈜]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118076</link>
+            <guid>https://www.snek.ai/alpha/opinion/118076</guid>
+            <pubDate>Tue, 21 Dec 2021 02:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금은 역머니무브 시대! 주식 시대 저물까?]]></title>
             <link>https://www.snek.ai/alpha/opinion/118071</link>
@@ -62,30 +86,6 @@
             <pubDate>Sun, 19 Dec 2021 07:17:09 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[투자주의] 중국백신 관련 지나인제약㈜]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118063</link>
-            <guid>https://www.snek.ai/alpha/opinion/118063</guid>
-            <pubDate>Sun, 19 Dec 2021 06:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 올해의 인물, 일론 머스크 (Person of the Year 2021, Elon Musk)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118061</link>
-            <guid>https://www.snek.ai/alpha/opinion/118061</guid>
-            <pubDate>Sun, 19 Dec 2021 06:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태경산업[015890]: '마켓컬리 수혜 확대'와 '친환경 신사업 진출'에 초점을 맞출 시점!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118060</link>
-            <guid>https://www.snek.ai/alpha/opinion/118060</guid>
-            <pubDate>Sun, 19 Dec 2021 06:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
