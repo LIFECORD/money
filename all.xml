@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 02:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 03:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[우후죽순 생기는 NFT 거래 플랫폼, ‘유명 IP’가 능사 아니다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115711</link>
+            <guid>https://n.news.naver.com/article/138/0002115711</guid>
+            <pubDate>Tue, 21 Dec 2021 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115711.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국내 블록체인의 반전…테라 기반 디파이 예치금, '세계 2위' 된 배경은? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115663</link>
             <guid>https://n.news.naver.com/article/138/0002115663</guid>
             <pubDate>Mon, 20 Dec 2021 07:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115663.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002115655</link>
             <guid>https://n.news.naver.com/article/138/0002115655</guid>
             <pubDate>Mon, 20 Dec 2021 06:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002115638</link>
             <guid>https://n.news.naver.com/article/138/0002115638</guid>
             <pubDate>Mon, 20 Dec 2021 04:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115638.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1589,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002115571</guid>
             <pubDate>Fri, 17 Dec 2021 09:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라인, NFT 사업 본격화…한국·미국에 NFT 법인 '라인 넥스트' 설립 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002115516</guid>
             <pubDate>Thu, 16 Dec 2021 10:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115516.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[필수화된 인공지능…매스웍스코리아, '위드 AI 시대 준비하기' 웨비나 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1635,8 +1643,7 @@
             <link>https://n.news.naver.com/article/138/0002115442</link>
             <guid>https://n.news.naver.com/article/138/0002115442</guid>
             <pubDate>Thu, 16 Dec 2021 04:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115442.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“가장 저렴한 토큰 스왑 보장”…체인파트너스가 2년 동안 ‘체인저’ 개발한 까닭 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,6 +1651,7 @@
             <guid>https://n.news.naver.com/article/138/0002115391</guid>
             <pubDate>Wed, 15 Dec 2021 08:20:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카톡에서 NFT 사고 판다…'클립 드롭스' 정식 버전 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1674,7 +1682,7 @@
             <link>https://n.news.naver.com/article/138/0002115300</link>
             <guid>https://n.news.naver.com/article/138/0002115300</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115300.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1682,7 +1690,7 @@
             <link>https://n.news.naver.com/article/138/0002115291</link>
             <guid>https://n.news.naver.com/article/138/0002115291</guid>
             <pubDate>Tue, 14 Dec 2021 03:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/14/2115291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1716,14 +1724,6 @@
             <pubDate>Mon, 13 Dec 2021 08:21:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115241.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대림·VTI파트너스도 블록체인에 베팅‥람다256, 700억 규모 시리즈B 투자 유치 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002115207</link>
-            <guid>https://n.news.naver.com/article/138/0002115207</guid>
-            <pubDate>Mon, 13 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/13/2115207.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대량 살상 ‘금융’ 무기 끝판왕 – 테슬라 ‘옵션’ 전략 (스넥)]]></title>
