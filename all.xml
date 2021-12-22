@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 09:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 10:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002115810</link>
             <guid>https://n.news.naver.com/article/138/0002115810</guid>
             <pubDate>Wed, 22 Dec 2021 06:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/22/2115810.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002115803</link>
             <guid>https://n.news.naver.com/article/138/0002115803</guid>
             <pubDate>Wed, 22 Dec 2021 05:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/22/2115803.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002115764</link>
             <guid>https://n.news.naver.com/article/138/0002115764</guid>
             <pubDate>Tue, 21 Dec 2021 09:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1635,7 +1635,7 @@
             <link>https://n.news.naver.com/article/138/0002115571</link>
             <guid>https://n.news.naver.com/article/138/0002115571</guid>
             <pubDate>Fri, 17 Dec 2021 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1643,7 +1643,7 @@
             <link>https://n.news.naver.com/article/138/0002115516</link>
             <guid>https://n.news.naver.com/article/138/0002115516</guid>
             <pubDate>Thu, 16 Dec 2021 10:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[필수화된 인공지능…매스웍스코리아, '위드 AI 시대 준비하기' 웨비나 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
