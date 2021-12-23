@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 09:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 10:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플라이빗, 전략기획실 신설…NH농협은행 출신 본부장 영입]]></title>
+            <link>https://n.news.naver.com/article/138/0002115937</link>
+            <guid>https://n.news.naver.com/article/138/0002115937</guid>
+            <pubDate>Thu, 23 Dec 2021 10:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115937.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말 많던 코인빗, 가상자산사업자 신고 철회…서비스 전면 중단]]></title>
             <link>https://n.news.naver.com/article/138/0002115922</link>
             <guid>https://n.news.naver.com/article/138/0002115922</guid>
             <pubDate>Thu, 23 Dec 2021 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115922.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002115913</link>
             <guid>https://n.news.naver.com/article/138/0002115913</guid>
             <pubDate>Thu, 23 Dec 2021 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115913.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002115874</link>
             <guid>https://n.news.naver.com/article/138/0002115874</guid>
             <pubDate>Thu, 23 Dec 2021 02:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115874.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -37,7 +45,6 @@
             <guid>https://n.news.naver.com/article/138/0002115810</guid>
             <pubDate>Wed, 22 Dec 2021 06:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/22/2115810.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스터블루 웹툰, NFT로 나온다…코빗과 제휴]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002115764</guid>
             <pubDate>Tue, 21 Dec 2021 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FIU, 헥슬란트·오케이비트 등 가상자산사업자 6곳 신고 수리…현재까지 24곳]]></title>
@@ -84,7 +92,6 @@
             <guid>https://n.news.naver.com/article/138/0002115663</guid>
             <pubDate>Mon, 20 Dec 2021 07:18:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115663.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내년 가상자산 시장 전망은? “웹 3.0 트렌드 강화…NFT, 디파이 지속 성장”]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002115638</guid>
             <pubDate>Mon, 20 Dec 2021 04:23:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115638.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[랜선인싸] 약국에서도 묻기 힘든 꿀팁, 1분 안에 알려주는 '신약사']]></title>
@@ -164,22 +172,6 @@
             <pubDate>Thu, 16 Dec 2021 04:22:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115442.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“가장 저렴한 토큰 스왑 보장”…체인파트너스가 2년 동안 ‘체인저’ 개발한 까닭]]></title>
-            <link>https://n.news.naver.com/article/138/0002115391</link>
-            <guid>https://n.news.naver.com/article/138/0002115391</guid>
-            <pubDate>Wed, 15 Dec 2021 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115391.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카톡에서 NFT 사고 판다…'클립 드롭스' 정식 버전 출시]]></title>
-            <link>https://n.news.naver.com/article/138/0002115347</link>
-            <guid>https://n.news.naver.com/article/138/0002115347</guid>
-            <pubDate>Wed, 15 Dec 2021 02:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/15/2115347.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
