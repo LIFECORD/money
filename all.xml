@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 03:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 04:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002115957</link>
             <guid>https://n.news.naver.com/article/138/0002115957</guid>
             <pubDate>Fri, 24 Dec 2021 02:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002115948</link>
             <guid>https://n.news.naver.com/article/138/0002115948</guid>
             <pubDate>Fri, 24 Dec 2021 02:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115948.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002115942</link>
             <guid>https://n.news.naver.com/article/138/0002115942</guid>
             <pubDate>Fri, 24 Dec 2021 00:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115942.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002115937</link>
             <guid>https://n.news.naver.com/article/138/0002115937</guid>
             <pubDate>Thu, 23 Dec 2021 10:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,14 +1588,14 @@
             <link>https://n.news.naver.com/article/138/0002115922</link>
             <guid>https://n.news.naver.com/article/138/0002115922</guid>
             <pubDate>Thu, 23 Dec 2021 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 日 아바타 시장 삼킨 코코네, 카카오 클레이튼 기반 NFT 사업 본격화 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115913</link>
             <guid>https://n.news.naver.com/article/138/0002115913</guid>
             <pubDate>Thu, 23 Dec 2021 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115913.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1619,7 +1619,7 @@
             <link>https://n.news.naver.com/article/138/0002115803</link>
             <guid>https://n.news.naver.com/article/138/0002115803</guid>
             <pubDate>Wed, 22 Dec 2021 05:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/22/2115803.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1666,7 +1666,7 @@
             <link>https://n.news.naver.com/article/138/0002115638</link>
             <guid>https://n.news.naver.com/article/138/0002115638</guid>
             <pubDate>Mon, 20 Dec 2021 04:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115638.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
