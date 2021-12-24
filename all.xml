@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 06:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA["모빌리티 데이터로 신용평가"…엠블-신한은행, 캄보디아서 대출 상품 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002115976</link>
+            <guid>https://n.news.naver.com/article/138/0002115976</guid>
+            <pubDate>Fri, 24 Dec 2021 06:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115976.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블록체인 기업 IPO 사례 나오나…블로코, 코스닥 상장 가능성↑ (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115957</link>
             <guid>https://n.news.naver.com/article/138/0002115957</guid>
             <pubDate>Fri, 24 Dec 2021 02:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002115948</link>
             <guid>https://n.news.naver.com/article/138/0002115948</guid>
             <pubDate>Fri, 24 Dec 2021 02:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115948.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002115942</link>
             <guid>https://n.news.naver.com/article/138/0002115942</guid>
             <pubDate>Fri, 24 Dec 2021 00:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115942.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,22 +1588,22 @@
             <link>https://n.news.naver.com/article/138/0002115937</link>
             <guid>https://n.news.naver.com/article/138/0002115937</guid>
             <pubDate>Thu, 23 Dec 2021 10:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115937.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[말 많던 코인빗, 가상자산사업자 신고 철회…서비스 전면 중단 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115922</link>
             <guid>https://n.news.naver.com/article/138/0002115922</guid>
             <pubDate>Thu, 23 Dec 2021 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115922.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 日 아바타 시장 삼킨 코코네, 카카오 클레이튼 기반 NFT 사업 본격화 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115913</link>
             <guid>https://n.news.naver.com/article/138/0002115913</guid>
             <pubDate>Thu, 23 Dec 2021 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115913.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1611,7 +1619,7 @@
             <link>https://n.news.naver.com/article/138/0002115810</link>
             <guid>https://n.news.naver.com/article/138/0002115810</guid>
             <pubDate>Wed, 22 Dec 2021 06:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/22/2115810.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1628,7 +1636,6 @@
             <guid>https://n.news.naver.com/article/138/0002115764</guid>
             <pubDate>Tue, 21 Dec 2021 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FIU, 헥슬란트·오케이비트 등 가상자산사업자 6곳 신고 수리…현재까지 24곳 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1636,13 +1643,14 @@
             <guid>https://n.news.naver.com/article/138/0002115750</guid>
             <pubDate>Tue, 21 Dec 2021 07:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115750.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다…CEO "적극 검토 중" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002115737</link>
             <guid>https://n.news.naver.com/article/138/0002115737</guid>
             <pubDate>Tue, 21 Dec 2021 06:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115737.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1658,7 +1666,7 @@
             <link>https://n.news.naver.com/article/138/0002115655</link>
             <guid>https://n.news.naver.com/article/138/0002115655</guid>
             <pubDate>Mon, 20 Dec 2021 06:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1708,14 +1716,6 @@
             <pubDate>Thu, 16 Dec 2021 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115508.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오의 싱가포르 블록체인 자회사 크러스트, 사업 본격화…"디파이 투자부터" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002115498</link>
-            <guid>https://n.news.naver.com/article/138/0002115498</guid>
-            <pubDate>Thu, 16 Dec 2021 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115498.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HMM은 반등할 수 있을까 (스넥)]]></title>
