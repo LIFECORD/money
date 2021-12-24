@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 11:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 12:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002115976</link>
             <guid>https://n.news.naver.com/article/138/0002115976</guid>
             <pubDate>Fri, 24 Dec 2021 06:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115976.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002115957</link>
             <guid>https://n.news.naver.com/article/138/0002115957</guid>
             <pubDate>Fri, 24 Dec 2021 02:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,16 +28,8 @@
             <link>https://n.news.naver.com/article/138/0002115948</link>
             <guid>https://n.news.naver.com/article/138/0002115948</guid>
             <pubDate>Fri, 24 Dec 2021 02:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115948.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인, 가벼운 '산타 랠리' 맞았다…향후 전망은?]]></title>
-            <link>https://n.news.naver.com/article/138/0002115942</link>
-            <guid>https://n.news.naver.com/article/138/0002115942</guid>
-            <pubDate>Fri, 24 Dec 2021 00:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115942.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플라이빗, 전략기획실 신설…NH농협은행 출신 본부장 영입]]></title>
@@ -45,6 +37,7 @@
             <guid>https://n.news.naver.com/article/138/0002115937</guid>
             <pubDate>Thu, 23 Dec 2021 10:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말 많던 코인빗, 가상자산사업자 신고 철회…서비스 전면 중단]]></title>
@@ -52,7 +45,6 @@
             <guid>https://n.news.naver.com/article/138/0002115922</guid>
             <pubDate>Thu, 23 Dec 2021 09:18:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115922.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 日 아바타 시장 삼킨 코코네, 카카오 클레이튼 기반 NFT 사업 본격화]]></title>
@@ -92,6 +84,7 @@
             <guid>https://n.news.naver.com/article/138/0002115764</guid>
             <pubDate>Tue, 21 Dec 2021 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FIU, 헥슬란트·오케이비트 등 가상자산사업자 6곳 신고 수리…현재까지 24곳]]></title>
@@ -99,7 +92,6 @@
             <guid>https://n.news.naver.com/article/138/0002115750</guid>
             <pubDate>Tue, 21 Dec 2021 07:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115750.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인스타그램, NFT 진출 가능성 커졌다…CEO "적극 검토 중"]]></title>
@@ -116,6 +108,14 @@
             <pubDate>Tue, 21 Dec 2021 03:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115711.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 블록체인의 반전…테라 기반 디파이 예치금, '세계 2위' 된 배경은?]]></title>
+            <link>https://n.news.naver.com/article/138/0002115663</link>
+            <guid>https://n.news.naver.com/article/138/0002115663</guid>
+            <pubDate>Fri, 24 Dec 2021 12:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/20/2115663.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내년 가상자산 시장 전망은? “웹 3.0 트렌드 강화…NFT, 디파이 지속 성장”]]></title>
