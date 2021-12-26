@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 08:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 09:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002116008</link>
             <guid>https://n.news.naver.com/article/138/0002116008</guid>
             <pubDate>Sun, 26 Dec 2021 03:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/26/2116008.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002115937</link>
             <guid>https://n.news.naver.com/article/138/0002115937</guid>
             <pubDate>Thu, 23 Dec 2021 10:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[말 많던 코인빗, 가상자산사업자 신고 철회…서비스 전면 중단 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1635,7 +1635,7 @@
             <link>https://n.news.naver.com/article/138/0002115764</link>
             <guid>https://n.news.naver.com/article/138/0002115764</guid>
             <pubDate>Tue, 21 Dec 2021 09:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[FIU, 헥슬란트·오케이비트 등 가상자산사업자 6곳 신고 수리…현재까지 24곳 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1718,6 +1718,46 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/16/2115516.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[거품 증시 가능성도 상존!  부채비율의 변화에 주목! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118089</link>
+            <guid>https://www.snek.ai/alpha/opinion/118089</guid>
+            <pubDate>Sun, 26 Dec 2021 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 미국 증시 전망! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118088</link>
+            <guid>https://www.snek.ai/alpha/opinion/118088</guid>
+            <pubDate>Sun, 26 Dec 2021 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[금리가 상승해도 주가는 우상향을 계속할 것인가 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118086</link>
+            <guid>https://www.snek.ai/alpha/opinion/118086</guid>
+            <pubDate>Sun, 26 Dec 2021 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버와 전자금융거래법 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118084</link>
+            <guid>https://www.snek.ai/alpha/opinion/118084</guid>
+            <pubDate>Sun, 26 Dec 2021 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년부터는 당기순이익 흑자전환! - 드림어스컴퍼니 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118064</link>
+            <guid>https://www.snek.ai/alpha/opinion/118064</guid>
+            <pubDate>Sun, 26 Dec 2021 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HMM은 반등할 수 있을까 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118037</link>
             <guid>https://www.snek.ai/alpha/opinion/118037</guid>
@@ -1756,46 +1796,6 @@
             <pubDate>Sat, 25 Dec 2021 10:18:29 GMT</pubDate>
             <content:encoded><![CDATA[정소연]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공동부유는 중국 경제를 자멸의 길로 이끌 것이다 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118070</link>
-            <guid>https://www.snek.ai/alpha/opinion/118070</guid>
-            <pubDate>Sat, 25 Dec 2021 10:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애널리스트들이 보는 LG화학을 살펴보자 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118059</link>
-            <guid>https://www.snek.ai/alpha/opinion/118059</guid>
-            <pubDate>Sat, 25 Dec 2021 10:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 1주 미국ETF수익률로 알아보는 시장변화(바이오, 탄소배출권, 중국유틸리티) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118067</link>
-            <guid>https://www.snek.ai/alpha/opinion/118067</guid>
-            <pubDate>Sat, 25 Dec 2021 10:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/49c69e6e6a5741f796e06e65b8830129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성장주 투자 비중 70% 수준 유지! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118069</link>
-            <guid>https://www.snek.ai/alpha/opinion/118069</guid>
-            <pubDate>Sat, 25 Dec 2021 10:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 증시 현재 변동성은 투자 기회! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118068</link>
-            <guid>https://www.snek.ai/alpha/opinion/118068</guid>
-            <pubDate>Sat, 25 Dec 2021 10:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
