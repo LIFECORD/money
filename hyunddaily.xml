@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 00:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 02:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미술 투자 플랫폼 테사, 40억 규모 시리즈A 투자 유치]]></title>
+            <link>https://n.news.naver.com/article/138/0002116110</link>
+            <guid>https://n.news.naver.com/article/138/0002116110</guid>
+            <pubDate>Tue, 28 Dec 2021 02:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/28/2116110.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최소 ‘2.5억’ 유인원…BAYC는 어떻게 ‘NFT 원조’ 크립토펑크를 앞질렀나]]></title>
             <link>https://n.news.naver.com/article/138/0002116091</link>
             <guid>https://n.news.naver.com/article/138/0002116091</guid>
             <pubDate>Mon, 27 Dec 2021 08:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/27/2116091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002116047</link>
             <guid>https://n.news.naver.com/article/138/0002116047</guid>
             <pubDate>Mon, 27 Dec 2021 02:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/27/2116047.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002115957</link>
             <guid>https://n.news.naver.com/article/138/0002115957</guid>
             <pubDate>Fri, 24 Dec 2021 02:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002115948</guid>
             <pubDate>Fri, 24 Dec 2021 02:05:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115948.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플라이빗, 전략기획실 신설…NH농협은행 출신 본부장 영입]]></title>
@@ -76,7 +83,7 @@
             <link>https://n.news.naver.com/article/138/0002115874</link>
             <guid>https://n.news.naver.com/article/138/0002115874</guid>
             <pubDate>Thu, 23 Dec 2021 02:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/23/2115874.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -85,7 +92,6 @@
             <guid>https://n.news.naver.com/article/138/0002115810</guid>
             <pubDate>Wed, 22 Dec 2021 06:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/22/2115810.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스터블루 웹툰, NFT로 나온다…코빗과 제휴]]></title>
@@ -93,6 +99,7 @@
             <guid>https://n.news.naver.com/article/138/0002115803</guid>
             <pubDate>Wed, 22 Dec 2021 05:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/22/2115803.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인원이 선정한 올해 가상자산 시장 5대 키워드는?]]></title>
@@ -123,7 +130,7 @@
             <link>https://n.news.naver.com/article/138/0002115711</link>
             <guid>https://n.news.naver.com/article/138/0002115711</guid>
             <pubDate>Tue, 21 Dec 2021 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/21/2115711.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -165,14 +172,6 @@
             <pubDate>Sat, 25 Dec 2021 16:26:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/19/2115594.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NFT 감별사] 내 미니미가 NFT로? 싸이월드, 연기된 일정도 NFT 사업도 ‘모호’]]></title>
-            <link>https://n.news.naver.com/article/138/0002115571</link>
-            <guid>https://n.news.naver.com/article/138/0002115571</guid>
-            <pubDate>Fri, 17 Dec 2021 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
