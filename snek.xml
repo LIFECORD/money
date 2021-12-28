@@ -4,7 +4,7 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 04:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 05:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.snek.ai/alpha/opinion/118095</link>
             <guid>https://www.snek.ai/alpha/opinion/118095</guid>
             <pubDate>Tue, 28 Dec 2021 00:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[신병호]]></content:encoded>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
