@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 23:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 00:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002116091</link>
             <guid>https://n.news.naver.com/article/138/0002116091</guid>
             <pubDate>Mon, 27 Dec 2021 08:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/27/2116091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002116047</link>
             <guid>https://n.news.naver.com/article/138/0002116047</guid>
             <pubDate>Mon, 27 Dec 2021 02:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/27/2116047.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002115948</link>
             <guid>https://n.news.naver.com/article/138/0002115948</guid>
             <pubDate>Fri, 24 Dec 2021 02:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/24/2115948.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1719,6 +1719,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/12/17/2115571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[행복자산을 만들기 위한 투자원칙 3가지 by 벵골호랑이 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118095</link>
+            <guid>https://www.snek.ai/alpha/opinion/118095</guid>
+            <pubDate>Tue, 28 Dec 2021 00:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[신병호]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지난 1주 미국ETF 수익률로 알아보는 시장변화(팔라듐, 바이오, 탄소, 신흥국) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118090</link>
             <guid>https://www.snek.ai/alpha/opinion/118090</guid>
@@ -1789,14 +1797,6 @@
             <pubDate>Mon, 27 Dec 2021 12:28:13 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄소배출권 관련주(2) 휴켐스㈜ (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118076</link>
-            <guid>https://www.snek.ai/alpha/opinion/118076</guid>
-            <pubDate>Mon, 27 Dec 2021 12:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
