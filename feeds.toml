@@ -81,3 +81,12 @@ titleSelector = "a.list_text_title._fade_link span"
 linkSelector = "a.list_text_title._fade_link"
 contentSelector = "li.category.hidden-xs a._fade_link em"
 waitUntil = "networkidle"
+
+[uppity_moneyletter_archive]
+title = "어피티 ─ 머니레터"
+url = "https://uppity.co.kr/moneyletter_archive"
+entrySelector = "ul.li_body.holder"
+titleSelector = "li.tit a.list_text_title._fade_link span"
+linkSelector = "li.tit a.list_text_title._fade_link"
+contentSelector = "li.name"
+waitUntil = "networkidle"
