@@ -72,3 +72,12 @@ linkSelector = "div.ai-article-title h3 a"
 contentSelector = "div.ai-article-desc a.a-link-style-none.s-font-caption-small"
 imageSelector = "div.ai-article-img-wrap a img"
 waitUntil = "networkidle"
+
+[uppity_news]
+title = "어피티 ─ 뉴스"
+url = "https://uppity.co.kr/news"
+entrySelector = "ul.li_body.holder"
+titleSelector = "a.list_text_title._fade_link span"
+linkSelector = "a.list_text_title._fade_link"
+contentSelector = "li.category.hidden-xs a._fade_link em"
+waitUntil = "networkidle"
