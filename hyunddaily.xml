@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 02:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 03:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빗썸, 블록체인 개발자 교육 진행…"성적 우수자 채용"]]></title>
+            <link>https://n.news.naver.com/article/138/0002117420</link>
+            <guid>https://n.news.naver.com/article/138/0002117420</guid>
+            <pubDate>Thu, 20 Jan 2022 03:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/20/2117420.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신년기획/웹 3.0③] 웹 3.0 시대, NFT는 ‘콘텐츠’이자 ‘디지털 신분증’]]></title>
             <link>https://n.news.naver.com/article/138/0002117386</link>
             <guid>https://n.news.naver.com/article/138/0002117386</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117386.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,23 +28,15 @@
             <link>https://n.news.naver.com/article/138/0002117357</link>
             <guid>https://n.news.naver.com/article/138/0002117357</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117357.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트라운지에서 ‘빗썸’ 가입한 이재명, “가상자산 배척은 쇄국정책” (상보)]]></title>
-            <link>https://n.news.naver.com/article/138/0002117350</link>
-            <guid>https://n.news.naver.com/article/138/0002117350</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117350.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카드사, 미래 먹거리로 ‘NFT’ 선점…신한 이어 KB국민카드도 진출]]></title>
             <link>https://n.news.naver.com/article/138/0002117347</link>
             <guid>https://n.news.naver.com/article/138/0002117347</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117347.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -99,14 +99,14 @@
             <link>https://n.news.naver.com/article/138/0002117189</link>
             <guid>https://n.news.naver.com/article/138/0002117189</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[싸이월드, 헤데라 해시그래프 블록체인 쓴다]]></title>
             <link>https://n.news.naver.com/article/138/0002117188</link>
             <guid>https://n.news.naver.com/article/138/0002117188</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117188.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,6 +116,14 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117164.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] NFT 시장에 찾아온 ‘룩스레어’ 트렌드, 가까워진 웹 3.0 시대]]></title>
+            <link>https://n.news.naver.com/article/138/0002117140</link>
+            <guid>https://n.news.naver.com/article/138/0002117140</guid>
+            <pubDate>Thu, 20 Jan 2022 03:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/16/2117140.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토스증권, MTS 대규모 업데이트…"해외주식 2700개 거래"]]></title>
@@ -139,7 +147,6 @@
             <guid>https://n.news.naver.com/article/138/0002117066</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/13/2117066.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트, 디파이 시장 공략 본격화…'스테이킹' 출시]]></title>
@@ -147,6 +154,7 @@
             <guid>https://n.news.naver.com/article/138/0002117059</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/13/2117059.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HPE, "그린레이크 솔루션, 하이브리드 클라우드 트렌드에 최적화"]]></title>
@@ -219,14 +227,6 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/12/2116959.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 빅블러시대] 포인트부터 결제까지, 커머스도 가상자산으로 통한다]]></title>
-            <link>https://n.news.naver.com/article/138/0002116943</link>
-            <guid>https://n.news.naver.com/article/138/0002116943</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/12/2116943.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
