@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 03:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 04:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002117420</link>
             <guid>https://n.news.naver.com/article/138/0002117420</guid>
             <pubDate>Thu, 20 Jan 2022 03:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/20/2117420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002117386</link>
             <guid>https://n.news.naver.com/article/138/0002117386</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117386.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1853,6 +1853,20 @@
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2022. 01. 19] 세계의 불안감은 유가를 올린다 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9526393&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9526393&amp;t=board</guid>
+            <pubDate>Thu, 20 Jan 2022 04:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 01. 19] 30년 만의 등록말소? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9526330&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9526330&amp;t=board</guid>
+            <pubDate>Thu, 20 Jan 2022 04:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[경제일반]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2022. 01. 18] NFT는 스치기만 해도 오른다? (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9526201&amp;t=board</link>
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9526201&amp;t=board</guid>
@@ -1907,20 +1921,6 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9446842&amp;t=board</guid>
             <pubDate>Wed, 19 Jan 2022 10:10:18 GMT</pubDate>
             <content:encoded><![CDATA[경제일반]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 01. 12] <특송> 도착했습니다 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9430873&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9430873&amp;t=board</guid>
-            <pubDate>Wed, 19 Jan 2022 10:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 01. 12] 'G'는 앞으로 더 중요하다 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9430848&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9430848&amp;t=board</guid>
-            <pubDate>Wed, 19 Jan 2022 10:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.01.19] NFT 이름에 들어가는 숫자, 대체 뭘까? (어피티 ─ 머니레터)]]></title>
