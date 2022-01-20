@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 00:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 02:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초호황을 향해가는 PCB 업체들과 함께 실적 퀀텀점프! - 덕산하이메탈]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118234</link>
+            <guid>https://www.snek.ai/alpha/opinion/118234</guid>
+            <pubDate>Thu, 20 Jan 2022 02:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 재무부 채권 금리 상승과 점검 / 미국 주식 시장의 하락 추세 시작인 걸까?!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118235</link>
+            <guid>https://www.snek.ai/alpha/opinion/118235</guid>
+            <pubDate>Thu, 20 Jan 2022 02:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해외주식 - 미국과 아시아태평양 지역 국가들의 주가 지수 구성을 알아보자]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118231</link>
+            <guid>https://www.snek.ai/alpha/opinion/118231</guid>
+            <pubDate>Thu, 20 Jan 2022 02:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자산 가격을 결정하는 실질금리의 향방 ①]]></title>
             <link>https://www.snek.ai/alpha/opinion/118233</link>
@@ -62,30 +86,6 @@
             <pubDate>Wed, 19 Jan 2022 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[이승환]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유나이티드 렌탈(United Rentals;URI US) / 미국 인프라 투자 수혜주 건설 중장비 렌탈 플랫폼 기업]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118223</link>
-            <guid>https://www.snek.ai/alpha/opinion/118223</guid>
-            <pubDate>Wed, 19 Jan 2022 15:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워런 버핏이 투자한 글로벌 핀테크 3총사들의 최근 주가 고전 상황]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118222</link>
-            <guid>https://www.snek.ai/alpha/opinion/118222</guid>
-            <pubDate>Wed, 19 Jan 2022 15:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 1주 미국 ETF 수익률로 알아보는 시장변화(천연가스, 코코아,  BDI)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118221</link>
-            <guid>https://www.snek.ai/alpha/opinion/118221</guid>
-            <pubDate>Wed, 19 Jan 2022 15:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
