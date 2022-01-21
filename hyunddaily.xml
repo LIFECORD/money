@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 02:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 03:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직원 복지포인트, 네이버페이 포인트로 주면? “네이버플러스 멤버십 드려요”]]></title>
+            <link>https://n.news.naver.com/article/138/0002117510</link>
+            <guid>https://n.news.naver.com/article/138/0002117510</guid>
+            <pubDate>Fri, 21 Jan 2022 03:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117510.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헥슬란트, 블록체인 개발자 도구 '옥텟'서 폴리곤·솔라나 추가 지원]]></title>
             <link>https://n.news.naver.com/article/138/0002117503</link>
             <guid>https://n.news.naver.com/article/138/0002117503</guid>
             <pubDate>Fri, 21 Jan 2022 02:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>59분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,8 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002117357</link>
             <guid>https://n.news.naver.com/article/138/0002117357</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117357.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카드사, 미래 먹거리로 ‘NFT’ 선점…신한 이어 KB국민카드도 진출]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002117347</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117347.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코빗, 이스트게임즈 IP로 NFT 발행한다]]></title>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002117243</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117243.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“이재명 살까 윤석열 살까” 대선후보 NFT 등장…법적 문제 없나?]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002117234</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117234.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신년기획/웹 3.0①] 15년 전 처음 등장한 '웹3.0', 이제야 빛 보는 이유]]></title>
@@ -114,7 +122,7 @@
             <link>https://n.news.naver.com/article/138/0002117189</link>
             <guid>https://n.news.naver.com/article/138/0002117189</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -122,7 +130,7 @@
             <link>https://n.news.naver.com/article/138/0002117188</link>
             <guid>https://n.news.naver.com/article/138/0002117188</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117188.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -139,7 +147,6 @@
             <guid>https://n.news.naver.com/article/138/0002117122</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/14/2117122.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명 "국내 가상자산 제도 불안정…ICO 논의 이뤄져야"]]></title>
@@ -147,6 +154,7 @@
             <guid>https://n.news.naver.com/article/138/0002117110</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/14/2117110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위메이드 논란⑤] “토큰 홀더 보상 준다” 장 대표 입장 바꾼 날, 위믹스 1000만개 또 이동]]></title>
@@ -219,14 +227,6 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/12/2116990.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노웅래 의원 “ICO 제한으로 국부 유출…K-코인 활성화하자”]]></title>
-            <link>https://n.news.naver.com/article/138/0002116978</link>
-            <guid>https://n.news.naver.com/article/138/0002116978</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/12/2116978.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
