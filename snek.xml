@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2022-01-21T03:09:11.735Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 21 Jan 2022 04:13:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초호황을 향해가는 PCB 업체들과 함께 실적 퀀텀점프! - 덕산하이메탈]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118234</link>
+            <guid>https://www.snek.ai/alpha/opinion/118234</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 재무부 채권 금리 상승과 점검 / 미국 주식 시장의 하락 추세 시작인 걸까?!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118235</link>
+            <guid>https://www.snek.ai/alpha/opinion/118235</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해외주식 - 미국과 아시아태평양 지역 국가들의 주가 지수 구성을 알아보자]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118231</link>
+            <guid>https://www.snek.ai/alpha/opinion/118231</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자산 가격을 결정하는 실질금리의 향방 ①]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118233</link>
+            <guid>https://www.snek.ai/alpha/opinion/118233</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG화학으로 인한 상법 개정과 수혜주]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118212</link>
+            <guid>https://www.snek.ai/alpha/opinion/118212</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 차트 분석가의 흥미로운 마켓 버블 팝 경고론]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118232</link>
+            <guid>https://www.snek.ai/alpha/opinion/118232</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알렉산드리아 리얼 에스테이츠(ARE US)-생명 과학 및 제약 기업들의 강력한 임대 수요, 지속 성장 배당, 공실률 제로에 근접하는 미국 대표 오피스 리츠]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118229</link>
+            <guid>https://www.snek.ai/alpha/opinion/118229</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1년 수익률 100%. 글로벌 조정장에도 끄떡없는 탄소배출권 탐구]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118226</link>
+            <guid>https://www.snek.ai/alpha/opinion/118226</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워런 버핏 최애 기업, 가이코 (GEICO)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118227</link>
+            <guid>https://www.snek.ai/alpha/opinion/118227</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[투자주의] 동전주 이트론㈜]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118225</link>
+            <guid>https://www.snek.ai/alpha/opinion/118225</guid>
+            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
