@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 07:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 08:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돈 버는 게임, P2E 코인! 새로운 기회인가 나락인가?]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118236</link>
+            <guid>https://www.snek.ai/alpha/opinion/118236</guid>
+            <pubDate>Fri, 21 Jan 2022 08:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초호황을 향해가는 PCB 업체들과 함께 실적 퀀텀점프! - 덕산하이메탈]]></title>
             <link>https://www.snek.ai/alpha/opinion/118234</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[투자주의] 동전주 이트론㈜]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118225</link>
-            <guid>https://www.snek.ai/alpha/opinion/118225</guid>
-            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
