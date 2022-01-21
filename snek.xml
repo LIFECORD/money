@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 08:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 09:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐터필러 (CAT US) 미국 및 글로벌 건설장비 제조 판매 플랫폼 1위 사업자 / 원자재 및 산업재 업종의 상승과 함께 간다!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118238</link>
+            <guid>https://www.snek.ai/alpha/opinion/118238</guid>
+            <pubDate>Fri, 21 Jan 2022 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오게임즈-클레이튼,보라에 투자하는 방법]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118237</link>
+            <guid>https://www.snek.ai/alpha/opinion/118237</guid>
+            <pubDate>Fri, 21 Jan 2022 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
+        </item>
         <item>
             <title><![CDATA[돈 버는 게임, P2E 코인! 새로운 기회인가 나락인가?]]></title>
             <link>https://www.snek.ai/alpha/opinion/118236</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
             <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1년 수익률 100%. 글로벌 조정장에도 끄떡없는 탄소배출권 탐구]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118226</link>
-            <guid>https://www.snek.ai/alpha/opinion/118226</guid>
-            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워런 버핏 최애 기업, 가이코 (GEICO)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118227</link>
-            <guid>https://www.snek.ai/alpha/opinion/118227</guid>
-            <pubDate>Fri, 21 Jan 2022 04:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
