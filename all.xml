@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 15:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 16:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1670,14 +1670,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117243.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“이재명 살까 윤석열 살까” 대선후보 NFT 등장…법적 문제 없나? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002117234</link>
-            <guid>https://n.news.naver.com/article/138/0002117234</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117234.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[신년기획/웹 3.0①] 15년 전 처음 등장한 '웹3.0', 이제야 빛 보는 이유 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002117225</link>
             <guid>https://n.news.naver.com/article/138/0002117225</guid>
@@ -1691,6 +1683,7 @@
             <guid>https://n.news.naver.com/article/138/0002117189</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싸이월드, 헤데라 해시그래프 블록체인 쓴다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1698,7 +1691,6 @@
             <guid>https://n.news.naver.com/article/138/0002117188</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117188.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['창립 8주년' 빗썸, 앱 속도 2배 높였다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1707,6 +1699,14 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117164.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 블록체인] NFT 시장에 찾아온 ‘룩스레어’ 트렌드, 가까워진 웹 3.0 시대 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002117140</link>
+            <guid>https://n.news.naver.com/article/138/0002117140</guid>
+            <pubDate>Sat, 22 Jan 2022 16:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/16/2117140.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토스증권, MTS 대규모 업데이트…"해외주식 2700개 거래" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
