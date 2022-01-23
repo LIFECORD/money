@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 22:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 23:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영업환경 호재가 만발 또 만발! - 고려아연]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118239</link>
+            <guid>https://www.snek.ai/alpha/opinion/118239</guid>
+            <pubDate>Sun, 23 Jan 2022 23:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐터필러 (CAT US) 미국 및 글로벌 건설장비 제조 판매 플랫폼 1위 사업자 / 원자재 및 산업재 업종의 상승과 함께 간다!]]></title>
             <link>https://www.snek.ai/alpha/opinion/118238</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 23 Jan 2022 14:08:10 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알렉산드리아 리얼 에스테이츠(ARE US)-생명 과학 및 제약 기업들의 강력한 임대 수요, 지속 성장 배당, 공실률 제로에 근접하는 미국 대표 오피스 리츠]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118229</link>
-            <guid>https://www.snek.ai/alpha/opinion/118229</guid>
-            <pubDate>Sun, 23 Jan 2022 14:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
