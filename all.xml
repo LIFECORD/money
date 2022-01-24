@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 00:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 01:58:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,27 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[통계청, 올해부터 가계 가상자산 보유액 조사한다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002117606</link>
+            <guid>https://n.news.naver.com/article/138/0002117606</guid>
+            <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>32분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117606.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[’MCN 대표주자‘ 샌드박스네트워크, NFT 사업 진출 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002117602</link>
+            <guid>https://n.news.naver.com/article/138/0002117602</guid>
+            <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>44분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117602.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 블록체인] 비트코인 가격, ‘6개월 중 최저’…데이터 분석 및 가격 전망 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002117578</link>
             <guid>https://n.news.naver.com/article/138/0002117578</guid>
             <pubDate>Sun, 23 Jan 2022 03:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/23/2117578.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1581,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002117519</guid>
             <pubDate>Fri, 21 Jan 2022 06:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117519.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[직원 복지포인트, 네이버페이 포인트로 주면? “네이버플러스 멤버십 드려요” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1596,7 +1611,8 @@
             <link>https://n.news.naver.com/article/138/0002117503</link>
             <guid>https://n.news.naver.com/article/138/0002117503</guid>
             <pubDate>Fri, 21 Jan 2022 02:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신년기획/웹 3.0④] 조직 체계도 바꾸는 웹 3.0, DAO에 주목하는 이유 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1611,7 +1627,7 @@
             <link>https://n.news.naver.com/article/138/0002117420</link>
             <guid>https://n.news.naver.com/article/138/0002117420</guid>
             <pubDate>Thu, 20 Jan 2022 03:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/20/2117420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1628,7 +1644,6 @@
             <guid>https://n.news.naver.com/article/138/0002117357</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117357.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카드사, 미래 먹거리로 ‘NFT’ 선점…신한 이어 KB국민카드도 진출 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1643,7 +1658,8 @@
             <link>https://n.news.naver.com/article/138/0002117334</link>
             <guid>https://n.news.naver.com/article/138/0002117334</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“가상자산 결제, 시장 판도 바꿀 ‘게임체인저’…결제 밸류체인 바뀐다” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1674,8 +1690,7 @@
             <link>https://n.news.naver.com/article/138/0002117243</link>
             <guid>https://n.news.naver.com/article/138/0002117243</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117243.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[신년기획/웹 3.0①] 15년 전 처음 등장한 '웹3.0', 이제야 빛 보는 이유 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1691,6 +1706,7 @@
             <guid>https://n.news.naver.com/article/138/0002117189</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싸이월드, 헤데라 해시그래프 블록체인 쓴다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1705,7 +1721,7 @@
             <link>https://n.news.naver.com/article/138/0002117164</link>
             <guid>https://n.news.naver.com/article/138/0002117164</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117164.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1713,7 +1729,7 @@
             <link>https://n.news.naver.com/article/138/0002117140</link>
             <guid>https://n.news.naver.com/article/138/0002117140</guid>
             <pubDate>Sat, 22 Jan 2022 16:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/16/2117140.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1755,22 +1771,6 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/13/2117059.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HPE, "그린레이크 솔루션, 하이브리드 클라우드 트렌드에 최적화" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002117056</link>
-            <guid>https://n.news.naver.com/article/138/0002117056</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/13/2117056.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[위메이드 논란③] 장현국 "토큰 홀더 보상은 위믹스 가격 상승"…그럼 가격은 어떻게 오르나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002117036</link>
-            <guid>https://n.news.naver.com/article/138/0002117036</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/13/2117036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지속적인 우상향을 기록해 온 미장, 앞으로는 어찌 될 것인가 (스넥)]]></title>
