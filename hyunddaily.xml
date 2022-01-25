@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 09:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 10:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘개인 지갑 출금’ 전면 통제하는 빗썸…디파이‧NFT 사용자 어쩌나]]></title>
+            <link>https://n.news.naver.com/article/138/0002117760</link>
+            <guid>https://n.news.naver.com/article/138/0002117760</guid>
+            <pubDate>Tue, 25 Jan 2022 10:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117760.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기업화되는 블록체인 게임 ‘길드’…VC 투자 대상 된 배경은?]]></title>
             <link>https://n.news.naver.com/article/138/0002117749</link>
             <guid>https://n.news.naver.com/article/138/0002117749</guid>
             <pubDate>Tue, 25 Jan 2022 08:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002117709</link>
             <guid>https://n.news.naver.com/article/138/0002117709</guid>
             <pubDate>Tue, 25 Jan 2022 04:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002117701</link>
             <guid>https://n.news.naver.com/article/138/0002117701</guid>
             <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002117653</guid>
             <pubDate>Mon, 24 Jan 2022 08:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117653.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[참여사 늘리는 람다256 트래블룰 솔루션…포블게이트도 가입]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002117629</guid>
             <pubDate>Mon, 24 Jan 2022 05:07:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117629.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통계청, 올해부터 가계 가상자산 보유액 조사한다]]></title>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002117519</guid>
             <pubDate>Fri, 21 Jan 2022 06:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117519.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[직원 복지포인트, 네이버페이 포인트로 주면? “네이버플러스 멤버십 드려요”]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002117510</guid>
             <pubDate>Fri, 21 Jan 2022 03:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117510.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헥슬란트, 블록체인 개발자 도구 '옥텟'서 폴리곤·솔라나 추가 지원]]></title>
@@ -139,7 +147,6 @@
             <guid>https://n.news.naver.com/article/138/0002117357</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117357.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카드사, 미래 먹거리로 ‘NFT’ 선점…신한 이어 KB국민카드도 진출]]></title>
@@ -147,6 +154,7 @@
             <guid>https://n.news.naver.com/article/138/0002117347</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117347.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코빗, 이스트게임즈 IP로 NFT 발행한다]]></title>
@@ -219,14 +227,6 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117188.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['창립 8주년' 빗썸, 앱 속도 2배 높였다]]></title>
-            <link>https://n.news.naver.com/article/138/0002117164</link>
-            <guid>https://n.news.naver.com/article/138/0002117164</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117164.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
