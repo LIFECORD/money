@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 16:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 17:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002117760</link>
             <guid>https://n.news.naver.com/article/138/0002117760</guid>
             <pubDate>Tue, 25 Jan 2022 10:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002117749</link>
             <guid>https://n.news.naver.com/article/138/0002117749</guid>
             <pubDate>Tue, 25 Jan 2022 08:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002117709</link>
             <guid>https://n.news.naver.com/article/138/0002117709</guid>
             <pubDate>Tue, 25 Jan 2022 04:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002117701</link>
             <guid>https://n.news.naver.com/article/138/0002117701</guid>
             <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1771,86 +1771,6 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117188.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[램리서치(LRCX US) 글로벌 반도체 식각장비 1위 업체 / 반도체 파운드리 전방 수요의 증가와 함께 해자를 가지고 있는 반도체 장비 기업 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118252</link>
-            <guid>https://www.snek.ai/alpha/opinion/118252</guid>
-            <pubDate>Tue, 25 Jan 2022 01:58:10 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자산 가격을 결정하는 실질금리의 향방 ② (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118251</link>
-            <guid>https://www.snek.ai/alpha/opinion/118251</guid>
-            <pubDate>Tue, 25 Jan 2022 01:58:10 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본격적인 구조적 성장 가도 돌입! - 크리스에프앤씨 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118250</link>
-            <guid>https://www.snek.ai/alpha/opinion/118250</guid>
-            <pubDate>Tue, 25 Jan 2022 01:58:10 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속적인 우상향을 기록해 온 미장, 앞으로는 어찌 될 것인가 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118249</link>
-            <guid>https://www.snek.ai/alpha/opinion/118249</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 증시의 펀더멘털은 아주 튼튼함. 매년 2자리수 상승여력을 만드는 상황! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118248</link>
-            <guid>https://www.snek.ai/alpha/opinion/118248</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[단기 급락, 대세하락장의 시작인가? NO, 좋은 투자 기회! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118247</link>
-            <guid>https://www.snek.ai/alpha/opinion/118247</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[원격진료 테마주 SK그룹의 (주)나노엔텍 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118246</link>
-            <guid>https://www.snek.ai/alpha/opinion/118246</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제유가 우상향 국면 속 투자전략 업데이트: 한국석유 VS 미창석유 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118244</link>
-            <guid>https://www.snek.ai/alpha/opinion/118244</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영업환경 호재가 만발 또 만발! - 고려아연 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118239</link>
-            <guid>https://www.snek.ai/alpha/opinion/118239</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐터필러 (CAT US) 미국 및 글로벌 건설장비 제조 판매 플랫폼 1위 사업자 / 원자재 및 산업재 업종의 상승과 함께 간다! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118238</link>
-            <guid>https://www.snek.ai/alpha/opinion/118238</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 01. 25] 디즈니플러스의 한국 파트너! (어피티 ─ 뉴스)]]></title>
