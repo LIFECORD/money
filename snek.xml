@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 00:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[램리서치(LRCX US) 글로벌 반도체 식각장비 1위 업체 / 반도체 파운드리 전방 수요의 증가와 함께 해자를 가지고 있는 반도체 장비 기업]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118252</link>
+            <guid>https://www.snek.ai/alpha/opinion/118252</guid>
+            <pubDate>Tue, 25 Jan 2022 01:58:10 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자산 가격을 결정하는 실질금리의 향방 ②]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118251</link>
+            <guid>https://www.snek.ai/alpha/opinion/118251</guid>
+            <pubDate>Tue, 25 Jan 2022 01:58:10 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본격적인 구조적 성장 가도 돌입! - 크리스에프앤씨]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118250</link>
+            <guid>https://www.snek.ai/alpha/opinion/118250</guid>
+            <pubDate>Tue, 25 Jan 2022 01:58:10 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지속적인 우상향을 기록해 온 미장, 앞으로는 어찌 될 것인가]]></title>
             <link>https://www.snek.ai/alpha/opinion/118249</link>
@@ -62,30 +86,6 @@
             <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
             <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈-클레이튼,보라에 투자하는 방법]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118237</link>
-            <guid>https://www.snek.ai/alpha/opinion/118237</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[돈 버는 게임, P2E 코인! 새로운 기회인가 나락인가?]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118236</link>
-            <guid>https://www.snek.ai/alpha/opinion/118236</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초호황을 향해가는 PCB 업체들과 함께 실적 퀀텀점프! - 덕산하이메탈]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118234</link>
-            <guid>https://www.snek.ai/alpha/opinion/118234</guid>
-            <pubDate>Mon, 24 Jan 2022 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
