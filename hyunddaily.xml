@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 14:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 15:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002117760</link>
             <guid>https://n.news.naver.com/article/138/0002117760</guid>
             <pubDate>Tue, 25 Jan 2022 10:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002117749</link>
             <guid>https://n.news.naver.com/article/138/0002117749</guid>
             <pubDate>Tue, 25 Jan 2022 08:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002117709</link>
             <guid>https://n.news.naver.com/article/138/0002117709</guid>
             <pubDate>Tue, 25 Jan 2022 04:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002117701</link>
             <guid>https://n.news.naver.com/article/138/0002117701</guid>
             <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,14 +79,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주요 가상자산 하락 폭 확대…'베어마켓' 전조 현상?]]></title>
-            <link>https://n.news.naver.com/article/138/0002117556</link>
-            <guid>https://n.news.naver.com/article/138/0002117556</guid>
-            <pubDate>Fri, 21 Jan 2022 10:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117556.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[신년기획/웹 3.0⑤] a16z부터 해시드까지…VC들은 왜 웹 3.0에 투자할까?]]></title>
             <link>https://n.news.naver.com/article/138/0002117552</link>
             <guid>https://n.news.naver.com/article/138/0002117552</guid>
@@ -100,6 +92,7 @@
             <guid>https://n.news.naver.com/article/138/0002117519</guid>
             <pubDate>Fri, 21 Jan 2022 06:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117519.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[직원 복지포인트, 네이버페이 포인트로 주면? “네이버플러스 멤버십 드려요”]]></title>
@@ -107,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002117510</guid>
             <pubDate>Fri, 21 Jan 2022 03:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117510.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헥슬란트, 블록체인 개발자 도구 '옥텟'서 폴리곤·솔라나 추가 지원]]></title>
@@ -146,6 +138,14 @@
             <link>https://n.news.naver.com/article/138/0002117357</link>
             <guid>https://n.news.naver.com/article/138/0002117357</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117357.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업비트라운지에서 ‘빗썸’ 가입한 이재명, “가상자산 배척은 쇄국정책” (상보)]]></title>
+            <link>https://n.news.naver.com/article/138/0002117350</link>
+            <guid>https://n.news.naver.com/article/138/0002117350</guid>
+            <pubDate>Tue, 25 Jan 2022 15:08:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
         </item>
         <item>
