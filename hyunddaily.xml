@@ -4,15 +4,31 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 06:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 07:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인 투자했다면? “연말정산 소득공제 받으세요”]]></title>
+            <link>https://n.news.naver.com/article/138/0002117837</link>
+            <guid>https://n.news.naver.com/article/138/0002117837</guid>
+            <pubDate>Wed, 26 Jan 2022 07:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117837.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“기부도 코인으로”…위메이드, 고려대에 위믹스 10억치 기부]]></title>
+            <link>https://n.news.naver.com/article/138/0002117832</link>
+            <guid>https://n.news.naver.com/article/138/0002117832</guid>
+            <pubDate>Wed, 26 Jan 2022 07:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117832.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국판 '컨스티튜션 DAO'의 등장…'국보 DAO'의 의미있는 커뮤니티 실험]]></title>
             <link>https://n.news.naver.com/article/138/0002117772</link>
             <guid>https://n.news.naver.com/article/138/0002117772</guid>
             <pubDate>Wed, 26 Jan 2022 01:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002117749</link>
             <guid>https://n.news.naver.com/article/138/0002117749</guid>
             <pubDate>Tue, 25 Jan 2022 08:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -37,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002117701</guid>
             <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울대 블록체인 학회 디사이퍼, '디퍼런스 2022' 개최]]></title>
@@ -53,6 +68,7 @@
             <guid>https://n.news.naver.com/article/138/0002117653</guid>
             <pubDate>Mon, 24 Jan 2022 08:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117653.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[참여사 늘리는 람다256 트래블룰 솔루션…포블게이트도 가입]]></title>
@@ -84,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002117556</guid>
             <pubDate>Tue, 25 Jan 2022 23:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117556.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신년기획/웹 3.0⑤] a16z부터 해시드까지…VC들은 왜 웹 3.0에 투자할까?]]></title>
@@ -100,6 +115,7 @@
             <guid>https://n.news.naver.com/article/138/0002117519</guid>
             <pubDate>Fri, 21 Jan 2022 06:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117519.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[직원 복지포인트, 네이버페이 포인트로 주면? “네이버플러스 멤버십 드려요”]]></title>
@@ -131,7 +147,6 @@
             <guid>https://n.news.naver.com/article/138/0002117420</guid>
             <pubDate>Thu, 20 Jan 2022 03:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/20/2117420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신년기획/웹 3.0③] 웹 3.0 시대, NFT는 ‘콘텐츠’이자 ‘디지털 신분증’]]></title>
@@ -147,6 +162,7 @@
             <guid>https://n.news.naver.com/article/138/0002117357</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117357.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트라운지에서 ‘빗썸’ 가입한 이재명, “가상자산 배척은 쇄국정책” (상보)]]></title>
@@ -177,7 +193,7 @@
             <link>https://n.news.naver.com/article/138/0002117284</link>
             <guid>https://n.news.naver.com/article/138/0002117284</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -185,7 +201,7 @@
             <link>https://n.news.naver.com/article/138/0002117278</link>
             <guid>https://n.news.naver.com/article/138/0002117278</guid>
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -211,22 +227,6 @@
             <pubDate>Mon, 24 Jan 2022 16:11:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117234.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년기획/웹 3.0①] 15년 전 처음 등장한 '웹3.0', 이제야 빛 보는 이유]]></title>
-            <link>https://n.news.naver.com/article/138/0002117225</link>
-            <guid>https://n.news.naver.com/article/138/0002117225</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117225.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사옥 이전 앞둔 코인원, 인력 100명 늘린다]]></title>
-            <link>https://n.news.naver.com/article/138/0002117189</link>
-            <guid>https://n.news.naver.com/article/138/0002117189</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
