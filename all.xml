@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1773,6 +1773,30 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117261.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년 하락장 속 함박웃음 짓는 밈 주식 기업 CEO들 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118259</link>
+            <guid>https://www.snek.ai/alpha/opinion/118259</guid>
+            <pubDate>Wed, 26 Jan 2022 09:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 행동주의 투자기관들의 바쁜 2022년 1월 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118258</link>
+            <guid>https://www.snek.ai/alpha/opinion/118258</guid>
+            <pubDate>Wed, 26 Jan 2022 09:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아메리칸 스테이츠 워터(American States Water Company; AWR US) / 67년 연속 배당금 인상한 미국 대표 상수도 및 전력 공급 기업 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118257</link>
+            <guid>https://www.snek.ai/alpha/opinion/118257</guid>
+            <pubDate>Wed, 26 Jan 2022 09:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연준 통화정책과 자산시장의 향방 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118253</link>
             <guid>https://www.snek.ai/alpha/opinion/118253</guid>
@@ -1827,30 +1851,6 @@
             <pubDate>Tue, 25 Jan 2022 19:07:28 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[단기 급락, 대세하락장의 시작인가? NO, 좋은 투자 기회! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118247</link>
-            <guid>https://www.snek.ai/alpha/opinion/118247</guid>
-            <pubDate>Tue, 25 Jan 2022 19:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[원격진료 테마주 SK그룹의 (주)나노엔텍 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118246</link>
-            <guid>https://www.snek.ai/alpha/opinion/118246</guid>
-            <pubDate>Tue, 25 Jan 2022 19:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제유가 우상향 국면 속 투자전략 업데이트: 한국석유 VS 미창석유 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118244</link>
-            <guid>https://www.snek.ai/alpha/opinion/118244</guid>
-            <pubDate>Tue, 25 Jan 2022 19:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 01. 25] 디즈니플러스의 한국 파트너! (어피티 ─ 뉴스)]]></title>
