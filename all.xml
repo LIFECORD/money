@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 23:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 00:29:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002117749</link>
             <guid>https://n.news.naver.com/article/138/0002117749</guid>
             <pubDate>Tue, 25 Jan 2022 08:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002117709</link>
             <guid>https://n.news.naver.com/article/138/0002117709</guid>
             <pubDate>Tue, 25 Jan 2022 04:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002117701</link>
             <guid>https://n.news.naver.com/article/138/0002117701</guid>
             <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1745,7 +1745,7 @@
             <link>https://n.news.naver.com/article/138/0002117234</link>
             <guid>https://n.news.naver.com/article/138/0002117234</guid>
             <pubDate>Mon, 24 Jan 2022 16:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/18/2117234.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1771,6 +1771,22 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/17/2117188.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연준 통화정책과 자산시장의 향방 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118253</link>
+            <guid>https://www.snek.ai/alpha/opinion/118253</guid>
+            <pubDate>Wed, 26 Jan 2022 00:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FOMC를 앞두고 - 금리 인상과 유동성 축소에 대한 시장 걱정을 구체화해 봅시다 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118256</link>
+            <guid>https://www.snek.ai/alpha/opinion/118256</guid>
+            <pubDate>Wed, 26 Jan 2022 00:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[램리서치(LRCX US) 글로벌 반도체 식각장비 1위 업체 / 반도체 파운드리 전방 수요의 증가와 함께 해자를 가지고 있는 반도체 장비 기업 (스넥)]]></title>
@@ -1835,22 +1851,6 @@
             <pubDate>Tue, 25 Jan 2022 19:07:28 GMT</pubDate>
             <content:encoded><![CDATA[한대희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영업환경 호재가 만발 또 만발! - 고려아연 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118239</link>
-            <guid>https://www.snek.ai/alpha/opinion/118239</guid>
-            <pubDate>Tue, 25 Jan 2022 19:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐터필러 (CAT US) 미국 및 글로벌 건설장비 제조 판매 플랫폼 1위 사업자 / 원자재 및 산업재 업종의 상승과 함께 간다! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118238</link>
-            <guid>https://www.snek.ai/alpha/opinion/118238</guid>
-            <pubDate>Tue, 25 Jan 2022 19:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 01. 25] 디즈니플러스의 한국 파트너! (어피티 ─ 뉴스)]]></title>
