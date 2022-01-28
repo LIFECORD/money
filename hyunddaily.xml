@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워너 뮤직, 블록체인 기반 메타버스서 콘서트 연다]]></title>
+            <link>https://n.news.naver.com/article/138/0002118022</link>
+            <guid>https://n.news.naver.com/article/138/0002118022</guid>
+            <pubDate>Fri, 28 Jan 2022 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>59분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118022.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이뱅크, 3일 간 ‘잠시 멈춤’…업비트 원화입금 미리 해야]]></title>
             <link>https://n.news.naver.com/article/138/0002117996</link>
             <guid>https://n.news.naver.com/article/138/0002117996</guid>
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2117996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002117974</link>
             <guid>https://n.news.naver.com/article/138/0002117974</guid>
             <pubDate>Thu, 27 Jan 2022 09:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002117954</link>
             <guid>https://n.news.naver.com/article/138/0002117954</guid>
             <pubDate>Thu, 27 Jan 2022 07:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002117854</guid>
             <pubDate>Wed, 26 Jan 2022 08:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117854.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빗썸에서 바이낸스로 코인 못 보낸다]]></title>
@@ -53,13 +60,14 @@
             <guid>https://n.news.naver.com/article/138/0002117852</guid>
             <pubDate>Wed, 26 Jan 2022 08:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117852.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“기부도 코인으로”…위메이드, 고려대에 위믹스 10억치 기부]]></title>
             <link>https://n.news.naver.com/article/138/0002117832</link>
             <guid>https://n.news.naver.com/article/138/0002117832</guid>
             <pubDate>Wed, 26 Jan 2022 07:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117832.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002117701</guid>
             <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울대 블록체인 학회 디사이퍼, '디퍼런스 2022' 개최]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002117655</guid>
             <pubDate>Mon, 24 Jan 2022 08:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[르포] QR코드 찍어서 스마트컨트랙트 주소 확인…보편화된 NFT 전시회]]></title>
@@ -139,7 +147,6 @@
             <guid>https://n.news.naver.com/article/138/0002117578</guid>
             <pubDate>Wed, 26 Jan 2022 16:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/23/2117578.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주요 가상자산 하락 폭 확대…'베어마켓' 전조 현상?]]></title>
@@ -147,6 +154,7 @@
             <guid>https://n.news.naver.com/article/138/0002117556</guid>
             <pubDate>Tue, 25 Jan 2022 23:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117556.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신년기획/웹 3.0⑤] a16z부터 해시드까지…VC들은 왜 웹 3.0에 투자할까?]]></title>
@@ -219,14 +227,6 @@
             <pubDate>Tue, 25 Jan 2022 15:08:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117350.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카드사, 미래 먹거리로 ‘NFT’ 선점…신한 이어 KB국민카드도 진출]]></title>
-            <link>https://n.news.naver.com/article/138/0002117347</link>
-            <guid>https://n.news.naver.com/article/138/0002117347</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117347.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
