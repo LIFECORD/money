@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 08:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 09:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[위메이드 디파이 사고는 예견된 재난?…“타 서비스 참고 과정서 주의했어야” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002118043</link>
+            <guid>https://n.news.naver.com/article/138/0002118043</guid>
+            <pubDate>Fri, 28 Jan 2022 09:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118043.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[워너 뮤직, 블록체인 기반 메타버스서 콘서트 연다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002118022</link>
             <guid>https://n.news.naver.com/article/138/0002118022</guid>
             <pubDate>Fri, 28 Jan 2022 06:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002117996</link>
             <guid>https://n.news.naver.com/article/138/0002117996</guid>
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2117996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002117974</link>
             <guid>https://n.news.naver.com/article/138/0002117974</guid>
             <pubDate>Thu, 27 Jan 2022 09:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1589,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002117921</guid>
             <pubDate>Thu, 27 Jan 2022 03:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117921.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유튜브도 'NFT'에 탑승…CEO "크리에이터들이 활용할 수 있게 지원" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002117854</guid>
             <pubDate>Wed, 26 Jan 2022 08:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117854.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빗썸에서 바이낸스로 코인 못 보낸다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1636,7 +1644,6 @@
             <guid>https://n.news.naver.com/article/138/0002117709</guid>
             <pubDate>Tue, 25 Jan 2022 04:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['아이콘' 표 NFT 게임 플랫폼 나왔다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,6 +1651,7 @@
             <guid>https://n.news.naver.com/article/138/0002117701</guid>
             <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울대 블록체인 학회 디사이퍼, '디퍼런스 2022' 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1683,7 +1691,6 @@
             <guid>https://n.news.naver.com/article/138/0002117602</guid>
             <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] 비트코인 가격, ‘6개월 중 최저’…데이터 분석 및 가격 전망 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1691,13 +1698,14 @@
             <guid>https://n.news.naver.com/article/138/0002117578</guid>
             <pubDate>Wed, 26 Jan 2022 16:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/23/2117578.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주요 가상자산 하락 폭 확대…'베어마켓' 전조 현상? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002117556</link>
             <guid>https://n.news.naver.com/article/138/0002117556</guid>
             <pubDate>Tue, 25 Jan 2022 23:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117556.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1705,7 +1713,7 @@
             <link>https://n.news.naver.com/article/138/0002117552</link>
             <guid>https://n.news.naver.com/article/138/0002117552</guid>
             <pubDate>Fri, 21 Jan 2022 10:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117552.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1763,14 +1771,6 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117357.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트라운지에서 ‘빗썸’ 가입한 이재명, “가상자산 배척은 쇄국정책” (상보) (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002117350</link>
-            <guid>https://n.news.naver.com/article/138/0002117350</guid>
-            <pubDate>Tue, 25 Jan 2022 15:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117350.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 주식 시장내 사모펀드 (Private Equity) 업계 현황 분석 (스넥)]]></title>
