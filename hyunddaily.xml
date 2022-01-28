@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 10:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 11:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002118043</link>
             <guid>https://n.news.naver.com/article/138/0002118043</guid>
             <pubDate>Fri, 28 Jan 2022 09:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002118022</link>
             <guid>https://n.news.naver.com/article/138/0002118022</guid>
             <pubDate>Fri, 28 Jan 2022 06:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002117996</link>
             <guid>https://n.news.naver.com/article/138/0002117996</guid>
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2117996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +45,6 @@
             <guid>https://n.news.naver.com/article/138/0002117954</guid>
             <pubDate>Thu, 27 Jan 2022 07:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이더리움‧솔라나 NFT 같이 쓴다…아이콘이 ‘NFT 게임 플랫폼’ 만든 이유]]></title>
@@ -53,6 +52,7 @@
             <guid>https://n.news.naver.com/article/138/0002117921</guid>
             <pubDate>Thu, 27 Jan 2022 03:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117921.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유튜브도 'NFT'에 탑승…CEO "크리에이터들이 활용할 수 있게 지원"]]></title>
@@ -92,7 +92,6 @@
             <guid>https://n.news.naver.com/article/138/0002117749</guid>
             <pubDate>Tue, 25 Jan 2022 08:10:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인 거래소 신사업은 ‘NFT 마켓플레이스’…코어닥스, 상반기 내 출시]]></title>
@@ -100,6 +99,7 @@
             <guid>https://n.news.naver.com/article/138/0002117709</guid>
             <pubDate>Tue, 25 Jan 2022 04:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['아이콘' 표 NFT 게임 플랫폼 나왔다]]></title>
@@ -139,7 +139,6 @@
             <guid>https://n.news.naver.com/article/138/0002117606</guid>
             <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117606.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[’MCN 대표주자‘ 샌드박스네트워크, NFT 사업 진출]]></title>
@@ -147,6 +146,7 @@
             <guid>https://n.news.naver.com/article/138/0002117602</guid>
             <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] 비트코인 가격, ‘6개월 중 최저’…데이터 분석 및 가격 전망]]></title>
@@ -219,14 +219,6 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117386.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4대 거래소 대표 만난 이재명 “ICO 허용 필요…법인 투자 허용도 검토”]]></title>
-            <link>https://n.news.naver.com/article/138/0002117357</link>
-            <guid>https://n.news.naver.com/article/138/0002117357</guid>
-            <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117357.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
