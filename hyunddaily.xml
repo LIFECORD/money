@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 03:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 04:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002118043</link>
             <guid>https://n.news.naver.com/article/138/0002118043</guid>
             <pubDate>Fri, 28 Jan 2022 09:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002118022</link>
             <guid>https://n.news.naver.com/article/138/0002118022</guid>
             <pubDate>Fri, 28 Jan 2022 06:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -130,7 +130,7 @@
             <link>https://n.news.naver.com/article/138/0002117629</link>
             <guid>https://n.news.naver.com/article/138/0002117629</guid>
             <pubDate>Mon, 24 Jan 2022 05:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117629.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -177,7 +177,7 @@
             <link>https://n.news.naver.com/article/138/0002117519</link>
             <guid>https://n.news.naver.com/article/138/0002117519</guid>
             <pubDate>Fri, 21 Jan 2022 06:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117519.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
