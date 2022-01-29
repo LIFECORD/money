@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 13:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 14:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1763,86 +1763,6 @@
             <pubDate>Wed, 19 Jan 2022 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/19/2117386.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 주식 시장내 사모펀드 (Private Equity) 업계 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118266</link>
-            <guid>https://www.snek.ai/alpha/opinion/118266</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정유주, 고점에 대한 예상 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118265</link>
-            <guid>https://www.snek.ai/alpha/opinion/118265</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[논리투자]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/images/web/icon_alpha@2x.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NXP Semiconductors N.V (NXPI US); 지능형 자동차 및 전장 관련 반도체 어플리케이션 선도 기업 / 자동차 전장 기술 및 자율주행 산업과 함께 구조적 성장 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118264</link>
-            <guid>https://www.snek.ai/alpha/opinion/118264</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 헤지펀드 투자가, 제레미 그랜섬 (Jeremy Grantham) 의 슈퍼 버블 경고 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118263</link>
-            <guid>https://www.snek.ai/alpha/opinion/118263</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1월 FOMC 리뷰 - 상반기에 긴축, 하반기에 완화의 가능성 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118262</link>
-            <guid>https://www.snek.ai/alpha/opinion/118262</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[급냉각기로 접어든 스팩 (SPAC) 투자 시장 현주소 리뷰 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118261</link>
-            <guid>https://www.snek.ai/alpha/opinion/118261</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 재무부 채권 금리 스프레드 동향 / 뉴욕 증시 주요 주가 지수들의 bullish percent index 동향으로 보는 미국 주식 시장의 하락 강도 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118260</link>
-            <guid>https://www.snek.ai/alpha/opinion/118260</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 하락장 속 함박웃음 짓는 밈 주식 기업 CEO들 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118259</link>
-            <guid>https://www.snek.ai/alpha/opinion/118259</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 행동주의 투자기관들의 바쁜 2022년 1월 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118258</link>
-            <guid>https://www.snek.ai/alpha/opinion/118258</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸 스테이츠 워터(American States Water Company; AWR US) / 67년 연속 배당금 인상한 미국 대표 상수도 및 전력 공급 기업 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118257</link>
-            <guid>https://www.snek.ai/alpha/opinion/118257</guid>
-            <pubDate>Fri, 28 Jan 2022 19:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 01. 27] 이건 정말 대규모 IPO (어피티 ─ 뉴스)]]></title>
