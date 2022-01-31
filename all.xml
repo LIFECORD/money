@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 00:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 01:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002118075</link>
             <guid>https://n.news.naver.com/article/138/0002118075</guid>
             <pubDate>Sun, 30 Jan 2022 06:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/30/2118075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1689,7 +1689,7 @@
             <link>https://n.news.naver.com/article/138/0002117606</link>
             <guid>https://n.news.naver.com/article/138/0002117606</guid>
             <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117606.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1697,7 +1697,7 @@
             <link>https://n.news.naver.com/article/138/0002117602</link>
             <guid>https://n.news.naver.com/article/138/0002117602</guid>
             <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1763,86 +1763,6 @@
             <pubDate>Thu, 20 Jan 2022 03:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/20/2117420.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FRB가 인플레를 잡겠다고 나서면 경기 침체는 피할 수 없게된다 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118272</link>
-            <guid>https://www.snek.ai/alpha/opinion/118272</guid>
-            <pubDate>Sun, 30 Jan 2022 09:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최초 건설사업 관리 기업 ㈜한미글로벌 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118270</link>
-            <guid>https://www.snek.ai/alpha/opinion/118270</guid>
-            <pubDate>Sun, 30 Jan 2022 09:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브-NFT비즈니스로 반등할까? (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118269</link>
-            <guid>https://www.snek.ai/alpha/opinion/118269</guid>
-            <pubDate>Sun, 30 Jan 2022 09:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 투자가, 빌 애크만의 +$1.2 billion달러 넷플릭스 주식 사재기 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118268</link>
-            <guid>https://www.snek.ai/alpha/opinion/118268</guid>
-            <pubDate>Sun, 30 Jan 2022 09:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 헤지펀드 그린라이트 캐피탈 (Greenlight Capital) 투자 서한 리뷰 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118267</link>
-            <guid>https://www.snek.ai/alpha/opinion/118267</guid>
-            <pubDate>Sun, 30 Jan 2022 09:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 주식 시장내 사모펀드 (Private Equity) 업계 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118266</link>
-            <guid>https://www.snek.ai/alpha/opinion/118266</guid>
-            <pubDate>Sat, 29 Jan 2022 15:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정유주, 고점에 대한 예상 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118265</link>
-            <guid>https://www.snek.ai/alpha/opinion/118265</guid>
-            <pubDate>Sat, 29 Jan 2022 15:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[논리투자]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/images/web/icon_alpha@2x.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NXP Semiconductors N.V (NXPI US); 지능형 자동차 및 전장 관련 반도체 어플리케이션 선도 기업 / 자동차 전장 기술 및 자율주행 산업과 함께 구조적 성장 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118264</link>
-            <guid>https://www.snek.ai/alpha/opinion/118264</guid>
-            <pubDate>Sat, 29 Jan 2022 15:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 헤지펀드 투자가, 제레미 그랜섬 (Jeremy Grantham) 의 슈퍼 버블 경고 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118263</link>
-            <guid>https://www.snek.ai/alpha/opinion/118263</guid>
-            <pubDate>Sat, 29 Jan 2022 15:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1월 FOMC 리뷰 - 상반기에 긴축, 하반기에 완화의 가능성 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118262</link>
-            <guid>https://www.snek.ai/alpha/opinion/118262</guid>
-            <pubDate>Sat, 29 Jan 2022 15:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 01. 27] 이건 정말 대규모 IPO (어피티 ─ 뉴스)]]></title>
