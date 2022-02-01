@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 07:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 08:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1611,7 +1611,7 @@
             <link>https://n.news.naver.com/article/138/0002117854</link>
             <guid>https://n.news.naver.com/article/138/0002117854</guid>
             <pubDate>Wed, 26 Jan 2022 08:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117854.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1619,7 +1619,7 @@
             <link>https://n.news.naver.com/article/138/0002117852</link>
             <guid>https://n.news.naver.com/article/138/0002117852</guid>
             <pubDate>Wed, 26 Jan 2022 08:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117852.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1674,7 +1674,7 @@
             <link>https://n.news.naver.com/article/138/0002117655</link>
             <guid>https://n.news.naver.com/article/138/0002117655</guid>
             <pubDate>Mon, 24 Jan 2022 08:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1682,7 +1682,7 @@
             <link>https://n.news.naver.com/article/138/0002117653</link>
             <guid>https://n.news.naver.com/article/138/0002117653</guid>
             <pubDate>Mon, 24 Jan 2022 08:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.24.</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[참여사 늘리는 람다256 트래블룰 솔루션…포블게이트도 가입 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
