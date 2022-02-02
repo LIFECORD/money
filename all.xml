@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 02:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 03:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002118114</link>
             <guid>https://n.news.naver.com/article/138/0002118114</guid>
             <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118114.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002118113</link>
             <guid>https://n.news.naver.com/article/138/0002118113</guid>
             <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>25분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1674,7 +1674,7 @@
             <link>https://n.news.naver.com/article/138/0002117709</link>
             <guid>https://n.news.naver.com/article/138/0002117709</guid>
             <pubDate>Tue, 25 Jan 2022 04:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1682,7 +1682,7 @@
             <link>https://n.news.naver.com/article/138/0002117701</link>
             <guid>https://n.news.naver.com/article/138/0002117701</guid>
             <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울대 블록체인 학회 디사이퍼, '디퍼런스 2022' 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
