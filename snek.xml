@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 05:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 06:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가격조정은 마무리, 이제 매수 타이밍 잡기!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118282</link>
+            <guid>https://www.snek.ai/alpha/opinion/118282</guid>
+            <pubDate>Wed, 02 Feb 2022 06:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
         <item>
             <title><![CDATA[지난 1주 미국 ETF 수익률로 알아보는 시장변화(천연가스, 팔라듐, 탄소배출권, 중국)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118277</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 31 Jan 2022 02:21:44 GMT</pubDate>
             <content:encoded><![CDATA[논리투자]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/images/web/icon_alpha@2x.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NXP Semiconductors N.V (NXPI US); 지능형 자동차 및 전장 관련 반도체 어플리케이션 선도 기업 / 자동차 전장 기술 및 자율주행 산업과 함께 구조적 성장]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118264</link>
-            <guid>https://www.snek.ai/alpha/opinion/118264</guid>
-            <pubDate>Mon, 31 Jan 2022 02:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
