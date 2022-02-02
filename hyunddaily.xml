@@ -4,9 +4,25 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 01:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 02:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사용자와 수익 나눠야 하지만…게임사가 ‘웹 3.0’으로 나아가는 세 가지 이유]]></title>
+            <link>https://n.news.naver.com/article/138/0002118114</link>
+            <guid>https://n.news.naver.com/article/138/0002118114</guid>
+            <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118114.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타, 가상자산 프로젝트 '디엠' 매각 공식화…2200억에 넘긴다]]></title>
+            <link>https://n.news.naver.com/article/138/0002118113</link>
+            <guid>https://n.news.naver.com/article/138/0002118113</guid>
+            <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>25분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118113.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 블록체인] 매번 규제에 막히는 국내외 가상자산 사업…빗장 풀릴 수 있을까?]]></title>
             <link>https://n.news.naver.com/article/138/0002118075</link>
@@ -29,7 +45,6 @@
             <guid>https://n.news.naver.com/article/138/0002118022</guid>
             <pubDate>Fri, 28 Jan 2022 06:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이뱅크, 3일 간 ‘잠시 멈춤’…업비트 원화입금 미리 해야]]></title>
@@ -45,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002117974</guid>
             <pubDate>Thu, 27 Jan 2022 09:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피르마체인, 신규 메인넷 '콜로세움' 공개]]></title>
@@ -76,7 +92,6 @@
             <guid>https://n.news.naver.com/article/138/0002117837</guid>
             <pubDate>Tue, 01 Feb 2022 15:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117837.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“기부도 코인으로”…위메이드, 고려대에 위믹스 10억치 기부]]></title>
@@ -92,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002117772</guid>
             <pubDate>Wed, 26 Jan 2022 01:59:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘개인 지갑 출금’ 전면 통제하는 빗썸…디파이‧NFT 사용자 어쩌나]]></title>
@@ -123,7 +139,6 @@
             <guid>https://n.news.naver.com/article/138/0002117701</guid>
             <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울대 블록체인 학회 디사이퍼, '디퍼런스 2022' 개최]]></title>
@@ -139,6 +154,7 @@
             <guid>https://n.news.naver.com/article/138/0002117653</guid>
             <pubDate>Mon, 24 Jan 2022 08:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117653.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[참여사 늘리는 람다256 트래블룰 솔루션…포블게이트도 가입]]></title>
@@ -203,22 +219,6 @@
             <pubDate>Fri, 21 Jan 2022 03:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117510.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헥슬란트, 블록체인 개발자 도구 '옥텟'서 폴리곤·솔라나 추가 지원]]></title>
-            <link>https://n.news.naver.com/article/138/0002117503</link>
-            <guid>https://n.news.naver.com/article/138/0002117503</guid>
-            <pubDate>Fri, 21 Jan 2022 02:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117503.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년기획/웹 3.0④] 조직 체계도 바꾸는 웹 3.0, DAO에 주목하는 이유]]></title>
-            <link>https://n.news.naver.com/article/138/0002117469</link>
-            <guid>https://n.news.naver.com/article/138/0002117469</guid>
-            <pubDate>Thu, 20 Jan 2022 08:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/20/2117469.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
