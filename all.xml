@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 06:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 07:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002118113</link>
             <guid>https://n.news.naver.com/article/138/0002118113</guid>
             <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1611,7 +1611,7 @@
             <link>https://n.news.naver.com/article/138/0002117954</link>
             <guid>https://n.news.naver.com/article/138/0002117954</guid>
             <pubDate>Thu, 27 Jan 2022 07:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1765,6 +1765,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117510.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인플레이션 우려보다는 안정적인 성장률 기대치 유지! S&P500 2년간 50% 이상 상승 예상! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118283</link>
+            <guid>https://www.snek.ai/alpha/opinion/118283</guid>
+            <pubDate>Wed, 02 Feb 2022 07:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
             <title><![CDATA[가격조정은 마무리, 이제 매수 타이밍 잡기! (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118282</link>
             <guid>https://www.snek.ai/alpha/opinion/118282</guid>
@@ -1835,14 +1843,6 @@
             <pubDate>Mon, 31 Jan 2022 02:21:44 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정유주, 고점에 대한 예상 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118265</link>
-            <guid>https://www.snek.ai/alpha/opinion/118265</guid>
-            <pubDate>Mon, 31 Jan 2022 02:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[논리투자]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/images/web/icon_alpha@2x.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[2022. 01. 28] 지금, 우리 넷플릭스는 (어피티 ─ 뉴스)]]></title>
