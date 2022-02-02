@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 15:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 16:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,16 +1556,8 @@
             <link>https://n.news.naver.com/article/138/0002118114</link>
             <guid>https://n.news.naver.com/article/138/0002118114</guid>
             <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118114.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 가상자산 프로젝트 '디엠' 매각 공식화…2200억에 넘긴다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002118113</link>
-            <guid>https://n.news.naver.com/article/138/0002118113</guid>
-            <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] 매번 규제에 막히는 국내외 가상자산 사업…빗장 풀릴 수 있을까? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1589,6 +1581,7 @@
             <guid>https://n.news.naver.com/article/138/0002118022</guid>
             <pubDate>Fri, 28 Jan 2022 06:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이뱅크, 3일 간 ‘잠시 멈춤’…업비트 원화입금 미리 해야 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1596,7 +1589,6 @@
             <guid>https://n.news.naver.com/article/138/0002117996</guid>
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2117996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 4분기 비트코인 안 팔았다…여전히 수익 중 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1613,6 +1605,14 @@
             <pubDate>Thu, 27 Jan 2022 07:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117954.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이더리움‧솔라나 NFT 같이 쓴다…아이콘이 ‘NFT 게임 플랫폼’ 만든 이유 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002117921</link>
+            <guid>https://n.news.naver.com/article/138/0002117921</guid>
+            <pubDate>Wed, 02 Feb 2022 16:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117921.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유튜브도 'NFT'에 탑승…CEO "크리에이터들이 활용할 수 있게 지원" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
