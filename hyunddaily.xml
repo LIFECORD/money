@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 00:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 01:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002117996</link>
             <guid>https://n.news.naver.com/article/138/0002117996</guid>
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2117996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -91,7 +91,7 @@
             <link>https://n.news.naver.com/article/138/0002117772</link>
             <guid>https://n.news.naver.com/article/138/0002117772</guid>
             <pubDate>Wed, 26 Jan 2022 01:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘개인 지갑 출금’ 전면 통제하는 빗썸…디파이‧NFT 사용자 어쩌나]]></title>
