@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2022-02-02T09:08:48.612Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 02 Feb 2022 10:09:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인플레이션 우려보다는 안정적인 성장률 기대치 유지! S&P500 2년간 50% 이상 상승 예상!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118283</link>
+            <guid>https://www.snek.ai/alpha/opinion/118283</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[가격조정은 마무리, 이제 매수 타이밍 잡기!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118282</link>
+            <guid>https://www.snek.ai/alpha/opinion/118282</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[지난 1주 미국 ETF 수익률로 알아보는 시장변화(천연가스, 팔라듐, 탄소배출권, 중국)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118277</link>
+            <guid>https://www.snek.ai/alpha/opinion/118277</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 헤지펀드 시트론 리서치의 밀킷 서비스 블루 에이프런 (Blue Apron: APRN) 매수 추천 보고서]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118275</link>
+            <guid>https://www.snek.ai/alpha/opinion/118275</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FRB가 인플레를 잡겠다고 나서면 경기 침체는 피할 수 없게된다]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118272</link>
+            <guid>https://www.snek.ai/alpha/opinion/118272</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 최초 건설사업 관리 기업 ㈜한미글로벌]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118270</link>
+            <guid>https://www.snek.ai/alpha/opinion/118270</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브-NFT비즈니스로 반등할까?]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118269</link>
+            <guid>https://www.snek.ai/alpha/opinion/118269</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 투자가, 빌 애크만의 +$1.2 billion달러 넷플릭스 주식 사재기]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118268</link>
+            <guid>https://www.snek.ai/alpha/opinion/118268</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 헤지펀드 그린라이트 캐피탈 (Greenlight Capital) 투자 서한 리뷰]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118267</link>
+            <guid>https://www.snek.ai/alpha/opinion/118267</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 주식 시장내 사모펀드 (Private Equity) 업계 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118266</link>
+            <guid>https://www.snek.ai/alpha/opinion/118266</guid>
+            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
