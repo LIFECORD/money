@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 23:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 00:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002118114</link>
             <guid>https://n.news.naver.com/article/138/0002118114</guid>
             <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118114.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002117996</link>
             <guid>https://n.news.naver.com/article/138/0002117996</guid>
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[테슬라, 4분기 비트코인 안 팔았다…여전히 수익 중 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1650,7 +1650,7 @@
             <link>https://n.news.naver.com/article/138/0002117772</link>
             <guid>https://n.news.naver.com/article/138/0002117772</guid>
             <pubDate>Wed, 26 Jan 2022 01:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1765,6 +1765,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117510.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인플레이션, 금리 인상, 그리고 양적 긴축(QT) + 우크라-러 분쟁 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118290</link>
+            <guid>https://www.snek.ai/alpha/opinion/118290</guid>
+            <pubDate>Thu, 03 Feb 2022 00:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[이정표]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/9789d7b8687845e1955b29d84806141d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[린데(Linde; LIN US), 글로벌 1위 산업용 가스 업체에서 신재생 에너지 그린 수소 산업의 선두 주자로! (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118289</link>
             <guid>https://www.snek.ai/alpha/opinion/118289</guid>
@@ -1835,14 +1843,6 @@
             <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FRB가 인플레를 잡겠다고 나서면 경기 침체는 피할 수 없게된다 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118272</link>
-            <guid>https://www.snek.ai/alpha/opinion/118272</guid>
-            <pubDate>Wed, 02 Feb 2022 10:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 01. 28] 지금, 우리 넷플릭스는 (어피티 ─ 뉴스)]]></title>
