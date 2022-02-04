@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 02:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 03:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[‘클레이튼 기반 디파이’ 클레이스왑도 해킹…22억원 탈취 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002118222</link>
+            <guid>https://n.news.naver.com/article/138/0002118222</guid>
+            <pubDate>Fri, 04 Feb 2022 03:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>29분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118222.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘클레이튼 기반 디파이’ 클레이스왑, 해킹 당했나…비정상적 출금 발생 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002118172</link>
             <guid>https://n.news.naver.com/article/138/0002118172</guid>
@@ -1581,7 +1589,6 @@
             <guid>https://n.news.naver.com/article/138/0002118043</guid>
             <pubDate>Fri, 28 Jan 2022 09:08:53 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워너 뮤직, 블록체인 기반 메타버스서 콘서트 연다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1589,6 +1596,7 @@
             <guid>https://n.news.naver.com/article/138/0002118022</guid>
             <pubDate>Fri, 28 Jan 2022 06:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이뱅크, 3일 간 ‘잠시 멈춤’…업비트 원화입금 미리 해야 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1628,7 +1636,6 @@
             <guid>https://n.news.naver.com/article/138/0002117854</guid>
             <pubDate>Wed, 26 Jan 2022 08:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117854.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빗썸에서 바이낸스로 코인 못 보낸다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1636,6 +1643,7 @@
             <guid>https://n.news.naver.com/article/138/0002117852</guid>
             <pubDate>Wed, 26 Jan 2022 08:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117852.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인 투자했다면? “연말정산 소득공제 받으세요” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1675,7 +1683,6 @@
             <guid>https://n.news.naver.com/article/138/0002117749</guid>
             <pubDate>Tue, 25 Jan 2022 08:10:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인 거래소 신사업은 ‘NFT 마켓플레이스’…코어닥스, 상반기 내 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1683,6 +1690,7 @@
             <guid>https://n.news.naver.com/article/138/0002117709</guid>
             <pubDate>Tue, 25 Jan 2022 04:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['아이콘' 표 NFT 게임 플랫폼 나왔다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1755,14 +1763,6 @@
             <pubDate>Fri, 21 Jan 2022 10:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117552.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT에 진심 된 트위터, 'NFT 프사 설정' 기능 추가 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002117519</link>
-            <guid>https://n.news.naver.com/article/138/0002117519</guid>
-            <pubDate>Fri, 21 Jan 2022 06:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117519.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타의 게임 체인징(메타버스)과 혁신, 성공할 수 있을까?! / 메타의 주가 급락 코멘트 및 4분기 실적 분석 (스넥)]]></title>
