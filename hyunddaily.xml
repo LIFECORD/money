@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 08:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:07:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“왜 바이낸스는 안돼요?” 빗썸 ‘출금 거래소 제한’에 혼란 지속]]></title>
+            <link>https://n.news.naver.com/article/138/0002118254</link>
+            <guid>https://n.news.naver.com/article/138/0002118254</guid>
+            <pubDate>Fri, 04 Feb 2022 09:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>32분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118254.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업비트, ‘바이낸스스마트체인’ 오입금 방지…바이낸스에 협조 요청]]></title>
             <link>https://n.news.naver.com/article/138/0002118239</link>
             <guid>https://n.news.naver.com/article/138/0002118239</guid>
             <pubDate>Fri, 04 Feb 2022 07:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002118222</link>
             <guid>https://n.news.naver.com/article/138/0002118222</guid>
             <pubDate>Fri, 04 Feb 2022 03:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118222.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,14 +53,13 @@
             <guid>https://n.news.naver.com/article/138/0002118075</guid>
             <pubDate>Sun, 30 Jan 2022 06:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/30/2118075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드 디파이 사고는 예견된 재난?…“타 서비스 참고 과정서 주의했어야”]]></title>
             <link>https://n.news.naver.com/article/138/0002118043</link>
             <guid>https://n.news.naver.com/article/138/0002118043</guid>
             <pubDate>Fri, 28 Jan 2022 09:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +83,7 @@
             <link>https://n.news.naver.com/article/138/0002117974</link>
             <guid>https://n.news.naver.com/article/138/0002117974</guid>
             <pubDate>Thu, 27 Jan 2022 09:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -85,7 +92,6 @@
             <guid>https://n.news.naver.com/article/138/0002117954</guid>
             <pubDate>Thu, 27 Jan 2022 07:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이더리움‧솔라나 NFT 같이 쓴다…아이콘이 ‘NFT 게임 플랫폼’ 만든 이유]]></title>
@@ -93,6 +99,7 @@
             <guid>https://n.news.naver.com/article/138/0002117921</guid>
             <pubDate>Wed, 02 Feb 2022 16:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117921.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유튜브도 'NFT'에 탑승…CEO "크리에이터들이 활용할 수 있게 지원"]]></title>
@@ -132,7 +139,6 @@
             <guid>https://n.news.naver.com/article/138/0002117772</guid>
             <pubDate>Wed, 26 Jan 2022 01:59:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘개인 지갑 출금’ 전면 통제하는 빗썸…디파이‧NFT 사용자 어쩌나]]></title>
@@ -140,6 +146,7 @@
             <guid>https://n.news.naver.com/article/138/0002117760</guid>
             <pubDate>Mon, 31 Jan 2022 15:08:26 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기업화되는 블록체인 게임 ‘길드’…VC 투자 대상 된 배경은?]]></title>
@@ -212,14 +219,6 @@
             <pubDate>Wed, 26 Jan 2022 16:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/23/2117578.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주요 가상자산 하락 폭 확대…'베어마켓' 전조 현상?]]></title>
-            <link>https://n.news.naver.com/article/138/0002117556</link>
-            <guid>https://n.news.naver.com/article/138/0002117556</guid>
-            <pubDate>Tue, 25 Jan 2022 23:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/21/2117556.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
