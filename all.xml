@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 19:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 20:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1763,6 +1763,86 @@
             <pubDate>Wed, 26 Jan 2022 16:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/23/2117578.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필자가 최근 넷플릭스 주식을 매수한 3가지 이유 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118296</link>
+            <guid>https://www.snek.ai/alpha/opinion/118296</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투자자가 반드시 알아야 하는 금리 기초 ② - 실질금리, 중립금리, 레포금리, 가산금리의 이해 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118297</link>
+            <guid>https://www.snek.ai/alpha/opinion/118297</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타의 게임 체인징(메타버스)과 혁신, 성공할 수 있을까?! / 메타의 주가 급락 코멘트 및 4분기 실적 분석 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118295</link>
+            <guid>https://www.snek.ai/alpha/opinion/118295</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 OTT 'HBO max'와 함께 반격 개시! - 삼화네트웍스 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118285</link>
+            <guid>https://www.snek.ai/alpha/opinion/118285</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 비디오 게임 그랜드 데프트 오토 (GTA: Grand Theft Auto) 개발 기업, 테이크-투 (Take-Two Interactive) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118291</link>
+            <guid>https://www.snek.ai/alpha/opinion/118291</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인플레이션, 금리 인상, 그리고 양적 긴축(QT) + 우크라-러 분쟁 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118290</link>
+            <guid>https://www.snek.ai/alpha/opinion/118290</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[이정표]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/9789d7b8687845e1955b29d84806141d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[린데(Linde; LIN US), 글로벌 1위 산업용 가스 업체에서 신재생 에너지 그린 수소 산업의 선두 주자로! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118289</link>
+            <guid>https://www.snek.ai/alpha/opinion/118289</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플(Apple, AAPL US) Update Note, 실적 견조하지만 그 뿐이면 주가 오르기 어렵다 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118288</link>
+            <guid>https://www.snek.ai/alpha/opinion/118288</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추세적 주기,  대형 성장주 투자 얼마나 수익이 날까?! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118284</link>
+            <guid>https://www.snek.ai/alpha/opinion/118284</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[투자자가 반드시 알아야 하는 금리 기초 ① - 기준금리,  장단기금리차, 수익률 곡선의 이해 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118286</link>
+            <guid>https://www.snek.ai/alpha/opinion/118286</guid>
+            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 02. 03] 오늘부터 달라지는 코로나19 검사 체계 (어피티 ─ 뉴스)]]></title>
