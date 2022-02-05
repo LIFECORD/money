@@ -4,23 +4,15 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 00:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 01:34:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[“왜 바이낸스는 안돼요?” 빗썸 ‘출금 거래소 제한’에 혼란 지속]]></title>
-            <link>https://n.news.naver.com/article/138/0002118254</link>
-            <guid>https://n.news.naver.com/article/138/0002118254</guid>
-            <pubDate>Fri, 04 Feb 2022 09:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118254.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[업비트, ‘바이낸스스마트체인’ 오입금 방지…바이낸스에 협조 요청]]></title>
             <link>https://n.news.naver.com/article/138/0002118239</link>
             <guid>https://n.news.naver.com/article/138/0002118239</guid>
             <pubDate>Fri, 04 Feb 2022 07:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002118222</link>
             <guid>https://n.news.naver.com/article/138/0002118222</guid>
             <pubDate>Fri, 04 Feb 2022 03:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118222.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,6 +38,14 @@
             <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118114.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타, 가상자산 프로젝트 '디엠' 매각 공식화…2200억에 넘긴다]]></title>
+            <link>https://n.news.naver.com/article/138/0002118113</link>
+            <guid>https://n.news.naver.com/article/138/0002118113</guid>
+            <pubDate>Sat, 05 Feb 2022 01:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] 매번 규제에 막히는 국내외 가상자산 사업…빗장 풀릴 수 있을까?]]></title>
