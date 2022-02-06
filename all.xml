@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 02:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 03:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[주간 블록체인] 웜홀‧클레이스왑도 당했다?…‘디파이 해킹’의 거의 모든 것 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002118277</link>
+            <guid>https://n.news.naver.com/article/138/0002118277</guid>
+            <pubDate>Sun, 06 Feb 2022 03:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/06/2118277.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[업비트, ‘바이낸스스마트체인’ 오입금 방지…바이낸스에 협조 요청 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002118239</link>
             <guid>https://n.news.naver.com/article/138/0002118239</guid>
@@ -1589,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002118113</guid>
             <pubDate>Sat, 05 Feb 2022 01:33:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] 매번 규제에 막히는 국내외 가상자산 사업…빗장 풀릴 수 있을까? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002118075</guid>
             <pubDate>Sun, 30 Jan 2022 06:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/30/2118075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드 디파이 사고는 예견된 재난?…“타 서비스 참고 과정서 주의했어야” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1628,7 +1636,6 @@
             <guid>https://n.news.naver.com/article/138/0002117974</guid>
             <pubDate>Thu, 27 Jan 2022 09:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피르마체인, 신규 메인넷 '콜로세움' 공개 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1636,6 +1643,7 @@
             <guid>https://n.news.naver.com/article/138/0002117954</guid>
             <pubDate>Thu, 27 Jan 2022 07:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이더리움‧솔라나 NFT 같이 쓴다…아이콘이 ‘NFT 게임 플랫폼’ 만든 이유 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1675,7 +1683,6 @@
             <guid>https://n.news.naver.com/article/138/0002117832</guid>
             <pubDate>Wed, 26 Jan 2022 07:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117832.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국판 '컨스티튜션 DAO'의 등장…'국보 DAO'의 의미있는 커뮤니티 실험 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1683,6 +1690,7 @@
             <guid>https://n.news.naver.com/article/138/0002117772</guid>
             <pubDate>Wed, 26 Jan 2022 01:59:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘개인 지갑 출금’ 전면 통제하는 빗썸…디파이‧NFT 사용자 어쩌나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1755,14 +1763,6 @@
             <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117602.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] 비트코인 가격, ‘6개월 중 최저’…데이터 분석 및 가격 전망 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002117578</link>
-            <guid>https://n.news.naver.com/article/138/0002117578</guid>
-            <pubDate>Wed, 26 Jan 2022 16:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/23/2117578.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[필자가 최근 넷플릭스 주식을 매수한 3가지 이유 (스넥)]]></title>
