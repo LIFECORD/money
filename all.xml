@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 00:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 01:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[구글·삼성도 후원…솔라나 해커톤 열린다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002118316</link>
+            <guid>https://n.news.naver.com/article/138/0002118316</guid>
+            <pubDate>Mon, 07 Feb 2022 01:51:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>31분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118316.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 블록체인] 웜홀‧클레이스왑도 당했다?…‘디파이 해킹’의 거의 모든 것 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002118277</link>
             <guid>https://n.news.naver.com/article/138/0002118277</guid>
             <pubDate>Sun, 06 Feb 2022 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/06/2118277.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002118222</link>
             <guid>https://n.news.naver.com/article/138/0002118222</guid>
             <pubDate>Fri, 04 Feb 2022 03:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118222.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,15 +1596,15 @@
             <link>https://n.news.naver.com/article/138/0002118114</link>
             <guid>https://n.news.naver.com/article/138/0002118114</guid>
             <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118114.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타, 가상자산 프로젝트 '디엠' 매각 공식화…2200억에 넘긴다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002118113</link>
             <guid>https://n.news.naver.com/article/138/0002118113</guid>
             <pubDate>Sat, 05 Feb 2022 01:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] 매번 규제에 막히는 국내외 가상자산 사업…빗장 풀릴 수 있을까? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1628,7 +1636,6 @@
             <guid>https://n.news.naver.com/article/138/0002117996</guid>
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2117996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 4분기 비트코인 안 팔았다…여전히 수익 중 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1636,6 +1643,7 @@
             <guid>https://n.news.naver.com/article/138/0002117974</guid>
             <pubDate>Thu, 27 Jan 2022 09:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피르마체인, 신규 메인넷 '콜로세움' 공개 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1675,7 +1683,6 @@
             <guid>https://n.news.naver.com/article/138/0002117837</guid>
             <pubDate>Tue, 01 Feb 2022 15:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117837.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“기부도 코인으로”…위메이드, 고려대에 위믹스 10억치 기부 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1683,6 +1690,7 @@
             <guid>https://n.news.naver.com/article/138/0002117832</guid>
             <pubDate>Wed, 26 Jan 2022 07:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117832.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국판 '컨스티튜션 DAO'의 등장…'국보 DAO'의 의미있는 커뮤니티 실험 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1755,14 +1763,6 @@
             <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117606.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[’MCN 대표주자‘ 샌드박스네트워크, NFT 사업 진출 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002117602</link>
-            <guid>https://n.news.naver.com/article/138/0002117602</guid>
-            <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연준의 양적긴축(QT)이 자산시장에 미치는 영향 (스넥)]]></title>
