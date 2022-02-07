@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002118339</link>
             <guid>https://n.news.naver.com/article/138/0002118339</guid>
             <pubDate>Mon, 07 Feb 2022 05:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118339.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002118316</link>
             <guid>https://n.news.naver.com/article/138/0002118316</guid>
             <pubDate>Mon, 07 Feb 2022 01:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002118239</link>
             <guid>https://n.news.naver.com/article/138/0002118239</guid>
             <pubDate>Fri, 04 Feb 2022 07:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002118172</link>
             <guid>https://n.news.naver.com/article/138/0002118172</guid>
             <pubDate>Thu, 03 Feb 2022 06:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사용자와 수익 나눠야 하지만…게임사가 ‘웹 3.0’으로 나아가는 세 가지 이유]]></title>
@@ -75,7 +75,7 @@
             <link>https://n.news.naver.com/article/138/0002118075</link>
             <guid>https://n.news.naver.com/article/138/0002118075</guid>
             <pubDate>Sun, 30 Jan 2022 06:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/30/2118075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
