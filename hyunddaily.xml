@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 05:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“동계올림픽 선전 기원” 국가대표 NFT 발행된다]]></title>
+            <link>https://n.news.naver.com/article/138/0002118339</link>
+            <guid>https://n.news.naver.com/article/138/0002118339</guid>
+            <pubDate>Mon, 07 Feb 2022 05:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118339.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글·삼성도 후원…솔라나 해커톤 열린다]]></title>
             <link>https://n.news.naver.com/article/138/0002118316</link>
             <guid>https://n.news.naver.com/article/138/0002118316</guid>
             <pubDate>Mon, 07 Feb 2022 01:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002118172</guid>
             <pubDate>Thu, 03 Feb 2022 06:09:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/03/2118172.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사용자와 수익 나눠야 하지만…게임사가 ‘웹 3.0’으로 나아가는 세 가지 이유]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002118114</guid>
             <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118114.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타, 가상자산 프로젝트 '디엠' 매각 공식화…2200억에 넘긴다]]></title>
@@ -84,7 +92,6 @@
             <guid>https://n.news.naver.com/article/138/0002118022</guid>
             <pubDate>Fri, 28 Jan 2022 06:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이뱅크, 3일 간 ‘잠시 멈춤’…업비트 원화입금 미리 해야]]></title>
@@ -92,6 +99,7 @@
             <guid>https://n.news.naver.com/article/138/0002117996</guid>
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2117996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 4분기 비트코인 안 팔았다…여전히 수익 중]]></title>
@@ -131,7 +139,6 @@
             <guid>https://n.news.naver.com/article/138/0002117852</guid>
             <pubDate>Wed, 26 Jan 2022 08:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117852.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인 투자했다면? “연말정산 소득공제 받으세요”]]></title>
@@ -139,6 +146,7 @@
             <guid>https://n.news.naver.com/article/138/0002117837</guid>
             <pubDate>Tue, 01 Feb 2022 15:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117837.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“기부도 코인으로”…위메이드, 고려대에 위믹스 10억치 기부]]></title>
@@ -211,14 +219,6 @@
             <pubDate>Mon, 24 Jan 2022 05:07:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117629.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통계청, 올해부터 가계 가상자산 보유액 조사한다]]></title>
-            <link>https://n.news.naver.com/article/138/0002117606</link>
-            <guid>https://n.news.naver.com/article/138/0002117606</guid>
-            <pubDate>Mon, 24 Jan 2022 01:57:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/24/2117606.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
