@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 09:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 10:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002118488</link>
             <guid>https://n.news.naver.com/article/138/0002118488</guid>
             <pubDate>Tue, 08 Feb 2022 08:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118488.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002118405</link>
             <guid>https://n.news.naver.com/article/138/0002118405</guid>
             <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118405.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002118403</link>
             <guid>https://n.news.naver.com/article/138/0002118403</guid>
             <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118403.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1763,6 +1763,86 @@
             <pubDate>Wed, 26 Jan 2022 01:59:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/26/2117772.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 증시내 주말 농장 & 전원 생활 테마주, 트랙터 서플라이 (Tractor Supply: TSCO) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118314</link>
+            <guid>https://www.snek.ai/alpha/opinion/118314</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 Big Tech(Apple, MS, Google, Netflix, Amazon, Facebook)기업 실적발표 몰아보기 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118311</link>
+            <guid>https://www.snek.ai/alpha/opinion/118311</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AMD의 Xilinx 인수 중국 당국 승인, 인텔을 도전자로 만들어버린 강력한 성장 펀더멘털 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118313</link>
+            <guid>https://www.snek.ai/alpha/opinion/118313</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당주 알아보기 (1)코카콜라 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118310</link>
+            <guid>https://www.snek.ai/alpha/opinion/118310</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[다니엘]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연준의 양적긴축(QT)이 자산시장에 미치는 영향 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118305</link>
+            <guid>https://www.snek.ai/alpha/opinion/118305</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파월은 지금의 인플레를 잡을 의사가 있나 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118301</link>
+            <guid>https://www.snek.ai/alpha/opinion/118301</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sensitivity Analysis: 미국 투자 Risk-Reward 현시점에서 매력적! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118299</link>
+            <guid>https://www.snek.ai/alpha/opinion/118299</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[호조의 고용지표, 긴축의 속도 빨라질까? 그래도 증시는 상승할 확률이 높아! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118298</link>
+            <guid>https://www.snek.ai/alpha/opinion/118298</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[필자가 최근 넷플릭스 주식을 매수한 3가지 이유 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118296</link>
+            <guid>https://www.snek.ai/alpha/opinion/118296</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투자자가 반드시 알아야 하는 금리 기초 ② - 실질금리, 중립금리, 레포금리, 가산금리의 이해 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118297</link>
+            <guid>https://www.snek.ai/alpha/opinion/118297</guid>
+            <pubDate>Tue, 08 Feb 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 02. 07] 지금 증시는 변덕쟁이 (어피티 ─ 뉴스)]]></title>
