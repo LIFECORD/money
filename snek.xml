@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 23:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 00:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 증시내 주말 농장 & 전원 생활 테마주, 트랙터 서플라이 (Tractor Supply: TSCO)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118314</link>
+            <guid>https://www.snek.ai/alpha/opinion/118314</guid>
+            <pubDate>Tue, 08 Feb 2022 00:27:41 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 Big Tech(Apple, MS, Google, Netflix, Amazon, Facebook)기업 실적발표 몰아보기]]></title>
             <link>https://www.snek.ai/alpha/opinion/118311</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
             <content:encoded><![CDATA[원스]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타의 게임 체인징(메타버스)과 혁신, 성공할 수 있을까?! / 메타의 주가 급락 코멘트 및 4분기 실적 분석]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118295</link>
-            <guid>https://www.snek.ai/alpha/opinion/118295</guid>
-            <pubDate>Sat, 05 Feb 2022 20:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
