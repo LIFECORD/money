@@ -4,15 +4,31 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 00:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:54:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라인의 가상자산 링크, 라인페이 가맹점서 쓴다]]></title>
+            <link>https://n.news.naver.com/article/138/0002118405</link>
+            <guid>https://n.news.naver.com/article/138/0002118405</guid>
+            <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118405.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클레이튼 기반 ‘P2E 게임’ 러시…글로벌화도 주목]]></title>
+            <link>https://n.news.naver.com/article/138/0002118403</link>
+            <guid>https://n.news.naver.com/article/138/0002118403</guid>
+            <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118403.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이두희의 '멋쟁이사자처럼', P2E 게임 진출…미래에셋‧카카오 투자 유치]]></title>
             <link>https://n.news.naver.com/article/138/0002118381</link>
             <guid>https://n.news.naver.com/article/138/0002118381</guid>
             <pubDate>Mon, 07 Feb 2022 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118381.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002118375</link>
             <guid>https://n.news.naver.com/article/138/0002118375</guid>
             <pubDate>Mon, 07 Feb 2022 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002118373</link>
             <guid>https://n.news.naver.com/article/138/0002118373</guid>
             <pubDate>Mon, 07 Feb 2022 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118373.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,15 +52,14 @@
             <link>https://n.news.naver.com/article/138/0002118339</link>
             <guid>https://n.news.naver.com/article/138/0002118339</guid>
             <pubDate>Mon, 07 Feb 2022 05:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118339.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글·삼성도 후원…솔라나 해커톤 열린다]]></title>
             <link>https://n.news.naver.com/article/138/0002118316</link>
             <guid>https://n.news.naver.com/article/138/0002118316</guid>
             <pubDate>Mon, 07 Feb 2022 01:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +67,8 @@
             <link>https://n.news.naver.com/article/138/0002118277</link>
             <guid>https://n.news.naver.com/article/138/0002118277</guid>
             <pubDate>Sun, 06 Feb 2022 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/06/2118277.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트, ‘바이낸스스마트체인’ 오입금 방지…바이낸스에 협조 요청]]></title>
@@ -67,7 +83,7 @@
             <link>https://n.news.naver.com/article/138/0002118222</link>
             <guid>https://n.news.naver.com/article/138/0002118222</guid>
             <pubDate>Fri, 04 Feb 2022 03:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118222.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,15 +99,14 @@
             <link>https://n.news.naver.com/article/138/0002118114</link>
             <guid>https://n.news.naver.com/article/138/0002118114</guid>
             <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118114.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모건스탠리 "비트코인 3달 새 50% 하락했지만…이전 수준의 하락"]]></title>
             <link>https://n.news.naver.com/article/138/0002118095</link>
             <guid>https://n.news.naver.com/article/138/0002118095</guid>
             <pubDate>Mon, 07 Feb 2022 16:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/01/2118095.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,6 +115,7 @@
             <guid>https://n.news.naver.com/article/138/0002118075</guid>
             <pubDate>Sun, 30 Jan 2022 06:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.30.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/30/2118075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드 디파이 사고는 예견된 재난?…“타 서비스 참고 과정서 주의했어야”]]></title>
@@ -123,7 +139,6 @@
             <guid>https://n.news.naver.com/article/138/0002117996</guid>
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2117996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 4분기 비트코인 안 팔았다…여전히 수익 중]]></title>
@@ -139,6 +154,7 @@
             <guid>https://n.news.naver.com/article/138/0002117954</guid>
             <pubDate>Thu, 27 Jan 2022 07:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이더리움‧솔라나 NFT 같이 쓴다…아이콘이 ‘NFT 게임 플랫폼’ 만든 이유]]></title>
@@ -203,22 +219,6 @@
             <pubDate>Tue, 25 Jan 2022 08:10:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117749.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인 거래소 신사업은 ‘NFT 마켓플레이스’…코어닥스, 상반기 내 출시]]></title>
-            <link>https://n.news.naver.com/article/138/0002117709</link>
-            <guid>https://n.news.naver.com/article/138/0002117709</guid>
-            <pubDate>Tue, 25 Jan 2022 04:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117709.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이콘' 표 NFT 게임 플랫폼 나왔다]]></title>
-            <link>https://n.news.naver.com/article/138/0002117701</link>
-            <guid>https://n.news.naver.com/article/138/0002117701</guid>
-            <pubDate>Tue, 25 Jan 2022 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/25/2117701.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
