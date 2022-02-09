@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 07:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 08:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어글리 패션 업계를 주도하는 기업: 크록스 (CROX)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118325</link>
+            <guid>https://www.snek.ai/alpha/opinion/118325</guid>
+            <pubDate>Wed, 09 Feb 2022 08:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당주 알아보기 (3)스타벅스]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118326</link>
+            <guid>https://www.snek.ai/alpha/opinion/118326</guid>
+            <pubDate>Wed, 09 Feb 2022 08:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[다니엘]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스냅 (Snap, SNAP US), 내가 주커버그라면 이거 산다]]></title>
             <link>https://www.snek.ai/alpha/opinion/118322</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 09 Feb 2022 00:29:23 GMT</pubDate>
             <content:encoded><![CDATA[다니엘]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연준의 양적긴축(QT)이 자산시장에 미치는 영향]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118305</link>
-            <guid>https://www.snek.ai/alpha/opinion/118305</guid>
-            <pubDate>Wed, 09 Feb 2022 00:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파월은 지금의 인플레를 잡을 의사가 있나]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118301</link>
-            <guid>https://www.snek.ai/alpha/opinion/118301</guid>
-            <pubDate>Wed, 09 Feb 2022 00:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
