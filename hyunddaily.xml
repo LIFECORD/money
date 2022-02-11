@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 09:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 10:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흥국생명·흥국화재, 각각 임형준·임규준 대표이사 내정]]></title>
+            <link>https://n.news.naver.com/article/138/0002118780</link>
+            <guid>https://n.news.naver.com/article/138/0002118780</guid>
+            <pubDate>Fri, 11 Feb 2022 10:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118780.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 美 ‘비트코인 현물 ETF’ 승인될까?]]></title>
             <link>https://n.news.naver.com/article/138/0002118773</link>
             <guid>https://n.news.naver.com/article/138/0002118773</guid>
             <pubDate>Fri, 11 Feb 2022 08:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118773.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002118767</link>
             <guid>https://n.news.naver.com/article/138/0002118767</guid>
             <pubDate>Fri, 11 Feb 2022 07:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002118753</link>
             <guid>https://n.news.naver.com/article/138/0002118753</guid>
             <pubDate>Fri, 11 Feb 2022 04:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118753.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,14 +53,14 @@
             <guid>https://n.news.naver.com/article/138/0002118609</guid>
             <pubDate>Wed, 09 Feb 2022 11:07:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118609.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[컨콜] 역대급 실적 낸 위메이드, 매출 3분의 2는 ‘위믹스 유동화’]]></title>
             <link>https://n.news.naver.com/article/138/0002118598</link>
             <guid>https://n.news.naver.com/article/138/0002118598</guid>
             <pubDate>Wed, 09 Feb 2022 10:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118598.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[컨콜] 장현국 위메이드 대표 “규제 정립되면 위믹스로 급여 받겠다”]]></title>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002118405</guid>
             <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118405.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클레이튼 기반 ‘P2E 게임’ 러시…글로벌화도 주목]]></title>
@@ -100,13 +107,14 @@
             <guid>https://n.news.naver.com/article/138/0002118403</guid>
             <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118403.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이두희의 '멋쟁이사자처럼', P2E 게임 진출…미래에셋‧카카오 투자 유치]]></title>
             <link>https://n.news.naver.com/article/138/0002118381</link>
             <guid>https://n.news.naver.com/article/138/0002118381</guid>
             <pubDate>Mon, 07 Feb 2022 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118381.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -139,7 +147,6 @@
             <guid>https://n.news.naver.com/article/138/0002118316</guid>
             <pubDate>Mon, 07 Feb 2022 01:51:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 블록체인] 웜홀‧클레이스왑도 당했다?…‘디파이 해킹’의 거의 모든 것]]></title>
@@ -147,13 +154,14 @@
             <guid>https://n.news.naver.com/article/138/0002118277</guid>
             <pubDate>Fri, 11 Feb 2022 07:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/06/2118277.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“왜 바이낸스는 안돼요?” 빗썸 ‘출금 거래소 제한’에 혼란 지속]]></title>
             <link>https://n.news.naver.com/article/138/0002118254</link>
             <guid>https://n.news.naver.com/article/138/0002118254</guid>
             <pubDate>Thu, 10 Feb 2022 16:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118254.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -211,14 +219,6 @@
             <pubDate>Sun, 30 Jan 2022 06:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/30/2118075.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 디파이 사고는 예견된 재난?…“타 서비스 참고 과정서 주의했어야”]]></title>
-            <link>https://n.news.naver.com/article/138/0002118043</link>
-            <guid>https://n.news.naver.com/article/138/0002118043</guid>
-            <pubDate>Fri, 28 Jan 2022 09:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2118043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
