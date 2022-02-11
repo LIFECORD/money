@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 03:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 04:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[더 샌드박스 '랜드' 산 구찌, 명품 업계에 어떤 바람 일으킬까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002118753</link>
+            <guid>https://n.news.naver.com/article/138/0002118753</guid>
+            <pubDate>Fri, 11 Feb 2022 04:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118753.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드의 '토큰 소각', 위믹스 가격에 영향 줄까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002118691</link>
             <guid>https://n.news.naver.com/article/138/0002118691</guid>
             <pubDate>Thu, 10 Feb 2022 08:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/10/2118691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1589,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002118592</guid>
             <pubDate>Wed, 09 Feb 2022 08:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] “크리에이터 경제 활성화할 것”…국내 1위 MCN이 NFT에 빠진 까닭 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002118578</guid>
             <pubDate>Wed, 09 Feb 2022 07:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118578.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NHN 한국사이버결제, 지난해 매출 '역대 최대' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1636,7 +1644,6 @@
             <guid>https://n.news.naver.com/article/138/0002118381</guid>
             <pubDate>Mon, 07 Feb 2022 09:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118381.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명, 'NFT 펀드'로 선거자금 모금…350억이 목표 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,6 +1651,7 @@
             <guid>https://n.news.naver.com/article/138/0002118375</guid>
             <pubDate>Mon, 07 Feb 2022 09:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자전거래에 골머리 앓는 룩스레어, ‘오픈씨 대항마’ 될 수 있을까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1658,7 +1666,7 @@
             <link>https://n.news.naver.com/article/138/0002118339</link>
             <guid>https://n.news.naver.com/article/138/0002118339</guid>
             <pubDate>Mon, 07 Feb 2022 05:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118339.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1683,7 +1691,6 @@
             <guid>https://n.news.naver.com/article/138/0002118239</guid>
             <pubDate>Fri, 04 Feb 2022 07:07:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘클레이튼 기반 디파이’ 클레이스왑도 해킹…22억원 탈취 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1691,6 +1698,7 @@
             <guid>https://n.news.naver.com/article/138/0002118222</guid>
             <pubDate>Fri, 04 Feb 2022 03:08:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118222.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘클레이튼 기반 디파이’ 클레이스왑, 해킹 당했나…비정상적 출금 발생 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1755,14 +1763,6 @@
             <pubDate>Fri, 28 Jan 2022 01:52:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/28/2117996.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 4분기 비트코인 안 팔았다…여전히 수익 중 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002117974</link>
-            <guid>https://n.news.naver.com/article/138/0002117974</guid>
-            <pubDate>Thu, 27 Jan 2022 09:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/01/27/2117974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대폭락한 터키 리라화, 투자자가 주목해야 하는 이유! (스넥)]]></title>
