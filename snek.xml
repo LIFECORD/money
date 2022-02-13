@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2022-02-13T11:07:44.131Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 13 Feb 2022 12:11:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경기 침체가 빠르게 오지 않을 것, 지금은 종목 선별이 중요!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118346</link>
+            <guid>https://www.snek.ai/alpha/opinion/118346</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 장단기 금리차 큰 폭 하락, 하지만 대세하락장이 시작되었다 판단되지 않음]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118345</link>
+            <guid>https://www.snek.ai/alpha/opinion/118345</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[27년 만에 이뤄지는 CAPA 증설! - 삼아알미늄]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118338</link>
+            <guid>https://www.snek.ai/alpha/opinion/118338</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지역화폐 수혜주 코나아이㈜]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118344</link>
+            <guid>https://www.snek.ai/alpha/opinion/118344</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이스북 $230 billion달러 시총을 핑거스냅 한 방으로 날려버린 타노스 효과: 애플 + 틱톡 + 메타]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118342</link>
+            <guid>https://www.snek.ai/alpha/opinion/118342</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 알파벳 (구글) 기업 이벤트로 재조명받는 주식 분할 (Stock Split)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118341</link>
+            <guid>https://www.snek.ai/alpha/opinion/118341</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 스포츠 베팅 시장 폭풍 성장이 예견되는 2022년]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118340</link>
+            <guid>https://www.snek.ai/alpha/opinion/118340</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[써모 피셔 싸이언티픽(TMO US) / 검체 장비, 생명 및 유전 공학 필수 의료 장비 생명공학계의 애플로 불리는 글로벌 1위 기업]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118337</link>
+            <guid>https://www.snek.ai/alpha/opinion/118337</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당주 알아보기 (4)타겟]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118336</link>
+            <guid>https://www.snek.ai/alpha/opinion/118336</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[다니엘]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대폭락한 터키 리라화, 투자자가 주목해야 하는 이유!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118335</link>
+            <guid>https://www.snek.ai/alpha/opinion/118335</guid>
+            <pubDate>Sun, 13 Feb 2022 12:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
