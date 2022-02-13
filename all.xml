@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 23:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 00:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1588,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002118635</link>
             <guid>https://n.news.naver.com/article/138/0002118635</guid>
             <pubDate>Thu, 10 Feb 2022 01:52:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/10/2118635.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1643,14 +1643,14 @@
             <link>https://n.news.naver.com/article/138/0002118405</link>
             <guid>https://n.news.naver.com/article/138/0002118405</guid>
             <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[클레이튼 기반 ‘P2E 게임’ 러시…글로벌화도 주목 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002118403</link>
             <guid>https://n.news.naver.com/article/138/0002118403</guid>
             <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118403.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
