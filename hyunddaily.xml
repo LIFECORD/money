@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["SW 개발자 세분화해 양성해야"…디지털 교육 혁신 토론회 개최]]></title>
+            <link>https://n.news.naver.com/article/138/0002118899</link>
+            <guid>https://n.news.naver.com/article/138/0002118899</guid>
+            <pubDate>Mon, 14 Feb 2022 09:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>54분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118899.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['데스티니 차일드'도 NFT로…더 샌드박스와 협업]]></title>
             <link>https://n.news.naver.com/article/138/0002118882</link>
             <guid>https://n.news.naver.com/article/138/0002118882</guid>
             <pubDate>Mon, 14 Feb 2022 06:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002118857</link>
             <guid>https://n.news.naver.com/article/138/0002118857</guid>
             <pubDate>Mon, 14 Feb 2022 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002118833</link>
             <guid>https://n.news.naver.com/article/138/0002118833</guid>
             <pubDate>Mon, 14 Feb 2022 01:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002118773</guid>
             <pubDate>Fri, 11 Feb 2022 08:10:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118773.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이브·YG 엔터, NFT 사업 본격화…두나무 람다256에 투자]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002118767</guid>
             <pubDate>Fri, 11 Feb 2022 07:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 샌드박스 '랜드' 산 구찌, 명품 업계에 어떤 바람 일으킬까]]></title>
@@ -91,8 +99,7 @@
             <link>https://n.news.naver.com/article/138/0002118598</link>
             <guid>https://n.news.naver.com/article/138/0002118598</guid>
             <pubDate>Wed, 09 Feb 2022 10:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118598.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[컨콜] 장현국 위메이드 대표 “규제 정립되면 위믹스로 급여 받겠다”]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002118592</guid>
             <pubDate>Wed, 09 Feb 2022 08:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] “크리에이터 경제 활성화할 것”…국내 1위 MCN이 NFT에 빠진 까닭]]></title>
@@ -139,14 +147,14 @@
             <guid>https://n.news.naver.com/article/138/0002118403</guid>
             <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118403.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이두희의 '멋쟁이사자처럼', P2E 게임 진출…미래에셋‧카카오 투자 유치]]></title>
             <link>https://n.news.naver.com/article/138/0002118381</link>
             <guid>https://n.news.naver.com/article/138/0002118381</guid>
             <pubDate>Mon, 07 Feb 2022 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118381.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명, 'NFT 펀드'로 선거자금 모금…350억이 목표]]></title>
@@ -219,14 +227,6 @@
             <pubDate>Thu, 03 Feb 2022 06:09:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/03/2118172.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사용자와 수익 나눠야 하지만…게임사가 ‘웹 3.0’으로 나아가는 세 가지 이유]]></title>
-            <link>https://n.news.naver.com/article/138/0002118114</link>
-            <guid>https://n.news.naver.com/article/138/0002118114</guid>
-            <pubDate>Wed, 02 Feb 2022 02:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/02/2118114.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
