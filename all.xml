@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 01:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 02:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1643,7 +1643,7 @@
             <link>https://n.news.naver.com/article/138/0002118532</link>
             <guid>https://n.news.naver.com/article/138/0002118532</guid>
             <pubDate>Wed, 09 Feb 2022 02:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[프렌즈게임즈 골프게임, 보라 블록체인 기반 P2E 게임으로 나온다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
