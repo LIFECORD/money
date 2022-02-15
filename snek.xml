@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 23:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 00:49:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 공모주 광풍! 첫 투자에서 손해를 피하려면?]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118359</link>
+            <guid>https://www.snek.ai/alpha/opinion/118359</guid>
+            <pubDate>Tue, 15 Feb 2022 00:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 재무부 장단기 금리 역전 대표 스프레드 (10년-2년, 10년-3월물 스프레드)축소와 미국 대형주 주가지수, 금리, 통화량 증감률 등 상관관계]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118361</link>
+            <guid>https://www.snek.ai/alpha/opinion/118361</guid>
+            <pubDate>Tue, 15 Feb 2022 00:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 달러환율에 영향을 미치는 4가지 요인]]></title>
             <link>https://www.snek.ai/alpha/opinion/118358</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 14 Feb 2022 09:08:42 GMT</pubDate>
             <content:encoded><![CDATA[이승환]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 $230 billion달러 시총을 핑거스냅 한 방으로 날려버린 타노스 효과: 애플 + 틱톡 + 메타]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118342</link>
-            <guid>https://www.snek.ai/alpha/opinion/118342</guid>
-            <pubDate>Mon, 14 Feb 2022 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 알파벳 (구글) 기업 이벤트로 재조명받는 주식 분할 (Stock Split)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118341</link>
-            <guid>https://www.snek.ai/alpha/opinion/118341</guid>
-            <pubDate>Mon, 14 Feb 2022 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
