@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 09:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 10:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업비트 이어 빗썸도 ‘유니콘’ 기업 등극]]></title>
+            <link>https://n.news.naver.com/article/138/0002119001</link>
+            <guid>https://n.news.naver.com/article/138/0002119001</guid>
+            <pubDate>Tue, 15 Feb 2022 10:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119001.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고위드, 법인카드 발급 서비스 전면 개편]]></title>
             <link>https://n.news.naver.com/article/138/0002118991</link>
             <guid>https://n.news.naver.com/article/138/0002118991</guid>
             <pubDate>Tue, 15 Feb 2022 09:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>55분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002118986</link>
             <guid>https://n.news.naver.com/article/138/0002118986</guid>
             <pubDate>Tue, 15 Feb 2022 08:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002118965</link>
             <guid>https://n.news.naver.com/article/138/0002118965</guid>
             <pubDate>Tue, 15 Feb 2022 05:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002118931</link>
             <guid>https://n.news.naver.com/article/138/0002118931</guid>
             <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118931.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,6 @@
             <guid>https://n.news.naver.com/article/138/0002118899</guid>
             <pubDate>Mon, 14 Feb 2022 09:08:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['데스티니 차일드'도 NFT로…더 샌드박스와 협업]]></title>
@@ -53,6 +60,7 @@
             <guid>https://n.news.naver.com/article/138/0002118882</guid>
             <pubDate>Mon, 14 Feb 2022 06:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빗썸, ‘출금 가능’ 거래소에 바이낸스 포함할 듯…“적극 검토 중”]]></title>
@@ -92,7 +100,6 @@
             <guid>https://n.news.naver.com/article/138/0002118767</guid>
             <pubDate>Fri, 11 Feb 2022 07:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 샌드박스 '랜드' 산 구찌, 명품 업계에 어떤 바람 일으킬까]]></title>
@@ -100,6 +107,7 @@
             <guid>https://n.news.naver.com/article/138/0002118753</guid>
             <pubDate>Fri, 11 Feb 2022 04:09:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118753.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코빗, 모바일 웹 UI·UX 전면 업데이트]]></title>
@@ -122,7 +130,7 @@
             <link>https://n.news.naver.com/article/138/0002118598</link>
             <guid>https://n.news.naver.com/article/138/0002118598</guid>
             <pubDate>Wed, 09 Feb 2022 10:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118598.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -139,7 +147,6 @@
             <guid>https://n.news.naver.com/article/138/0002118578</guid>
             <pubDate>Wed, 09 Feb 2022 07:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118578.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NHN 한국사이버결제, 지난해 매출 '역대 최대']]></title>
@@ -147,6 +154,7 @@
             <guid>https://n.news.naver.com/article/138/0002118532</guid>
             <pubDate>Wed, 09 Feb 2022 02:30:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118532.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프렌즈게임즈 골프게임, 보라 블록체인 기반 P2E 게임으로 나온다]]></title>
@@ -219,14 +227,6 @@
             <pubDate>Mon, 07 Feb 2022 01:51:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118316.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 블록체인] 웜홀‧클레이스왑도 당했다?…‘디파이 해킹’의 거의 모든 것]]></title>
-            <link>https://n.news.naver.com/article/138/0002118277</link>
-            <guid>https://n.news.naver.com/article/138/0002118277</guid>
-            <pubDate>Fri, 11 Feb 2022 07:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/06/2118277.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
