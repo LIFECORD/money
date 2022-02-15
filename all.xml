@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 11:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 12:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[고팍스, 전북은행 실명계좌 확보…원화취급 코인 거래소 5곳으로 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119006</link>
+            <guid>https://n.news.naver.com/article/138/0002119006</guid>
+            <pubDate>Tue, 15 Feb 2022 12:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>52분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119006.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[업비트 이어 빗썸도 ‘유니콘’ 기업 등극 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002119001</link>
             <guid>https://n.news.naver.com/article/138/0002119001</guid>
             <pubDate>Tue, 15 Feb 2022 10:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002118991</link>
             <guid>https://n.news.naver.com/article/138/0002118991</guid>
             <pubDate>Tue, 15 Feb 2022 09:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002118986</link>
             <guid>https://n.news.naver.com/article/138/0002118986</guid>
             <pubDate>Tue, 15 Feb 2022 08:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002118965</link>
             <guid>https://n.news.naver.com/article/138/0002118965</guid>
             <pubDate>Tue, 15 Feb 2022 05:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,8 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002118931</link>
             <guid>https://n.news.naver.com/article/138/0002118931</guid>
             <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118931.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["SW 개발자 세분화해 양성해야"…디지털 교육 혁신 토론회 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002118899</guid>
             <pubDate>Mon, 14 Feb 2022 09:08:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['데스티니 차일드'도 NFT로…더 샌드박스와 협업 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1636,7 +1644,6 @@
             <guid>https://n.news.naver.com/article/138/0002118773</guid>
             <pubDate>Fri, 11 Feb 2022 08:10:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118773.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이브·YG 엔터, NFT 사업 본격화…두나무 람다256에 투자 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,6 +1651,7 @@
             <guid>https://n.news.naver.com/article/138/0002118767</guid>
             <pubDate>Fri, 11 Feb 2022 07:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 샌드박스 '랜드' 산 구찌, 명품 업계에 어떤 바람 일으킬까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1666,7 +1674,7 @@
             <link>https://n.news.naver.com/article/138/0002118609</link>
             <guid>https://n.news.naver.com/article/138/0002118609</guid>
             <pubDate>Wed, 09 Feb 2022 11:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118609.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1683,7 +1691,6 @@
             <guid>https://n.news.naver.com/article/138/0002118592</guid>
             <pubDate>Wed, 09 Feb 2022 08:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] “크리에이터 경제 활성화할 것”…국내 1위 MCN이 NFT에 빠진 까닭 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1691,6 +1698,7 @@
             <guid>https://n.news.naver.com/article/138/0002118578</guid>
             <pubDate>Wed, 09 Feb 2022 07:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118578.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NHN 한국사이버결제, 지난해 매출 '역대 최대' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1763,14 +1771,6 @@
             <pubDate>Mon, 07 Feb 2022 05:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118339.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글·삼성도 후원…솔라나 해커톤 열린다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002118316</link>
-            <guid>https://n.news.naver.com/article/138/0002118316</guid>
-            <pubDate>Mon, 07 Feb 2022 01:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 공모주 광풍! 첫 투자에서 손해를 피하려면? (스넥)]]></title>
