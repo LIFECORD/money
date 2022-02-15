@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 00:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[온더, 컴플라이언스 총괄로 율촌 출신 목영훈 미국변호사 영입 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002118931</link>
+            <guid>https://n.news.naver.com/article/138/0002118931</guid>
+            <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118931.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["SW 개발자 세분화해 양성해야"…디지털 교육 혁신 토론회 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002118899</link>
             <guid>https://n.news.naver.com/article/138/0002118899</guid>
             <pubDate>Mon, 14 Feb 2022 09:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002118882</link>
             <guid>https://n.news.naver.com/article/138/0002118882</guid>
             <pubDate>Mon, 14 Feb 2022 06:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002118857</link>
             <guid>https://n.news.naver.com/article/138/0002118857</guid>
             <pubDate>Mon, 14 Feb 2022 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1589,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002118780</guid>
             <pubDate>Fri, 11 Feb 2022 10:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118780.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 美 ‘비트코인 현물 ETF’ 승인될까? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002118773</guid>
             <pubDate>Fri, 11 Feb 2022 08:10:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118773.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이브·YG 엔터, NFT 사업 본격화…두나무 람다256에 투자 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1636,7 +1644,6 @@
             <guid>https://n.news.naver.com/article/138/0002118598</guid>
             <pubDate>Wed, 09 Feb 2022 10:09:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118598.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[컨콜] 장현국 위메이드 대표 “규제 정립되면 위믹스로 급여 받겠다” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,6 +1651,7 @@
             <guid>https://n.news.naver.com/article/138/0002118592</guid>
             <pubDate>Wed, 09 Feb 2022 08:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] “크리에이터 경제 활성화할 것”…국내 1위 MCN이 NFT에 빠진 까닭 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1658,7 +1666,7 @@
             <link>https://n.news.naver.com/article/138/0002118532</link>
             <guid>https://n.news.naver.com/article/138/0002118532</guid>
             <pubDate>Wed, 09 Feb 2022 02:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118532.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1683,7 +1691,6 @@
             <guid>https://n.news.naver.com/article/138/0002118405</guid>
             <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118405.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클레이튼 기반 ‘P2E 게임’ 러시…글로벌화도 주목 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1691,6 +1698,7 @@
             <guid>https://n.news.naver.com/article/138/0002118403</guid>
             <pubDate>Tue, 08 Feb 2022 01:53:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118403.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이두희의 '멋쟁이사자처럼', P2E 게임 진출…미래에셋‧카카오 투자 유치 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1729,7 +1737,7 @@
             <link>https://n.news.naver.com/article/138/0002118316</link>
             <guid>https://n.news.naver.com/article/138/0002118316</guid>
             <pubDate>Mon, 07 Feb 2022 01:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1763,14 +1771,6 @@
             <pubDate>Fri, 04 Feb 2022 03:08:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/04/2118222.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘클레이튼 기반 디파이’ 클레이스왑, 해킹 당했나…비정상적 출금 발생 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002118172</link>
-            <guid>https://n.news.naver.com/article/138/0002118172</guid>
-            <pubDate>Thu, 03 Feb 2022 06:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/03/2118172.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 공모주 광풍! 첫 투자에서 손해를 피하려면? (스넥)]]></title>
@@ -1853,6 +1853,20 @@
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2022. 02. 15] ‘직진’으로 컴백한 트레저 와이지 주가도 JIKJIN할까 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10379532&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10379532&amp;t=board</guid>
+            <pubDate>Tue, 15 Feb 2022 02:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[증권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 02. 15] 집값: 떨어진다 꽉 잡아 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10379458&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10379458&amp;t=board</guid>
+            <pubDate>Tue, 15 Feb 2022 02:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[부동산]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2022. 02. 14] 원전 오염수 방출을 둘러싼 갈등? (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10353555&amp;t=board</link>
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10353555&amp;t=board</guid>
@@ -1909,18 +1923,11 @@
             <content:encoded><![CDATA[글로벌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2022. 02. 08] 실적은 좋지만 상장 후는 글쎄? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10255325&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10255325&amp;t=board</guid>
-            <pubDate>Thu, 10 Feb 2022 08:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 02. 08] '그린 택소노미'에 원전 포함! (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10255275&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10255275&amp;t=board</guid>
-            <pubDate>Thu, 10 Feb 2022 08:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌]]></content:encoded>
+            <title><![CDATA[[22.02.15] 집값: 나 지금 떨어지고 있니? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10379355&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10379355&amp;t=board</guid>
+            <pubDate>Tue, 15 Feb 2022 02:03:22 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.02.14] 미국: 반도체 없이 괜.찮.으.시.겠어요? (어피티 ─ 머니레터)]]></title>
@@ -1997,13 +2004,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9717019&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9717019&amp;t=board</guid>
             <pubDate>Wed, 26 Jan 2022 14:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.01.25] 보험에도 세대가 있다고? (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9678450&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9678450&amp;t=board</guid>
-            <pubDate>Tue, 25 Jan 2022 01:58:25 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
     </channel>
