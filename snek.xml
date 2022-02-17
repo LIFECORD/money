@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 04:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월 FOMC 의사록 리뷰 - 장단기 금리차 축소를  방지하기 위한 노력]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118367</link>
+            <guid>https://www.snek.ai/alpha/opinion/118367</guid>
+            <pubDate>Thu, 17 Feb 2022 05:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21년 4분기, 사이언 에셋 매니지먼트 (Scion Asset Management) 투자 현황 분석]]></title>
             <link>https://www.snek.ai/alpha/opinion/118365</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Feb 2022 03:09:38 GMT</pubDate>
             <content:encoded><![CDATA[한대희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 MBA 다모다란 교수님의 FANGAM 기업가치 재방문]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118349</link>
-            <guid>https://www.snek.ai/alpha/opinion/118349</guid>
-            <pubDate>Thu, 17 Feb 2022 03:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

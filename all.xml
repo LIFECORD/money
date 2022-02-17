@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 04:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002119129</link>
             <guid>https://n.news.naver.com/article/138/0002119129</guid>
             <pubDate>Thu, 17 Feb 2022 03:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/17/2119129.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002119065</link>
             <guid>https://n.news.naver.com/article/138/0002119065</guid>
             <pubDate>Wed, 16 Feb 2022 07:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/16/2119065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1611,7 +1611,7 @@
             <link>https://n.news.naver.com/article/138/0002118965</link>
             <guid>https://n.news.naver.com/article/138/0002118965</guid>
             <pubDate>Tue, 15 Feb 2022 05:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1773,6 +1773,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118403.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1월 FOMC 의사록 리뷰 - 장단기 금리차 축소를  방지하기 위한 노력 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118367</link>
+            <guid>https://www.snek.ai/alpha/opinion/118367</guid>
+            <pubDate>Thu, 17 Feb 2022 05:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[21년 4분기, 사이언 에셋 매니지먼트 (Scion Asset Management) 투자 현황 분석 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118365</link>
             <guid>https://www.snek.ai/alpha/opinion/118365</guid>
@@ -1843,14 +1851,6 @@
             <pubDate>Thu, 17 Feb 2022 03:09:38 GMT</pubDate>
             <content:encoded><![CDATA[한대희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 MBA 다모다란 교수님의 FANGAM 기업가치 재방문 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118349</link>
-            <guid>https://www.snek.ai/alpha/opinion/118349</guid>
-            <pubDate>Thu, 17 Feb 2022 03:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 02. 17] K-인기 얻고 싶어요 (어피티 ─ 뉴스)]]></title>
