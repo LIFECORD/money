@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 23:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 00:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21년 4분기 유명 헤지펀드들이 선호한 매수 (BUY) 주식 리스트]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118363</link>
+            <guid>https://www.snek.ai/alpha/opinion/118363</guid>
+            <pubDate>Thu, 17 Feb 2022 00:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장단기 금리차 확대 및 축소가 경제와 자산시장에 미치는 영향]]></title>
             <link>https://www.snek.ai/alpha/opinion/118362</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 19:08:54 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[27년 만에 이뤄지는 CAPA 증설! - 삼아알미늄]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118338</link>
-            <guid>https://www.snek.ai/alpha/opinion/118338</guid>
-            <pubDate>Wed, 16 Feb 2022 19:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

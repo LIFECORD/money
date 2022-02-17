@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 23:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 00:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002119065</link>
             <guid>https://n.news.naver.com/article/138/0002119065</guid>
             <pubDate>Wed, 16 Feb 2022 07:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/16/2119065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002119046</link>
             <guid>https://n.news.naver.com/article/138/0002119046</guid>
             <pubDate>Wed, 16 Feb 2022 04:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/16/2119046.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1643,7 +1643,7 @@
             <link>https://n.news.naver.com/article/138/0002118833</link>
             <guid>https://n.news.naver.com/article/138/0002118833</guid>
             <pubDate>Mon, 14 Feb 2022 01:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[흥국생명·흥국화재, 각각 임형준·임규준 대표이사 내정 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1773,6 +1773,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/07/2118381.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[21년 4분기 유명 헤지펀드들이 선호한 매수 (BUY) 주식 리스트 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118363</link>
+            <guid>https://www.snek.ai/alpha/opinion/118363</guid>
+            <pubDate>Thu, 17 Feb 2022 00:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장단기 금리차 확대 및 축소가 경제와 자산시장에 미치는 영향 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118362</link>
             <guid>https://www.snek.ai/alpha/opinion/118362</guid>
@@ -1843,14 +1851,6 @@
             <pubDate>Wed, 16 Feb 2022 19:08:54 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[27년 만에 이뤄지는 CAPA 증설! - 삼아알미늄 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118338</link>
-            <guid>https://www.snek.ai/alpha/opinion/118338</guid>
-            <pubDate>Wed, 16 Feb 2022 19:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 02. 16] 일은 잘하는데 인기는 없는 유형 (어피티 ─ 뉴스)]]></title>
