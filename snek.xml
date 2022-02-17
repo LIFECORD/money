@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 00:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:47:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21년 4분기, 사이언 에셋 매니지먼트 (Scion Asset Management) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118365</link>
+            <guid>https://www.snek.ai/alpha/opinion/118365</guid>
+            <pubDate>Thu, 17 Feb 2022 01:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, 버크셔 해서웨이 (Berkshire Hathaway) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118364</link>
+            <guid>https://www.snek.ai/alpha/opinion/118364</guid>
+            <pubDate>Thu, 17 Feb 2022 01:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21년 4분기 유명 헤지펀드들이 선호한 매수 (BUY) 주식 리스트]]></title>
             <link>https://www.snek.ai/alpha/opinion/118363</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 19:08:54 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기 침체가 빠르게 오지 않을 것, 지금은 종목 선별이 중요!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118346</link>
-            <guid>https://www.snek.ai/alpha/opinion/118346</guid>
-            <pubDate>Wed, 16 Feb 2022 19:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 장단기 금리차 큰 폭 하락, 하지만 대세하락장이 시작되었다 판단되지 않음]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118345</link>
-            <guid>https://www.snek.ai/alpha/opinion/118345</guid>
-            <pubDate>Wed, 16 Feb 2022 19:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
