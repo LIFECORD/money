@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2022-02-18T08:10:46.243Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Feb 2022 09:12:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1만 원만 넣어도 4% 수익? 신종자본증권, 코코본드의 득과 실!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118373</link>
+            <guid>https://www.snek.ai/alpha/opinion/118373</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, D.E. 쇼 앤 컴퍼니 (D.E. Shaw & Company) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118371</link>
+            <guid>https://www.snek.ai/alpha/opinion/118371</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, 르네상스 테크놀로지스 (Renaissance Technologies) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118370</link>
+            <guid>https://www.snek.ai/alpha/opinion/118370</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, 아팔루사 매니지먼트 (Appaloosa Management) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118369</link>
+            <guid>https://www.snek.ai/alpha/opinion/118369</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NASDAQ100, 현재 15,000pt 수준에서 13,000pt 밑으로까지 떨어질 수 있다]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118304</link>
+            <guid>https://www.snek.ai/alpha/opinion/118304</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1월 FOMC 의사록 리뷰 - 장단기 금리차 축소를  방지하기 위한 노력]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118367</link>
+            <guid>https://www.snek.ai/alpha/opinion/118367</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, 사이언 에셋 매니지먼트 (Scion Asset Management) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118365</link>
+            <guid>https://www.snek.ai/alpha/opinion/118365</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, 버크셔 해서웨이 (Berkshire Hathaway) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118364</link>
+            <guid>https://www.snek.ai/alpha/opinion/118364</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기 유명 헤지펀드들이 선호한 매수 (BUY) 주식 리스트]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118363</link>
+            <guid>https://www.snek.ai/alpha/opinion/118363</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장단기 금리차 확대 및 축소가 경제와 자산시장에 미치는 영향]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118362</link>
+            <guid>https://www.snek.ai/alpha/opinion/118362</guid>
+            <pubDate>Fri, 18 Feb 2022 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
