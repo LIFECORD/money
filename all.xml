@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 07:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[테라-SEC 법적 공방 지속…뉴욕 법원 "권도형 대표, SEC 소환 응해야" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119239</link>
+            <guid>https://n.news.naver.com/article/138/0002119239</guid>
+            <pubDate>Fri, 18 Feb 2022 08:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>17분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/18/2119239.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가상자산 지갑 품은 넷마블, 왜 ‘코인어스’일까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002119191</link>
             <guid>https://n.news.naver.com/article/138/0002119191</guid>
             <pubDate>Fri, 18 Feb 2022 00:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/18/2119191.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1589,7 +1597,6 @@
             <guid>https://n.news.naver.com/article/138/0002119046</guid>
             <pubDate>Wed, 16 Feb 2022 04:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/16/2119046.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고팍스, 전북은행 실명계좌 확보…원화취급 코인 거래소 5곳으로 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1597,6 +1604,7 @@
             <guid>https://n.news.naver.com/article/138/0002119006</guid>
             <pubDate>Tue, 15 Feb 2022 12:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트 이어 빗썸도 ‘유니콘’ 기업 등극 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1611,7 +1619,7 @@
             <link>https://n.news.naver.com/article/138/0002118991</link>
             <guid>https://n.news.naver.com/article/138/0002118991</guid>
             <pubDate>Tue, 15 Feb 2022 09:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1619,7 +1627,7 @@
             <link>https://n.news.naver.com/article/138/0002118986</link>
             <guid>https://n.news.naver.com/article/138/0002118986</guid>
             <pubDate>Tue, 15 Feb 2022 08:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,7 +1644,6 @@
             <guid>https://n.news.naver.com/article/138/0002118931</guid>
             <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118931.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["SW 개발자 세분화해 양성해야"…디지털 교육 혁신 토론회 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1644,6 +1651,7 @@
             <guid>https://n.news.naver.com/article/138/0002118899</guid>
             <pubDate>Mon, 14 Feb 2022 09:08:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['데스티니 차일드'도 NFT로…더 샌드박스와 협업 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1682,8 +1690,7 @@
             <link>https://n.news.naver.com/article/138/0002118773</link>
             <guid>https://n.news.naver.com/article/138/0002118773</guid>
             <pubDate>Fri, 11 Feb 2022 08:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118773.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하이브·YG 엔터, NFT 사업 본격화…두나무 람다256에 투자 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1691,6 +1698,7 @@
             <guid>https://n.news.naver.com/article/138/0002118767</guid>
             <pubDate>Fri, 11 Feb 2022 07:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 샌드박스 '랜드' 산 구찌, 명품 업계에 어떤 바람 일으킬까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1763,94 +1771,6 @@
             <pubDate>Tue, 08 Feb 2022 08:09:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118488.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘카카오 패밀리’ 된 보라, 카카오엔터‧카겜 합류한 ‘거버넌스카운슬’ 구축 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002118481</link>
-            <guid>https://n.news.naver.com/article/138/0002118481</guid>
-            <pubDate>Mon, 14 Feb 2022 16:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/08/2118481.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기, D.E. 쇼 앤 컴퍼니 (D.E. Shaw & Company) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118371</link>
-            <guid>https://www.snek.ai/alpha/opinion/118371</guid>
-            <pubDate>Fri, 18 Feb 2022 01:58:56 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기, 르네상스 테크놀로지스 (Renaissance Technologies) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118370</link>
-            <guid>https://www.snek.ai/alpha/opinion/118370</guid>
-            <pubDate>Fri, 18 Feb 2022 01:58:56 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기, 아팔루사 매니지먼트 (Appaloosa Management) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118369</link>
-            <guid>https://www.snek.ai/alpha/opinion/118369</guid>
-            <pubDate>Fri, 18 Feb 2022 01:58:56 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NASDAQ100, 현재 15,000pt 수준에서 13,000pt 밑으로까지 떨어질 수 있다 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118304</link>
-            <guid>https://www.snek.ai/alpha/opinion/118304</guid>
-            <pubDate>Thu, 17 Feb 2022 23:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[파이스트]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1월 FOMC 의사록 리뷰 - 장단기 금리차 축소를  방지하기 위한 노력 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118367</link>
-            <guid>https://www.snek.ai/alpha/opinion/118367</guid>
-            <pubDate>Thu, 17 Feb 2022 19:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기, 사이언 에셋 매니지먼트 (Scion Asset Management) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118365</link>
-            <guid>https://www.snek.ai/alpha/opinion/118365</guid>
-            <pubDate>Thu, 17 Feb 2022 19:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기, 버크셔 해서웨이 (Berkshire Hathaway) 투자 현황 분석 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118364</link>
-            <guid>https://www.snek.ai/alpha/opinion/118364</guid>
-            <pubDate>Thu, 17 Feb 2022 19:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기 유명 헤지펀드들이 선호한 매수 (BUY) 주식 리스트 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118363</link>
-            <guid>https://www.snek.ai/alpha/opinion/118363</guid>
-            <pubDate>Thu, 17 Feb 2022 19:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장단기 금리차 확대 및 축소가 경제와 자산시장에 미치는 영향 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118362</link>
-            <guid>https://www.snek.ai/alpha/opinion/118362</guid>
-            <pubDate>Thu, 17 Feb 2022 19:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 공모주 광풍! 첫 투자에서 손해를 피하려면? (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118359</link>
-            <guid>https://www.snek.ai/alpha/opinion/118359</guid>
-            <pubDate>Thu, 17 Feb 2022 19:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 02. 17] K-인기 얻고 싶어요 (어피티 ─ 뉴스)]]></title>
