@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 01:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 02:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1674,7 +1674,7 @@
             <link>https://n.news.naver.com/article/138/0002118812</link>
             <guid>https://n.news.naver.com/article/138/0002118812</guid>
             <pubDate>Sat, 19 Feb 2022 15:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/13/2118812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
