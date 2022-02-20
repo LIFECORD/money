@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2022-02-20T18:11:11.303Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 20 Feb 2022 19:08:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주일렉트로(065680): 드디어 2022년에는 '자동차'와 '모바일'이 모두 좋다!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118387</link>
+            <guid>https://www.snek.ai/alpha/opinion/118387</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닷컴 버블의 재연이 물건너 간 것인가? 글쎄?!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118383</link>
+            <guid>https://www.snek.ai/alpha/opinion/118383</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[지정학적 리스크가 시장 지배중, 하지만, 오래 가지 않을 것!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118382</link>
+            <guid>https://www.snek.ai/alpha/opinion/118382</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 달러 환율 전망 - 달러 약세 압력의 요인]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118381</link>
+            <guid>https://www.snek.ai/alpha/opinion/118381</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, 바우포스트 그룹 (Baupost Group) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118379</link>
+            <guid>https://www.snek.ai/alpha/opinion/118379</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, 서드 포인트 (Third Point) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118378</link>
+            <guid>https://www.snek.ai/alpha/opinion/118378</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, 비스타 에퀴티 파트너스 (Vista Equity Partners) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118377</link>
+            <guid>https://www.snek.ai/alpha/opinion/118377</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 4분기, 베일리 기포드 (Baillie Gifford) 투자 현황 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118376</link>
+            <guid>https://www.snek.ai/alpha/opinion/118376</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[투자주의] 전동공구 계양전기㈜]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118375</link>
+            <guid>https://www.snek.ai/alpha/opinion/118375</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1만 원만 넣어도 4% 수익? 신종자본증권, 코코본드의 득과 실!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118373</link>
+            <guid>https://www.snek.ai/alpha/opinion/118373</guid>
+            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
