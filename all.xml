@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 23:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 00:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1773,6 +1773,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118532.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 무대의 진정한 주인공! - 인텍플러스 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118380</link>
+            <guid>https://www.snek.ai/alpha/opinion/118380</guid>
+            <pubDate>Mon, 21 Feb 2022 00:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우주일렉트로(065680): 드디어 2022년에는 '자동차'와 '모바일'이 모두 좋다! (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118387</link>
             <guid>https://www.snek.ai/alpha/opinion/118387</guid>
@@ -1845,14 +1853,6 @@
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1만 원만 넣어도 4% 수익? 신종자본증권, 코코본드의 득과 실! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118373</link>
-            <guid>https://www.snek.ai/alpha/opinion/118373</guid>
-            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022. 02. 18] 오후 9시 신데렐라 끝? (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10451203&amp;t=board</link>
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10451203&amp;t=board</guid>
@@ -1921,6 +1921,13 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10353469&amp;t=board</guid>
             <pubDate>Mon, 14 Feb 2022 01:50:10 GMT</pubDate>
             <content:encoded><![CDATA[글로벌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22.02.21] 이 편지는 네덜란드로부터 시작되어... (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10456717&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10456717&amp;t=board</guid>
+            <pubDate>Mon, 21 Feb 2022 00:32:48 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.02.18] 포스코 지주회사 위치가 왜 중한디? (어피티 ─ 머니레터)]]></title>
@@ -1997,13 +2004,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10077499&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10077499&amp;t=board</guid>
             <pubDate>Sun, 06 Feb 2022 06:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.02.03] 연봉이 들쭉날쭉하면 어떻게 관리하지? (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9948000&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=9948000&amp;t=board</guid>
-            <pubDate>Thu, 03 Feb 2022 02:24:18 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
     </channel>

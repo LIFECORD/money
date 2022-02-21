@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 23:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 00:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 무대의 진정한 주인공! - 인텍플러스]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118380</link>
+            <guid>https://www.snek.ai/alpha/opinion/118380</guid>
+            <pubDate>Mon, 21 Feb 2022 00:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주일렉트로(065680): 드디어 2022년에는 '자동차'와 '모바일'이 모두 좋다!]]></title>
             <link>https://www.snek.ai/alpha/opinion/118387</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
             <content:encoded><![CDATA[이승환]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1만 원만 넣어도 4% 수익? 신종자본증권, 코코본드의 득과 실!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118373</link>
-            <guid>https://www.snek.ai/alpha/opinion/118373</guid>
-            <pubDate>Sun, 20 Feb 2022 19:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
