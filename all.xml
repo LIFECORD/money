@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 22:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 23:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002119355</link>
             <guid>https://n.news.naver.com/article/138/0002119355</guid>
             <pubDate>Mon, 21 Feb 2022 08:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/21/2119355.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002119304</link>
             <guid>https://n.news.naver.com/article/138/0002119304</guid>
             <pubDate>Mon, 21 Feb 2022 01:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/21/2119304.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1773,6 +1773,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/09/2118592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해외매출 급증한 라면 파워! 라면주식 도전해볼까? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118388</link>
+            <guid>https://www.snek.ai/alpha/opinion/118388</guid>
+            <pubDate>Mon, 21 Feb 2022 23:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 무대의 진정한 주인공! - 인텍플러스 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118380</link>
             <guid>https://www.snek.ai/alpha/opinion/118380</guid>
@@ -1843,14 +1851,6 @@
             <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[투자주의] 전동공구 계양전기㈜ (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118375</link>
-            <guid>https://www.snek.ai/alpha/opinion/118375</guid>
-            <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 02. 21] 얼어붙은 바이오 언제 녹을까? (어피티 ─ 뉴스)]]></title>
