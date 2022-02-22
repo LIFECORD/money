@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 23:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 00:31:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월 3주 미국 ETF 수익률로 알아보는 시장변화(귀금속, VIX, 중국, ARKK)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118389</link>
+            <guid>https://www.snek.ai/alpha/opinion/118389</guid>
+            <pubDate>Tue, 22 Feb 2022 00:31:09 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 증시, 단기 조정인가, 추세 하락인가?! again 2018년 10~12월??]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118392</link>
+            <guid>https://www.snek.ai/alpha/opinion/118392</guid>
+            <pubDate>Tue, 22 Feb 2022 00:31:09 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해외매출 급증한 라면 파워! 라면주식 도전해볼까?]]></title>
             <link>https://www.snek.ai/alpha/opinion/118388</link>
@@ -67,22 +83,6 @@
             <title><![CDATA[21년 4분기, 서드 포인트 (Third Point) 투자 현황 분석]]></title>
             <link>https://www.snek.ai/alpha/opinion/118378</link>
             <guid>https://www.snek.ai/alpha/opinion/118378</guid>
-            <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기, 비스타 에퀴티 파트너스 (Vista Equity Partners) 투자 현황 분석]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118377</link>
-            <guid>https://www.snek.ai/alpha/opinion/118377</guid>
-            <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기, 베일리 기포드 (Baillie Gifford) 투자 현황 분석]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118376</link>
-            <guid>https://www.snek.ai/alpha/opinion/118376</guid>
             <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
