@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 06:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 사면 바로 배당받는 미국주식-3월 1주차]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118397</link>
+            <guid>https://www.snek.ai/alpha/opinion/118397</guid>
+            <pubDate>Wed, 23 Feb 2022 07:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[다니엘]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심혈관 치료/의료기기 대장주 메드 트로닉(MEDTRONIC; MDT US) 22년 3분기 실적 분석 및 향후 전망]]></title>
             <link>https://www.snek.ai/alpha/opinion/118396</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 달러 환율 전망 - 달러 약세 압력의 요인]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118381</link>
-            <guid>https://www.snek.ai/alpha/opinion/118381</guid>
-            <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
