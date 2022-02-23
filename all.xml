@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1773,6 +1773,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/11/2118753.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[저탄소 경제 시대, 어디에 투자해야 할까요? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118398</link>
+            <guid>https://www.snek.ai/alpha/opinion/118398</guid>
+            <pubDate>Wed, 23 Feb 2022 10:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[정소연]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지금 사면 바로 배당받는 미국주식-3월 1주차 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118397</link>
             <guid>https://www.snek.ai/alpha/opinion/118397</guid>
@@ -1840,14 +1848,6 @@
             <title><![CDATA[닷컴 버블의 재연이 물건너 간 것인가? 글쎄?! (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118383</link>
             <guid>https://www.snek.ai/alpha/opinion/118383</guid>
-            <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[지정학적 리스크가 시장 지배중, 하지만, 오래 가지 않을 것! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118382</link>
-            <guid>https://www.snek.ai/alpha/opinion/118382</guid>
             <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
