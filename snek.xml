@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 23:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 00:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심혈관 치료/의료기기 대장주 메드 트로닉(MEDTRONIC; MDT US) 22년 3분기 실적 분석 및 향후 전망]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118396</link>
+            <guid>https://www.snek.ai/alpha/opinion/118396</guid>
+            <pubDate>Wed, 23 Feb 2022 00:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당주 알아보기 (5)SCHD ETF]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118393</link>
+            <guid>https://www.snek.ai/alpha/opinion/118393</guid>
+            <pubDate>Wed, 23 Feb 2022 00:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[다니엘]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2월 3주 미국 ETF 수익률로 알아보는 시장변화(귀금속, VIX, 중국, ARKK)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118389</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
             <content:encoded><![CDATA[원스]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기, 바우포스트 그룹 (Baupost Group) 투자 현황 분석]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118379</link>
-            <guid>https://www.snek.ai/alpha/opinion/118379</guid>
-            <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21년 4분기, 서드 포인트 (Third Point) 투자 현황 분석]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118378</link>
-            <guid>https://www.snek.ai/alpha/opinion/118378</guid>
-            <pubDate>Mon, 21 Feb 2022 16:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
