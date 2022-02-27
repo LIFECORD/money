@@ -4,9 +4,41 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 07:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 08:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선택과 집중이 중요한 시기: 성장주의 매력도 다시 재 부각될 것 예상!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118406</link>
+            <guid>https://www.snek.ai/alpha/opinion/118406</guid>
+            <pubDate>Sun, 27 Feb 2022 08:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[미증시 반등 성공, 이 추세 이어질까?]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118405</link>
+            <guid>https://www.snek.ai/alpha/opinion/118405</guid>
+            <pubDate>Sun, 27 Feb 2022 08:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 - 소외되고 싶지 않다면 편입해야 할 2022년!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118404</link>
+            <guid>https://www.snek.ai/alpha/opinion/118404</guid>
+            <pubDate>Sun, 27 Feb 2022 08:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성신양회 - 시멘트 산업 구조 재편, 가격 인상, 그리고 경영권 이슈]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118401</link>
+            <guid>https://www.snek.ai/alpha/opinion/118401</guid>
+            <pubDate>Sun, 27 Feb 2022 08:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[성공은 지수함수]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/682c972020954f778824bfd35637f008.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아-우크라이나 전쟁,  지정학적 리스크 헤지]]></title>
             <link>https://www.snek.ai/alpha/opinion/118400</link>
@@ -54,38 +86,6 @@
             <pubDate>Fri, 25 Feb 2022 22:10:15 GMT</pubDate>
             <content:encoded><![CDATA[다니엘]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월 3주 미국 ETF 수익률로 알아보는 시장변화(귀금속, VIX, 중국, ARKK)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118389</link>
-            <guid>https://www.snek.ai/alpha/opinion/118389</guid>
-            <pubDate>Fri, 25 Feb 2022 22:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 증시, 단기 조정인가, 추세 하락인가?! again 2018년 10~12월??]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118392</link>
-            <guid>https://www.snek.ai/alpha/opinion/118392</guid>
-            <pubDate>Fri, 25 Feb 2022 22:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외매출 급증한 라면 파워! 라면주식 도전해볼까?]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118388</link>
-            <guid>https://www.snek.ai/alpha/opinion/118388</guid>
-            <pubDate>Fri, 25 Feb 2022 22:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 무대의 진정한 주인공! - 인텍플러스]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118380</link>
-            <guid>https://www.snek.ai/alpha/opinion/118380</guid>
-            <pubDate>Fri, 25 Feb 2022 22:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
