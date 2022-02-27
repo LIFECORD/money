@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 04:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 05:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[주간 블록체인] 러시아‧우크라 전쟁이 비트코인에 미치는 영향 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119710</link>
+            <guid>https://n.news.naver.com/article/138/0002119710</guid>
+            <pubDate>Sun, 27 Feb 2022 05:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/27/2119710.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[코인대선] 법인의 가상자산 투자, 국내 시장 변곡점 될까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002119697</link>
             <guid>https://n.news.naver.com/article/138/0002119697</guid>
             <pubDate>Sun, 27 Feb 2022 02:00:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/27/2119697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002119569</link>
             <guid>https://n.news.naver.com/article/138/0002119569</guid>
             <pubDate>Thu, 24 Feb 2022 06:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1596,7 +1604,7 @@
             <link>https://n.news.naver.com/article/138/0002119489</link>
             <guid>https://n.news.naver.com/article/138/0002119489</guid>
             <pubDate>Wed, 23 Feb 2022 06:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/23/2119489.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1742,14 +1750,6 @@
             <pubDate>Tue, 15 Feb 2022 02:02:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2118931.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["SW 개발자 세분화해 양성해야"…디지털 교육 혁신 토론회 개최 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002118899</link>
-            <guid>https://n.news.naver.com/article/138/0002118899</guid>
-            <pubDate>Mon, 14 Feb 2022 09:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/14/2118899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아-우크라이나 전쟁,  지정학적 리스크 헤지 (스넥)]]></title>
