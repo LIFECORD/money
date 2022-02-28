@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 09:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 10:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002119787</link>
             <guid>https://n.news.naver.com/article/138/0002119787</guid>
             <pubDate>Mon, 28 Feb 2022 09:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119787.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002119777</link>
             <guid>https://n.news.naver.com/article/138/0002119777</guid>
             <pubDate>Mon, 28 Feb 2022 06:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119777.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002119749</link>
             <guid>https://n.news.naver.com/article/138/0002119749</guid>
             <pubDate>Mon, 28 Feb 2022 02:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002119728</link>
             <guid>https://n.news.naver.com/article/138/0002119728</guid>
             <pubDate>Mon, 28 Feb 2022 00:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1752,6 +1752,22 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ASEAN에서 베트남보다 더 큰 시장, 인도네시아를 주목해 보자 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118412</link>
+            <guid>https://www.snek.ai/alpha/opinion/118412</guid>
+            <pubDate>Mon, 28 Feb 2022 10:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[파이스트]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/2b158df8dae14552bc1004f3b904cb5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 사면 바로 배당받는 미국주식-3월 2주차 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118426</link>
+            <guid>https://www.snek.ai/alpha/opinion/118426</guid>
+            <pubDate>Mon, 28 Feb 2022 10:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[다니엘]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[선택과 집중이 중요한 시기: 성장주의 매력도 다시 재 부각될 것 예상! (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118406</link>
             <guid>https://www.snek.ai/alpha/opinion/118406</guid>
@@ -1811,22 +1827,6 @@
             <title><![CDATA[지금 사면 바로 배당받는 미국주식-3월 1주차 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118397</link>
             <guid>https://www.snek.ai/alpha/opinion/118397</guid>
-            <pubDate>Mon, 28 Feb 2022 08:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[다니엘]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심혈관 치료/의료기기 대장주 메드 트로닉(MEDTRONIC; MDT US) 22년 3분기 실적 분석 및 향후 전망 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118396</link>
-            <guid>https://www.snek.ai/alpha/opinion/118396</guid>
-            <pubDate>Mon, 28 Feb 2022 08:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 배당주 알아보기 (5)SCHD ETF (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118393</link>
-            <guid>https://www.snek.ai/alpha/opinion/118393</guid>
             <pubDate>Mon, 28 Feb 2022 08:11:49 GMT</pubDate>
             <content:encoded><![CDATA[다니엘]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
