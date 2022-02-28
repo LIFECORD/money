@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 14:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 15:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002119787</link>
             <guid>https://n.news.naver.com/article/138/0002119787</guid>
             <pubDate>Mon, 28 Feb 2022 09:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119787.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002119777</link>
             <guid>https://n.news.naver.com/article/138/0002119777</guid>
             <pubDate>Mon, 28 Feb 2022 06:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119777.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002119749</link>
             <guid>https://n.news.naver.com/article/138/0002119749</guid>
             <pubDate>Mon, 28 Feb 2022 02:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002119728</link>
             <guid>https://n.news.naver.com/article/138/0002119728</guid>
             <pubDate>Mon, 28 Feb 2022 00:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1598,14 +1598,6 @@
             <pubDate>Fri, 25 Feb 2022 02:01:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/25/2119618.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT에 꽂힌 SM…더 샌드박스에 'SM타운 랜드' 조성 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119575</link>
-            <guid>https://n.news.naver.com/article/138/0002119575</guid>
-            <pubDate>Sun, 27 Feb 2022 12:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119575.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해시드, 종합 NFT 플랫폼 '레어서클즈'에 투자 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1654,6 +1646,14 @@
             <pubDate>Tue, 22 Feb 2022 02:25:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/22/2119396.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 빗썸, 상장폐지 코인에 ‘개인지갑 출금’ 허용한다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119383</link>
+            <guid>https://n.news.naver.com/article/138/0002119383</guid>
+            <pubDate>Mon, 28 Feb 2022 15:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/22/2119383.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['멀티체인'이 온다…무엇이 '아발란체'를 키웠나 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
