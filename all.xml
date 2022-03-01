@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 10:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 11:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1752,6 +1752,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[파마리서치(214450): '무통 리쥬란'과 '메디코슨 M&A'는 PBR 3.3배 달성을 위한 동력! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118436</link>
+            <guid>https://www.snek.ai/alpha/opinion/118436</guid>
+            <pubDate>Tue, 01 Mar 2022 11:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지정학적 리스크를 뒤로하고 강세를 보이는 중국 위안화 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118427</link>
             <guid>https://www.snek.ai/alpha/opinion/118427</guid>
@@ -1822,14 +1830,6 @@
             <pubDate>Mon, 28 Feb 2022 08:11:49 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성신양회 - 시멘트 산업 구조 재편, 가격 인상, 그리고 경영권 이슈 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118401</link>
-            <guid>https://www.snek.ai/alpha/opinion/118401</guid>
-            <pubDate>Mon, 28 Feb 2022 08:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[성공은 지수함수]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/682c972020954f778824bfd35637f008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 02. 28] 지금보다 미래가 더 기대되는 신인 (어피티 ─ 뉴스)]]></title>
