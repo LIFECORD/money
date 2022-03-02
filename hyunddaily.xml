@@ -4,9 +4,17 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 02:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 03:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1과0의전쟁④] 사상 첫 ‘크립토 전쟁’…비트코인, 기부금이자 제재 회피수단으로]]></title>
+            <link>https://n.news.naver.com/article/138/0002119862</link>
+            <guid>https://n.news.naver.com/article/138/0002119862</guid>
+            <pubDate>Wed, 02 Mar 2022 03:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>45분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119862.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핑거·마이크레딧체인, 금융메타버스 '독도버스' 박차…토큰 상장 완료]]></title>
             <link>https://n.news.naver.com/article/138/0002119787</link>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/138/0002119559</link>
             <guid>https://n.news.naver.com/article/138/0002119559</guid>
             <pubDate>Thu, 24 Feb 2022 04:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/24/2119559.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,14 +206,6 @@
             <pubDate>Tue, 15 Feb 2022 12:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119006.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트 이어 빗썸도 ‘유니콘’ 기업 등극]]></title>
-            <link>https://n.news.naver.com/article/138/0002119001</link>
-            <guid>https://n.news.naver.com/article/138/0002119001</guid>
-            <pubDate>Tue, 15 Feb 2022 10:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/15/2119001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
