@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 13:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 14:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1752,6 +1752,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/17/2119129.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국 배당주 알아보기 (6)DGRO ETF (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118444</link>
+            <guid>https://www.snek.ai/alpha/opinion/118444</guid>
+            <pubDate>Wed, 02 Mar 2022 14:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[다니엘]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/e139e21953f54739a06cf519a7772975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아의 SWIFT 배제 승인! 근데, SWIFT가 무엇이고 어떤 피해를 입고 입힐까? (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118441</link>
             <guid>https://www.snek.ai/alpha/opinion/118441</guid>
@@ -1822,14 +1830,6 @@
             <pubDate>Tue, 01 Mar 2022 23:10:05 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월 4주 미국 ETF 수익률로 알아보는 시장변화(우라늄, 친환경, 러시아) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118428</link>
-            <guid>https://www.snek.ai/alpha/opinion/118428</guid>
-            <pubDate>Tue, 01 Mar 2022 23:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 03. 02] 개봉박두 미스터리 박스 (어피티 ─ 뉴스)]]></title>
