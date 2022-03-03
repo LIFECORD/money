@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 00:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4살 아들에게 가장 큰 투자 수익을 올려주고 있는 고마운 코스코 (Costco)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118449</link>
+            <guid>https://www.snek.ai/alpha/opinion/118449</guid>
+            <pubDate>Thu, 03 Mar 2022 02:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 고용지표 의미와 해석 ① - 실업률, 경제활동참가율, 고용률]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118447</link>
+            <guid>https://www.snek.ai/alpha/opinion/118447</guid>
+            <pubDate>Thu, 03 Mar 2022 02:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/734e76ae8cfb43eb9ebd0327a90e3c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[텔라닥(TDOC US), 주가 급락에 따른 역사적 저평가, 이제 추세 전환을 기대해도 될까? / 미국 원격 의료 서비스의 필요성과 텔라닥의 핵심 비즈니스 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118446</link>
+            <guid>https://www.snek.ai/alpha/opinion/118446</guid>
+            <pubDate>Thu, 03 Mar 2022 02:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흥미로운 젠데스크 (Zendesk: ZEN) 기업 스토리]]></title>
             <link>https://www.snek.ai/alpha/opinion/118442</link>
@@ -62,30 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 23:09:01 GMT</pubDate>
             <content:encoded><![CDATA[한대희]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지정학적 리스크를 뒤로하고 강세를 보이는 중국 위안화]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118427</link>
-            <guid>https://www.snek.ai/alpha/opinion/118427</guid>
-            <pubDate>Wed, 02 Mar 2022 23:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1,000% 넘게 오른 MVP 주식, 두 번은 안 되는 이유!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118434</link>
-            <guid>https://www.snek.ai/alpha/opinion/118434</guid>
-            <pubDate>Wed, 02 Mar 2022 23:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫번째 공식 +$1 trillion달러 연매출 기업 후보: 애플 (Apple: APPL) (by 스캇 갤러웨이 교수)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118429</link>
-            <guid>https://www.snek.ai/alpha/opinion/118429</guid>
-            <pubDate>Wed, 02 Mar 2022 23:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
