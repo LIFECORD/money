@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 00:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 02:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫번째 공식 +$1 trillion달러 연매출 기업 후보: 아마존 (Amazon: AMZN) (by 아마존광고사업)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118450</link>
+            <guid>https://www.snek.ai/alpha/opinion/118450</guid>
+            <pubDate>Fri, 04 Mar 2022 02:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AbCellera Biologics Inc.(ABCL US), 바이오 테크 시장의 떠오르는 AI 기반 ATNI BODY 디스커버리 엔진 플랫폼 기업]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118451</link>
+            <guid>https://www.snek.ai/alpha/opinion/118451</guid>
+            <pubDate>Fri, 04 Mar 2022 02:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4살 아들에게 가장 큰 투자 수익을 올려주고 있는 고마운 코스코 (Costco)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118449</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 23:09:01 GMT</pubDate>
             <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실적은 퀀텀점프, 업사이드 요소가 만개하는 2022년! - 아이원스]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118402</link>
-            <guid>https://www.snek.ai/alpha/opinion/118402</guid>
-            <pubDate>Wed, 02 Mar 2022 23:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파마리서치(214450): '무통 리쥬란'과 '메디코슨 M&A'는 PBR 3.3배 달성을 위한 동력!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118436</link>
-            <guid>https://www.snek.ai/alpha/opinion/118436</guid>
-            <pubDate>Wed, 02 Mar 2022 23:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
