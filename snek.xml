@@ -4,7 +4,7 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 13:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 14:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 08 Mar 2022 11:08:25 GMT</pubDate>
             <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 배당 ETF 알아보기 - (2)DGRO]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118472</link>
-            <guid>https://www.snek.ai/alpha/opinion/118472</guid>
-            <pubDate>Tue, 08 Mar 2022 11:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 고용지표 의미와 해석 ② - 필립스곡선, 자션실업률, 이력효과]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Tue, 08 Mar 2022 11:08:25 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21세기판 워런 버핏의 코카콜라: 애플 (Apple: AAPL)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118457</link>
+            <guid>https://www.snek.ai/alpha/opinion/118457</guid>
+            <pubDate>Tue, 08 Mar 2022 14:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
