@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 03:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 04:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002120220</link>
             <guid>https://n.news.naver.com/article/138/0002120220</guid>
             <pubDate>Mon, 07 Mar 2022 09:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120220.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,16 +1564,8 @@
             <link>https://n.news.naver.com/article/138/0002120200</link>
             <guid>https://n.news.naver.com/article/138/0002120200</guid>
             <pubDate>Mon, 07 Mar 2022 07:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120200.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이더리움 뛰어넘은 루나 ‘스테이킹’…시총 순위도 7위로 상승 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120180</link>
-            <guid>https://n.news.naver.com/article/138/0002120180</guid>
-            <pubDate>Mon, 07 Mar 2022 05:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BC카드, 가상자산 금융 산업 진출…크립토닷컴‧비자와 협업 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -1686,6 +1678,14 @@
             <pubDate>Wed, 02 Mar 2022 07:09:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119887.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정주, 가상자산 업계서도 ‘선구자’…시대 앞서간 행보 재조명 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002119873</link>
+            <guid>https://n.news.naver.com/article/138/0002119873</guid>
+            <pubDate>Tue, 08 Mar 2022 04:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119873.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[1과0의전쟁④] 사상 첫 ‘크립토 전쟁’…비트코인, 기부금이자 제재 회피수단으로 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
