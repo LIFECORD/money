@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫번째 공식 +$1 trillion달러 연매출 기업 후보: 마이크로소프트 (MSFT) (by 애저와 전략적 M&A)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118455</link>
+            <guid>https://www.snek.ai/alpha/opinion/118455</guid>
+            <pubDate>Tue, 08 Mar 2022 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 증시 REVIEW / 전통 인플레이션 시대 + 지정학적 리스크가 동반된 업종 지수 분석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118473</link>
+            <guid>https://www.snek.ai/alpha/opinion/118473</guid>
+            <pubDate>Tue, 08 Mar 2022 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당 ETF 알아보기 - (2)DGRO]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118472</link>
+            <guid>https://www.snek.ai/alpha/opinion/118472</guid>
+            <pubDate>Tue, 08 Mar 2022 06:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 고용지표 의미와 해석 ② - 필립스곡선, 자션실업률, 이력효과]]></title>
             <link>https://www.snek.ai/alpha/opinion/118471</link>
@@ -62,30 +86,6 @@
             <pubDate>Mon, 07 Mar 2022 17:13:29 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21세기판 워런 버핏의 코카콜라: 애플 (Apple: AAPL)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118457</link>
-            <guid>https://www.snek.ai/alpha/opinion/118457</guid>
-            <pubDate>Mon, 07 Mar 2022 17:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jay-Z, 에미넴, 테일러 스위프트, 퀸, 아델, 밥 딜런, 카니예 웨스트, 스팅, BTS, 블랙핑크, 트와이스 간접 투자 접근법: 유니버셜 뮤직 (Universal Music)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118456</link>
-            <guid>https://www.snek.ai/alpha/opinion/118456</guid>
-            <pubDate>Mon, 07 Mar 2022 17:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50조 원 바라보는 키즈산업(엔젤산업), 불황 없는 성장에 주목!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118454</link>
-            <guid>https://www.snek.ai/alpha/opinion/118454</guid>
-            <pubDate>Mon, 07 Mar 2022 17:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[정소연]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/2d296efe48c446ada9324d6ffa541b08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
