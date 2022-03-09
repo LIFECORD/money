@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 02:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 03:35:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[두나무, 산불 피해 지역에 30억원 기부 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120359</link>
+            <guid>https://n.news.naver.com/article/138/0002120359</guid>
+            <pubDate>Wed, 09 Mar 2022 03:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/09/2120359.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드 ‘위믹스’, 해외 대형 거래소 후오비 상장 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120328</link>
             <guid>https://n.news.naver.com/article/138/0002120328</guid>
             <pubDate>Tue, 08 Mar 2022 09:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002120323</link>
             <guid>https://n.news.naver.com/article/138/0002120323</guid>
             <pubDate>Tue, 08 Mar 2022 09:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002120321</link>
             <guid>https://n.news.naver.com/article/138/0002120321</guid>
             <pubDate>Tue, 08 Mar 2022 08:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002120294</link>
             <guid>https://n.news.naver.com/article/138/0002120294</guid>
             <pubDate>Tue, 08 Mar 2022 05:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002120293</link>
             <guid>https://n.news.naver.com/article/138/0002120293</guid>
             <pubDate>Tue, 08 Mar 2022 05:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1684,7 +1692,7 @@
             <link>https://n.news.naver.com/article/138/0002119960</link>
             <guid>https://n.news.naver.com/article/138/0002119960</guid>
             <pubDate>Thu, 03 Mar 2022 03:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119960.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1692,7 +1700,7 @@
             <link>https://n.news.naver.com/article/138/0002119957</link>
             <guid>https://n.news.naver.com/article/138/0002119957</guid>
             <pubDate>Thu, 03 Mar 2022 03:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1732,7 +1740,7 @@
             <link>https://n.news.naver.com/article/138/0002119862</link>
             <guid>https://n.news.naver.com/article/138/0002119862</guid>
             <pubDate>Wed, 02 Mar 2022 03:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/02/2119862.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1742,14 +1750,6 @@
             <pubDate>Mon, 28 Feb 2022 09:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119787.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“월급 10%는 비트코인에 자동이체”…코빗, ‘스마투’ 서비스 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119777</link>
-            <guid>https://n.news.naver.com/article/138/0002119777</guid>
-            <pubDate>Sun, 06 Mar 2022 17:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/02/28/2119777.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫번째 공식 +$1 trillion달러 연매출 기업 후보: 마이크로소프트 (MSFT) (by 애저와 전략적 M&A) (스넥)]]></title>
@@ -1832,6 +1832,20 @@
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2022. 03. 08] 생방송, 애플 신제품 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10629539&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10629539&amp;t=board</guid>
+            <pubDate>Wed, 09 Mar 2022 03:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[증권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 03. 08] 새것이랑 중고 다 팔래 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10629516&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10629516&amp;t=board</guid>
+            <pubDate>Wed, 09 Mar 2022 03:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2022. 03. 07] 택배대란, 이젠 끝? (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10606511&amp;t=board</link>
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10606511&amp;t=board</guid>
@@ -1888,18 +1902,11 @@
             <content:encoded><![CDATA[경제정책]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2022. 02. 28] 지금보다 미래가 더 기대되는 신인 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10546937&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10546937&amp;t=board</guid>
-            <pubDate>Tue, 01 Mar 2022 02:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 02. 28] 국제 갈등이 경제에 미치는 영향 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10546918&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10546918&amp;t=board</guid>
-            <pubDate>Tue, 01 Mar 2022 02:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌]]></content:encoded>
+            <title><![CDATA[[22.03.08] 자동차도 요람에서 무덤까지? (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10629469&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10629469&amp;t=board</guid>
+            <pubDate>Wed, 09 Mar 2022 03:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.03.07] 금융맹이었던 내가 지금은 어피티 대표? (어피티 ─ 머니레터)]]></title>
@@ -1976,13 +1983,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10451145&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10451145&amp;t=board</guid>
             <pubDate>Sun, 20 Feb 2022 01:59:42 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.02.17] 그냥 방어주가 다 가지라고 하자 (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10424042&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10424042&amp;t=board</guid>
-            <pubDate>Thu, 17 Feb 2022 01:47:37 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
     </channel>
