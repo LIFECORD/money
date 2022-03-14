@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 04:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,22 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[메타버스 속도내는 빗썸, 자회사 '빗썸메타' 설립 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120591</link>
+            <guid>https://n.news.naver.com/article/138/0002120591</guid>
+            <pubDate>Mon, 14 Mar 2022 05:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120591.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선발주자 넘어선 후발주자…BAYC는 어떻게 크립토펑크를 인수했을까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002120590</link>
+            <guid>https://n.news.naver.com/article/138/0002120590</guid>
+            <pubDate>Mon, 14 Mar 2022 05:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/14/2120590.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블록체인 플랫폼 스택스, 2000억원 규모 펀드 조성…"비트코인 생태계 육성한다" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120494</link>
             <guid>https://n.news.naver.com/article/138/0002120494</guid>
@@ -1580,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002120413</link>
             <guid>https://n.news.naver.com/article/138/0002120413</guid>
             <pubDate>Thu, 10 Mar 2022 06:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1628,7 +1644,7 @@
             <link>https://n.news.naver.com/article/138/0002120294</link>
             <guid>https://n.news.naver.com/article/138/0002120294</guid>
             <pubDate>Tue, 08 Mar 2022 05:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002120293</link>
             <guid>https://n.news.naver.com/article/138/0002120293</guid>
             <pubDate>Tue, 08 Mar 2022 05:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/08/2120293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1736,20 +1752,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/04/2120029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국내 대형 가상자산 거래소들, 러시아 제재 동참…"IP 차단한다" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120015</link>
-            <guid>https://n.news.naver.com/article/138/0002120015</guid>
-            <pubDate>Wed, 09 Mar 2022 15:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2120015.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외송금 스타트업 모인, 172억원 규모 시리즈B 투자 유치 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002119960</link>
-            <guid>https://n.news.naver.com/article/138/0002119960</guid>
-            <pubDate>Thu, 03 Mar 2022 03:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/03/2119960.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[알톤스포츠 - 카카오모빌리티 상장의 핵심 수혜주! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118494</link>
+            <guid>https://www.snek.ai/alpha/opinion/118494</guid>
+            <pubDate>Mon, 14 Mar 2022 05:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신 FAANG 투자?! 여전히 과거 대표 성장주 특히 구글, 마이크로소프트에 초점! (스넥)]]></title>
@@ -1819,14 +1827,6 @@
             <title><![CDATA[유명 밈 주식들의 만남: 게임스탑 (GME) 과 배드 배쓰 비욘드 (BBBY) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118474</link>
             <guid>https://www.snek.ai/alpha/opinion/118474</guid>
-            <pubDate>Sat, 12 Mar 2022 13:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아를 향해 지난 21년간 복수의 칼을 갈아온 일론 머스크의 최근 반격 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118476</link>
-            <guid>https://www.snek.ai/alpha/opinion/118476</guid>
             <pubDate>Sat, 12 Mar 2022 13:14:07 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
