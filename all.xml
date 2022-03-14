@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 00:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1596,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002120359</link>
             <guid>https://n.news.naver.com/article/138/0002120359</guid>
             <pubDate>Wed, 09 Mar 2022 03:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/09/2120359.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1668,7 +1668,7 @@
             <link>https://n.news.naver.com/article/138/0002120151</link>
             <guid>https://n.news.naver.com/article/138/0002120151</guid>
             <pubDate>Mon, 07 Mar 2022 02:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120151.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1692,7 +1692,7 @@
             <link>https://n.news.naver.com/article/138/0002120113</link>
             <guid>https://n.news.naver.com/article/138/0002120113</guid>
             <pubDate>Thu, 10 Mar 2022 02:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/06/2120113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1832,6 +1832,20 @@
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2022. 03. 14] 콘서트 언박싱! 엔터주는? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10702318&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10702318&amp;t=board</guid>
+            <pubDate>Mon, 14 Mar 2022 02:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[증권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 03. 14] 6만전자? 11만전자? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10702290&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10702290&amp;t=board</guid>
+            <pubDate>Mon, 14 Mar 2022 02:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[증권]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2022. 03. 11] 논란의 핵심은 고의성 여부 (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10691399&amp;t=board</link>
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10691399&amp;t=board</guid>
@@ -1888,18 +1902,11 @@
             <content:encoded><![CDATA[산업]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2022. 03. 04] 투표용지는 어디 회사 거 지용? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10606417&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10606417&amp;t=board</guid>
-            <pubDate>Mon, 07 Mar 2022 02:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 03. 04] 유럽 탄소배출권 가격이 급락한 이유 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10606380&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10606380&amp;t=board</guid>
-            <pubDate>Mon, 07 Mar 2022 02:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[경제정책]]></content:encoded>
+            <title><![CDATA[[22.03.14] 어피치 아니고 어피티입니다 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10701769&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10701769&amp;t=board</guid>
+            <pubDate>Mon, 14 Mar 2022 02:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.03.13] 시간이 흐른 뒤 비로소 깨닫는 것들 (어피티 ─ 머니레터)]]></title>
@@ -1976,13 +1983,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10474008&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10474008&amp;t=board</guid>
             <pubDate>Wed, 23 Feb 2022 00:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.02.22] 청년적금_희망편.txt (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10467166&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10467166&amp;t=board</guid>
-            <pubDate>Tue, 22 Feb 2022 01:56:24 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
     </channel>
