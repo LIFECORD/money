@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 07:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 08:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연준(Fed) 긴축강도를 결정하는 기대인플레이션 지표 모음과 해석]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118500</link>
+            <guid>https://www.snek.ai/alpha/opinion/118500</guid>
+            <pubDate>Mon, 14 Mar 2022 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FFO(Funds From Operation)로 알아보는 리츠의 배당성향]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118497</link>
+            <guid>https://www.snek.ai/alpha/opinion/118497</guid>
+            <pubDate>Mon, 14 Mar 2022 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알톤스포츠 - 카카오모빌리티 상장의 핵심 수혜주!]]></title>
             <link>https://www.snek.ai/alpha/opinion/118494</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 12 Mar 2022 13:14:07 GMT</pubDate>
             <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티케이케미칼-지분법이익이 영업이익의 4배!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118486</link>
-            <guid>https://www.snek.ai/alpha/opinion/118486</guid>
-            <pubDate>Sat, 12 Mar 2022 13:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[장뇌삼]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/1506207022855806/picture?type=large" length="0" type="image//1506207022855806/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 밈 주식들의 만남: 게임스탑 (GME) 과 배드 배쓰 비욘드 (BBBY)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118474</link>
-            <guid>https://www.snek.ai/alpha/opinion/118474</guid>
-            <pubDate>Sat, 12 Mar 2022 13:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
