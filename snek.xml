@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 00:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정크본드 (Junk Bond) 성공 사례: 넷플릭스 (Netflix: NFLX) 와 테슬라 (Tesla: TSLA)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118498</link>
+            <guid>https://www.snek.ai/alpha/opinion/118498</guid>
+            <pubDate>Tue, 15 Mar 2022 02:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[농구 황제 마이클 조던 주식 투자 포트폴리오 탐방]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118504</link>
+            <guid>https://www.snek.ai/alpha/opinion/118504</guid>
+            <pubDate>Tue, 15 Mar 2022 02:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연준(Fed) 긴축강도를 결정하는 기대인플레이션 지표 모음과 해석]]></title>
             <link>https://www.snek.ai/alpha/opinion/118500</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 14 Mar 2022 14:10:37 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 고용지표 의미와 해석 ③ - 베버리지 곡선, 고용비용지수, 단위노동비용]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118490</link>
-            <guid>https://www.snek.ai/alpha/opinion/118490</guid>
-            <pubDate>Mon, 14 Mar 2022 14:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 배당 ETF 알아보기 - (3)PFF]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118489</link>
-            <guid>https://www.snek.ai/alpha/opinion/118489</guid>
-            <pubDate>Mon, 14 Mar 2022 14:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
