@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 23:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 00:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002120711</link>
             <guid>https://n.news.naver.com/article/138/0002120711</guid>
             <pubDate>Tue, 15 Mar 2022 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/15/2120711.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1752,6 +1752,30 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/07/2120135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아들에게 선물할 7번째 주식 선물 후보: 포르쉐 (Porsche) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118511</link>
+            <guid>https://www.snek.ai/alpha/opinion/118511</guid>
+            <pubDate>Wed, 16 Mar 2022 00:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당 ETF 알아보기 - (4)QYLD (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118507</link>
+            <guid>https://www.snek.ai/alpha/opinion/118507</guid>
+            <pubDate>Wed, 16 Mar 2022 00:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 위기를 맞이하는 홍콩 증시, H지수 다시 한번 낙인 구간 진입하다 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118510</link>
+            <guid>https://www.snek.ai/alpha/opinion/118510</guid>
+            <pubDate>Wed, 16 Mar 2022 00:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정크본드 (Junk Bond) 성공 사례: 넷플릭스 (Netflix: NFLX) 와 테슬라 (Tesla: TSLA) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118498</link>
             <guid>https://www.snek.ai/alpha/opinion/118498</guid>
@@ -1806,30 +1830,6 @@
             <pubDate>Tue, 15 Mar 2022 18:12:24 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 배당주 알아보기 - (1)AGNC (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118493</link>
-            <guid>https://www.snek.ai/alpha/opinion/118493</guid>
-            <pubDate>Tue, 15 Mar 2022 18:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트 + 액티비전 블리자드 내부자거래 의혹을 둘러싼 최근 흥미로운 2가지 이벤트 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118492</link>
-            <guid>https://www.snek.ai/alpha/opinion/118492</guid>
-            <pubDate>Tue, 15 Mar 2022 18:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최종 심판의 날을 2주 앞둔 정밀화학 헌츠만 (Huntsman)의 흥미로운 기업 스토리 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118491</link>
-            <guid>https://www.snek.ai/alpha/opinion/118491</guid>
-            <pubDate>Tue, 15 Mar 2022 18:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 03. 15] 라떼는 한 판에 만 원이었어 (어피티 ─ 뉴스)]]></title>
@@ -1902,7 +1902,7 @@
             <content:encoded><![CDATA[산업]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[22.3.15] 괜찮겠어? 난 멈출 줄 모르는 피자값인데 (어피티 ─ 머니레터)]]></title>
+            <title><![CDATA[[22.03.15] 괜찮겠어? 난 멈출 줄 모르는 피자값인데 (어피티 ─ 머니레터)]]></title>
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10741394&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10741394&amp;t=board</guid>
             <pubDate>Tue, 15 Mar 2022 00:34:05 GMT</pubDate>
