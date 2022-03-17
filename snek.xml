@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 23:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 00:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 1주일/1달 미국 ETF 수익률로 알아보는 시장변화(인플레이션, 탄소배출권, 니켈숏스퀴즈, 중국)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118513</link>
+            <guid>https://www.snek.ai/alpha/opinion/118513</guid>
+            <pubDate>Thu, 17 Mar 2022 00:33:52 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융 Study: 옵션의 개념과 구성요소 / 주가연계 및 파생결합증권(ELS, DLS)의 위험 평가]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118514</link>
+            <guid>https://www.snek.ai/alpha/opinion/118514</guid>
+            <pubDate>Thu, 17 Mar 2022 00:33:52 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아들에게 선물할 7번째 주식 선물 후보: 포르쉐 (Porsche)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118511</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 22:09:05 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신 FAANG 투자?! 여전히 과거 대표 성장주 특히 구글, 마이크로소프트에 초점!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118496</link>
-            <guid>https://www.snek.ai/alpha/opinion/118496</guid>
-            <pubDate>Wed, 16 Mar 2022 22:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[바닥 다지고 상승 준비 하나?! 경기 침체 우려를 넘어야!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118495</link>
-            <guid>https://www.snek.ai/alpha/opinion/118495</guid>
-            <pubDate>Wed, 16 Mar 2022 22:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
