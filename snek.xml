@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 23:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 01:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 FOMC 리뷰 - 연준의 인플레이션 파이팅 의지와 미국 성장의 향방]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118517</link>
+            <guid>https://www.snek.ai/alpha/opinion/118517</guid>
+            <pubDate>Fri, 18 Mar 2022 01:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Re-Opening! Booking Holdings(BKNG US) 세계 최대 여행 OTA 기업 / 여행업과 노를 저어야 할 때!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118518</link>
+            <guid>https://www.snek.ai/alpha/opinion/118518</guid>
+            <pubDate>Fri, 18 Mar 2022 01:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당 ETF 알아보기 - (5)JEPI]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118515</link>
+            <guid>https://www.snek.ai/alpha/opinion/118515</guid>
+            <pubDate>Fri, 18 Mar 2022 01:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최근 1주일/1달 미국 ETF 수익률로 알아보는 시장변화(인플레이션, 탄소배출권, 니켈숏스퀴즈, 중국)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118513</link>
@@ -62,30 +86,6 @@
             <pubDate>Thu, 17 Mar 2022 18:29:07 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연준(Fed) 긴축강도를 결정하는 기대인플레이션 지표 모음과 해석]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118500</link>
-            <guid>https://www.snek.ai/alpha/opinion/118500</guid>
-            <pubDate>Thu, 17 Mar 2022 18:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FFO(Funds From Operation)로 알아보는 리츠의 배당성향]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118497</link>
-            <guid>https://www.snek.ai/alpha/opinion/118497</guid>
-            <pubDate>Thu, 17 Mar 2022 18:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알톤스포츠 - 카카오모빌리티 상장의 핵심 수혜주!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118494</link>
-            <guid>https://www.snek.ai/alpha/opinion/118494</guid>
-            <pubDate>Thu, 17 Mar 2022 18:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
