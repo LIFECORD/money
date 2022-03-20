@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 05:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 06:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1744,6 +1744,22 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[채권 매력도 낮음. 선진국 독일 관심, 신흥국 중국 관심 - 지금은 적극 주식 투자 구간! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118527</link>
+            <guid>https://www.snek.ai/alpha/opinion/118527</guid>
+            <pubDate>Sun, 20 Mar 2022 06:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[미 증시 고점, 2024년에 나타날 것 예상! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118526</link>
+            <guid>https://www.snek.ai/alpha/opinion/118526</guid>
+            <pubDate>Sun, 20 Mar 2022 06:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
             <title><![CDATA[케이뱅크 초기 투자에 대한 재평가가 시급한 기업! - 브리지텍 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118519</link>
             <guid>https://www.snek.ai/alpha/opinion/118519</guid>
@@ -1806,22 +1822,6 @@
             <pubDate>Sun, 20 Mar 2022 02:09:22 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융 Study: 옵션의 개념과 구성요소 / 주가연계 및 파생결합증권(ELS, DLS)의 위험 평가 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118514</link>
-            <guid>https://www.snek.ai/alpha/opinion/118514</guid>
-            <pubDate>Sun, 20 Mar 2022 02:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아들에게 선물할 7번째 주식 선물 후보: 포르쉐 (Porsche) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118511</link>
-            <guid>https://www.snek.ai/alpha/opinion/118511</guid>
-            <pubDate>Sun, 20 Mar 2022 02:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 03. 17] 보급형 시장이 진또배기 (어피티 ─ 뉴스)]]></title>
