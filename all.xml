@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 23:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 00:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1652,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002120646</link>
             <guid>https://n.news.naver.com/article/138/0002120646</guid>
             <pubDate>Fri, 18 Mar 2022 01:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/15/2120646.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1744,6 +1744,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국 중견 철강 기업, Steel Dynamics, Inc.(STLD US) / 철강 업종 상승 사이클 수혜주 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118529</link>
+            <guid>https://www.snek.ai/alpha/opinion/118529</guid>
+            <pubDate>Mon, 21 Mar 2022 00:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[채권 매력도 낮음. 선진국 독일 관심, 신흥국 중국 관심 - 지금은 적극 주식 투자 구간! (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118527</link>
             <guid>https://www.snek.ai/alpha/opinion/118527</guid>
@@ -1816,14 +1824,6 @@
             <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최근 1주일/1달 미국 ETF 수익률로 알아보는 시장변화(인플레이션, 탄소배출권, 니켈숏스퀴즈, 중국) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118513</link>
-            <guid>https://www.snek.ai/alpha/opinion/118513</guid>
-            <pubDate>Sun, 20 Mar 2022 21:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022. 03. 18] (여자)아이들 (인기)아이? (어피티 ─ 뉴스)]]></title>
             <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10930146&amp;t=board</link>
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10930146&amp;t=board</guid>
@@ -1892,6 +1892,13 @@
             <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10702290&amp;t=board</guid>
             <pubDate>Mon, 14 Mar 2022 02:08:13 GMT</pubDate>
             <content:encoded><![CDATA[증권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22.03.21] 여행업계에 초록불이 켜졌다 (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10953165&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10953165&amp;t=board</guid>
+            <pubDate>Mon, 21 Mar 2022 00:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.03.18] 샹하이x3 유가 떨어지면서~♪ (어피티 ─ 머니레터)]]></title>
@@ -1968,13 +1975,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10564546&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10564546&amp;t=board</guid>
             <pubDate>Thu, 03 Mar 2022 02:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.03.02] 메타마스크? 그거 KF94야? (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10554329&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=10554329&amp;t=board</guid>
-            <pubDate>Wed, 02 Mar 2022 02:07:31 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
     </channel>
