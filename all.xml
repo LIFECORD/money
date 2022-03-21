@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 05:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 06:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[세계 최대 게임 개발자 컨퍼런스 ‘GDC 2022’ 개막…‘블록체인‧웹 3.0’에 초점 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121094</link>
+            <guid>https://n.news.naver.com/article/138/0002121094</guid>
+            <pubDate>Mon, 21 Mar 2022 06:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/21/2121094.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국뇌연구원, 블록체인 기반 전자연구노트 '구노' 도입 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002120992</link>
             <guid>https://n.news.naver.com/article/138/0002120992</guid>
             <pubDate>Fri, 18 Mar 2022 07:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/18/2120992.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1620,7 +1628,7 @@
             <link>https://n.news.naver.com/article/138/0002120805</link>
             <guid>https://n.news.naver.com/article/138/0002120805</guid>
             <pubDate>Wed, 16 Mar 2022 06:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/16/2120805.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1628,7 +1636,7 @@
             <link>https://n.news.naver.com/article/138/0002120797</link>
             <guid>https://n.news.naver.com/article/138/0002120797</guid>
             <pubDate>Wed, 16 Mar 2022 06:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/16/2120797.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1734,14 +1742,6 @@
             <pubDate>Thu, 10 Mar 2022 07:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120423.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 시대 IT]⑤ 가상자산, 세금은 덜 내고 거래소는 늘어난다…업계 '기대' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120413</link>
-            <guid>https://n.news.naver.com/article/138/0002120413</guid>
-            <pubDate>Thu, 10 Mar 2022 06:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/10/2120413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 중견 철강 기업, Steel Dynamics, Inc.(STLD US) / 철강 업종 상승 사이클 수혜주 (스넥)]]></title>
