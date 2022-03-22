@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 10:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 11:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002121145</link>
             <guid>https://n.news.naver.com/article/138/0002121145</guid>
             <pubDate>Tue, 22 Mar 2022 00:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/22/2121145.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002121143</link>
             <guid>https://n.news.naver.com/article/138/0002121143</guid>
             <pubDate>Tue, 22 Mar 2022 00:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/22/2121143.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1744,6 +1744,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/11/2120494.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보잉 vs. 에어버스, 그리고 유가 상승 대응 전략 - 전기차 주식 적극 매수! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118538</link>
+            <guid>https://www.snek.ai/alpha/opinion/118538</guid>
+            <pubDate>Tue, 22 Mar 2022 11:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
             <title><![CDATA[최대주주가 매일매일 지분을 매입 중인 기업! - 신성통상 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118525</link>
             <guid>https://www.snek.ai/alpha/opinion/118525</guid>
@@ -1814,14 +1822,6 @@
             <pubDate>Sun, 20 Mar 2022 21:09:47 GMT</pubDate>
             <content:encoded><![CDATA[이승환]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 FOMC 리뷰 - 연준의 인플레이션 파이팅 의지와 미국 성장의 향방 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118517</link>
-            <guid>https://www.snek.ai/alpha/opinion/118517</guid>
-            <pubDate>Sun, 20 Mar 2022 21:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 03. 22] 미술품 투자 열기 경매도 HOT해 (어피티 ─ 뉴스)]]></title>
