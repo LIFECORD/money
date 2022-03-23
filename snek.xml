@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2022-03-23T08:14:45.979Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 23 Mar 2022 09:10:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매파적 미연준, 하지만 안정적인 달러 지수: 지금 필요한 신흥국 투자전략은?!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118542</link>
+            <guid>https://www.snek.ai/alpha/opinion/118542</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당 ETF 알아보기 - (6)TGIF]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118540</link>
+            <guid>https://www.snek.ai/alpha/opinion/118540</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보잉 vs. 에어버스, 그리고 유가 상승 대응 전략 - 전기차 주식 적극 매수!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118538</link>
+            <guid>https://www.snek.ai/alpha/opinion/118538</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[최대주주가 매일매일 지분을 매입 중인 기업! - 신성통상]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118525</link>
+            <guid>https://www.snek.ai/alpha/opinion/118525</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 1주일/1달 미국 ETF 수익률로 알아보는 시장변화(헬스케어, FOMC, 태양광, 대마초)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118533</link>
+            <guid>https://www.snek.ai/alpha/opinion/118533</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 중견 철강 기업, Steel Dynamics, Inc.(STLD US) / 철강 업종 상승 사이클 수혜주]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118529</link>
+            <guid>https://www.snek.ai/alpha/opinion/118529</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채권 매력도 낮음. 선진국 독일 관심, 신흥국 중국 관심 - 지금은 적극 주식 투자 구간!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118527</link>
+            <guid>https://www.snek.ai/alpha/opinion/118527</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[미 증시 고점, 2024년에 나타날 것 예상!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118526</link>
+            <guid>https://www.snek.ai/alpha/opinion/118526</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[케이뱅크 초기 투자에 대한 재평가가 시급한 기업! - 브리지텍]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118519</link>
+            <guid>https://www.snek.ai/alpha/opinion/118519</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밈 주식 투기 세력들의 워런 버핏, 아담 아론 (AMC 회장겸 CEO)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118524</link>
+            <guid>https://www.snek.ai/alpha/opinion/118524</guid>
+            <pubDate>Wed, 23 Mar 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
