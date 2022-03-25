@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 00:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융 Study: 채권  시장과 가격 결정요인 / 시장과 연동되어지는 채권 투자 전략에 대하여]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118553</link>
+            <guid>https://www.snek.ai/alpha/opinion/118553</guid>
+            <pubDate>Fri, 25 Mar 2022 02:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK온, 공격적인 투자로 전기차배터리 TOP1을 노리다.]]></title>
             <link>https://www.snek.ai/alpha/opinion/118552</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Mar 2022 21:12:21 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 중견 철강 기업, Steel Dynamics, Inc.(STLD US) / 철강 업종 상승 사이클 수혜주]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118529</link>
-            <guid>https://www.snek.ai/alpha/opinion/118529</guid>
-            <pubDate>Thu, 24 Mar 2022 21:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
