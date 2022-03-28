@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 07:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[가상자산 불법행위 근절한다…두나무, 서울경찰청과 업무 협의 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121628</link>
+            <guid>https://n.news.naver.com/article/138/0002121628</guid>
+            <pubDate>Mon, 28 Mar 2022 07:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121628.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[F&B 업계도 ‘NFT’ 바람…맘스터치, NFT 시장 진출 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121592</link>
             <guid>https://n.news.naver.com/article/138/0002121592</guid>
             <pubDate>Mon, 28 Mar 2022 03:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002121591</link>
             <guid>https://n.news.naver.com/article/138/0002121591</guid>
             <pubDate>Mon, 28 Mar 2022 03:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002121579</link>
             <guid>https://n.news.naver.com/article/138/0002121579</guid>
             <pubDate>Mon, 28 Mar 2022 02:29:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121579.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1728,12 +1736,84 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120885.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["블록체인 게임에 대규모 투자금 유입…전망 밝다"-코빗·메사리 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120883</link>
-            <guid>https://n.news.naver.com/article/138/0002120883</guid>
-            <pubDate>Sun, 20 Mar 2022 19:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120883.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[미국 국채 금리의 급격한 상승, 하지만, 미 증시 매력도 여전히 높음! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118556</link>
+            <guid>https://www.snek.ai/alpha/opinion/118556</guid>
+            <pubDate>Mon, 28 Mar 2022 00:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[이제는 강력한 긴축을 기다리는 미국 인플레이션, 여전히 가속화 진행 중! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118558</link>
+            <guid>https://www.snek.ai/alpha/opinion/118558</guid>
+            <pubDate>Mon, 28 Mar 2022 00:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역사상 최고치 수주잔고, 밸류에이션은 최근 4년 내 최저점! - 동성화인텍 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118555</link>
+            <guid>https://www.snek.ai/alpha/opinion/118555</guid>
+            <pubDate>Sun, 27 Mar 2022 23:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신흥국 투자 매력도 확대,  반도체, 신재생에너지 및 성장주 투자 여전히 중요! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118557</link>
+            <guid>https://www.snek.ai/alpha/opinion/118557</guid>
+            <pubDate>Sun, 27 Mar 2022 23:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[금융 Study: 채권  시장과 가격 결정요인 / 시장과 연동되어지는 채권 투자 전략에 대하여 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118553</link>
+            <guid>https://www.snek.ai/alpha/opinion/118553</guid>
+            <pubDate>Sun, 27 Mar 2022 16:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK온, 공격적인 투자로 전기차배터리 TOP1을 노리다. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118552</link>
+            <guid>https://www.snek.ai/alpha/opinion/118552</guid>
+            <pubDate>Sun, 27 Mar 2022 16:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[Y-why]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당 ETF 알아보기 - (7)BIZD (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118550</link>
+            <guid>https://www.snek.ai/alpha/opinion/118550</guid>
+            <pubDate>Sun, 27 Mar 2022 16:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경제 사이클과 미국 기준금리, 증시, 장기금리, 달러환율의 관계 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118548</link>
+            <guid>https://www.snek.ai/alpha/opinion/118548</guid>
+            <pubDate>Sun, 27 Mar 2022 16:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 알루미늄 제련 및 유통 선도 기업; 알코아(Alcoa; AA US) / 글로벌 알루미늄 공급난 수혜 기업 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118549</link>
+            <guid>https://www.snek.ai/alpha/opinion/118549</guid>
+            <pubDate>Sun, 27 Mar 2022 16:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매파적 미연준, 하지만 안정적인 달러 지수: 지금 필요한 신흥국 투자전략은?! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118542</link>
+            <guid>https://www.snek.ai/alpha/opinion/118542</guid>
+            <pubDate>Sun, 27 Mar 2022 16:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
         <item>
             <title><![CDATA[[2022. 03. 28] 소속 아이돌 컴백 주가 영향은? (어피티 ─ 뉴스)]]></title>
