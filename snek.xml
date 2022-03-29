@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경제 사이클과 국면별 시나리오 - 미국 주식, 금리, 달러, 부동산, 원자재 투자의 향방]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118561</link>
+            <guid>https://www.snek.ai/alpha/opinion/118561</guid>
+            <pubDate>Tue, 29 Mar 2022 06:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1주일/1달 미국 ETF 수익률로 알아보는 시장변화(Spread, 에너지, 대마초, 브라질, 건설)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118559</link>
+            <guid>https://www.snek.ai/alpha/opinion/118559</guid>
+            <pubDate>Tue, 29 Mar 2022 06:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 국채 금리의 급격한 상승, 하지만, 미 증시 매력도 여전히 높음!]]></title>
             <link>https://www.snek.ai/alpha/opinion/118556</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
             <content:encoded><![CDATA[원스]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 알루미늄 제련 및 유통 선도 기업; 알코아(Alcoa; AA US) / 글로벌 알루미늄 공급난 수혜 기업]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118549</link>
-            <guid>https://www.snek.ai/alpha/opinion/118549</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매파적 미연준, 하지만 안정적인 달러 지수: 지금 필요한 신흥국 투자전략은?!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118542</link>
-            <guid>https://www.snek.ai/alpha/opinion/118542</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>

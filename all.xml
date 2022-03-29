@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] “블록체인‧웹 3.0, 주류 모멘텀 됐다”…GDC 찾은 플라네타리움 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002121696</link>
+            <guid>https://n.news.naver.com/article/138/0002121696</guid>
+            <pubDate>Tue, 29 Mar 2022 06:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121696.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘IPO 준비’ 블로코, 삼성전자 블록체인 사업부 출신 박성훈 부사장 영입 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002121662</link>
             <guid>https://n.news.naver.com/article/138/0002121662</guid>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002121628</link>
             <guid>https://n.news.naver.com/article/138/0002121628</guid>
             <pubDate>Mon, 28 Mar 2022 07:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121628.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1728,12 +1736,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120930.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아카마이 "진화하는 API 공격, AAP로 대응해야" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002120927</link>
-            <guid>https://n.news.naver.com/article/138/0002120927</guid>
-            <pubDate>Thu, 17 Mar 2022 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/17/2120927.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[경제 사이클과 국면별 시나리오 - 미국 주식, 금리, 달러, 부동산, 원자재 투자의 향방 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118561</link>
+            <guid>https://www.snek.ai/alpha/opinion/118561</guid>
+            <pubDate>Tue, 29 Mar 2022 06:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1주일/1달 미국 ETF 수익률로 알아보는 시장변화(Spread, 에너지, 대마초, 브라질, 건설) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118559</link>
+            <guid>https://www.snek.ai/alpha/opinion/118559</guid>
+            <pubDate>Tue, 29 Mar 2022 06:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 국채 금리의 급격한 상승, 하지만, 미 증시 매력도 여전히 높음! (스넥)]]></title>
@@ -1798,22 +1814,6 @@
             <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
             <content:encoded><![CDATA[원스]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 알루미늄 제련 및 유통 선도 기업; 알코아(Alcoa; AA US) / 글로벌 알루미늄 공급난 수혜 기업 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118549</link>
-            <guid>https://www.snek.ai/alpha/opinion/118549</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매파적 미연준, 하지만 안정적인 달러 지수: 지금 필요한 신흥국 투자전략은?! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118542</link>
-            <guid>https://www.snek.ai/alpha/opinion/118542</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
         <item>
             <title><![CDATA[[2022. 03. 29] 국산 모바일 게임 대만 진출 (어피티 ─ 뉴스)]]></title>
