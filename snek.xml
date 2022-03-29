@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성SDI, 안정적인 수익을 바탕으로 전고체배터리를 겨냥하다.]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118563</link>
+            <guid>https://www.snek.ai/alpha/opinion/118563</guid>
+            <pubDate>Tue, 29 Mar 2022 15:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[Y-why]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 자동차 기름 값을 오일 기업의 배당으로 지불한다 / 상승하는 유가 및  오일 관련 업종 지수, 인플레이션 경기 사이클을 주목한다]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118564</link>
+            <guid>https://www.snek.ai/alpha/opinion/118564</guid>
+            <pubDate>Tue, 29 Mar 2022 15:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경제 사이클과 국면별 시나리오 - 미국 주식, 금리, 달러, 부동산, 원자재 투자의 향방]]></title>
             <link>https://www.snek.ai/alpha/opinion/118561</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
             <content:encoded><![CDATA[Y-why]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 배당 ETF 알아보기 - (7)BIZD]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118550</link>
-            <guid>https://www.snek.ai/alpha/opinion/118550</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경제 사이클과 미국 기준금리, 증시, 장기금리, 달러환율의 관계]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118548</link>
-            <guid>https://www.snek.ai/alpha/opinion/118548</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
