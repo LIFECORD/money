@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 23:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 00:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002121722</link>
             <guid>https://n.news.naver.com/article/138/0002121722</guid>
             <pubDate>Tue, 29 Mar 2022 07:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121722.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002121713</link>
             <guid>https://n.news.naver.com/article/138/0002121713</guid>
             <pubDate>Tue, 29 Mar 2022 07:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002121696</link>
             <guid>https://n.news.naver.com/article/138/0002121696</guid>
             <pubDate>Tue, 29 Mar 2022 06:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002121662</link>
             <guid>https://n.news.naver.com/article/138/0002121662</guid>
             <pubDate>Tue, 29 Mar 2022 02:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/29/2121662.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1652,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002121339</link>
             <guid>https://n.news.naver.com/article/138/0002121339</guid>
             <pubDate>Thu, 24 Mar 2022 02:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/24/2121339.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1692,7 +1692,7 @@
             <link>https://n.news.naver.com/article/138/0002121145</link>
             <guid>https://n.news.naver.com/article/138/0002121145</guid>
             <pubDate>Tue, 22 Mar 2022 00:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/22/2121145.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1700,88 +1700,8 @@
             <link>https://n.news.naver.com/article/138/0002121143</link>
             <guid>https://n.news.naver.com/article/138/0002121143</guid>
             <pubDate>Tue, 22 Mar 2022 00:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/22/2121143.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDI, 안정적인 수익을 바탕으로 전고체배터리를 겨냥하다. (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118563</link>
-            <guid>https://www.snek.ai/alpha/opinion/118563</guid>
-            <pubDate>Tue, 29 Mar 2022 15:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[Y-why]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 자동차 기름 값을 오일 기업의 배당으로 지불한다 / 상승하는 유가 및  오일 관련 업종 지수, 인플레이션 경기 사이클을 주목한다 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118564</link>
-            <guid>https://www.snek.ai/alpha/opinion/118564</guid>
-            <pubDate>Tue, 29 Mar 2022 15:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경제 사이클과 국면별 시나리오 - 미국 주식, 금리, 달러, 부동산, 원자재 투자의 향방 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118561</link>
-            <guid>https://www.snek.ai/alpha/opinion/118561</guid>
-            <pubDate>Tue, 29 Mar 2022 06:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1주일/1달 미국 ETF 수익률로 알아보는 시장변화(Spread, 에너지, 대마초, 브라질, 건설) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118559</link>
-            <guid>https://www.snek.ai/alpha/opinion/118559</guid>
-            <pubDate>Tue, 29 Mar 2022 06:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 국채 금리의 급격한 상승, 하지만, 미 증시 매력도 여전히 높음! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118556</link>
-            <guid>https://www.snek.ai/alpha/opinion/118556</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 강력한 긴축을 기다리는 미국 인플레이션, 여전히 가속화 진행 중! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118558</link>
-            <guid>https://www.snek.ai/alpha/opinion/118558</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역사상 최고치 수주잔고, 밸류에이션은 최근 4년 내 최저점! - 동성화인텍 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118555</link>
-            <guid>https://www.snek.ai/alpha/opinion/118555</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신흥국 투자 매력도 확대,  반도체, 신재생에너지 및 성장주 투자 여전히 중요! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118557</link>
-            <guid>https://www.snek.ai/alpha/opinion/118557</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[금융 Study: 채권  시장과 가격 결정요인 / 시장과 연동되어지는 채권 투자 전략에 대하여 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118553</link>
-            <guid>https://www.snek.ai/alpha/opinion/118553</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK온, 공격적인 투자로 전기차배터리 TOP1을 노리다. (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118552</link>
-            <guid>https://www.snek.ai/alpha/opinion/118552</guid>
-            <pubDate>Mon, 28 Mar 2022 14:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[Y-why]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 03. 29] 국산 모바일 게임 대만 진출 (어피티 ─ 뉴스)]]></title>
