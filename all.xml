@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 09:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 10:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002121807</link>
             <guid>https://n.news.naver.com/article/138/0002121807</guid>
             <pubDate>Wed, 30 Mar 2022 06:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121807.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002121794</link>
             <guid>https://n.news.naver.com/article/138/0002121794</guid>
             <pubDate>Wed, 30 Mar 2022 05:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121794.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1702,6 +1702,86 @@
             <pubDate>Wed, 23 Mar 2022 02:26:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/23/2121274.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성SDI, 안정적인 수익을 바탕으로 전고체배터리를 겨냥하다. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118563</link>
+            <guid>https://www.snek.ai/alpha/opinion/118563</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[Y-why]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 자동차 기름 값을 오일 기업의 배당으로 지불한다 / 상승하는 유가 및  오일 관련 업종 지수, 인플레이션 경기 사이클을 주목한다 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118564</link>
+            <guid>https://www.snek.ai/alpha/opinion/118564</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경제 사이클과 국면별 시나리오 - 미국 주식, 금리, 달러, 부동산, 원자재 투자의 향방 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118561</link>
+            <guid>https://www.snek.ai/alpha/opinion/118561</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1주일/1달 미국 ETF 수익률로 알아보는 시장변화(Spread, 에너지, 대마초, 브라질, 건설) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118559</link>
+            <guid>https://www.snek.ai/alpha/opinion/118559</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 국채 금리의 급격한 상승, 하지만, 미 증시 매력도 여전히 높음! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118556</link>
+            <guid>https://www.snek.ai/alpha/opinion/118556</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[이제는 강력한 긴축을 기다리는 미국 인플레이션, 여전히 가속화 진행 중! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118558</link>
+            <guid>https://www.snek.ai/alpha/opinion/118558</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역사상 최고치 수주잔고, 밸류에이션은 최근 4년 내 최저점! - 동성화인텍 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118555</link>
+            <guid>https://www.snek.ai/alpha/opinion/118555</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신흥국 투자 매력도 확대,  반도체, 신재생에너지 및 성장주 투자 여전히 중요! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118557</link>
+            <guid>https://www.snek.ai/alpha/opinion/118557</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[금융 Study: 채권  시장과 가격 결정요인 / 시장과 연동되어지는 채권 투자 전략에 대하여 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118553</link>
+            <guid>https://www.snek.ai/alpha/opinion/118553</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK온, 공격적인 투자로 전기차배터리 TOP1을 노리다. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118552</link>
+            <guid>https://www.snek.ai/alpha/opinion/118552</guid>
+            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[Y-why]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 03. 30] 야구 게임 홈런할 수 있을까? (어피티 ─ 뉴스)]]></title>
