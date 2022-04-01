@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 02:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 03:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레이 달리오의 Changing World Order - 지난 500년의 빅사이클 ①]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118573</link>
+            <guid>https://www.snek.ai/alpha/opinion/118573</guid>
+            <pubDate>Fri, 01 Apr 2022 03:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융 Study: 통화선물 및 옵션에 대한 이해]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118575</link>
+            <guid>https://www.snek.ai/alpha/opinion/118575</guid>
+            <pubDate>Fri, 01 Apr 2022 03:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 반도체 대란 속 대표 수혜 기업 ASML (Advanced Semiconductor Materials Lithography)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118570</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
             <content:encoded><![CDATA[원스]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1주일/1달 미국 ETF 수익률로 알아보는 시장변화(Spread, 에너지, 대마초, 브라질, 건설)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118559</link>
-            <guid>https://www.snek.ai/alpha/opinion/118559</guid>
-            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 국채 금리의 급격한 상승, 하지만, 미 증시 매력도 여전히 높음!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118556</link>
-            <guid>https://www.snek.ai/alpha/opinion/118556</guid>
-            <pubDate>Wed, 30 Mar 2022 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
