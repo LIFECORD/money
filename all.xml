@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 03:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 04:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002122068</link>
             <guid>https://n.news.naver.com/article/138/0002122068</guid>
             <pubDate>Mon, 04 Apr 2022 02:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122068.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1710,6 +1710,86 @@
             <pubDate>Mon, 28 Mar 2022 07:13:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121628.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장단기 금리차 역전, 하지만, 미 증시 상승 추세 지속될 것! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118579</link>
+            <guid>https://www.snek.ai/alpha/opinion/118579</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[[리츠 시리즈] - 1. 미국 리츠 시장의 현황과 과거 추이 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118576</link>
+            <guid>https://www.snek.ai/alpha/opinion/118576</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 유통 & 물류 업계내 숨은 진주 기업, 지브라 테크놀로지스 (Zebra Technologies) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118577</link>
+            <guid>https://www.snek.ai/alpha/opinion/118577</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성장주, 나스닥 상승여력 여전히 매력적. 화석연료에너지, 원자재 투자 비중 일정부분만 유지. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118580</link>
+            <guid>https://www.snek.ai/alpha/opinion/118580</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[레이 달리오의 Changing World Order - 지난 500년의 빅사이클 ① (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118573</link>
+            <guid>https://www.snek.ai/alpha/opinion/118573</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융 Study: 통화선물 및 옵션에 대한 이해 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118575</link>
+            <guid>https://www.snek.ai/alpha/opinion/118575</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 반도체 대란 속 대표 수혜 기업 ASML (Advanced Semiconductor Materials Lithography) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118570</link>
+            <guid>https://www.snek.ai/alpha/opinion/118570</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 사모펀드들의 M&A 투자 격전지: 스포츠 구단 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118571</link>
+            <guid>https://www.snek.ai/alpha/opinion/118571</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성그룹의 IT 회사 삼성SDS㈜ (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118569</link>
+            <guid>https://www.snek.ai/alpha/opinion/118569</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국의 경기 회복은 에너지 기업을 살펴보면 그 해답이 있다. feat. Baker Hughes company (베이커 휴즈, BKR US) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118567</link>
+            <guid>https://www.snek.ai/alpha/opinion/118567</guid>
+            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 04] 지글지글 마켓 리뷰 (어피티 ─ 뉴스)]]></title>
