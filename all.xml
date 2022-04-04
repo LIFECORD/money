@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 23:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 00:38:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1712,6 +1712,38 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/28/2121591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장단기 금리차 역전, 하지만, 미 증시 상승 추세 지속될 것! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118579</link>
+            <guid>https://www.snek.ai/alpha/opinion/118579</guid>
+            <pubDate>Mon, 04 Apr 2022 00:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[[리츠 시리즈] - 1. 미국 리츠 시장의 현황과 과거 추이 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118576</link>
+            <guid>https://www.snek.ai/alpha/opinion/118576</guid>
+            <pubDate>Mon, 04 Apr 2022 00:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 유통 & 물류 업계내 숨은 진주 기업, 지브라 테크놀로지스 (Zebra Technologies) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118577</link>
+            <guid>https://www.snek.ai/alpha/opinion/118577</guid>
+            <pubDate>Mon, 04 Apr 2022 00:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성장주, 나스닥 상승여력 여전히 매력적. 화석연료에너지, 원자재 투자 비중 일정부분만 유지. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118580</link>
+            <guid>https://www.snek.ai/alpha/opinion/118580</guid>
+            <pubDate>Mon, 04 Apr 2022 00:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
             <title><![CDATA[레이 달리오의 Changing World Order - 지난 500년의 빅사이클 ① (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118573</link>
             <guid>https://www.snek.ai/alpha/opinion/118573</guid>
@@ -1758,38 +1790,6 @@
             <pubDate>Fri, 01 Apr 2022 11:11:24 GMT</pubDate>
             <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[순손실에도 Adjusted EPS(조정 주당순이익)는 (+)인 이유 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118566</link>
-            <guid>https://www.snek.ai/alpha/opinion/118566</guid>
-            <pubDate>Fri, 01 Apr 2022 11:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDI, 안정적인 수익을 바탕으로 전고체배터리를 겨냥하다. (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118563</link>
-            <guid>https://www.snek.ai/alpha/opinion/118563</guid>
-            <pubDate>Fri, 01 Apr 2022 11:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[Y-why]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/15b4cc0f231148bbbd4c282422915c70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 자동차 기름 값을 오일 기업의 배당으로 지불한다 / 상승하는 유가 및  오일 관련 업종 지수, 인플레이션 경기 사이클을 주목한다 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118564</link>
-            <guid>https://www.snek.ai/alpha/opinion/118564</guid>
-            <pubDate>Fri, 01 Apr 2022 11:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경제 사이클과 국면별 시나리오 - 미국 주식, 금리, 달러, 부동산, 원자재 투자의 향방 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118561</link>
-            <guid>https://www.snek.ai/alpha/opinion/118561</guid>
-            <pubDate>Fri, 01 Apr 2022 11:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 03. 31] 제 2의 모험과 신비의 나라 (어피티 ─ 뉴스)]]></title>
