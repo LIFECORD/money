@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 02:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 03:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리오프닝과 엔저 현상을 함께 누리는 핵심 수혜주! - JTC]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118578</link>
+            <guid>https://www.snek.ai/alpha/opinion/118578</guid>
+            <pubDate>Tue, 05 Apr 2022 03:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 버크셔 해서웨이 (워런 버핏)의 두번째 M&A 타겟 기업 후보?? 옥시덴탈 (Occidental: OXY)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118589</link>
+            <guid>https://www.snek.ai/alpha/opinion/118589</guid>
+            <pubDate>Tue, 05 Apr 2022 03:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워런 버핏의 투자 러브콜 기업, 앨러게이니 (Alleghany: Y)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118588</link>
+            <guid>https://www.snek.ai/alpha/opinion/118588</guid>
+            <pubDate>Tue, 05 Apr 2022 03:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 재무부 채권 장단기 금리 스프레드 역전 / 반복되는 시장, 투자자들이 시장을 향해 던져야 할 질문]]></title>
             <link>https://www.snek.ai/alpha/opinion/118586</link>
@@ -62,30 +86,6 @@
             <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
             <content:encoded><![CDATA[원스]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융 Study: 통화선물 및 옵션에 대한 이해]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118575</link>
-            <guid>https://www.snek.ai/alpha/opinion/118575</guid>
-            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 반도체 대란 속 대표 수혜 기업 ASML (Advanced Semiconductor Materials Lithography)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118570</link>
-            <guid>https://www.snek.ai/alpha/opinion/118570</guid>
-            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 사모펀드들의 M&A 투자 격전지: 스포츠 구단]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118571</link>
-            <guid>https://www.snek.ai/alpha/opinion/118571</guid>
-            <pubDate>Mon, 04 Apr 2022 04:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
