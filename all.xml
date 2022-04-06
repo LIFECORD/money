@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[캐셔레스트, 한국폴리텍대학 서울강서캠퍼스와 산학협력 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122287</link>
+            <guid>https://n.news.naver.com/article/138/0002122287</guid>
+            <pubDate>Wed, 06 Apr 2022 09:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122287.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지식 커뮤니티 아하, NFT 사업 진출…박재현 람다256 대표 고문으로 영입 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122265</link>
             <guid>https://n.news.naver.com/article/138/0002122265</guid>
             <pubDate>Wed, 06 Apr 2022 06:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002122255</link>
             <guid>https://n.news.naver.com/article/138/0002122255</guid>
             <pubDate>Wed, 06 Apr 2022 03:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1652,7 +1660,7 @@
             <link>https://n.news.naver.com/article/138/0002121937</link>
             <guid>https://n.news.naver.com/article/138/0002121937</guid>
             <pubDate>Thu, 31 Mar 2022 10:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1702,14 +1710,6 @@
             <pubDate>Wed, 30 Mar 2022 06:11:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121807.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헥슬란트, 미레에셋·카카오인베 등으로부터 65억 투자 유치 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121801</link>
-            <guid>https://n.news.naver.com/article/138/0002121801</guid>
-            <pubDate>Wed, 30 Mar 2022 06:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/30/2121801.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Good, the Bad, the Ugly: 흥미로운 C3.ai 기업 스토리 (스넥)]]></title>
