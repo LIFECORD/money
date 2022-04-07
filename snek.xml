@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 00:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 02:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 공급 부족, 어디서 부터 꼬이나? / 산업 수혜 모멘텀은 여전]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118600</link>
+            <guid>https://www.snek.ai/alpha/opinion/118600</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 SNS 트위터 (Twitter: TWTR) 열혈 유저 + 대주주 + 이사회 임원 = 일론 머스크 (Elon Musk)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118601</link>
+            <guid>https://www.snek.ai/alpha/opinion/118601</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Good, the Bad, the Ugly: 흥미로운 C3.ai 기업 스토리]]></title>
             <link>https://www.snek.ai/alpha/opinion/118592</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 05 Apr 2022 05:09:09 GMT</pubDate>
             <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이 달리오의 Changing World Order - 지난 500년의 빅사이클 ②]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118585</link>
-            <guid>https://www.snek.ai/alpha/opinion/118585</guid>
-            <pubDate>Tue, 05 Apr 2022 05:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장단기 금리차 역전, 하지만, 미 증시 상승 추세 지속될 것!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118579</link>
-            <guid>https://www.snek.ai/alpha/opinion/118579</guid>
-            <pubDate>Tue, 05 Apr 2022 05:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
