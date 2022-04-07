@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 04:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 05:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[클레이튼‧솔라나‧테라 ‘3파전’…국내 게임사들이 택한 블록체인 플랫폼 전략 비교 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122335</link>
+            <guid>https://n.news.naver.com/article/138/0002122335</guid>
+            <pubDate>Thu, 07 Apr 2022 05:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>31분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122335.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[업비트 성장세 덕…송치형, 세계 가상자산 억만장자 ‘8위’‧김형년 16위 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122298</link>
             <guid>https://n.news.naver.com/article/138/0002122298</guid>
@@ -1572,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002122265</link>
             <guid>https://n.news.naver.com/article/138/0002122265</guid>
             <pubDate>Wed, 06 Apr 2022 06:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1704,12 +1712,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121875.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이미 주요 은행급…두나무, 작년 영업익 3조 2700억원 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121858</link>
-            <guid>https://n.news.naver.com/article/138/0002121858</guid>
-            <pubDate>Thu, 31 Mar 2022 02:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121858.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[테슬라, 반도체 업종 주가 조정, 사이클이 끝으로 주가 하락 시작인가? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118602</link>
+            <guid>https://www.snek.ai/alpha/opinion/118602</guid>
+            <pubDate>Thu, 07 Apr 2022 05:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[3월 FOMC 의사록 리뷰 - 연준 양적긴축과 기준금리인상 사이클의 향방 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118604</link>
+            <guid>https://www.snek.ai/alpha/opinion/118604</guid>
+            <pubDate>Thu, 07 Apr 2022 05:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반도체 공급 부족, 어디서 부터 꼬이나? / 산업 수혜 모멘텀은 여전 (스넥)]]></title>
@@ -1774,22 +1790,6 @@
             <pubDate>Tue, 05 Apr 2022 05:09:09 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워런 버핏의 투자 러브콜 기업, 앨러게이니 (Alleghany: Y) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118588</link>
-            <guid>https://www.snek.ai/alpha/opinion/118588</guid>
-            <pubDate>Tue, 05 Apr 2022 05:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 재무부 채권 장단기 금리 스프레드 역전 / 반복되는 시장, 투자자들이 시장을 향해 던져야 할 질문 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118586</link>
-            <guid>https://www.snek.ai/alpha/opinion/118586</guid>
-            <pubDate>Tue, 05 Apr 2022 05:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 07] 3년 만에 얼굴 보는 미국 암학회(AACR) (어피티 ─ 뉴스)]]></title>
