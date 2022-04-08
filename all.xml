@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 02:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[옐런 美 재무장관, 가상자산 첫 연설…'중립' 입장 고수 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122412</link>
+            <guid>https://n.news.naver.com/article/138/0002122412</guid>
+            <pubDate>Fri, 08 Apr 2022 03:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/08/2122412.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이두희표 P2E 게임 실타래, 베트남 대표 MCN과 협업 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122358</link>
             <guid>https://n.news.naver.com/article/138/0002122358</guid>
             <pubDate>Thu, 07 Apr 2022 06:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1588,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002122255</link>
             <guid>https://n.news.naver.com/article/138/0002122255</guid>
             <pubDate>Wed, 06 Apr 2022 03:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1612,7 @@
             <link>https://n.news.naver.com/article/138/0002122168</link>
             <guid>https://n.news.naver.com/article/138/0002122168</guid>
             <pubDate>Tue, 05 Apr 2022 04:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122168.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1644,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002122042</link>
             <guid>https://n.news.naver.com/article/138/0002122042</guid>
             <pubDate>Fri, 08 Apr 2022 00:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/03/2122042.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1668,7 +1676,7 @@
             <link>https://n.news.naver.com/article/138/0002121977</link>
             <guid>https://n.news.naver.com/article/138/0002121977</guid>
             <pubDate>Fri, 01 Apr 2022 03:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121977.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1676,7 +1684,7 @@
             <link>https://n.news.naver.com/article/138/0002121970</link>
             <guid>https://n.news.naver.com/article/138/0002121970</guid>
             <pubDate>Fri, 01 Apr 2022 02:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121970.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1702,14 +1710,6 @@
             <pubDate>Thu, 31 Mar 2022 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121901.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 타임지, 영향력 있는 100대 기업에 ‘하이브’ 선정…NFT 사업 언급 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121878</link>
-            <guid>https://n.news.naver.com/article/138/0002121878</guid>
-            <pubDate>Thu, 31 Mar 2022 04:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121878.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 반도체 업종 주가 조정, 사이클이 끝으로 주가 하락 시작인가? (스넥)]]></title>
