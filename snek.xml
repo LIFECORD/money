@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2022-04-08T04:11:42.471Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 08 Apr 2022 05:09:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 반도체 업종 주가 조정, 사이클이 끝으로 주가 하락 시작인가?]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118602</link>
+            <guid>https://www.snek.ai/alpha/opinion/118602</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[3월 FOMC 의사록 리뷰 - 연준 양적긴축과 기준금리인상 사이클의 향방]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118604</link>
+            <guid>https://www.snek.ai/alpha/opinion/118604</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반도체 공급 부족, 어디서 부터 꼬이나? / 산업 수혜 모멘텀은 여전]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118600</link>
+            <guid>https://www.snek.ai/alpha/opinion/118600</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 SNS 트위터 (Twitter: TWTR) 열혈 유저 + 대주주 + 이사회 임원 = 일론 머스크 (Elon Musk)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118601</link>
+            <guid>https://www.snek.ai/alpha/opinion/118601</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Good, the Bad, the Ugly: 흥미로운 C3.ai 기업 스토리]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118592</link>
+            <guid>https://www.snek.ai/alpha/opinion/118592</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 투자 블로그 (The Rational Walk) 가 설명하는 워런 버핏의 앨러게이니 M&A]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118591</link>
+            <guid>https://www.snek.ai/alpha/opinion/118591</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손해보험  飛上하리라 (DB손해보험 사례로 알아본 손해보험)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118593</link>
+            <guid>https://www.snek.ai/alpha/opinion/118593</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[이재욱]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/612476624cbd40638890b5601d5388bf.jpg?versionId=7AWugDTehhkSaTe5eR4t.ZaDm6BDbnoi" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 증시 review / 주가 조정의 지속?! or 상승 전환? / 투자자들은 주식을 싸게 사고 싶다!!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118590</link>
+            <guid>https://www.snek.ai/alpha/opinion/118590</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리오프닝과 엔저 현상을 함께 누리는 핵심 수혜주! - JTC]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118578</link>
+            <guid>https://www.snek.ai/alpha/opinion/118578</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 버크셔 해서웨이 (워런 버핏)의 두번째 M&A 타겟 기업 후보?? 옥시덴탈 (Occidental: OXY)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118589</link>
+            <guid>https://www.snek.ai/alpha/opinion/118589</guid>
+            <pubDate>Fri, 08 Apr 2022 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
