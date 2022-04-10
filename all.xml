@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 11:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 12:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002122477</link>
             <guid>https://n.news.naver.com/article/138/0002122477</guid>
             <pubDate>Sun, 10 Apr 2022 02:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/10/2122477.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1710,6 +1710,86 @@
             <pubDate>Thu, 31 Mar 2022 08:12:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121909.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 증시 금리 급등, 감당 가능한가?! YES! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118613</link>
+            <guid>https://www.snek.ai/alpha/opinion/118613</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[필자가 여전히 메타 플랫폼 (페이스북) 주식을 보유하는 이유 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118610</link>
+            <guid>https://www.snek.ai/alpha/opinion/118610</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리츠 시리즈] - 2. 미국 리츠 시장의 분류 및 주요 회사 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118606</link>
+            <guid>https://www.snek.ai/alpha/opinion/118606</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융 Study: 선물의 개념과 주요 거래유형 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118608</link>
+            <guid>https://www.snek.ai/alpha/opinion/118608</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매파적 미연준에 비해 안정적인 달러 지수, 신흥국 투자전략 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118614</link>
+            <guid>https://www.snek.ai/alpha/opinion/118614</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[성장 또 성장, 바이오 섹터 Top Pick! - 투자 천재 아미코젠 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118612</link>
+            <guid>https://www.snek.ai/alpha/opinion/118612</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라, 반도체 업종 주가 조정, 사이클이 끝으로 주가 하락 시작인가? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118602</link>
+            <guid>https://www.snek.ai/alpha/opinion/118602</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[3월 FOMC 의사록 리뷰 - 연준 양적긴축과 기준금리인상 사이클의 향방 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118604</link>
+            <guid>https://www.snek.ai/alpha/opinion/118604</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반도체 공급 부족, 어디서 부터 꼬이나? / 산업 수혜 모멘텀은 여전 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118600</link>
+            <guid>https://www.snek.ai/alpha/opinion/118600</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 SNS 트위터 (Twitter: TWTR) 열혈 유저 + 대주주 + 이사회 임원 = 일론 머스크 (Elon Musk) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118601</link>
+            <guid>https://www.snek.ai/alpha/opinion/118601</guid>
+            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 08] 혼저옵서예~ 새로운 드라마 (어피티 ─ 뉴스)]]></title>
