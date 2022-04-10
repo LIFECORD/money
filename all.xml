@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 02:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 03:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1604,7 +1604,7 @@
             <link>https://n.news.naver.com/article/138/0002122255</link>
             <guid>https://n.news.naver.com/article/138/0002122255</guid>
             <pubDate>Wed, 06 Apr 2022 03:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1620,7 +1620,7 @@
             <link>https://n.news.naver.com/article/138/0002122168</link>
             <guid>https://n.news.naver.com/article/138/0002122168</guid>
             <pubDate>Tue, 05 Apr 2022 04:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122168.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1712,6 +1712,30 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121909.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미 증시 금리 급등, 감당 가능한가?! YES! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118613</link>
+            <guid>https://www.snek.ai/alpha/opinion/118613</guid>
+            <pubDate>Sun, 10 Apr 2022 03:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[필자가 여전히 메타 플랫폼 (페이스북) 주식을 보유하는 이유 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118610</link>
+            <guid>https://www.snek.ai/alpha/opinion/118610</guid>
+            <pubDate>Sun, 10 Apr 2022 03:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리츠 시리즈] - 2. 미국 리츠 시장의 분류 및 주요 회사 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118606</link>
+            <guid>https://www.snek.ai/alpha/opinion/118606</guid>
+            <pubDate>Sun, 10 Apr 2022 03:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금융 Study: 선물의 개념과 주요 거래유형 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118608</link>
             <guid>https://www.snek.ai/alpha/opinion/118608</guid>
@@ -1766,30 +1790,6 @@
             <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Good, the Bad, the Ugly: 흥미로운 C3.ai 기업 스토리 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118592</link>
-            <guid>https://www.snek.ai/alpha/opinion/118592</guid>
-            <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 투자 블로그 (The Rational Walk) 가 설명하는 워런 버핏의 앨러게이니 M&A (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118591</link>
-            <guid>https://www.snek.ai/alpha/opinion/118591</guid>
-            <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손해보험  飛上하리라 (DB손해보험 사례로 알아본 손해보험) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118593</link>
-            <guid>https://www.snek.ai/alpha/opinion/118593</guid>
-            <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[이재욱]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/612476624cbd40638890b5601d5388bf.jpg?versionId=7AWugDTehhkSaTe5eR4t.ZaDm6BDbnoi" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 07] 3년 만에 얼굴 보는 미국 암학회(AACR) (어피티 ─ 뉴스)]]></title>
