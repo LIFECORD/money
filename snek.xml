@@ -4,9 +4,33 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 00:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 02:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융 Study: 선물의 개념과 주요 거래유형]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118608</link>
+            <guid>https://www.snek.ai/alpha/opinion/118608</guid>
+            <pubDate>Sun, 10 Apr 2022 02:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매파적 미연준에 비해 안정적인 달러 지수, 신흥국 투자전략]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118614</link>
+            <guid>https://www.snek.ai/alpha/opinion/118614</guid>
+            <pubDate>Sun, 10 Apr 2022 02:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[성장 또 성장, 바이오 섹터 Top Pick! - 투자 천재 아미코젠]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118612</link>
+            <guid>https://www.snek.ai/alpha/opinion/118612</guid>
+            <pubDate>Sun, 10 Apr 2022 02:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 반도체 업종 주가 조정, 사이클이 끝으로 주가 하락 시작인가?]]></title>
             <link>https://www.snek.ai/alpha/opinion/118602</link>
@@ -62,30 +86,6 @@
             <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
             <content:encoded><![CDATA[이재욱]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/612476624cbd40638890b5601d5388bf.jpg?versionId=7AWugDTehhkSaTe5eR4t.ZaDm6BDbnoi" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 증시 review / 주가 조정의 지속?! or 상승 전환? / 투자자들은 주식을 싸게 사고 싶다!!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118590</link>
-            <guid>https://www.snek.ai/alpha/opinion/118590</guid>
-            <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리오프닝과 엔저 현상을 함께 누리는 핵심 수혜주! - JTC]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118578</link>
-            <guid>https://www.snek.ai/alpha/opinion/118578</guid>
-            <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 버크셔 해서웨이 (워런 버핏)의 두번째 M&A 타겟 기업 후보?? 옥시덴탈 (Occidental: OXY)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118589</link>
-            <guid>https://www.snek.ai/alpha/opinion/118589</guid>
-            <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

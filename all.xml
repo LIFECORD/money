@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 00:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 02:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[주간 블록체인] ‘ㄱ나니?’…부활한 싸이월드의 코인·NFT 사업, 성공 가능성은? (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122477</link>
+            <guid>https://n.news.naver.com/article/138/0002122477</guid>
+            <pubDate>Sun, 10 Apr 2022 02:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/10/2122477.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[옐런 美 재무장관, 가상자산 첫 연설…'중립' 입장 고수 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122412</link>
             <guid>https://n.news.naver.com/article/138/0002122412</guid>
             <pubDate>Fri, 08 Apr 2022 03:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/08/2122412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1620,7 +1628,7 @@
             <link>https://n.news.naver.com/article/138/0002122152</link>
             <guid>https://n.news.naver.com/article/138/0002122152</guid>
             <pubDate>Tue, 05 Apr 2022 02:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1636,7 +1644,7 @@
             <link>https://n.news.naver.com/article/138/0002122072</link>
             <guid>https://n.news.naver.com/article/138/0002122072</guid>
             <pubDate>Mon, 04 Apr 2022 02:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1644,7 +1652,7 @@
             <link>https://n.news.naver.com/article/138/0002122068</link>
             <guid>https://n.news.naver.com/article/138/0002122068</guid>
             <pubDate>Mon, 04 Apr 2022 02:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122068.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1652,7 +1660,7 @@
             <link>https://n.news.naver.com/article/138/0002122042</link>
             <guid>https://n.news.naver.com/article/138/0002122042</guid>
             <pubDate>Fri, 08 Apr 2022 00:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/03/2122042.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1704,12 +1712,28 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121909.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[센트비, 리브랜딩 진행…"글로벌 핀테크 기업으로 도약" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002121901</link>
-            <guid>https://n.news.naver.com/article/138/0002121901</guid>
-            <pubDate>Thu, 31 Mar 2022 06:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/03/31/2121901.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[금융 Study: 선물의 개념과 주요 거래유형 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118608</link>
+            <guid>https://www.snek.ai/alpha/opinion/118608</guid>
+            <pubDate>Sun, 10 Apr 2022 02:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매파적 미연준에 비해 안정적인 달러 지수, 신흥국 투자전략 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118614</link>
+            <guid>https://www.snek.ai/alpha/opinion/118614</guid>
+            <pubDate>Sun, 10 Apr 2022 02:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[성장 또 성장, 바이오 섹터 Top Pick! - 투자 천재 아미코젠 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118612</link>
+            <guid>https://www.snek.ai/alpha/opinion/118612</guid>
+            <pubDate>Sun, 10 Apr 2022 02:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 반도체 업종 주가 조정, 사이클이 끝으로 주가 하락 시작인가? (스넥)]]></title>
@@ -1766,30 +1790,6 @@
             <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
             <content:encoded><![CDATA[이재욱]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/612476624cbd40638890b5601d5388bf.jpg?versionId=7AWugDTehhkSaTe5eR4t.ZaDm6BDbnoi" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 증시 review / 주가 조정의 지속?! or 상승 전환? / 투자자들은 주식을 싸게 사고 싶다!! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118590</link>
-            <guid>https://www.snek.ai/alpha/opinion/118590</guid>
-            <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리오프닝과 엔저 현상을 함께 누리는 핵심 수혜주! - JTC (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118578</link>
-            <guid>https://www.snek.ai/alpha/opinion/118578</guid>
-            <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 버크셔 해서웨이 (워런 버핏)의 두번째 M&A 타겟 기업 후보?? 옥시덴탈 (Occidental: OXY) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118589</link>
-            <guid>https://www.snek.ai/alpha/opinion/118589</guid>
-            <pubDate>Sat, 09 Apr 2022 19:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 07] 3년 만에 얼굴 보는 미국 암학회(AACR) (어피티 ─ 뉴스)]]></title>
