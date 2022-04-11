@@ -4,9 +4,17 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 02:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이더리움 가격에 단기 호재?…“PoS 전환, 6월 이전 이뤄질 것” 전망 나와]]></title>
+            <link>https://n.news.naver.com/article/138/0002122528</link>
+            <guid>https://n.news.naver.com/article/138/0002122528</guid>
+            <pubDate>Mon, 11 Apr 2022 03:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>15분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122528.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[증권플러스 앱에서 업비트 코인 시세 본다]]></title>
             <link>https://n.news.naver.com/article/138/0002122512</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002122507</link>
             <guid>https://n.news.naver.com/article/138/0002122507</guid>
             <pubDate>Mon, 11 Apr 2022 02:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Apr 2022 03:40:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121977.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, 작년 매출 1조원대…영업익 7800억원]]></title>
-            <link>https://n.news.naver.com/article/138/0002121970</link>
-            <guid>https://n.news.naver.com/article/138/0002121970</guid>
-            <pubDate>Fri, 01 Apr 2022 02:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121970.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
