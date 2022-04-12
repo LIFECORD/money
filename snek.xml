@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snek.ai/alpha/all</id>
-    <title>스넥</title>
-    <updated>2022-04-12T14:11:14.281Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://cdn.snek.ai/images/favicon/favicon-32x32.png?v=nggOq2Kkgn200203</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>스넥</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 12 Apr 2022 15:10:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주식 분할 (Stock Splits) 불문율을 완벽히 깨버린 테슬라 (Tesla) 위력]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118609</link>
+            <guid>https://www.snek.ai/alpha/opinion/118609</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당 ETF 알아보기 - (8)GCOW]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118620</link>
+            <guid>https://www.snek.ai/alpha/opinion/118620</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동원산업 주주들이 집단소송에 들어간 이유]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118621</link>
+            <guid>https://www.snek.ai/alpha/opinion/118621</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연준 기준금리 인상 사이클이 미국 경제, 주식, 금리, 환율에 미치는 영향]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118619</link>
+            <guid>https://www.snek.ai/alpha/opinion/118619</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제우스(079370): 이제 '매도(SELL)'하고 새로운 '소부장 기업'을 발굴할 시점!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118617</link>
+            <guid>https://www.snek.ai/alpha/opinion/118617</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 증시 금리 급등, 감당 가능한가?! YES!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118613</link>
+            <guid>https://www.snek.ai/alpha/opinion/118613</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[필자가 여전히 메타 플랫폼 (페이스북) 주식을 보유하는 이유]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118610</link>
+            <guid>https://www.snek.ai/alpha/opinion/118610</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리츠 시리즈] - 2. 미국 리츠 시장의 분류 및 주요 회사]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118606</link>
+            <guid>https://www.snek.ai/alpha/opinion/118606</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융 Study: 선물의 개념과 주요 거래유형]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118608</link>
+            <guid>https://www.snek.ai/alpha/opinion/118608</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매파적 미연준에 비해 안정적인 달러 지수, 신흥국 투자전략]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118614</link>
+            <guid>https://www.snek.ai/alpha/opinion/118614</guid>
+            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+    </channel>
+</rss>
