@@ -4,9 +4,25 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 00:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 02:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주식 분할 (Stock Splits) 불문율을 완벽히 깨버린 테슬라 (Tesla) 위력]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118609</link>
+            <guid>https://www.snek.ai/alpha/opinion/118609</guid>
+            <pubDate>Tue, 12 Apr 2022 02:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당 ETF 알아보기 - (8)GCOW]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118620</link>
+            <guid>https://www.snek.ai/alpha/opinion/118620</guid>
+            <pubDate>Tue, 12 Apr 2022 02:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동원산업 주주들이 집단소송에 들어간 이유]]></title>
             <link>https://www.snek.ai/alpha/opinion/118621</link>
@@ -67,22 +83,6 @@
             <title><![CDATA[매파적 미연준에 비해 안정적인 달러 지수, 신흥국 투자전략]]></title>
             <link>https://www.snek.ai/alpha/opinion/118614</link>
             <guid>https://www.snek.ai/alpha/opinion/118614</guid>
-            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[성장 또 성장, 바이오 섹터 Top Pick! - 투자 천재 아미코젠]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118612</link>
-            <guid>https://www.snek.ai/alpha/opinion/118612</guid>
-            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 반도체 업종 주가 조정, 사이클이 끝으로 주가 하락 시작인가?]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118602</link>
-            <guid>https://www.snek.ai/alpha/opinion/118602</guid>
             <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
