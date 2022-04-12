@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 23:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 00:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002122562</link>
             <guid>https://n.news.naver.com/article/138/0002122562</guid>
             <pubDate>Mon, 11 Apr 2022 08:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122562.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002122528</link>
             <guid>https://n.news.naver.com/article/138/0002122528</guid>
             <pubDate>Mon, 11 Apr 2022 03:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122528.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1572,7 +1572,7 @@
             <link>https://n.news.naver.com/article/138/0002122512</link>
             <guid>https://n.news.naver.com/article/138/0002122512</guid>
             <pubDate>Mon, 11 Apr 2022 02:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122512.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002122507</link>
             <guid>https://n.news.naver.com/article/138/0002122507</guid>
             <pubDate>Mon, 11 Apr 2022 02:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1712,6 +1712,30 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/01/2121982.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동원산업 주주들이 집단소송에 들어간 이유 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118621</link>
+            <guid>https://www.snek.ai/alpha/opinion/118621</guid>
+            <pubDate>Tue, 12 Apr 2022 00:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연준 기준금리 인상 사이클이 미국 경제, 주식, 금리, 환율에 미치는 영향 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118619</link>
+            <guid>https://www.snek.ai/alpha/opinion/118619</guid>
+            <pubDate>Tue, 12 Apr 2022 00:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제우스(079370): 이제 '매도(SELL)'하고 새로운 '소부장 기업'을 발굴할 시점! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118617</link>
+            <guid>https://www.snek.ai/alpha/opinion/118617</guid>
+            <pubDate>Tue, 12 Apr 2022 00:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[한대희]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미 증시 금리 급등, 감당 가능한가?! YES! (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118613</link>
             <guid>https://www.snek.ai/alpha/opinion/118613</guid>
@@ -1766,30 +1790,6 @@
             <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 FOMC 의사록 리뷰 - 연준 양적긴축과 기준금리인상 사이클의 향방 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118604</link>
-            <guid>https://www.snek.ai/alpha/opinion/118604</guid>
-            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 공급 부족, 어디서 부터 꼬이나? / 산업 수혜 모멘텀은 여전 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118600</link>
-            <guid>https://www.snek.ai/alpha/opinion/118600</guid>
-            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[신병호(벵골호랑이)]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/b0fac9a6af02494b93bcd6ad7247d9d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 SNS 트위터 (Twitter: TWTR) 열혈 유저 + 대주주 + 이사회 임원 = 일론 머스크 (Elon Musk) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118601</link>
-            <guid>https://www.snek.ai/alpha/opinion/118601</guid>
-            <pubDate>Sun, 10 Apr 2022 12:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 11] 지글지글 마켓 리뷰 📝 (어피티 ─ 뉴스)]]></title>
