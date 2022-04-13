@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 20:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 21:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002122716</link>
             <guid>https://n.news.naver.com/article/138/0002122716</guid>
             <pubDate>Wed, 13 Apr 2022 08:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/13/2122716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1710,86 +1710,6 @@
             <pubDate>Mon, 04 Apr 2022 02:39:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122072.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흥망성쇠 (興亡盛衰) : 우주 스팩 기업들 (Space SPACs) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118623</link>
-            <guid>https://www.snek.ai/alpha/opinion/118623</guid>
-            <pubDate>Wed, 13 Apr 2022 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좋은 날 (Good Year)을 꿈꾸는 글로벌 대표 타이어 제조 그룹, 굿이어 타이어 & 러버 (Goodyear Tire & Rubber: GT) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118622</link>
-            <guid>https://www.snek.ai/alpha/opinion/118622</guid>
-            <pubDate>Wed, 13 Apr 2022 05:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주식 분할 (Stock Splits) 불문율을 완벽히 깨버린 테슬라 (Tesla) 위력 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118609</link>
-            <guid>https://www.snek.ai/alpha/opinion/118609</guid>
-            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 배당 ETF 알아보기 - (8)GCOW (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118620</link>
-            <guid>https://www.snek.ai/alpha/opinion/118620</guid>
-            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동원산업 주주들이 집단소송에 들어간 이유 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118621</link>
-            <guid>https://www.snek.ai/alpha/opinion/118621</guid>
-            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연준 기준금리 인상 사이클이 미국 경제, 주식, 금리, 환율에 미치는 영향 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118619</link>
-            <guid>https://www.snek.ai/alpha/opinion/118619</guid>
-            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제우스(079370): 이제 '매도(SELL)'하고 새로운 '소부장 기업'을 발굴할 시점! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118617</link>
-            <guid>https://www.snek.ai/alpha/opinion/118617</guid>
-            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 증시 금리 급등, 감당 가능한가?! YES! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118613</link>
-            <guid>https://www.snek.ai/alpha/opinion/118613</guid>
-            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[필자가 여전히 메타 플랫폼 (페이스북) 주식을 보유하는 이유 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118610</link>
-            <guid>https://www.snek.ai/alpha/opinion/118610</guid>
-            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리츠 시리즈] - 2. 미국 리츠 시장의 분류 및 주요 회사 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118606</link>
-            <guid>https://www.snek.ai/alpha/opinion/118606</guid>
-            <pubDate>Tue, 12 Apr 2022 15:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 13] 인공지능 업계가 한국에 눈독 들이는 이유 (어피티 ─ 뉴스)]]></title>
