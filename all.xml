@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 02:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002122770</link>
             <guid>https://n.news.naver.com/article/138/0002122770</guid>
             <pubDate>Thu, 14 Apr 2022 02:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>39분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/14/2122770.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002122716</link>
             <guid>https://n.news.naver.com/article/138/0002122716</guid>
             <pubDate>Wed, 13 Apr 2022 08:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/13/2122716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1732,7 +1732,7 @@
             <link>https://www.snek.ai/alpha/opinion/118626</link>
             <guid>https://www.snek.ai/alpha/opinion/118626</guid>
             <pubDate>Thu, 14 Apr 2022 02:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <content:encoded><![CDATA[배당탐험가]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1772,7 +1772,7 @@
             <link>https://www.snek.ai/alpha/opinion/118620</link>
             <guid>https://www.snek.ai/alpha/opinion/118620</guid>
             <pubDate>Wed, 13 Apr 2022 22:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <content:encoded><![CDATA[배당탐험가]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
