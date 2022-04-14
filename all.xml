@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 00:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 02:40:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,11 +1552,19 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[가상자산 재테크 서비스 헤이비트, 헥슬란트 '옥텟' 지갑 도입 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122770</link>
+            <guid>https://n.news.naver.com/article/138/0002122770</guid>
+            <pubDate>Thu, 14 Apr 2022 02:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>39분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/14/2122770.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[크립토 어벤져스] ‘가보지 않은 길’을 같이 가는 사람들, 코인 거래소의 인재 채용법 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122716</link>
             <guid>https://n.news.naver.com/article/138/0002122716</guid>
             <pubDate>Wed, 13 Apr 2022 08:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/13/2122716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1588,7 @@
             <link>https://n.news.naver.com/article/138/0002122613</link>
             <guid>https://n.news.naver.com/article/138/0002122613</guid>
             <pubDate>Tue, 12 Apr 2022 02:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1596,7 +1604,7 @@
             <link>https://n.news.naver.com/article/138/0002122528</link>
             <guid>https://n.news.naver.com/article/138/0002122528</guid>
             <pubDate>Mon, 11 Apr 2022 03:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122528.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1604,7 +1612,7 @@
             <link>https://n.news.naver.com/article/138/0002122512</link>
             <guid>https://n.news.naver.com/article/138/0002122512</guid>
             <pubDate>Mon, 11 Apr 2022 02:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122512.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1612,7 +1620,7 @@
             <link>https://n.news.naver.com/article/138/0002122412</link>
             <guid>https://n.news.naver.com/article/138/0002122412</guid>
             <pubDate>Fri, 08 Apr 2022 03:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/08/2122412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1660,7 +1668,7 @@
             <link>https://n.news.naver.com/article/138/0002122255</link>
             <guid>https://n.news.naver.com/article/138/0002122255</guid>
             <pubDate>Wed, 06 Apr 2022 03:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.04.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/06/2122255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1704,12 +1712,36 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["UI·UX에 집중"…코빗, 아이패드 전용 앱 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002122072</link>
-            <guid>https://n.news.naver.com/article/138/0002122072</guid>
-            <pubDate>Mon, 04 Apr 2022 02:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122072.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[최근 미국 증시내 흥미로운 시장 이벤트: 밈 주식과 원자재 주식의 만남 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118630</link>
+            <guid>https://www.snek.ai/alpha/opinion/118630</guid>
+            <pubDate>Thu, 14 Apr 2022 02:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국의 워런 버핏, 테리 스미스 (U.K. Warren Buffett, Terry Smith) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118629</link>
+            <guid>https://www.snek.ai/alpha/opinion/118629</guid>
+            <pubDate>Thu, 14 Apr 2022 02:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리츠 시리즈] - 3. 미국 상장 리츠 ETF 알아보기(1) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118626</link>
+            <guid>https://www.snek.ai/alpha/opinion/118626</guid>
+            <pubDate>Thu, 14 Apr 2022 02:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마켓컬리의 1조 원 손실의 비밀 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118628</link>
+            <guid>https://www.snek.ai/alpha/opinion/118628</guid>
+            <pubDate>Thu, 14 Apr 2022 02:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흥망성쇠 (興亡盛衰) : 우주 스팩 기업들 (Space SPACs) (스넥)]]></title>
@@ -1758,38 +1790,6 @@
             <pubDate>Wed, 13 Apr 2022 22:09:26 GMT</pubDate>
             <content:encoded><![CDATA[원스]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제우스(079370): 이제 '매도(SELL)'하고 새로운 '소부장 기업'을 발굴할 시점! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118617</link>
-            <guid>https://www.snek.ai/alpha/opinion/118617</guid>
-            <pubDate>Wed, 13 Apr 2022 22:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[한대희]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4d8cfab641064642b4b3a3e2fdced112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 증시 금리 급등, 감당 가능한가?! YES! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118613</link>
-            <guid>https://www.snek.ai/alpha/opinion/118613</guid>
-            <pubDate>Wed, 13 Apr 2022 22:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[필자가 여전히 메타 플랫폼 (페이스북) 주식을 보유하는 이유 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118610</link>
-            <guid>https://www.snek.ai/alpha/opinion/118610</guid>
-            <pubDate>Wed, 13 Apr 2022 22:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리츠 시리즈] - 2. 미국 리츠 시장의 분류 및 주요 회사 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118606</link>
-            <guid>https://www.snek.ai/alpha/opinion/118606</guid>
-            <pubDate>Wed, 13 Apr 2022 22:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[DIVIDENDEXPLORER]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 14] 데브의 터닝포인트는? (어피티 ─ 뉴스)]]></title>
