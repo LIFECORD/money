@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 06:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 07:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002122852</link>
             <guid>https://n.news.naver.com/article/138/0002122852</guid>
             <pubDate>Fri, 15 Apr 2022 06:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>41분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/15/2122852.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1580,7 +1580,7 @@
             <link>https://n.news.naver.com/article/138/0002122716</link>
             <guid>https://n.news.naver.com/article/138/0002122716</guid>
             <pubDate>Wed, 13 Apr 2022 08:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/13/2122716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1712,6 +1712,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[파월 의장이 장단기금리차 역전을 두려워하지 않은 이유 - 미국 경기침체를 예측하는 유용한 지표 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118637</link>
+            <guid>https://www.snek.ai/alpha/opinion/118637</guid>
+            <pubDate>Fri, 15 Apr 2022 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[행동주의 투자기관 VS 회사 임원진들간 펼치는 막장 기업 드라마: 콜스 (Kohl’s: KSS) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118636</link>
             <guid>https://www.snek.ai/alpha/opinion/118636</guid>
@@ -1782,14 +1790,6 @@
             <pubDate>Thu, 14 Apr 2022 08:14:21 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 배당 ETF 알아보기 - (8)GCOW (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118620</link>
-            <guid>https://www.snek.ai/alpha/opinion/118620</guid>
-            <pubDate>Thu, 14 Apr 2022 08:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[배당탐험가]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 14] 데브의 터닝포인트는? (어피티 ─ 뉴스)]]></title>
