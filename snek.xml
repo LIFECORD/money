@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 02:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:58:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021년의 무신사]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118632</link>
+            <guid>https://www.snek.ai/alpha/opinion/118632</guid>
+            <pubDate>Fri, 15 Apr 2022 03:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최근 미국 증시내 흥미로운 시장 이벤트: 밈 주식과 원자재 주식의 만남]]></title>
             <link>https://www.snek.ai/alpha/opinion/118630</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Apr 2022 08:14:21 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연준 기준금리 인상 사이클이 미국 경제, 주식, 금리, 환율에 미치는 영향]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118619</link>
-            <guid>https://www.snek.ai/alpha/opinion/118619</guid>
-            <pubDate>Thu, 14 Apr 2022 08:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

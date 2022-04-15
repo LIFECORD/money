@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 02:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:58:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002122779</link>
             <guid>https://n.news.naver.com/article/138/0002122779</guid>
             <pubDate>Thu, 14 Apr 2022 05:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/14/2122779.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1644,7 +1644,7 @@
             <link>https://n.news.naver.com/article/138/0002122335</link>
             <guid>https://n.news.naver.com/article/138/0002122335</guid>
             <pubDate>Wed, 13 Apr 2022 16:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.04.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122335.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1710,6 +1710,14 @@
             <pubDate>Mon, 04 Apr 2022 07:10:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/04/2122115.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년의 무신사 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118632</link>
+            <guid>https://www.snek.ai/alpha/opinion/118632</guid>
+            <pubDate>Fri, 15 Apr 2022 03:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[이승환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최근 미국 증시내 흥미로운 시장 이벤트: 밈 주식과 원자재 주식의 만남 (스넥)]]></title>
@@ -1782,14 +1790,6 @@
             <pubDate>Thu, 14 Apr 2022 08:14:21 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연준 기준금리 인상 사이클이 미국 경제, 주식, 금리, 환율에 미치는 영향 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118619</link>
-            <guid>https://www.snek.ai/alpha/opinion/118619</guid>
-            <pubDate>Thu, 14 Apr 2022 08:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 14] 데브의 터닝포인트는? (어피티 ─ 뉴스)]]></title>
