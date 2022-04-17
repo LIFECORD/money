@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 05:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 06:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,19 +1552,11 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[[주간 블록체인] 사기 같았던 블록체인 서비스들의 진화, ‘스테픈’으로 보는 진화과정 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002122896</link>
-            <guid>https://n.news.naver.com/article/138/0002122896</guid>
-            <pubDate>Sun, 17 Apr 2022 02:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/17/2122896.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[카겜 IP 기반 '프렌즈샷', 보라 블록체인 기반 P2E 게임으로 나온다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002122852</link>
             <guid>https://n.news.naver.com/article/138/0002122852</guid>
             <pubDate>Fri, 15 Apr 2022 06:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/15/2122852.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1622,6 +1614,14 @@
             <pubDate>Mon, 11 Apr 2022 08:11:52 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122562.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이더리움 가격에 단기 호재?…“PoS 전환, 6월 이전 이뤄질 것” 전망 나와 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002122528</link>
+            <guid>https://n.news.naver.com/article/138/0002122528</guid>
+            <pubDate>Sun, 17 Apr 2022 06:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/11/2122528.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[증권플러스 앱에서 업비트 코인 시세 본다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
