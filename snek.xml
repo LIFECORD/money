@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 00:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 02:54:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 앨러게이니 M&A로 재조명 받는 또 다른 ‘미니 버크셔’ 기업, 그레이엄 홀딩스 (Graham Holdings: GHC)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118646</link>
+            <guid>https://www.snek.ai/alpha/opinion/118646</guid>
+            <pubDate>Tue, 19 Apr 2022 02:54:22 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 대반전의 서막! - 화승엔터프라이즈]]></title>
             <link>https://www.snek.ai/alpha/opinion/118638</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[최근 미국 증시내 흥미로운 시장 이벤트: 밈 주식과 원자재 주식의 만남]]></title>
             <link>https://www.snek.ai/alpha/opinion/118630</link>
             <guid>https://www.snek.ai/alpha/opinion/118630</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국의 워런 버핏, 테리 스미스 (U.K. Warren Buffett, Terry Smith)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118629</link>
-            <guid>https://www.snek.ai/alpha/opinion/118629</guid>
             <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
