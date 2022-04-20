@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 23:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 00:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국의 인플레이션은 어디로 향하고 있을까(인플레이션지표 제대로 해석하는 방법).]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118647</link>
+            <guid>https://www.snek.ai/alpha/opinion/118647</guid>
+            <pubDate>Wed, 20 Apr 2022 00:51:11 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최근 앨러게이니 M&A로 재조명 받는 또 다른 ‘미니 버크셔’ 기업, 그레이엄 홀딩스 (Graham Holdings: GHC)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118646</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
             <content:encoded><![CDATA[이승환]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 미국 증시내 흥미로운 시장 이벤트: 밈 주식과 원자재 주식의 만남]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118630</link>
-            <guid>https://www.snek.ai/alpha/opinion/118630</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
