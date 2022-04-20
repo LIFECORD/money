@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 00:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 03:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1564,7 +1564,7 @@
             <link>https://n.news.naver.com/article/138/0002122770</link>
             <guid>https://n.news.naver.com/article/138/0002122770</guid>
             <pubDate>Thu, 14 Apr 2022 02:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/14/2122770.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1596,7 +1596,7 @@
             <link>https://n.news.naver.com/article/138/0002122613</link>
             <guid>https://n.news.naver.com/article/138/0002122613</guid>
             <pubDate>Tue, 12 Apr 2022 02:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/12/2122613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1712,84 +1712,18 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/05/2122168.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국의 인플레이션은 어디로 향하고 있을까(인플레이션지표 제대로 해석하는 방법). (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118647</link>
-            <guid>https://www.snek.ai/alpha/opinion/118647</guid>
-            <pubDate>Wed, 20 Apr 2022 00:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[2022. 04. 20] 데이터 기본법이 시행된다 (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210920&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210920&amp;t=board</guid>
+            <pubDate>Wed, 20 Apr 2022 03:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[증권]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최근 앨러게이니 M&A로 재조명 받는 또 다른 ‘미니 버크셔’ 기업, 그레이엄 홀딩스 (Graham Holdings: GHC) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118646</link>
-            <guid>https://www.snek.ai/alpha/opinion/118646</guid>
-            <pubDate>Tue, 19 Apr 2022 02:54:22 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 대반전의 서막! - 화승엔터프라이즈 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118638</link>
-            <guid>https://www.snek.ai/alpha/opinion/118638</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갈림길에 선 인도경제 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118641</link>
-            <guid>https://www.snek.ai/alpha/opinion/118641</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인플레이션의 악영향 장기화되지 않을 것: 지금은 실적이 중요. 종목선별의 시대! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118644</link>
-            <guid>https://www.snek.ai/alpha/opinion/118644</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[조정 마무리 구간 진입인가?! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118643</link>
-            <guid>https://www.snek.ai/alpha/opinion/118643</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[원유 시세는 또 한번 최고치를 갱신하나 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118645</link>
-            <guid>https://www.snek.ai/alpha/opinion/118645</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파월 의장이 장단기금리차 역전을 두려워하지 않은 이유 - 미국 경기침체를 예측하는 유용한 지표 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118637</link>
-            <guid>https://www.snek.ai/alpha/opinion/118637</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행동주의 투자기관 VS 회사 임원진들간 펼치는 막장 기업 드라마: 콜스 (Kohl’s: KSS) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118636</link>
-            <guid>https://www.snek.ai/alpha/opinion/118636</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년의 무신사 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118632</link>
-            <guid>https://www.snek.ai/alpha/opinion/118632</guid>
-            <pubDate>Mon, 18 Apr 2022 18:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[이승환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/4fbfbf9afe0745488df743a884e30399.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[2022. 04. 20] Q. 가계 빚, 줄고 있니? A. 네니오. (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210886&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210886&amp;t=board</guid>
+            <pubDate>Wed, 20 Apr 2022 03:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[금융]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 19] 쇼는 계속된다! 월드IT쇼 (어피티 ─ 뉴스)]]></title>
@@ -1848,18 +1782,11 @@
             <content:encoded><![CDATA[증권]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2022. 04. 14] ‘단기 고액알바’가 보험사기단? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11167934&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11167934&amp;t=board</guid>
-            <pubDate>Thu, 14 Apr 2022 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[생활경제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 04. 13] 인공지능 업계가 한국에 눈독 들이는 이유 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11160861&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11160861&amp;t=board</guid>
-            <pubDate>Wed, 13 Apr 2022 02:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
+            <title><![CDATA[[22.04.20] Q. 가계 빚, 줄고 있니? A. 네니오. (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210676&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210676&amp;t=board</guid>
+            <pubDate>Wed, 20 Apr 2022 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.04.19] 당신의 중국 직구 상품이 오지 않는 이유 (어피티 ─ 머니레터)]]></title>
@@ -1936,13 +1863,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11107761&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11107761&amp;t=board</guid>
             <pubDate>Tue, 05 Apr 2022 02:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.04.04] 동백전 터질 무렵 (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11101026&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11101026&amp;t=board</guid>
-            <pubDate>Mon, 04 Apr 2022 02:40:37 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
     </channel>
