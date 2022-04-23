@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 23:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 00:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1556,7 +1556,7 @@
             <link>https://n.news.naver.com/article/138/0002122896</link>
             <guid>https://n.news.naver.com/article/138/0002122896</guid>
             <pubDate>Thu, 21 Apr 2022 15:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/17/2122896.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유명 MBA 다모다란 교수님이 설명하는 “일론 머스크 VS 트위터 드라마” (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118656</link>
+            <guid>https://www.snek.ai/alpha/opinion/118656</guid>
+            <pubDate>Sat, 23 Apr 2022 00:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[단기 포워드 스프레드 역전과 미국 기준금리 인하의 관계 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118652</link>
             <guid>https://www.snek.ai/alpha/opinion/118652</guid>
@@ -1742,14 +1750,6 @@
             <pubDate>Fri, 22 Apr 2022 23:09:39 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[원유 시세는 또 한번 최고치를 갱신하나 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118645</link>
-            <guid>https://www.snek.ai/alpha/opinion/118645</guid>
-            <pubDate>Fri, 22 Apr 2022 23:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 21] 중국 시장 5년 만의 진출 (어피티 ─ 뉴스)]]></title>
