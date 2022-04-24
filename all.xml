@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 08:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 09:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 2. Tesla(TSLA) - 모든 것이 사상최대 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118653</link>
+            <guid>https://www.snek.ai/alpha/opinion/118653</guid>
+            <pubDate>Sun, 24 Apr 2022 09:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유명 MBA 다모다란 교수님이 설명하는 “일론 머스크 VS 트위터 드라마” (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118656</link>
             <guid>https://www.snek.ai/alpha/opinion/118656</guid>
@@ -1739,14 +1747,6 @@
             <title><![CDATA[인플레이션의 악영향 장기화되지 않을 것: 지금은 실적이 중요. 종목선별의 시대! (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118644</link>
             <guid>https://www.snek.ai/alpha/opinion/118644</guid>
-            <pubDate>Sat, 23 Apr 2022 07:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[조정 마무리 구간 진입인가?! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118643</link>
-            <guid>https://www.snek.ai/alpha/opinion/118643</guid>
             <pubDate>Sat, 23 Apr 2022 07:09:43 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
