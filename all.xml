@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 09:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 10:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,22 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1994년과 비교가 적절. 반도체, 신재생에너지, 그리고 원자재 관심 유지 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118658</link>
+            <guid>https://www.snek.ai/alpha/opinion/118658</guid>
+            <pubDate>Sun, 24 Apr 2022 10:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[빨라지는 긴축 속도 우려 지속 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118657</link>
+            <guid>https://www.snek.ai/alpha/opinion/118657</guid>
+            <pubDate>Sun, 24 Apr 2022 10:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
             <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 2. Tesla(TSLA) - 모든 것이 사상최대 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118653</link>
             <guid>https://www.snek.ai/alpha/opinion/118653</guid>
@@ -1734,22 +1750,6 @@
             <pubDate>Sat, 23 Apr 2022 07:09:43 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갈림길에 선 인도경제 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118641</link>
-            <guid>https://www.snek.ai/alpha/opinion/118641</guid>
-            <pubDate>Sat, 23 Apr 2022 07:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인플레이션의 악영향 장기화되지 않을 것: 지금은 실적이 중요. 종목선별의 시대! (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118644</link>
-            <guid>https://www.snek.ai/alpha/opinion/118644</guid>
-            <pubDate>Sat, 23 Apr 2022 07:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 22] 별똥별에 불똥이 튀었다? (어피티 ─ 뉴스)]]></title>
