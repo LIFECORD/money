@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 06:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1Q22 주목할 만한 스몰캡 실적발표] 칩스앤미디어 - 성장하는 매출액과 더욱 빠르게 성장하는 마진율]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118659</link>
+            <guid>https://www.snek.ai/alpha/opinion/118659</guid>
+            <pubDate>Mon, 25 Apr 2022 06:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1994년과 비교가 적절. 반도체, 신재생에너지, 그리고 원자재 관심 유지]]></title>
             <link>https://www.snek.ai/alpha/opinion/118658</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 대반전의 서막! - 화승엔터프라이즈]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118638</link>
-            <guid>https://www.snek.ai/alpha/opinion/118638</guid>
-            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
