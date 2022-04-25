@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 02:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 03:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1670,6 +1670,86 @@
             <pubDate>Thu, 07 Apr 2022 06:12:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1994년과 비교가 적절. 반도체, 신재생에너지, 그리고 원자재 관심 유지 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118658</link>
+            <guid>https://www.snek.ai/alpha/opinion/118658</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[빨라지는 긴축 속도 우려 지속 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118657</link>
+            <guid>https://www.snek.ai/alpha/opinion/118657</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 2. Tesla(TSLA) - 모든 것이 사상최대 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118653</link>
+            <guid>https://www.snek.ai/alpha/opinion/118653</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 MBA 다모다란 교수님이 설명하는 “일론 머스크 VS 트위터 드라마” (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118656</link>
+            <guid>https://www.snek.ai/alpha/opinion/118656</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단기 포워드 스프레드 역전과 미국 기준금리 인하의 관계 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118652</link>
+            <guid>https://www.snek.ai/alpha/opinion/118652</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 1. Netflix(NFLX) - 이용자수 감소라는 충격적인 결과 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118649</link>
+            <guid>https://www.snek.ai/alpha/opinion/118649</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 배당 ETF 알아보기 - (9)NUSI (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118648</link>
+            <guid>https://www.snek.ai/alpha/opinion/118648</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[배당탐험가]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국의 인플레이션은 어디로 향하고 있을까(인플레이션지표 제대로 해석하는 방법). (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118647</link>
+            <guid>https://www.snek.ai/alpha/opinion/118647</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 앨러게이니 M&A로 재조명 받는 또 다른 ‘미니 버크셔’ 기업, 그레이엄 홀딩스 (Graham Holdings: GHC) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118646</link>
+            <guid>https://www.snek.ai/alpha/opinion/118646</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 대반전의 서막! - 화승엔터프라이즈 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118638</link>
+            <guid>https://www.snek.ai/alpha/opinion/118638</guid>
+            <pubDate>Mon, 25 Apr 2022 03:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 25] 지글지글 마켓 리뷰 📝 (어피티 ─ 뉴스)]]></title>
