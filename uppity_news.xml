@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uppity.co.kr/news</id>
     <title>어피티 ─ 뉴스</title>
-    <updated>2022-04-27T00:47:10.683Z</updated>
+    <updated>2022-04-27T03:09:04.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.imweb.me/thumbnail/20210325/af054619b1784.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022. 04. 27] 7만 명의 2030, 서울을 떠났다]]></title>
+        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11282114&amp;t=board</id>
+        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11282114&amp;t=board"/>
+        <updated>2022-04-27T03:08:54.415Z</updated>
+        <content type="html"><![CDATA[경제일반]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022. 04. 26] 잇달아 열리는 미술 경매]]></title>
         <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11272733&amp;t=board</id>
@@ -67,12 +74,5 @@
         <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11225923&amp;t=board"/>
         <updated>2022-04-21T02:58:17.680Z</updated>
         <content type="html"><![CDATA[생활경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022. 04. 20] 데이터 기본법이 시행된다]]></title>
-        <id>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210920&amp;t=board</id>
-        <link href="https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11210920&amp;t=board"/>
-        <updated>2022-04-20T03:03:50.192Z</updated>
-        <content type="html"><![CDATA[증권]]></content>
     </entry>
 </feed>
