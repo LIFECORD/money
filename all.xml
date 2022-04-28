@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 23:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 00:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[금리 상승, 그러나 장기적으로 다시 우상향할 미 증시 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118695</link>
+            <guid>https://www.snek.ai/alpha/opinion/118695</guid>
+            <pubDate>Thu, 28 Apr 2022 00:55:07 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[1Q22 주목할 만한 스몰캡 실적발표] 칩스앤미디어 - 성장하는 매출액과 더욱 빠르게 성장하는 마진율 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118659</link>
             <guid>https://www.snek.ai/alpha/opinion/118659</guid>
@@ -1744,12 +1752,18 @@
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최근 앨러게이니 M&A로 재조명 받는 또 다른 ‘미니 버크셔’ 기업, 그레이엄 홀딩스 (Graham Holdings: GHC) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118646</link>
-            <guid>https://www.snek.ai/alpha/opinion/118646</guid>
-            <pubDate>Wed, 27 Apr 2022 14:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[2022. 04. 28] 간만의 흥행 공모주! (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11291938&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11291938&amp;t=board</guid>
+            <pubDate>Thu, 28 Apr 2022 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[증권]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2022. 04. 28] 여기만 들어가면 인기가 많아진다? (어피티 ─ 뉴스)]]></title>
+            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11291922&amp;t=board</link>
+            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11291922&amp;t=board</guid>
+            <pubDate>Thu, 28 Apr 2022 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[산업]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 27] 드래곤처럼 날아오를까? (어피티 ─ 뉴스)]]></title>
@@ -1808,18 +1822,11 @@
             <content:encoded><![CDATA[증권]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2022. 04. 22] 넷플릭스에 광고를? (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11243454&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11243454&amp;t=board</guid>
-            <pubDate>Sun, 24 Apr 2022 02:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[생활경제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022. 04. 21] 중국 시장 5년 만의 진출 (어피티 ─ 뉴스)]]></title>
-            <link>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11225943&amp;t=board</link>
-            <guid>https://uppity.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11225943&amp;t=board</guid>
-            <pubDate>Thu, 21 Apr 2022 02:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[증권]]></content:encoded>
+            <title><![CDATA[[22.04.28] MSCI? 너 누구야 후. 아. 유. (어피티 ─ 머니레터)]]></title>
+            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11291904&amp;t=board</link>
+            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11291904&amp;t=board</guid>
+            <pubDate>Thu, 28 Apr 2022 00:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[22.04.27] 2030: 서울탈출 넘버원 (어피티 ─ 머니레터)]]></title>
@@ -1896,13 +1903,6 @@
             <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11160820&amp;t=board</link>
             <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11160820&amp;t=board</guid>
             <pubDate>Wed, 13 Apr 2022 02:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[UPPITY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[22.04.12] 어제 또 신저가가 무너졌어... (어피티 ─ 머니레터)]]></title>
-            <link>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11151254&amp;t=board</link>
-            <guid>https://uppity.co.kr/moneyletter_archive/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11151254&amp;t=board</guid>
-            <pubDate>Tue, 12 Apr 2022 02:30:48 GMT</pubDate>
             <content:encoded><![CDATA[UPPITY]]></content:encoded>
         </item>
     </channel>

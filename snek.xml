@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 23:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 00:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금리 상승, 그러나 장기적으로 다시 우상향할 미 증시]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118695</link>
+            <guid>https://www.snek.ai/alpha/opinion/118695</guid>
+            <pubDate>Thu, 28 Apr 2022 00:55:07 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[1Q22 주목할 만한 스몰캡 실적발표] 칩스앤미디어 - 성장하는 매출액과 더욱 빠르게 성장하는 마진율]]></title>
             <link>https://www.snek.ai/alpha/opinion/118659</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Apr 2022 14:12:05 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 앨러게이니 M&A로 재조명 받는 또 다른 ‘미니 버크셔’ 기업, 그레이엄 홀딩스 (Graham Holdings: GHC)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118646</link>
-            <guid>https://www.snek.ai/alpha/opinion/118646</guid>
-            <pubDate>Wed, 27 Apr 2022 14:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
