@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 07:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 08:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,38 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[금리 인상에 가장 확실하게 베팅하는, 채권 인버스 ETF 투자 살펴보기 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118709</link>
+            <guid>https://www.snek.ai/alpha/opinion/118709</guid>
+            <pubDate>Sat, 30 Apr 2022 08:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아 vs 우크라이나 전쟁 희생양으로 전락한 글로벌 오토메이커 기업들 (Automakers) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118703</link>
+            <guid>https://www.snek.ai/alpha/opinion/118703</guid>
+            <pubDate>Sat, 30 Apr 2022 08:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어른들의 디즈니랜드, 이케아 (IKEA) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118722</link>
+            <guid>https://www.snek.ai/alpha/opinion/118722</guid>
+            <pubDate>Sat, 30 Apr 2022 08:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 테크 기업들의 흥미로운 스톡 옵션 보상 정책 변경 움직임 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118723</link>
+            <guid>https://www.snek.ai/alpha/opinion/118723</guid>
+            <pubDate>Sat, 30 Apr 2022 08:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금리 상승, 그러나 장기적으로 다시 우상향할 미 증시 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118695</link>
             <guid>https://www.snek.ai/alpha/opinion/118695</guid>
@@ -1718,38 +1750,6 @@
             <pubDate>Fri, 29 Apr 2022 17:16:05 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단기 포워드 스프레드 역전과 미국 기준금리 인하의 관계 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118652</link>
-            <guid>https://www.snek.ai/alpha/opinion/118652</guid>
-            <pubDate>Fri, 29 Apr 2022 17:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[원스]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 1. Netflix(NFLX) - 이용자수 감소라는 충격적인 결과 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118649</link>
-            <guid>https://www.snek.ai/alpha/opinion/118649</guid>
-            <pubDate>Fri, 29 Apr 2022 17:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 배당 ETF 알아보기 - (9)NUSI (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118648</link>
-            <guid>https://www.snek.ai/alpha/opinion/118648</guid>
-            <pubDate>Fri, 29 Apr 2022 17:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[배당탐험가]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/85e7f247e9034ee1bf074bad14506403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국의 인플레이션은 어디로 향하고 있을까(인플레이션지표 제대로 해석하는 방법). (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118647</link>
-            <guid>https://www.snek.ai/alpha/opinion/118647</guid>
-            <pubDate>Fri, 29 Apr 2022 17:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 04. 29] 강남스타일 인기가 반도체 회사의 호재? (어피티 ─ 뉴스)]]></title>
