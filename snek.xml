@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 04:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 05:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 3. Microsoft(MSFT) - 굳건한 실적과 사업 vs 부정적인 매크로환경]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118741</link>
+            <guid>https://www.snek.ai/alpha/opinion/118741</guid>
+            <pubDate>Sun, 01 May 2022 05:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최악의 시나리오를 감안하면 향후 3개월 정도 추가 변동성 장세, 그래도 상당한 투자 기회!]]></title>
             <link>https://www.snek.ai/alpha/opinion/118740</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[1994년과 비교가 적절. 반도체, 신재생에너지, 그리고 원자재 관심 유지]]></title>
             <link>https://www.snek.ai/alpha/opinion/118658</link>
             <guid>https://www.snek.ai/alpha/opinion/118658</guid>
-            <pubDate>Sat, 30 Apr 2022 15:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
-        </item>
-        <item>
-            <title><![CDATA[빨라지는 긴축 속도 우려 지속]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118657</link>
-            <guid>https://www.snek.ai/alpha/opinion/118657</guid>
             <pubDate>Sat, 30 Apr 2022 15:10:04 GMT</pubDate>
             <content:encoded><![CDATA[유 동원]]></content:encoded>
             <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
