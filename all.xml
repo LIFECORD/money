@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 23:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 00:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2000년대 닷컴 버블 재현? 미국 주식 시장 곳곳에서 울리는 테크 버블 (Tech Bubble) 알람 경보 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118757</link>
+            <guid>https://www.snek.ai/alpha/opinion/118757</guid>
+            <pubDate>Tue, 03 May 2022 00:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DRAM 공정 미세화와 NAND 고단화의 완벽한 수혜! - 디엔에프 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118724</link>
             <guid>https://www.snek.ai/alpha/opinion/118724</guid>
@@ -1742,14 +1750,6 @@
             <pubDate>Mon, 02 May 2022 14:10:12 GMT</pubDate>
             <content:encoded><![CDATA[김 재환]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1Q22 주목할 만한 스몰캡 실적발표] 칩스앤미디어 - 성장하는 매출액과 더욱 빠르게 성장하는 마진율 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118659</link>
-            <guid>https://www.snek.ai/alpha/opinion/118659</guid>
-            <pubDate>Mon, 02 May 2022 14:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 05. 02] 지글지글 마켓 리뷰 📝 (어피티 ─ 뉴스)]]></title>
