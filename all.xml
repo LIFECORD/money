@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 22:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 23:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,22 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하락세 중에도 잊지 말아야 할 10개의 키워드 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118763</link>
+            <guid>https://www.snek.ai/alpha/opinion/118763</guid>
+            <pubDate>Tue, 03 May 2022 23:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[김 재환]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 4. Alphabet(goog) - 유튜브는 아쉽지만, 구글 없이 살 수 없다. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118768</link>
+            <guid>https://www.snek.ai/alpha/opinion/118768</guid>
+            <pubDate>Tue, 03 May 2022 23:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2000년대 닷컴 버블 재현? 미국 주식 시장 곳곳에서 울리는 테크 버블 (Tech Bubble) 알람 경보 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118757</link>
             <guid>https://www.snek.ai/alpha/opinion/118757</guid>
@@ -1734,22 +1750,6 @@
             <pubDate>Mon, 02 May 2022 14:10:12 GMT</pubDate>
             <content:encoded><![CDATA[이관우]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 테크 기업들의 흥미로운 스톡 옵션 보상 정책 변경 움직임 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118723</link>
-            <guid>https://www.snek.ai/alpha/opinion/118723</guid>
-            <pubDate>Mon, 02 May 2022 14:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금리 상승, 그러나 장기적으로 다시 우상향할 미 증시 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118695</link>
-            <guid>https://www.snek.ai/alpha/opinion/118695</guid>
-            <pubDate>Mon, 02 May 2022 14:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[김 재환]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 05. 03] 우르르 풀린다 (어피티 ─ 뉴스)]]></title>
