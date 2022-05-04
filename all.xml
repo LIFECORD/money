@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 05:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 06:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2022/04/07/2122358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중국 위안화 약세 요인과 자산시장에 미치는 영향 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118771</link>
+            <guid>https://www.snek.ai/alpha/opinion/118771</guid>
+            <pubDate>Wed, 04 May 2022 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유명 행동주의 투자기관 (엘리엇)의 투자 시야에 들어온 선코 에너지 (Suncor Energy: SU) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118769</link>
             <guid>https://www.snek.ai/alpha/opinion/118769</guid>
@@ -1742,14 +1750,6 @@
             <pubDate>Mon, 02 May 2022 14:10:12 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 vs 우크라이나 전쟁 희생양으로 전락한 글로벌 오토메이커 기업들 (Automakers) (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118703</link>
-            <guid>https://www.snek.ai/alpha/opinion/118703</guid>
-            <pubDate>Mon, 02 May 2022 14:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 05. 03] 우르르 풀린다 (어피티 ─ 뉴스)]]></title>
