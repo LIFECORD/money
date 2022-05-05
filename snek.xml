@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 02:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 03:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 5. Amazon(AMZN) - 아쉬운 실적. 위기와 기회가 공존한다.]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118785</link>
+            <guid>https://www.snek.ai/alpha/opinion/118785</guid>
+            <pubDate>Thu, 05 May 2022 03:53:49 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금리 인상기 최적의 기업! - 고려신용정보]]></title>
             <link>https://www.snek.ai/alpha/opinion/118784</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 May 2022 15:11:06 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최악의 시나리오를 감안하면 향후 3개월 정도 추가 변동성 장세, 그래도 상당한 투자 기회!]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118740</link>
-            <guid>https://www.snek.ai/alpha/opinion/118740</guid>
-            <pubDate>Wed, 04 May 2022 15:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[유 동원]]></content:encoded>
-            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
         </item>
     </channel>
 </rss>
