@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 23:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 00:39:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 6. Apple(AAPL) – 늘, 여전히 실적은 견조하다. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118794</link>
+            <guid>https://www.snek.ai/alpha/opinion/118794</guid>
+            <pubDate>Fri, 06 May 2022 00:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 5. Amazon(AMZN) - 아쉬운 실적. 위기와 기회가 공존한다. (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118785</link>
             <guid>https://www.snek.ai/alpha/opinion/118785</guid>
@@ -1622,14 +1630,6 @@
             <pubDate>Thu, 05 May 2022 23:10:39 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 3. Microsoft(MSFT) - 굳건한 실적과 사업 vs 부정적인 매크로환경 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118741</link>
-            <guid>https://www.snek.ai/alpha/opinion/118741</guid>
-            <pubDate>Thu, 05 May 2022 23:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 05. 04] 다크패턴 주의보 (어피티 ─ 뉴스)]]></title>
