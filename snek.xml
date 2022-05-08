@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 09:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 10:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중간선거와 빠른 긴축이 겹쳐도, 중간조정 구간으로 판단!]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118797</link>
+            <guid>https://www.snek.ai/alpha/opinion/118797</guid>
+            <pubDate>Sun, 08 May 2022 10:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
         <item>
             <title><![CDATA[5월 FOMC 리뷰 - 미국 경제 연착륙과 인플레이션 제어에 대한 파월의 자신감]]></title>
             <link>https://www.snek.ai/alpha/opinion/118795</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 May 2022 12:15:55 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2000년대 닷컴 버블 재현? 미국 주식 시장 곳곳에서 울리는 테크 버블 (Tech Bubble) 알람 경보]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118757</link>
-            <guid>https://www.snek.ai/alpha/opinion/118757</guid>
-            <pubDate>Fri, 06 May 2022 12:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

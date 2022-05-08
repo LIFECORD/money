@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 09:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 10:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[중간선거와 빠른 긴축이 겹쳐도, 중간조정 구간으로 판단! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118797</link>
+            <guid>https://www.snek.ai/alpha/opinion/118797</guid>
+            <pubDate>Sun, 08 May 2022 10:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
             <title><![CDATA[5월 FOMC 리뷰 - 미국 경제 연착륙과 인플레이션 제어에 대한 파월의 자신감 (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118795</link>
             <guid>https://www.snek.ai/alpha/opinion/118795</guid>
@@ -1622,14 +1630,6 @@
             <pubDate>Fri, 06 May 2022 12:15:55 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2000년대 닷컴 버블 재현? 미국 주식 시장 곳곳에서 울리는 테크 버블 (Tech Bubble) 알람 경보 (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118757</link>
-            <guid>https://www.snek.ai/alpha/opinion/118757</guid>
-            <pubDate>Fri, 06 May 2022 12:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[이관우]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 05. 06] 5월 1주 차 문화계 소식 (어피티 ─ 뉴스)]]></title>
