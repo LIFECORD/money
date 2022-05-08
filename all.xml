@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 12:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 13:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[변동성 장세에는 알파 투자가 중요! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118801</link>
+            <guid>https://www.snek.ai/alpha/opinion/118801</guid>
+            <pubDate>Sun, 08 May 2022 13:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
             <title><![CDATA[중간선거와 빠른 긴축이 겹쳐도, 중간조정 구간으로 판단! (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118797</link>
             <guid>https://www.snek.ai/alpha/opinion/118797</guid>
@@ -1622,14 +1630,6 @@
             <pubDate>Fri, 06 May 2022 12:15:55 GMT</pubDate>
             <content:encoded><![CDATA[김 재환]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/fa2182e2980d4ef9beea79c5242ca5ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 4. Alphabet(goog) - 유튜브는 아쉽지만, 구글 없이 살 수 없다. (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118768</link>
-            <guid>https://www.snek.ai/alpha/opinion/118768</guid>
-            <pubDate>Fri, 06 May 2022 12:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[Simon]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 05. 06] 5월 1주 차 문화계 소식 (어피티 ─ 뉴스)]]></title>
