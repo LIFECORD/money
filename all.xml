@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 02:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 03:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1550,6 +1550,86 @@
             <pubDate>Thu, 02 Dec 2021 18:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:12]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 행동주의 투자기관 (엘리엇)의 투자 시야에 들어온 웨스턴 디지털 (Western Digital: WDC) (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118796</link>
+            <guid>https://www.snek.ai/alpha/opinion/118796</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[이관우]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/13ec13cbe0df4216a9fdacdc04acb7aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지난 FOMC 이후 미국 증시가 폭락중인 이유. [Everthing is Fine]이라는 시장의 거짓말. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118809</link>
+            <guid>https://www.snek.ai/alpha/opinion/118809</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변동성 장세에는 알파 투자가 중요! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118801</link>
+            <guid>https://www.snek.ai/alpha/opinion/118801</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[중간선거와 빠른 긴축이 겹쳐도, 중간조정 구간으로 판단! (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118797</link>
+            <guid>https://www.snek.ai/alpha/opinion/118797</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[유 동원]]></content:encoded>
+            <enclosure url="https://graph.facebook.com/10209093488402492/picture?type=large" length="0" type="image//10209093488402492/picture"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 FOMC 리뷰 - 미국 경제 연착륙과 인플레이션 제어에 대한 파월의 자신감 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118795</link>
+            <guid>https://www.snek.ai/alpha/opinion/118795</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 6. Apple(AAPL) – 늘, 여전히 실적은 견조하다. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118794</link>
+            <guid>https://www.snek.ai/alpha/opinion/118794</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1Q22 미국 빅테크 실적발표 시리즈] 5. Amazon(AMZN) - 아쉬운 실적. 위기와 기회가 공존한다. (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118785</link>
+            <guid>https://www.snek.ai/alpha/opinion/118785</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금리 인상기 최적의 기업! - 고려신용정보 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118784</link>
+            <guid>https://www.snek.ai/alpha/opinion/118784</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[머니마블]]></content:encoded>
+            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uber(우버) : 과연 1분기 실적은 괜찮을까? (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118780</link>
+            <guid>https://www.snek.ai/alpha/opinion/118780</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[테크 스낵]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8eec6476199c4acdb8ac135cc68c0a89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국 위안화 약세 요인과 자산시장에 미치는 영향 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118771</link>
+            <guid>https://www.snek.ai/alpha/opinion/118771</guid>
+            <pubDate>Tue, 10 May 2022 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[원스]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/5604461dc9fc442b9655106ae668a5fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 05. 10] 그래서, 왜 떨어졌는데?📝 (어피티 ─ 뉴스)]]></title>
