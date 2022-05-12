@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75c05ce84b3c7d812eff1ad8efd823da6e59f669" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[1분기 실적으로 살펴보는 '정상화'의 움직임 (스넥)]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118829</link>
+            <guid>https://www.snek.ai/alpha/opinion/118829</guid>
+            <pubDate>Thu, 12 May 2022 05:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[테크 스낵]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/8eec6476199c4acdb8ac135cc68c0a89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유명 공매도 (숏) 투자기관 힌덴버그 리서치의 최근 숏 전략주: 트위터 (Twitter: TWTR) (스넥)]]></title>
             <link>https://www.snek.ai/alpha/opinion/118825</link>
             <guid>https://www.snek.ai/alpha/opinion/118825</guid>
@@ -1622,14 +1630,6 @@
             <pubDate>Wed, 11 May 2022 04:28:09 GMT</pubDate>
             <content:encoded><![CDATA[머니마블]]></content:encoded>
             <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uber(우버) : 과연 1분기 실적은 괜찮을까? (스넥)]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118780</link>
-            <guid>https://www.snek.ai/alpha/opinion/118780</guid>
-            <pubDate>Wed, 11 May 2022 04:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[테크 스낵]]></content:encoded>
-            <enclosure url="https://cdn.snek.ai/profile/p200x200/8eec6476199c4acdb8ac135cc68c0a89.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022. 05. 12] 스마일클럽으로 웃을 수 있을까? (어피티 ─ 뉴스)]]></title>
