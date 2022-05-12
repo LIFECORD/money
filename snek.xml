@@ -4,9 +4,17 @@
         <title>스넥</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 18:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 19:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초미의 관심사였던 미국 CPI. 인플레이션은 여전하며 피크아웃을 논하기는 이르다.]]></title>
+            <link>https://www.snek.ai/alpha/opinion/118832</link>
+            <guid>https://www.snek.ai/alpha/opinion/118832</guid>
+            <pubDate>Thu, 12 May 2022 19:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[Simon]]></content:encoded>
+            <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1분기 실적으로 살펴보는 '정상화'의 움직임]]></title>
             <link>https://www.snek.ai/alpha/opinion/118829</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 12 May 2022 18:13:00 GMT</pubDate>
             <content:encoded><![CDATA[Simon]]></content:encoded>
             <enclosure url="https://cdn.snek.ai/profile/p200x200/518f8d8102624c7d92556319889586bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금리 인상기 최적의 기업! - 고려신용정보]]></title>
-            <link>https://www.snek.ai/alpha/opinion/118784</link>
-            <guid>https://www.snek.ai/alpha/opinion/118784</guid>
-            <pubDate>Thu, 12 May 2022 18:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[머니마블]]></content:encoded>
-            <enclosure url="https://explain-snek-web-static.s3.ap-northeast-2.amazonaws.com/profile/p200x200/0a5543c991f141de867ec63b73d14e80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
